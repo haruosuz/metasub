@@ -6,12 +6,11 @@ Last Update: 2015-10-28
 ----------
 
 ## [MetaSUB](http://www.metasub.org)
-Metagenomics & Metadesign of Subways & Urban Biomes
-都市環境（地下鉄）微生物叢
+Metagenomics & Metadesign of Subways & Urban Biomes  
+都市環境（地下鉄）微生物叢  
 
 ### [MetaSUB Consortium Meetings](http://www.metasub.org/meetings.html)
-1st MetaSUB Summit  
-2015年6月20日のMetaSUB会議  
+2015年6月20日、1st MetaSUB Summit開催
 
 - 2015-07-17 [将来は、細菌だらけの地下鉄で健康的に通勤できるかも ｜ ライフハッカー](http://www.lifehacker.jp/2015/07/150717_subway_germs.html)｜清掃員が毎日数回は掃除する、衛生的にきれいな東京の地下鉄では、十分なDNA情報を集めることは難しいかもしれませんが、
 - 2015-06-23 [Scientists Are Studying Subway Germs To Keep Us Healthier | Popular Science](http://www.popsci.com/scientists-are-studying-subway-germs-keep-us-healthier)
@@ -23,24 +22,23 @@ Metagenomics & Metadesign of Subways & Urban Biomes
 
 ## PathoMap
 - [PathoMap - Mapping New York's Microscopic Residents](http://www.pathomap.org)
-- [Pathomap Japan node - 国立遺伝学研究所](http://tga.nig.ac.jp/pathomapj/)
 - [都市微生物叢研究PathoMap｜2015年2月号｜News & Hot Paper Digest｜羊土社：実験医学online](https://www.yodosha.co.jp/jikkenigaku/nhpd/9784758101363/c5.html)
-
-http://tga.nig.ac.jp/pathomapj/pathomap_mason.html
+- [Pathomap Japan node - 国立遺伝学研究所](http://tga.nig.ac.jp/pathomapj/)
+ - [Pathomapプロジェクトの日本語紹介文](http://tga.nig.ac.jp/pathomapj/pathomap_mason.html)
 現在、 http://www.healthmap.org/en/ のように、 位置情報データと分子データを併合している。
 
 ### 論文
 [Geospatial Resolution of Human and Bacterial Diversity with City-Scale Metagenomics](http://www.cell.com/cell-systems/references/S2405-4712(15)00002-2)
-[PDF](Mason and colleagues http://www.cell.com/pb/assets/raw/journals/research/cell-systems/do-not-delete/CELS1_FINAL.pdf)
 
+[PDF](http://www.cell.com/pb/assets/raw/journals/research/cell-systems/do-not-delete/CELS1_FINAL.pdf)
+Mason and colleagues 
 - [Metagenomics: Urban microbiome : Nature Reviews Genetics : Nature Publishing Group](http://www.nature.com/nrg/journal/v16/n4/full/nrg3921.html)
 
 - ニュース動画
  - 2015-02-05 [Mapping the Bacteria in the NYC Subway - YouTube](https://www.youtube.com/watch?v=COOKdzfQueI)
  - 2015-02-11 [What Are You Touching in NYC's Subway? - YouTube](https://www.youtube.com/watch?v=6a4jmzxNuzQ)
  - 2015-02-09 [Study Finds NYC Subways Are Crawling With Germs - YouTube](https://www.youtube.com/watch?v=3aBAK2xkljU)
- - 2015-02-09 [Researchers map NYC subway system microbes | Fox News Video](http://video.foxnews.com/v/4040843912001)
-  - 2015-02-13 Researchers map NYC subway system microbes - YouTube](https://www.youtube.com/watch?v=uRFf2wYZmGc)
+ - 2015-02-09 [Researchers map NYC subway system microbes | Fox News Video](http://video.foxnews.com/v/4040843912001) | 2015-02-13 [Researchers map NYC subway system microbes - YouTube](https://www.youtube.com/watch?v=uRFf2wYZmGc)
  - 2015-02-07 [How mass NYC subway swab could change public health - YouTube](https://www.youtube.com/watch?v=gyB0pk5YL2Q)
  - 2015-02-05 [Researchers map bacteria in New York City subway system | abc7ny.com](http://abc7ny.com/506427/)
 
