@@ -6,8 +6,8 @@ Last Update: 2015-10-28
 ----------
 
 ## [MetaSUB](http://www.metasub.org)
-Metagenomics & Metadesign of Subways & Urban Biomes  
-都市環境（地下鉄）微生物叢  
+​​​MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes  
+都市環境（地下鉄）の微生物叢
 
 ### [MetaSUB Consortium Meetings](http://www.metasub.org/meetings.html)
 2015年6月20日、1st MetaSUB Summit開催
@@ -21,18 +21,26 @@ Metagenomics & Metadesign of Subways & Urban Biomes
 ----------
 
 ## PathoMap
-- [PathoMap - Mapping New York's Microscopic Residents](http://www.pathomap.org)
+[PathoMap - Mapping New York's Microscopic Residents](http://www.pathomap.org)
+ニューヨーク地下鉄の微生物叢
+
 - [都市微生物叢研究PathoMap｜2015年2月号｜News & Hot Paper Digest｜羊土社：実験医学online](https://www.yodosha.co.jp/jikkenigaku/nhpd/9784758101363/c5.html)
 - [Pathomap Japan node - 国立遺伝学研究所](http://tga.nig.ac.jp/pathomapj/)
  - [Pathomapプロジェクトの日本語紹介文](http://tga.nig.ac.jp/pathomapj/pathomap_mason.html)
 現在、 http://www.healthmap.org/en/ のように、 位置情報データと分子データを併合している。
 
 ### 論文
-[Geospatial Resolution of Human and Bacterial Diversity with City-Scale Metagenomics](http://www.cell.com/cell-systems/references/S2405-4712(15)00002-2)
+[Geospatial Resolution of Human and Bacterial Diversity with City-Scale Metagenomics](http://www.cell.com/cell-systems/references/S2405-4712(15)00002-2) | [PDF](http://www.cell.com/pb/assets/raw/journals/research/cell-systems/do-not-delete/CELS1_FINAL.pdf)
 
-[PDF](http://www.cell.com/pb/assets/raw/journals/research/cell-systems/do-not-delete/CELS1_FINAL.pdf)
-Mason and colleagues 
-- [Metagenomics: Urban microbiome : Nature Reviews Genetics : Nature Publishing Group](http://www.nature.com/nrg/journal/v16/n4/full/nrg3921.html)
+- 記事
+ - [Metagenomics: Urban microbiome : Nature Reviews Genetics : Nature Publishing Group](http://www.nature.com/nrg/journal/v16/n4/full/nrg3921.html)
+ - 2015-02-17 [The long road from Data to Wisdom, and from DNA to Pathogen | microBEnet: the microbiology of the Built Environment network.](http://microbe.net/2015/02/17/the-long-road-from-data-to-wisdom-and-from-dna-to-pathogen) by Christopher Mason
+ - 2015-02-11 [Metagenomics best hit analysis: caveat emptor · Loman Labs](http://nickloman.github.io/2015/02/11/metagenomics-best-hit-analysis-caveat-emptor/)
+ - 2015-02-13 [ニューヨークの地下鉄にペスト菌のDNAがいるかも？という報告の喧々諤々](http://blog.goo.ne.jp/tabibito12/e/6bf479f45aec31d08d35eccb1bfbe717)
+ - 2015-02-10 [There’s No Plague on the NYC Subway. No Platypuses Either.](http://on.natgeo.com/1zdQTe0) A Blog by Ed Yong.
+ - 2015-02-07 [ＮＹ地下鉄にペスト菌や炭疽菌＝ごく微量、健康に脅威なし－米調査](http://www.jiji.com/jc/zc?k=201502/2015020700220)
+ - 2015-02-06 [ビッグデータとバクテリア―NY地下鉄のDNAマップ作成 - WSJ](http://jp.wsj.com/articles/SB12052756172436844285404580444870276852224)
+ - 2015-02-06 [ニューヨークの地下鉄はそんなに汚いのか！？ | 浜松まるやす商店](http://www.mall-yes.com/2015/02/06/ニューヨークの地下鉄は本当に汚いか？/)
 
 - ニュース動画
  - 2015-02-05 [Mapping the Bacteria in the NYC Subway - YouTube](https://www.youtube.com/watch?v=COOKdzfQueI)
@@ -41,15 +49,6 @@ Mason and colleagues
  - 2015-02-09 [Researchers map NYC subway system microbes | Fox News Video](http://video.foxnews.com/v/4040843912001) | 2015-02-13 [Researchers map NYC subway system microbes - YouTube](https://www.youtube.com/watch?v=uRFf2wYZmGc)
  - 2015-02-07 [How mass NYC subway swab could change public health - YouTube](https://www.youtube.com/watch?v=gyB0pk5YL2Q)
  - 2015-02-05 [Researchers map bacteria in New York City subway system | abc7ny.com](http://abc7ny.com/506427/)
-
-- ニュース記事
- - 2015-02-17 [The long road from Data to Wisdom, and from DNA to Pathogen | microBEnet: the microbiology of the Built Environment network.](http://microbe.net/2015/02/17/the-long-road-from-data-to-wisdom-and-from-dna-to-pathogen) by Christopher Mason
- - 2015-02-11 [Metagenomics best hit analysis: caveat emptor · Loman Labs](http://nickloman.github.io/2015/02/11/metagenomics-best-hit-analysis-caveat-emptor/)
- - 2015-02-13 [ニューヨークの地下鉄にペスト菌のDNAがいるかも？という報告の喧々諤々](http://blog.goo.ne.jp/tabibito12/e/6bf479f45aec31d08d35eccb1bfbe717)
- - 2015-02-10 [There’s No Plague on the NYC Subway. No Platypuses Either.](http://on.natgeo.com/1zdQTe0) A Blog by Ed Yong.
- - 2015-02-07 [ＮＹ地下鉄にペスト菌や炭疽菌＝ごく微量、健康に脅威なし－米調査](http://www.jiji.com/jc/zc?k=201502/2015020700220)
- - 2015-02-06 [ビッグデータとバクテリア―NY地下鉄のDNAマップ作成 - WSJ](http://jp.wsj.com/articles/SB12052756172436844285404580444870276852224)
- - 2015-02-06 [ニューヨークの地下鉄はそんなに汚いのか！？ | 浜松まるやす商店](http://www.mall-yes.com/2015/02/06/ニューヨークの地下鉄は本当に汚いか？/)
 
 ----------
 
