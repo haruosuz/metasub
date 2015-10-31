@@ -68,7 +68,7 @@ Stephen Turner on Twitter: "What happens if you sample short reads from E. coli 
 
 https://twitter.com/hashtag/metasub15
 Christopher Mason ‏@mason_lab  Jun 20
-#metasub15 John Brownstein @johnbrownstein gave a great talk about Healthmap http://www.healthmap.org  and crowd-sourced medicine
+\#metasub15 John Brownstein @johnbrownstein gave a great talk about Healthmap http://www.healthmap.org  and crowd-sourced medicine
 
 https://twitter.com/gogoviral
 Julie Nadel ‏@JulieNadel  Jun 19
@@ -165,6 +165,7 @@ https://twitter.com/guruguruyellow/status/298194313572130819
 
 ## [Citizen Science](https://en.wikipedia.org/wiki/Citizen_science)
 (also known as crowd science, crowd-sourced science, civic science, volunteer monitoring or networked science)
+
 市民科学
 
 - 2015-06-08 [誰でも研究に参加できるサイト「Zooniverse」が面白い - open ideas, open education](http://rshibato.hatenablog.com/entry/2015/06/08/131239)
