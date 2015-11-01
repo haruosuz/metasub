@@ -1,7 +1,7 @@
 ----------
 
 Haruo Suzuki (haruo[at]g-language[dot]org)   
-Last Update: 2015-10-28  
+Last Update: 2015-10-31  
 
 ----------
 
@@ -12,8 +12,10 @@ Last Update: 2015-10-28
 ### [MetaSUB Consortium Meetings](http://www.metasub.org/meetings.html)
 2015年6月20日、1st MetaSUB Summit 開催
 
+- [#MetaSUB15 hashtag on Twitter](https://twitter.com/hashtag/MetaSUB15?src=hash)
+- [#metasub hashtag on Twitter](https://twitter.com/hashtag/metasub)
+
 - 2015-07-17 [将来は、細菌だらけの地下鉄で健康的に通勤できるかも](http://www.lifehacker.jp/2015/07/150717_subway_germs.html)
-清掃員が毎日数回は掃除する、衛生的にきれいな東京の地下鉄では、十分なDNA情報を集めることは難しいかもしれませんが、
 - 2015-06-23 [Scientists Are Studying Subway Germs To Keep Us Healthier | Popular Science](http://www.popsci.com/scientists-are-studying-subway-germs-keep-us-healthier)
 - 2015-06-22 [Urban microbes come out of the shadows : Nature News & Comment](http://www.nature.com/news/urban-microbes-come-out-of-the-shadows-1.17818)
 - 2015-04-23 [metasub | microBEnet: the microbiology of the Built Environment network.](http://microbe.net/tag/metasub/)
@@ -25,12 +27,12 @@ Last Update: 2015-10-28
 [PathoMap - Mapping New York's Microscopic Residents](http://www.pathomap.org)
 ニューヨーク地下鉄の微生物叢
 
+- [PathoMap Research (@nycpathomap) | Twitter](https://twitter.com/nycpathomap)
 - [都市微生物叢研究PathoMap｜2015年2月号｜News & Hot Paper Digest｜羊土社：実験医学online](https://www.yodosha.co.jp/jikkenigaku/nhpd/9784758101363/c5.html)
 - [Pathomap Japan node - 国立遺伝学研究所](http://tga.nig.ac.jp/pathomapj/)
  - [Pathomapプロジェクトの日本語紹介文](http://tga.nig.ac.jp/pathomapj/pathomap_mason.html)
-現在、 http://www.healthmap.org/en/ のように、 位置情報データと分子データを併合している。
 
-### PathoMap論文
+### NY地下鉄メタゲノム論文
 [Geospatial Resolution of Human and Bacterial Diversity with City-Scale Metagenomics](http://www.cell.com/cell-systems/references/S2405-4712(15)00002-2) | [PDF](http://www.cell.com/pb/assets/raw/journals/research/cell-systems/do-not-delete/CELS1_FINAL.pdf)
 
 - 記事
@@ -47,83 +49,9 @@ Last Update: 2015-10-28
  - 2015-02-05 [Mapping the Bacteria in the NYC Subway - YouTube](https://www.youtube.com/watch?v=COOKdzfQueI)
  - 2015-02-11 [What Are You Touching in NYC's Subway? - YouTube](https://www.youtube.com/watch?v=6a4jmzxNuzQ)
  - 2015-02-09 [Study Finds NYC Subways Are Crawling With Germs - YouTube](https://www.youtube.com/watch?v=3aBAK2xkljU)
- - 2015-02-09 [Researchers map NYC subway system microbes | Fox News Video](http://video.foxnews.com/v/4040843912001)
-  - 2015-02-13 [Researchers map NYC subway system microbes - YouTube](https://www.youtube.com/watch?v=uRFf2wYZmGc)
+ - 2015-02-09 [Researchers map NYC subway system microbes | Fox News Video](http://video.foxnews.com/v/4040843912001) | [YouTube](https://www.youtube.com/watch?v=uRFf2wYZmGc)
  - 2015-02-07 [How mass NYC subway swab could change public health - YouTube](https://www.youtube.com/watch?v=gyB0pk5YL2Q)
  - 2015-02-05 [Researchers map bacteria in New York City subway system | abc7ny.com](http://abc7ny.com/506427/)
-
-----------
-
-## Twitter
-- [#metasub hashtag on Twitter](https://twitter.com/hashtag/metasub)
-- [#MetaSUB15 hashtag on Twitter](https://twitter.com/hashtag/MetaSUB15?src=hash)
-- [PathoMap Research (@nycpathomap) | Twitter](https://twitter.com/nycpathomap)
-
-5:05 PM - 18 Feb 2015
-Ed Yong on Twitter: "Much respect @mason_lab for this humble, detailed response to criticism over the plague result in the NYCsubway paper http://t.co/tUKlkWoE0M"
-https://twitter.com/edyong209/status/568169571405967361
-
-1:00 PM - 12 Feb 2015
-Stephen Turner on Twitter: "What happens if you sample short reads from E. coli and use a metagenomics best-hit approach: http://t.co/jQrPBEOqTX http://t.co/LsNC7g5rmP” https://twitter.com/genetics_blog/status/565933587783249921
-
-https://twitter.com/hashtag/metasub15
-Christopher Mason ‏@mason_lab  Jun 20
-\#metasub15 John Brownstein @johnbrownstein gave a great talk about Healthmap http://www.healthmap.org  and crowd-sourced medicine
-
-https://twitter.com/gogoviral
-Julie Nadel ‏@JulieNadel  Jun 19
-NY+MA: participate in crowd sourced epidemiology. Sign up now for next time you're sick! #UrbanGenome @gogoviral http://www.goviralstudy.com
-
-Rumi ‏@rumichunara  May 27Rome, Lazio
-Our paper on bringing together molecular specimens and online participatory surveillance http://currents.plos.org/outbreaks/article/surveillance-of-acute-respiratory-infections-using-community-submitted-symptoms-and-specimens-for-molecular-diagnostic-testing/ … @gogoviral
-
-----------
-
-## 地下鉄
-
-- [ナゾトキ街歩きゲーム「地下謎への招待状2015」 | 東京メトロに乗って、謎を解く体験型ゲームです。](http://realdgame.jp/chikanazo/2/)
-We announced previously that the English and Chinese versions for “Tokyo Metro - Underground Mysteries” will be available for play starting 1 November 2015. Please be informed that the release date has been postponed. We will release it within November 2015! We apologize for any inconvenience caused. Please stick with us for a little longer!
-
-- Adam Magyar on Vimeo
- - [Stainless, 42 Street (excerpt)](https://vimeo.com/83664407)
- - [Stainless - Shinjuku (excerpt)](https://vimeo.com/77489382)
- - [Array #2](https://vimeo.com/120853055) Ikebukuro, Tokyo (2014).
-
-- NY市地下鉄の清掃状況
- - 5/19/15 4:51pm [The New York City Subway Is Full Of Garbage](http://jalopnik.com/the-new-york-city-subway-is-full-of-garbage-1705602906)
-The MTA standard is to clean each of its 276 stations once every three weeks. But the audit, by the office of City Comptroller Scott Stringer, found that 97% of the stations were cleaned less frequently.
-The report states that 88% of stations were cleaned fewer than eight times a year. The audit covered the period covering July 2013 to June 2014.
- - 2015年05月15日 10:47 [NY市地下鉄は清掃基準を満たさず、線路はゴミ捨て場状態 - Japan Wideニュース](http://www.jwide.com/news/news.htm?id=5098)
-２０１３年７月から２０１４年６月の清掃記録の監査によると、地下にある２７６駅のうち、３週間に１度という交通局の清掃スケジュールを満たしていたのは僅か３％にあたる７駅の線路だけだった。半数以上の駅の線路は、１１人の清掃員により一年間で４度から８度の清掃が行われているだけだ。
-
-- Air 空気中を浮遊する微生物を対象とした研究
- - [Robertson CE et al. Appl Environ Microbiol. 2013 Jun;79(11):3485-93. "Culture-independent analysis of aerosol microbiology in a metropolitan subway system."](http://www.ncbi.nlm.nih.gov/pubmed/23542619)
- - [駅構内の空気質に与える微生物の影響評価　RTRI REPORT Vol. 22, No. 5, May. 2008](http://bunken.rtri.or.jp/PDF/cdroms1/0001/2008/0001003044.pdf)
- - [駅構内の空気質に与える微生物の影響評価　(鉄道総研報告,2008 年 5 月号)](http://www.rtri.or.jp/publish/rtrirep/2008/r_digest/05/0805_6.pdf)
-
-----------
-
-- [スーパーサイエンスハイスクール(SSH) | 指定校一覧](https://ssh.jst.go.jp/school/list.html)
-
-- [お花見メタゲノムプロジェクト powered by NGS現場の会 第四回研究会](http://www.ngs-sakura.jp)
-Ohanami-Metagenome: Community-Driven Research Project
-
-https://ja.wikipedia.org/wiki/実験計画法
-https://en.wikipedia.org/wiki/Design_of_experiments
-
-Rakuten Point Club http://point.rakuten.co.jp/en/
-T Card｜Culture Convenience Club Co., Ltd. http://www.ccc.co.jp/en/showcase/sc_004388.html?cat=plat
-
-----------
-
-- 2015-10-14 [プログラム | Innovative City Forum 2015](http://icf.academyhills.com/program.html)
-スマートシティを司る“２番目の脳”　都市の中の微生物叢から学ぶこと　「都市における微生物の存在が私達の健康にどのように関係しているのか？」　私達を取り巻く微生物と都市環境デザインについて、ハード、ソフト、バイオテクノロジーの観点から議論を展開します。
-- 2015.10.2 FRI [「微生物によって建築のデザイン・プロセスを変えたい」ジェシカ・グリーン（微生物学者） « WIRED.jp](http://wired.jp/2015/10/02/innovative-city-forum-2015-4/)
-- [ジェシカ・グリーン「微生物を正しく取り除くために」](http://www.ted.com/talks/jessica_green_are_we_filtering_the_wrong_microbes?language=ja)
-- [ジェシカ・グリーン: 私たちを取り巻く細菌と住環境のデザイン](http://www.ted.com/talks/jessica_green_good_germs_make_healthy_buildings?language=ja)
-
-- [MITメディアラボきっての遊びの天才ケヴィン・スラヴィン、その「ひらめき」の秘密 « WIRED.jp](http://wired.jp/special/2015/beyond-solution/01.html)
-「微生物と都市のデザイン」を研究している、MITメディアラボのケヴィン・スラヴィンが目指しているのは、マンガ『もやしもん』の世界観だった！
 
 ----------
 
@@ -150,16 +78,8 @@ T Card｜Culture Convenience Club Co., Ltd. http://www.ccc.co.jp/en/showcase/sc_
 - [Flu Near You (@FluNearYou) | Twitter](https://twitter.com/flunearyou)
 
 - 2014年7月 [インフルエンザの流行をリアルタイムで追う](http://www.sakakibara-heart.com/hospital/colum/colum9.html)
-クラウドソーシングを使い、リアルタイムでインフルエンザの地域的な広がりを詳細に分析する取り組み
 - 2013.02.14 [Uncharted Territorythey will complement, but not substitute for](http://unchartedterritory.blog.fc2.com/blog-entry-31.html)
-登録した人が自分と周りの人の症状を報告するネット上のシステム（Flu Near Youなど）
-米国の‘Flu Near You’やGrippeNet.frなどが、ボランティアの参加者を募り、本人もしくは家族でインフルエンザの症状がないか毎週報告するようにしているようです。上記の画像は‘Flu Near You’サイトにあったもので、どのような状況が色で分かりますね。
-このシステムの利点は、ネットだと入力した属性が分からないという欠点を登録制によって補えるということです。ですから、年代別のデータを取れるというメリットもあるようです。
 - 2012/07/19 [クライシス情報学 -災害などの危機に情報はどう役立つか?- 国立情報学研究所 コンテンツ科学研究系 北本 朝展](http://agora.ex.nii.ac.jp/~kitamoto/outreach/shimin-2012/lecture-ppt.pdf)
-
-5:20 PM - 3 Feb 2013
-https://twitter.com/guruguruyellow/status/298194313572130819
-.@cnn_co_jp 僭越ながら1/31の「ツイッターでインフルエンザ流行地域の予測目指す」の捕捉をさせて頂きます。2006年よりハーバード大学公衆衛生大学院が以下のサイトを立ち上げております。ご覧頂けましたら幸いです。@healthmap @FluNearYou 
 
 ----------
 
@@ -180,7 +100,79 @@ https://twitter.com/guruguruyellow/status/298194313572130819
  - 2013-10-27 [「オープンサイエンス革命」（ニールセン著）より](http://blog.livedoor.jp/randdmanagement/archives/52127213.html)
  - 2012-07-01 [シチズンサイエンス考](http://blog.livedoor.jp/randdmanagement/archives/52032892.html)
 
-- []()
+----------
+
+## 地下鉄
+
+- NY市地下鉄の清掃状況
+ - 5/19/15 4:51pm [The New York City Subway Is Full Of Garbage](http://jalopnik.com/the-new-york-city-subway-is-full-of-garbage-1705602906)
+The MTA standard is to clean each of its 276 stations once every three weeks. But the audit, by the office of City Comptroller Scott Stringer, found that 97% of the stations were cleaned less frequently.
+The report states that 88% of stations were cleaned fewer than eight times a year. The audit covered the period covering July 2013 to June 2014.
+ - 2015年05月15日 10:47 [NY市地下鉄は清掃基準を満たさず、線路はゴミ捨て場状態 - Japan Wideニュース](http://www.jwide.com/news/news.htm?id=5098)
+２０１３年７月から２０１４年６月の清掃記録の監査によると、地下にある２７６駅のうち、３週間に１度という交通局の清掃スケジュールを満たしていたのは僅か３％にあたる７駅の線路だけだった。半数以上の駅の線路は、１１人の清掃員により一年間で４度から８度の清掃が行われているだけだ。
+
+- Air 空気中を浮遊する微生物を対象とした研究
+ - [Robertson CE et al. Appl Environ Microbiol. 2013 Jun;79(11):3485-93. "Culture-independent analysis of aerosol microbiology in a metropolitan subway system."](http://www.ncbi.nlm.nih.gov/pubmed/23542619)
+ - [駅構内の空気質に与える微生物の影響評価　RTRI REPORT Vol. 22, No. 5, May. 2008](http://bunken.rtri.or.jp/PDF/cdroms1/0001/2008/0001003044.pdf)
+ - [駅構内の空気質に与える微生物の影響評価　(鉄道総研報告,2008 年 5 月号)](http://www.rtri.or.jp/publish/rtrirep/2008/r_digest/05/0805_6.pdf)
+
+- Adam Magyar on Vimeo
+ - [Stainless, 42 Street (excerpt)](https://vimeo.com/83664407)
+ - [Stainless - Shinjuku (excerpt)](https://vimeo.com/77489382)
+ - [Array #2](https://vimeo.com/120853055) Ikebukuro, Tokyo (2014)
+
+- [ナゾトキ街歩きゲーム「地下謎への招待状2015」 | 東京メトロに乗って、謎を解く体験型ゲームです。](http://realdgame.jp/chikanazo/2/)
+We announced previously that the English and Chinese versions for “Tokyo Metro - Underground Mysteries” will be available for play starting 1 November 2015. Please be informed that the release date has been postponed. We will release it within November 2015! We apologize for any inconvenience caused. Please stick with us for a little longer!
+
+----------
+
+Rakuten Point Club http://point.rakuten.co.jp/en/
+T Card｜Culture Convenience Club Co., Ltd. http://www.ccc.co.jp/en/showcase/sc_004388.html?cat=plat
+
+https://ja.wikipedia.org/wiki/実験計画法
+https://en.wikipedia.org/wiki/Design_of_experiments
+
+- [スーパーサイエンスハイスクール(SSH) | 指定校一覧](https://ssh.jst.go.jp/school/list.html)
+
+- [お花見メタゲノムプロジェクト powered by NGS現場の会 第四回研究会](http://www.ngs-sakura.jp)
+Ohanami-Metagenome: Community-Driven Research Project
+
+----------
+
+- 2015-10-14 [プログラム | Innovative City Forum 2015](http://icf.academyhills.com/program.html)
+スマートシティを司る“２番目の脳”　都市の中の微生物叢から学ぶこと　「都市における微生物の存在が私達の健康にどのように関係しているのか？」　私達を取り巻く微生物と都市環境デザインについて、ハード、ソフト、バイオテクノロジーの観点から議論を展開します。
+- 2015.10.2 FRI [「微生物によって建築のデザイン・プロセスを変えたい」ジェシカ・グリーン（微生物学者） « WIRED.jp](http://wired.jp/2015/10/02/innovative-city-forum-2015-4/)
+- [ジェシカ・グリーン「微生物を正しく取り除くために」](http://www.ted.com/talks/jessica_green_are_we_filtering_the_wrong_microbes?language=ja)
+- [ジェシカ・グリーン: 私たちを取り巻く細菌と住環境のデザイン](http://www.ted.com/talks/jessica_green_good_germs_make_healthy_buildings?language=ja)
+
+- [MITメディアラボきっての遊びの天才ケヴィン・スラヴィン、その「ひらめき」の秘密 « WIRED.jp](http://wired.jp/special/2015/beyond-solution/01.html)
+「微生物と都市のデザイン」を研究している、MITメディアラボのケヴィン・スラヴィンが目指しているのは、マンガ『もやしもん』の世界観だった！
+
+----------
+
+## Twitter
+
+5:05 PM - 18 Feb 2015
+Ed Yong on Twitter: "Much respect @mason_lab for this humble, detailed response to criticism over the plague result in the NYCsubway paper http://t.co/tUKlkWoE0M"
+https://twitter.com/edyong209/status/568169571405967361
+
+1:00 PM - 12 Feb 2015
+Stephen Turner on Twitter: "What happens if you sample short reads from E. coli and use a metagenomics best-hit approach: http://t.co/jQrPBEOqTX http://t.co/LsNC7g5rmP” https://twitter.com/genetics_blog/status/565933587783249921
+
+https://twitter.com/hashtag/metasub15
+Christopher Mason ‏@mason_lab  Jun 20
+\#metasub15 John Brownstein @johnbrownstein gave a great talk about Healthmap http://www.healthmap.org  and crowd-sourced medicine
+
+https://twitter.com/gogoviral
+Julie Nadel ‏@JulieNadel  Jun 19
+NY+MA: participate in crowd sourced epidemiology. Sign up now for next time you're sick! #UrbanGenome @gogoviral http://www.goviralstudy.com
+
+Rumi ‏@rumichunara  May 27Rome, Lazio
+Our paper on bringing together molecular specimens and online participatory surveillance http://currents.plos.org/outbreaks/article/surveillance-of-acute-respiratory-infections-using-community-submitted-symptoms-and-specimens-for-molecular-diagnostic-testing/ … @gogoviral
+
+5:20 PM - 3 Feb 2013
+https://twitter.com/guruguruyellow/status/298194313572130819
+.@cnn_co_jp 僭越ながら1/31の「ツイッターでインフルエンザ流行地域の予測目指す」の捕捉をさせて頂きます。2006年よりハーバード大学公衆衛生大学院が以下のサイトを立ち上げております。ご覧頂けましたら幸いです。@healthmap @FluNearYou 
 
 https://twitter.com/search?q=市民参加型調査&src=typd
 東日本大震災の影響があった地域を中心に、対象種20種の生きものの分布情報を集めているそうです。｜EICネット　環境省、全国の市民参加型調査「しおかぜ自然環境調査」への協力募集　http://www.eic.or.jp/news/?act=view&serial=32776
@@ -213,8 +205,6 @@ http://ssv190.niaes2.affrc.go.jp/Psystem2/MapShow.do;jsessionid=A6F4B081EB50EC82
 うーむ。すばらしい。
 http://www.jst.go.jp/cpse/kagakubu/torikumi/fiscal/2012/120923.html …
 http://www.geopacific.org/file_home/90f3cf … (PDF)
-
-- []()
 
 ----------
 
