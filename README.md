@@ -150,6 +150,19 @@ Ohanami-Metagenome: Community-Driven Research Project
 
 ----------
 
+## Video
+
+- Dr. Christopher Mason (Weill Medical College of Cornell University) | [Mason Lab](http://www.masonlab.net)
+ - 2015-06-19 [Integrative Genomics in Single Cells, Entire Cities, and Astronauts](https://youtu.be/Q_eUq9FNSaY)
+ - 2015-03-27 [SciCafe: Mapping the Urban Microbiome, Genome, and Metagenome - YouTube](https://www.youtube.com/watch?v=mn5MkKXtxms)
+
+- Dr. Rumi Chunara (New York University) | [Chunara Lab: Computer Science & Engineering And Global Public Health](https://wp.nyu.edu/chunaralab/)
+ - 2014-01-26 [Rumi Chunara: Flu Near You - YouTube](https://www.youtube.com/watch?v=HQaNsKAk9j8)
+ - 2013-10-08 [Rumi Chunara's Ignite presentation, "Why We Need Crowdsourced Data...", at Strata RX 2013. - YouTube](https://www.youtube.com/watch?v=I1-qwR6gK88)
+ - 2013-09-17 [Rumi Chunara // Health Innovation Summit - YouTube](https://www.youtube.com/watch?v=Zei0XeSnCcg)
+
+----------
+
 ## Twitter
 
 5:05 PM - 18 Feb 2015
