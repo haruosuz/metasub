@@ -1,7 +1,7 @@
 ----------
 
 Haruo Suzuki (haruo[at]g-language[dot]org)   
-Last Update: 2015-10-31  
+Last Update: 2015-11-06  
 
 ----------
 
@@ -55,38 +55,9 @@ Last Update: 2015-10-31
 
 ----------
 
-## [HealthMap](http://www.healthmap.org)
-- [HealthMap (@healthmap) | Twitter](https://twitter.com/healthmap)
-- [Brownstein JS et al. PLoS Med. 2008 Jul 8;5(7):e151. "Surveillance Sans Frontières: Internet-based emerging infectious disease intelligence and the HealthMap project."
-](http://www.ncbi.nlm.nih.gov/pubmed/18613747)
-
-### 参考
-- 2014-09-04 [エボラ拡大の兆候を発見するも、手を打てなかったHealthMapの機械学習システム](http://bit.ly/1rNfCaM)
-- 2014-08-13 [猛威をふるっているエボラを阻止せよ！感染症を可視化！](https://datasciencelab.jp/blog/122)
-- 2008-07-24 [ネットから情報を自動収集：伝染病情報を視覚化する『HealthMap』 ](http://wired.jp/2008/07/24/ネットから情報を自動収集：伝染病情報を視覚化/)
-- 2008-07-10 [感染症の発生をWeb上で追跡するHealthMapプロジェクト](http://jipsti.jst.go.jp/johokanri/sti_updates/?id=619)
-- 2007-12-11 [世界感染症マップ： HealthMap](http://www.tobyo.jp/tobyoblog/2007/803.html)
-
-### 日本の例
-- 2015-09-26 マダニ媒介感染症で三豊の８０代男性死亡 - 朝日新聞 https://shar.es/178M35 via @HealthMap
-- 2015-09-26 インフルもう流行？ 秋は集団感染の季節、学級閉鎖続々 - 朝日新聞 https://shar.es/178MlN via @HealthMap
-- 2015-09-25 SFCでデング熱患者を確認 海外で感染か 保健管理センター「拡大起こらない」 - SFC CLIP https://shar.es/178McF via @HealthMap
-
-----------
-
-## [Flu Near You](https://flunearyou.org)
-- [Flu Near You (@FluNearYou) | Twitter](https://twitter.com/flunearyou)
-
-- 2014年7月 [インフルエンザの流行をリアルタイムで追う](http://www.sakakibara-heart.com/hospital/colum/colum9.html)
-- 2013.02.14 [Uncharted Territorythey will complement, but not substitute for](http://unchartedterritory.blog.fc2.com/blog-entry-31.html)
-- 2012/07/19 [クライシス情報学 -災害などの危機に情報はどう役立つか?- 国立情報学研究所 コンテンツ科学研究系 北本 朝展](http://agora.ex.nii.ac.jp/~kitamoto/outreach/shimin-2012/lecture-ppt.pdf)
-
-----------
-
 ## [Citizen Science](https://en.wikipedia.org/wiki/Citizen_science)
-(also known as crowd science, crowd-sourced science, civic science, volunteer monitoring or networked science)
-
-市民科学
+(a.k.a. crowd science, crowd-sourced science  
+市民科学  
 
 - 2015-06-08 [誰でも研究に参加できるサイト「Zooniverse」が面白い - open ideas, open education](http://rshibato.hatenablog.com/entry/2015/06/08/131239)
 - 2015年5月25日 [科学技術・学術政策研究所の『科学技術動向』2015年5・6月号にオープンな情報流通が促進するシチズンサイエンス（市民科学）の可能性に関する記事が掲載 | カレントアウェアネス・ポータル](http://current.ndl.go.jp/node/28540)
@@ -126,16 +97,17 @@ We announced previously that the English and Chinese versions for “Tokyo Metro
 
 ----------
 
+- [スーパーサイエンスハイスクール(SSH) | 指定校一覧](https://ssh.jst.go.jp/school/list.html)
+
+- [お花見メタゲノムプロジェクト powered by NGS現場の会 第四回研究会](http://www.ngs-sakura.jp)
+Ohanami-Metagenome: Community-Driven Research Project
+
+
 Rakuten Point Club http://point.rakuten.co.jp/en/
 T Card｜Culture Convenience Club Co., Ltd. http://www.ccc.co.jp/en/showcase/sc_004388.html?cat=plat
 
 https://ja.wikipedia.org/wiki/実験計画法
 https://en.wikipedia.org/wiki/Design_of_experiments
-
-- [スーパーサイエンスハイスクール(SSH) | 指定校一覧](https://ssh.jst.go.jp/school/list.html)
-
-- [お花見メタゲノムプロジェクト powered by NGS現場の会 第四回研究会](http://www.ngs-sakura.jp)
-Ohanami-Metagenome: Community-Driven Research Project
 
 ----------
 
@@ -160,6 +132,32 @@ Ohanami-Metagenome: Community-Driven Research Project
  - 2014-01-26 [Rumi Chunara: Flu Near You - YouTube](https://www.youtube.com/watch?v=HQaNsKAk9j8)
  - 2013-10-08 [Rumi Chunara's Ignite presentation, "Why We Need Crowdsourced Data...", at Strata RX 2013. - YouTube](https://www.youtube.com/watch?v=I1-qwR6gK88)
  - 2013-09-17 [Rumi Chunara // Health Innovation Summit - YouTube](https://www.youtube.com/watch?v=Zei0XeSnCcg)
+
+----------
+
+## [HealthMap](http://www.healthmap.org)
+- [HealthMap (@healthmap) | Twitter](https://twitter.com/healthmap)
+- [Brownstein JS et al. PLoS Med. 2008 Jul 8;5(7):e151. "Surveillance Sans Frontières: Internet-based emerging infectious disease intelligence and the HealthMap project."
+](http://www.ncbi.nlm.nih.gov/pubmed/18613747)
+
+### 参考
+- 2014-09-04 [エボラ拡大の兆候を発見するも、手を打てなかったHealthMapの機械学習システム](http://bit.ly/1rNfCaM)
+- 2014-08-13 [猛威をふるっているエボラを阻止せよ！感染症を可視化！](https://datasciencelab.jp/blog/122)
+- 2008-07-24 [ネットから情報を自動収集：伝染病情報を視覚化する『HealthMap』 ](http://wired.jp/2008/07/24/ネットから情報を自動収集：伝染病情報を視覚化/)
+- 2008-07-10 [感染症の発生をWeb上で追跡するHealthMapプロジェクト](http://jipsti.jst.go.jp/johokanri/sti_updates/?id=619)
+- 2007-12-11 [世界感染症マップ： HealthMap](http://www.tobyo.jp/tobyoblog/2007/803.html)
+
+### 日本の例
+- 2015-09-25 SFCでデング熱患者を確認 海外で感染か 保健管理センター「拡大起こらない」 - SFC CLIP https://shar.es/178McF via @HealthMap
+
+----------
+
+## [Flu Near You](https://flunearyou.org)
+- [Flu Near You (@FluNearYou) | Twitter](https://twitter.com/flunearyou)
+
+- 2014年7月 [インフルエンザの流行をリアルタイムで追う](http://www.sakakibara-heart.com/hospital/colum/colum9.html)
+- 2013.02.14 [Uncharted Territorythey will complement, but not substitute for](http://unchartedterritory.blog.fc2.com/blog-entry-31.html)
+- 2012/07/19 [クライシス情報学 -災害などの危機に情報はどう役立つか?- 国立情報学研究所 コンテンツ科学研究系 北本 朝展](http://agora.ex.nii.ac.jp/~kitamoto/outreach/shimin-2012/lecture-ppt.pdf)
 
 ----------
 
