@@ -58,6 +58,7 @@ Last Update: 2015-11-06
 ## 地下鉄
 
 - 地下鉄 インフルエンザ
+ - 公開情報｜東京メトロ [東京地下鉄株式会社 「新型インフルエンザ等対策業務計画」要旨](http://www.tokyometro.jp/corporate/profile/disclosure/pdf/measure_plan.pdf)
  - [新型インフルエンザにおける 鉄道輸送抑制の効果評価](http://www.mlit.go.jp/pri/adobaizari/pdf/16_No2Shiryou82.pdf) 国立感染症研究所 感染症情報センター
  - 2011-12-03 [都市の空間特性に基づくインフルエンザの感染リスク評価に関する研究 その 2 -路線網を考慮した駅の分布に基づく考察-](http://www.cit.nihon-u.ac.jp/kouendata/No.44/pdf/4-70.pdf)
  - 2008年12月23日 [新型インフル対策で実験＝地下鉄車両使 - 「新型インフルエンザ」情報 | mixiコミュニティ](http://mixi.jp/view_bbs.pl?comm_id=3544178&id=38214071)
