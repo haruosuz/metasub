@@ -35,7 +35,7 @@ Last Update: 2015-11-06
 ### NY地下鉄メタゲノム論文
 [Geospatial Resolution of Human and Bacterial Diversity with City-Scale Metagenomics](http://www.cell.com/cell-systems/references/S2405-4712(15)00002-2) | [PDF](http://www.cell.com/pb/assets/raw/journals/research/cell-systems/do-not-delete/CELS1_FINAL.pdf)
 
-- 記事
+- 関連記事
  - [Metagenomics: Urban microbiome : Nature Reviews Genetics : Nature Publishing Group](http://www.nature.com/nrg/journal/v16/n4/full/nrg3921.html)
  - 2015-04-12 [ニューヨークの地下鉄に1688種類の微生物DNAを確認、テロで使われる炭疽菌もいた | Medエッジ](https://www.mededge.jp/b/huap/11491)
  - 2015-02-17 [The long road from Data to Wisdom, and from DNA to Pathogen | microBEnet: the microbiology of the Built Environment network.](http://microbe.net/2015/02/17/the-long-road-from-data-to-wisdom-and-from-dna-to-pathogen) by Christopher Mason
@@ -55,25 +55,15 @@ Last Update: 2015-11-06
 
 ----------
 
-## [Citizen Science](https://en.wikipedia.org/wiki/Citizen_science)
-(a.k.a. crowd science, crowd-sourced science  
-市民科学  
-
-- 2015-06-08 [誰でも研究に参加できるサイト「Zooniverse」が面白い - open ideas, open education](http://rshibato.hatenablog.com/entry/2015/06/08/131239)
-- 2015年5月25日 [科学技術・学術政策研究所の『科学技術動向』2015年5・6月号にオープンな情報流通が促進するシチズンサイエンス（市民科学）の可能性に関する記事が掲載 | カレントアウェアネス・ポータル](http://current.ndl.go.jp/node/28540)
-- 2015年2月20日 [【参考情報】米国大使館主催 米国国立科学財団 (NSF) リサーチダイアローグ シチズンサイエンス](https://ssh.jst.go.jp/information/show/398.html)
-- 2015-02-01 [ネットの写真・ムービーを野生動物学の研究に活用するクラウドサイエンスという手法 - GIGAZINE](http://gigazine.net/news/20150201-cloud-science/)
-- 2015-01-19 [クラウドサイエンスで野生生物研究に貢献 | ナショナルジオグラフィック日本版サイト](http://natgeo.nikkeibp.co.jp/nng/article/20150117/432142/)
-- 2014年11月11日 [メタゲノム・ビジネス（３）：uBiomeが推進する市民科学](http://genaport.genaris.com/GOC_sequencer_post.php?eid=00113)
-- 2013年7月号 [翼を得たシチズン・サイエンス | 日経サイエンス]( http://www.nikkei-science.com/201307_086.html)
-
-- 研究開発マネジメントノート
- - 2013-10-27 [「オープンサイエンス革命」（ニールセン著）より](http://blog.livedoor.jp/randdmanagement/archives/52127213.html)
- - 2012-07-01 [シチズンサイエンス考](http://blog.livedoor.jp/randdmanagement/archives/52032892.html)
-
-----------
-
 ## 地下鉄
+
+- 地下鉄 インフルエンザ
+ - [新型インフルエンザにおける 鉄道輸送抑制の効果評価](http://www.mlit.go.jp/pri/adobaizari/pdf/16_No2Shiryou82.pdf) 国立感染症研究所 感染症情報センター
+ - 2011-12-03 [都市の空間特性に基づくインフルエンザの感染リスク評価に関する研究 その 2 -路線網を考慮した駅の分布に基づく考察-](http://www.cit.nihon-u.ac.jp/kouendata/No.44/pdf/4-70.pdf)
+ - 2008年12月23日 [新型インフル対策で実験＝地下鉄車両使 - 「新型インフルエンザ」情報 | mixiコミュニティ](http://mixi.jp/view_bbs.pl?comm_id=3544178&id=38214071)
+ - 2008/12/22 [通勤電車で隣の人との間隔を１ｍあける？？ 社会：ZAKZAK](http://www.zakzak.co.jp/top/200812/t2008122265_all.html) 新型インフル拡大防止で電車使い乗り方実験
+ - 2008/12/22 新型インフル拡大防止で実験 通勤電車での乗り方 - 47NEWS
+ - [地下鉄で新型インフルエンザ対策実験：政治経済ニュース！](http://seizikeizai.seesaa.net/article/111617412.html)
 
 - NY市地下鉄の清掃状況
  - 5/19/15 4:51pm [The New York City Subway Is Full Of Garbage](http://jalopnik.com/the-new-york-city-subway-is-full-of-garbage-1705602906)
@@ -101,7 +91,6 @@ We announced previously that the English and Chinese versions for “Tokyo Metro
 
 - [お花見メタゲノムプロジェクト powered by NGS現場の会 第四回研究会](http://www.ngs-sakura.jp)
 Ohanami-Metagenome: Community-Driven Research Project
-
 
 Rakuten Point Club http://point.rakuten.co.jp/en/
 T Card｜Culture Convenience Club Co., Ltd. http://www.ccc.co.jp/en/showcase/sc_004388.html?cat=plat
@@ -158,6 +147,24 @@ https://en.wikipedia.org/wiki/Design_of_experiments
 - 2014年7月 [インフルエンザの流行をリアルタイムで追う](http://www.sakakibara-heart.com/hospital/colum/colum9.html)
 - 2013.02.14 [Uncharted Territorythey will complement, but not substitute for](http://unchartedterritory.blog.fc2.com/blog-entry-31.html)
 - 2012/07/19 [クライシス情報学 -災害などの危機に情報はどう役立つか?- 国立情報学研究所 コンテンツ科学研究系 北本 朝展](http://agora.ex.nii.ac.jp/~kitamoto/outreach/shimin-2012/lecture-ppt.pdf)
+
+----------
+
+## [Citizen Science](https://en.wikipedia.org/wiki/Citizen_science)
+(a.k.a. crowd science, crowd-sourced science  
+市民科学  
+
+- 2015-06-08 [誰でも研究に参加できるサイト「Zooniverse」が面白い - open ideas, open education](http://rshibato.hatenablog.com/entry/2015/06/08/131239)
+- 2015年5月25日 [科学技術・学術政策研究所の『科学技術動向』2015年5・6月号にオープンな情報流通が促進するシチズンサイエンス（市民科学）の可能性に関する記事が掲載 | カレントアウェアネス・ポータル](http://current.ndl.go.jp/node/28540)
+- 2015年2月20日 [【参考情報】米国大使館主催 米国国立科学財団 (NSF) リサーチダイアローグ シチズンサイエンス](https://ssh.jst.go.jp/information/show/398.html)
+- 2015-02-01 [ネットの写真・ムービーを野生動物学の研究に活用するクラウドサイエンスという手法 - GIGAZINE](http://gigazine.net/news/20150201-cloud-science/)
+- 2015-01-19 [クラウドサイエンスで野生生物研究に貢献 | ナショナルジオグラフィック日本版サイト](http://natgeo.nikkeibp.co.jp/nng/article/20150117/432142/)
+- 2014年11月11日 [メタゲノム・ビジネス（３）：uBiomeが推進する市民科学](http://genaport.genaris.com/GOC_sequencer_post.php?eid=00113)
+- 2013年7月号 [翼を得たシチズン・サイエンス | 日経サイエンス]( http://www.nikkei-science.com/201307_086.html)
+
+- 研究開発マネジメントノート
+ - 2013-10-27 [「オープンサイエンス革命」（ニールセン著）より](http://blog.livedoor.jp/randdmanagement/archives/52127213.html)
+ - 2012-07-01 [シチズンサイエンス考](http://blog.livedoor.jp/randdmanagement/archives/52032892.html)
 
 ----------
 
