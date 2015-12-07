@@ -1,13 +1,13 @@
 ----------
 
 Haruo Suzuki (haruo[at]g-language[dot]org)   
-Last Update: 2015-11-06  
+Last Update: 2015-12-07  
 
 ----------
 
 ## [MetaSUB](http://www.metasub.org)
 ​​​MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes  
-都市環境（地下鉄）の微生物叢
+都市環境（地下鉄）の微生物叢とデザイン
 
 ### [MetaSUB Consortium Meetings](http://www.metasub.org/meetings.html)
 2015年6月20日、1st MetaSUB Summit 開催
@@ -45,6 +45,8 @@ Last Update: 2015-11-06
  - 2015-02-07 [ＮＹ地下鉄にペスト菌や炭疽菌＝ごく微量、健康に脅威なし－米調査](http://www.jiji.com/jc/zc?k=201502/2015020700220)
  - 2015-02-06 [ビッグデータとバクテリア―NY地下鉄のDNAマップ作成 - WSJ](http://jp.wsj.com/articles/SB12052756172436844285404580444870276852224)
 
+ - [The Microbe Map Creeping Everybody Out by FiveThirtyEight](https://soundcloud.com/fivethirtyeight/the-microbe-map-creeping-everybody-out)
+
 - ニュース動画
  - 2015-02-05 [Mapping the Bacteria in the NYC Subway - YouTube](https://www.youtube.com/watch?v=COOKdzfQueI)
  - 2015-02-11 [What Are You Touching in NYC's Subway? - YouTube](https://www.youtube.com/watch?v=6a4jmzxNuzQ)
@@ -56,15 +58,7 @@ Last Update: 2015-11-06
 ----------
 
 ## 地下鉄
-
-- 地下鉄 インフルエンザ
- - 公開情報｜東京メトロ [東京地下鉄株式会社 「新型インフルエンザ等対策業務計画」要旨](http://www.tokyometro.jp/corporate/profile/disclosure/pdf/measure_plan.pdf)
- - [新型インフルエンザにおける 鉄道輸送抑制の効果評価](http://www.mlit.go.jp/pri/adobaizari/pdf/16_No2Shiryou82.pdf) 国立感染症研究所 感染症情報センター
- - 2011-12-03 [都市の空間特性に基づくインフルエンザの感染リスク評価に関する研究 その 2 -路線網を考慮した駅の分布に基づく考察-](http://www.cit.nihon-u.ac.jp/kouendata/No.44/pdf/4-70.pdf)
- - 2008年12月23日 [新型インフル対策で実験＝地下鉄車両使 - 「新型インフルエンザ」情報 | mixiコミュニティ](http://mixi.jp/view_bbs.pl?comm_id=3544178&id=38214071)
- - 2008/12/22 [通勤電車で隣の人との間隔を１ｍあける？？ 社会：ZAKZAK](http://www.zakzak.co.jp/top/200812/t2008122265_all.html) 新型インフル拡大防止で電車使い乗り方実験
- - 2008/12/22 新型インフル拡大防止で実験 通勤電車での乗り方 - 47NEWS
- - [地下鉄で新型インフルエンザ対策実験：政治経済ニュース！](http://seizikeizai.seesaa.net/article/111617412.html)
+- [趙  慶姫 (2012) 都市環境と芸術 ── 地下鉄駅空間のアート ──](https://www.agulin.aoyama.ac.jp/opac/repository/1000/12898/N20U059_079.pdf)
 
 - NY市地下鉄の清掃状況
  - 5/19/15 4:51pm [The New York City Subway Is Full Of Garbage](http://jalopnik.com/the-new-york-city-subway-is-full-of-garbage-1705602906)
@@ -77,6 +71,15 @@ The report states that 88% of stations were cleaned fewer than eight times a yea
  - [Robertson CE et al. Appl Environ Microbiol. 2013 Jun;79(11):3485-93. "Culture-independent analysis of aerosol microbiology in a metropolitan subway system."](http://www.ncbi.nlm.nih.gov/pubmed/23542619)
  - [駅構内の空気質に与える微生物の影響評価　RTRI REPORT Vol. 22, No. 5, May. 2008](http://bunken.rtri.or.jp/PDF/cdroms1/0001/2008/0001003044.pdf)
  - [駅構内の空気質に与える微生物の影響評価　(鉄道総研報告,2008 年 5 月号)](http://www.rtri.or.jp/publish/rtrirep/2008/r_digest/05/0805_6.pdf)
+
+- 地下鉄 インフルエンザ
+ - 公開情報｜東京メトロ [東京地下鉄株式会社 「新型インフルエンザ等対策業務計画」要旨](http://www.tokyometro.jp/corporate/profile/disclosure/pdf/measure_plan.pdf)
+ - [新型インフルエンザにおける 鉄道輸送抑制の効果評価](http://www.mlit.go.jp/pri/adobaizari/pdf/16_No2Shiryou82.pdf) 国立感染症研究所 感染症情報センター
+ - 2011-12-03 [都市の空間特性に基づくインフルエンザの感染リスク評価に関する研究 その 2 -路線網を考慮した駅の分布に基づく考察-](http://www.cit.nihon-u.ac.jp/kouendata/No.44/pdf/4-70.pdf)
+ - 2008年12月23日 [新型インフル対策で実験＝地下鉄車両使 - 「新型インフルエンザ」情報 | mixiコミュニティ](http://mixi.jp/view_bbs.pl?comm_id=3544178&id=38214071)
+ - 2008/12/22 [通勤電車で隣の人との間隔を１ｍあける？？ 社会：ZAKZAK](http://www.zakzak.co.jp/top/200812/t2008122265_all.html) 新型インフル拡大防止で電車使い乗り方実験
+ - 2008/12/22 新型インフル拡大防止で実験 通勤電車での乗り方 - 47NEWS
+ - [地下鉄で新型インフルエンザ対策実験：政治経済ニュース！](http://seizikeizai.seesaa.net/article/111617412.html)
 
 - Adam Magyar on Vimeo
  - [Stainless, 42 Street (excerpt)](https://vimeo.com/83664407)
@@ -101,9 +104,10 @@ https://en.wikipedia.org/wiki/Design_of_experiments
 
 ----------
 
+- 2015-12-01 [東京に多様性と複雑性を：伊藤穰一のバイオシティ構想](http://wired.jp/2015/12/01/joi-ito-future-city-tokyo/)
 - 2015-10-14 [プログラム | Innovative City Forum 2015](http://icf.academyhills.com/program.html)
 スマートシティを司る“２番目の脳”　都市の中の微生物叢から学ぶこと　「都市における微生物の存在が私達の健康にどのように関係しているのか？」　私達を取り巻く微生物と都市環境デザインについて、ハード、ソフト、バイオテクノロジーの観点から議論を展開します。
-- 2015.10.2 FRI [「微生物によって建築のデザイン・プロセスを変えたい」ジェシカ・グリーン（微生物学者） « WIRED.jp](http://wired.jp/2015/10/02/innovative-city-forum-2015-4/)
+- 2015-10-02 [「微生物によって建築のデザイン・プロセスを変えたい」ジェシカ・グリーン（微生物学者） « WIRED.jp](http://wired.jp/2015/10/02/innovative-city-forum-2015-4/)
 - [ジェシカ・グリーン「微生物を正しく取り除くために」](http://www.ted.com/talks/jessica_green_are_we_filtering_the_wrong_microbes?language=ja)
 - [ジェシカ・グリーン: 私たちを取り巻く細菌と住環境のデザイン](http://www.ted.com/talks/jessica_green_good_germs_make_healthy_buildings?language=ja)
 
@@ -115,6 +119,8 @@ https://en.wikipedia.org/wiki/Design_of_experiments
 ## Video
 
 - Dr. Christopher Mason (Weill Medical College of Cornell University) | [Mason Lab](http://www.masonlab.net)
+ - 2015-11-09 [【ICF2015】クリストファー・メイソン - 「スマートシティを司る“２番目の脳”」](https://youtu.be/3egxzBzynvY)
+ - 2015-11-09 [【ICF2015】Christopher Mason - Second Brain for the Smart City](https://youtu.be/ZK5ORqWqnps)
  - 2015-06-19 [Integrative Genomics in Single Cells, Entire Cities, and Astronauts](https://youtu.be/Q_eUq9FNSaY)
  - 2015-03-27 [SciCafe: Mapping the Urban Microbiome, Genome, and Metagenome - YouTube](https://www.youtube.com/watch?v=mn5MkKXtxms)
 
