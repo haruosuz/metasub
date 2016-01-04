@@ -1,7 +1,7 @@
 ----------
 
 Haruo Suzuki (haruo[at]g-language[dot]org)   
-Last Update: 2015-12-07  
+Last Update: 2016-01-05  
 
 ----------
 
@@ -37,14 +37,12 @@ Last Update: 2015-12-07
  - [Pathomapプロジェクトの日本語紹介文](http://tga.nig.ac.jp/pathomapj/pathomap_mason.html)
 
 ### NY地下鉄メタゲノム論文
-Afshinnekoo E et al.  Cell Systems, Volume 1, Issue 1, 29 July 2015, Pages 72-87
-[Geospatial Resolution of Human and Bacterial Diversity with City-Scale Metagenomics](http://www.cell.com/cell-systems/references/S2405-4712(15)00002-2) | [PDF](http://www.cell.com/pb/assets/raw/journals/research/cell-systems/do-not-delete/CELS1_FINAL.pdf)
 
-[Modern Methods for Delineating Metagenomic Complexity](http://www.sciencedirect.com/science/article/pii/S2405471215000150) Afshinnekoo E et al. Cell Systems, Volume 1, Issue 1, 29 July 2015, Pages 6-7
-
-[Lack of Evidence for Plague or Anthrax on the New York City Subway: Cell Systems](http://www.cell.com/cell-systems/abstract/S2405-4712(15)00016-2)
-
-[Lack of Evidence for Plague or Anthrax on the New York City Subway](http://www.sciencedirect.com/science/article/pii/S2405471215000162) Joel Ackelsberg et al. Cell Systems, Volume 1, Issue 1, 29 July 2015, Pages 4-5
+- (Cell Systems 1, 72–87; July 29, 2015) Article. Mason and colleagues. "Geospatial Resolution of Human and Bacterial Diversity with City-Scale Metagenomics" [cell.com](http://www.cell.com/cell-systems/abstract/S2405-4712(15)00002-2)  
+- (Cell Systems, Vol. 1, Issue 1, p97) Erratum. Mason and colleagues. "Geospatial Resolution of Human and Bacterial Diversity with City-Scale Metagenomics" [cell.com](http://www.cell.com/cell-systems/abstract/S2405-4712(15)00014-9)
+- (Cell Systems, Vol. 1, Issue 1, p4–5) Letter. Gee and colleagues. "Lack of Evidence for Plague or Anthrax on the New York City Subway" [cell.com](http://www.cell.com/cell-systems/abstract/S2405-4712(15)00016-2)|
+[sciencedirect.com](http://www.sciencedirect.com/science/article/pii/S2405471215000162)
+- (Cell Systems, Vol. 1, Issue 1, p6–7) Letter. Mason and colleagues. "Modern Methods for Delineating Metagenomic Complexity" [sciencedirect.com](http://www.sciencedirect.com/science/article/pii/S2405471215000150)
 
 - 関連記事
  - 2015-07-31 [Plague or anthrax on the subway? Think again, says now-corrected study - Retraction Watch at Retraction Watch](http://retractionwatch.com/2015/07/31/plague-or-anthrax-on-the-subway-think-again-says-now-corrected-study/) Written by Ross Keith
