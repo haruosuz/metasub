@@ -5,6 +5,10 @@ Last Update: 2015-12-07
 
 ----------
 
+## News
+- 2013-05-16 [River Sampling Day Call | Micro B³](https://www.microb3.eu/feeds/oceansamplingday-blogspot/river-sampling-day-call)
+- [Ocean Sampling Day | Micro B³](https://www.microb3.eu/osd)
+
 ## [MetaSUB](http://www.metasub.org)
 ​​​MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes  
 都市環境（地下鉄）の微生物叢とデザイン
@@ -33,9 +37,17 @@ Last Update: 2015-12-07
  - [Pathomapプロジェクトの日本語紹介文](http://tga.nig.ac.jp/pathomapj/pathomap_mason.html)
 
 ### NY地下鉄メタゲノム論文
+Afshinnekoo E et al.  Cell Systems, Volume 1, Issue 1, 29 July 2015, Pages 72-87
 [Geospatial Resolution of Human and Bacterial Diversity with City-Scale Metagenomics](http://www.cell.com/cell-systems/references/S2405-4712(15)00002-2) | [PDF](http://www.cell.com/pb/assets/raw/journals/research/cell-systems/do-not-delete/CELS1_FINAL.pdf)
 
+[Modern Methods for Delineating Metagenomic Complexity](http://www.sciencedirect.com/science/article/pii/S2405471215000150) Afshinnekoo E et al. Cell Systems, Volume 1, Issue 1, 29 July 2015, Pages 6-7
+
+[Lack of Evidence for Plague or Anthrax on the New York City Subway: Cell Systems](http://www.cell.com/cell-systems/abstract/S2405-4712(15)00016-2)
+
+[Lack of Evidence for Plague or Anthrax on the New York City Subway](http://www.sciencedirect.com/science/article/pii/S2405471215000162) Joel Ackelsberg et al. Cell Systems, Volume 1, Issue 1, 29 July 2015, Pages 4-5
+
 - 関連記事
+ - 2015-07-31 [Plague or anthrax on the subway? Think again, says now-corrected study - Retraction Watch at Retraction Watch](http://retractionwatch.com/2015/07/31/plague-or-anthrax-on-the-subway-think-again-says-now-corrected-study/) Written by Ross Keith
  - [Metagenomics: Urban microbiome : Nature Reviews Genetics : Nature Publishing Group](http://www.nature.com/nrg/journal/v16/n4/full/nrg3921.html)
  - 2015-04-12 [ニューヨークの地下鉄に1688種類の微生物DNAを確認、テロで使われる炭疽菌もいた | Medエッジ](https://www.mededge.jp/b/huap/11491)
  - 2015-02-17 [The long road from Data to Wisdom, and from DNA to Pathogen | microBEnet: the microbiology of the Built Environment network.](http://microbe.net/2015/02/17/the-long-road-from-data-to-wisdom-and-from-dna-to-pathogen) by Christopher Mason
