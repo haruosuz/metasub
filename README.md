@@ -48,6 +48,8 @@ Last Update: 2016-01-05
 [sciencedirect.com](http://www.sciencedirect.com/science/article/pii/S2405471215000162)
 - (Cell Systems, Vol. 1, Issue 1, p6–7) Letter. Mason and colleagues. "Modern Methods for Delineating Metagenomic Complexity" [cell.com](http://www.cell.com/cell-systems/abstract/S2405-4712(15)00015-0)|[sciencedirect.com](http://www.sciencedirect.com/science/article/pii/S2405471215000150)  
 
+- [Crowdfunding genomics and bioinformatics. Genome Biol. 2013;14(9):134.](http://www.ncbi.nlm.nih.gov/pubmed/24079746) PathoMap: crowdfunding a citizen science microbiome | Christopher Mason
+
 - 関連記事
  - 2015-07-31 [Plague or anthrax on the subway? Think again, says now-corrected study - Retraction Watch at Retraction Watch](http://retractionwatch.com/2015/07/31/plague-or-anthrax-on-the-subway-think-again-says-now-corrected-study/) Written by Ross Keith
  - [Metagenomics: Urban microbiome : Nature Reviews Genetics : Nature Publishing Group](http://www.nature.com/nrg/journal/v16/n4/full/nrg3921.html)
