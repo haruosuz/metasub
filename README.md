@@ -5,9 +5,13 @@ Last Update: 2016-01-05
 
 ----------
 
-## News
+## Related news
+- 2016.01.18 世界中のメトロ路線図を繋げたら、こうなった : ギズモード・ジャパン http://www.gizmodo.jp/2016/01/world_subway_map.html
+- 「微生物から新しいデザインがはじまる」デイヴィッド・ベンジャミン✕ジェシカ・グリーン✕林千晶：Redesigning Tokyo 対話4「Biology」 « WIRED.jp http://wired.jp/special/2016/biology/
 - 2013-05-16 [River Sampling Day Call | Micro B³](https://www.microb3.eu/feeds/oceansamplingday-blogspot/river-sampling-day-call)
 - [Ocean Sampling Day | Micro B³](https://www.microb3.eu/osd)
+
+----------
 
 ## [MetaSUB](http://www.metasub.org)
 ​​​MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes  
