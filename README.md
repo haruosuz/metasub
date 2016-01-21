@@ -46,7 +46,7 @@ Last Update: 2016-01-05
 - (Cell Systems, Vol. 1, Issue 1, p97) Erratum. Mason and colleagues. "Geospatial Resolution of Human and Bacterial Diversity with City-Scale Metagenomics" [cell.com](http://www.cell.com/cell-systems/abstract/S2405-4712(15)00014-9)  
 - (Cell Systems, Vol. 1, Issue 1, p4–5) Letter. Gee and colleagues. "Lack of Evidence for Plague or Anthrax on the New York City Subway" [cell.com](http://www.cell.com/cell-systems/abstract/S2405-4712(15)00016-2)|[sciencedirect.com](http://www.sciencedirect.com/science/article/pii/S2405471215000162)  
 [sciencedirect.com](http://www.sciencedirect.com/science/article/pii/S2405471215000162)
-- (Cell Systems, Vol. 1, Issue 1, p6–7) Letter. Mason and colleagues. "Modern Methods for Delineating Metagenomic Complexity" [cell.com](http://www.cell.com/cell-systems/abstract/S2405-4712(15)00015-0)|[sciencedirect.com](http://www.sciencedirect.com/science/article/pii/S2405471215000150)  
+- (Cell Systems, Vol. 1, Issue 1, p6–7) Letter. Mason and colleagues. "Modern Methods for Delineating Metagenomic Complexity" [pdfExtended](http://www.cell.com/cell-systems/pdfExtended/S2405-4712(15)00002-2)|[cell.com](http://www.cell.com/cell-systems/abstract/S2405-4712(15)00015-0)|[sciencedirect.com](http://www.sciencedirect.com/science/article/pii/S2405471215000150)  
 
 - [Crowdfunding genomics and bioinformatics. Genome Biol. 2013;14(9):134.](http://www.ncbi.nlm.nih.gov/pubmed/24079746) PathoMap: crowdfunding a citizen science microbiome | Christopher Mason
 
