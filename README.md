@@ -1,11 +1,15 @@
 ----------
 
 Haruo Suzuki (haruo[at]g-language[dot]org)   
-Last Update: 2016-01-24  
+Last Update: 2016-03-28  
 
 ----------
 
-## Related news
+## Updates
+
+- 2016-03-01 [Building Off NYC Subway Study, Consortium to Profile Metagenomes of Transit Systems in 45 Cities | GenomeWeb](https://www.genomeweb.com/sequencing-technology/building-nyc-subway-study-consortium-profile-metagenomes-transit-systems-45)
+
+- 2016-02-23 New Genetic Spectra Across Earth's Cities & Far Beyond http://blog.tedmed.com/new-genetic-spectra-across-earths-cities-beyond/
 - 2016年01月20日 NY公共交通システム、「全面リニューアル」プラン発表　21世紀のシステムへ http://newyork.keizai.biz/headline/1505/
 - 2016.1.20 「世界中の地下鉄」に乗り換えできる路線図をつくってみた « WIRED.jp http://wired.jp/2016/01/20/map-worldwide-subway-system/
 - 2016.01.18 世界中のメトロ路線図を繋げたら、こうなった : ギズモード・ジャパン http://www.gizmodo.jp/2016/01/world_subway_map.html
@@ -72,7 +76,9 @@ Last Update: 2016-01-24
  - 2015-02-10 [There’s No Plague on the NYC Subway. No Platypuses Either.](http://on.natgeo.com/1zdQTe0) A Blog by Ed Yong.
  - 2015-02-07 [ＮＹ地下鉄にペスト菌や炭疽菌＝ごく微量、健康に脅威なし－米調査](http://www.jiji.com/jc/zc?k=201502/2015020700220)
  - 2015-02-06 [ビッグデータとバクテリア―NY地下鉄のDNAマップ作成 - WSJ](http://jp.wsj.com/articles/SB12052756172436844285404580444870276852224)
+ - 2015-02-05 [Metagenomic Study Offers Glimpse of NYC Subway System Microbes](https://www.genomeweb.com/genetic-research/metagenomic-study-offers-glimpse-nyc-subway-system-microbes)
 
+- Radio Podcast
  - [The Microbe Map Creeping Everybody Out by FiveThirtyEight](https://soundcloud.com/fivethirtyeight/the-microbe-map-creeping-everybody-out)
 
 - ニュース動画
@@ -135,6 +141,7 @@ https://en.wikipedia.org/wiki/Design_of_experiments
 ## Video
 
 - Dr. Christopher Mason (Weill Medical College of Cornell University) | [Mason Lab](http://www.masonlab.net)
+ - [TEDMED - Discovering and designing genomes for Earth, Mars, and beyond](http://tedmed.com/talks/show?id=528172)
  - 2015-11-09 [【ICF2015】クリストファー・メイソン - 「スマートシティを司る“２番目の脳”」](https://youtu.be/3egxzBzynvY)
  - 2015-11-09 [【ICF2015】Christopher Mason - Second Brain for the Smart City](https://youtu.be/ZK5ORqWqnps)
  - 2015-06-19 [Integrative Genomics in Single Cells, Entire Cities, and Astronauts](https://youtu.be/Q_eUq9FNSaY)
