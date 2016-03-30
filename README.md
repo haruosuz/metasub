@@ -10,9 +10,7 @@ Last Update: 2016-03-28
 - 2016-03-01 [Building Off NYC Subway Study, Consortium to Profile Metagenomes of Transit Systems in 45 Cities | GenomeWeb](https://www.genomeweb.com/sequencing-technology/building-nyc-subway-study-consortium-profile-metagenomes-transit-systems-45)
 
 - 2016-02-23 New Genetic Spectra Across Earth's Cities & Far Beyond http://blog.tedmed.com/new-genetic-spectra-across-earths-cities-beyond/
-- 2016年01月20日 NY公共交通システム、「全面リニューアル」プラン発表　21世紀のシステムへ http://newyork.keizai.biz/headline/1505/
-- 2016.1.20 「世界中の地下鉄」に乗り換えできる路線図をつくってみた « WIRED.jp http://wired.jp/2016/01/20/map-worldwide-subway-system/
-- 2016.01.18 世界中のメトロ路線図を繋げたら、こうなった : ギズモード・ジャパン http://www.gizmodo.jp/2016/01/world_subway_map.html
+
 - 「微生物から新しいデザインがはじまる」デイヴィッド・ベンジャミン✕ジェシカ・グリーン✕林千晶：Redesigning Tokyo 対話4「Biology」 « WIRED.jp http://wired.jp/special/2016/biology/
 - 2013-05-16 [River Sampling Day Call | Micro B³](https://www.microb3.eu/feeds/oceansamplingday-blogspot/river-sampling-day-call)
 - [Ocean Sampling Day | Micro B³](https://www.microb3.eu/osd)
@@ -92,6 +90,10 @@ Last Update: 2016-03-28
 ----------
 
 ## 地下鉄
+- 2016年01月20日 NY公共交通システム、「全面リニューアル」プラン発表　21世紀のシステムへ http://newyork.keizai.biz/headline/1505/
+- 2016.1.20 「世界中の地下鉄」に乗り換えできる路線図をつくってみた « WIRED.jp http://wired.jp/2016/01/20/map-worldwide-subway-system/
+- 2016.01.18 世界中のメトロ路線図を繋げたら、こうなった : ギズモード・ジャパン http://www.gizmodo.jp/2016/01/world_subway_map.html
+
 - [趙  慶姫 (2012) 都市環境と芸術 ── 地下鉄駅空間のアート ──](https://www.agulin.aoyama.ac.jp/opac/repository/1000/12898/N20U059_079.pdf)
 
 - NY市地下鉄の清掃状況
