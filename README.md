@@ -1,11 +1,13 @@
 ----------
 
 Haruo Suzuki (haruo[at]g-language[dot]org)   
-Last Update: 2016-03-28  
+Last Update: 2016-05-18  
 
 ----------
 
 ## Updates
+
+- 2016-04-25 動画 [Christopher Mason at the 2016 DOE JGI Genomics of Energy & Environment Meeting - YouTube](https://www.youtube.com/watch?v=WtpKmmIg9qM) | Christopher Mason, Cornell University, at the 11th Annual Genomics of Energy & Environment Meeting on March 23, 2016 in Walnut Creek, Calif.
 
 - 2016-03-01 [Building Off NYC Subway Study, Consortium to Profile Metagenomes of Transit Systems in 45 Cities | GenomeWeb](https://www.genomeweb.com/sequencing-technology/building-nyc-subway-study-consortium-profile-metagenomes-transit-systems-45)
 
