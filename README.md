@@ -1,31 +1,7 @@
 ----------
 
 Haruo Suzuki (haruo[at]g-language[dot]org)   
-Last Update: 2016-05-18  
-
-----------
-
-## Updates
-
-- 2016-04-25 動画 [Christopher Mason at the 2016 DOE JGI Genomics of Energy & Environment Meeting - YouTube](https://www.youtube.com/watch?v=WtpKmmIg9qM) | Christopher Mason, Cornell University, at the 11th Annual Genomics of Energy & Environment Meeting on March 23, 2016 in Walnut Creek, Calif.
-
-- 2016-03-01 [Building Off NYC Subway Study, Consortium to Profile Metagenomes of Transit Systems in 45 Cities | GenomeWeb](https://www.genomeweb.com/sequencing-technology/building-nyc-subway-study-consortium-profile-metagenomes-transit-systems-45)
-
-- 2016-02-23 New Genetic Spectra Across Earth's Cities & Far Beyond http://blog.tedmed.com/new-genetic-spectra-across-earths-cities-beyond/
-
-- 「微生物から新しいデザインがはじまる」デイヴィッド・ベンジャミン✕ジェシカ・グリーン✕林千晶：Redesigning Tokyo 対話4「Biology」 « WIRED.jp http://wired.jp/special/2016/biology/
-- 2013-05-16 [River Sampling Day Call | Micro B³](https://www.microb3.eu/feeds/oceansamplingday-blogspot/river-sampling-day-call)
-- [Ocean Sampling Day | Micro B³](https://www.microb3.eu/osd)
-
-- 2015-12-01 [東京に多様性と複雑性を：伊藤穰一のバイオシティ構想](http://wired.jp/2015/12/01/joi-ito-future-city-tokyo/)
-- 2015-10-14 [プログラム | Innovative City Forum 2015](http://icf.academyhills.com/program.html)
-スマートシティを司る“２番目の脳”　都市の中の微生物叢から学ぶこと　「都市における微生物の存在が私達の健康にどのように関係しているのか？」　私達を取り巻く微生物と都市環境デザインについて、ハード、ソフト、バイオテクノロジーの観点から議論を展開します。
-- 2015-10-02 [「微生物によって建築のデザイン・プロセスを変えたい」ジェシカ・グリーン（微生物学者） « WIRED.jp](http://wired.jp/2015/10/02/innovative-city-forum-2015-4/)
-- [ジェシカ・グリーン「微生物を正しく取り除くために」](http://www.ted.com/talks/jessica_green_are_we_filtering_the_wrong_microbes?language=ja)
-- [ジェシカ・グリーン: 私たちを取り巻く細菌と住環境のデザイン](http://www.ted.com/talks/jessica_green_good_germs_make_healthy_buildings?language=ja)
-
-- [MITメディアラボきっての遊びの天才ケヴィン・スラヴィン、その「ひらめき」の秘密 « WIRED.jp](http://wired.jp/special/2015/beyond-solution/01.html)
-「微生物と都市のデザイン」を研究している、MITメディアラボのケヴィン・スラヴィンが目指しているのは、マンガ『もやしもん』の世界観だった！
+Last Update: 2016-05-19  
 
 ----------
 
@@ -91,6 +67,46 @@ Last Update: 2016-05-18
 
 ----------
 
+## Updates
+
+- 2016-04-25 動画 [Christopher Mason at the 2016 DOE JGI Genomics of Energy & Environment Meeting - YouTube](https://www.youtube.com/watch?v=WtpKmmIg9qM) | Christopher Mason, Cornell University, at the 11th Annual Genomics of Energy & Environment Meeting on March 23, 2016 in Walnut Creek, Calif.
+
+- 2016-03-01 [Building Off NYC Subway Study, Consortium to Profile Metagenomes of Transit Systems in 45 Cities | GenomeWeb](https://www.genomeweb.com/sequencing-technology/building-nyc-subway-study-consortium-profile-metagenomes-transit-systems-45)
+
+- 2016-02-23 New Genetic Spectra Across Earth's Cities & Far Beyond http://blog.tedmed.com/new-genetic-spectra-across-earths-cities-beyond/
+
+- 「微生物から新しいデザインがはじまる」デイヴィッド・ベンジャミン✕ジェシカ・グリーン✕林千晶：Redesigning Tokyo 対話4「Biology」 « WIRED.jp http://wired.jp/special/2016/biology/
+- 2013-05-16 [River Sampling Day Call | Micro B³](https://www.microb3.eu/feeds/oceansamplingday-blogspot/river-sampling-day-call)
+- [Ocean Sampling Day | Micro B³](https://www.microb3.eu/osd)
+
+- 2015-12-01 [東京に多様性と複雑性を：伊藤穰一のバイオシティ構想](http://wired.jp/2015/12/01/joi-ito-future-city-tokyo/)
+- 2015-10-14 [プログラム | Innovative City Forum 2015](http://icf.academyhills.com/program.html)
+スマートシティを司る“２番目の脳”　都市の中の微生物叢から学ぶこと　「都市における微生物の存在が私達の健康にどのように関係しているのか？」　私達を取り巻く微生物と都市環境デザインについて、ハード、ソフト、バイオテクノロジーの観点から議論を展開します。
+- 2015-10-02 [「微生物によって建築のデザイン・プロセスを変えたい」ジェシカ・グリーン（微生物学者） « WIRED.jp](http://wired.jp/2015/10/02/innovative-city-forum-2015-4/)
+- [ジェシカ・グリーン「微生物を正しく取り除くために」](http://www.ted.com/talks/jessica_green_are_we_filtering_the_wrong_microbes?language=ja)
+- [ジェシカ・グリーン: 私たちを取り巻く細菌と住環境のデザイン](http://www.ted.com/talks/jessica_green_good_germs_make_healthy_buildings?language=ja)
+
+- [MITメディアラボきっての遊びの天才ケヴィン・スラヴィン、その「ひらめき」の秘密 « WIRED.jp](http://wired.jp/special/2015/beyond-solution/01.html)
+「微生物と都市のデザイン」を研究している、MITメディアラボのケヴィン・スラヴィンが目指しているのは、マンガ『もやしもん』の世界観だった！
+
+----------
+
+## Video
+
+- Dr. Christopher Mason (Weill Medical College of Cornell University) | [Mason Lab](http://www.masonlab.net)
+ - [TEDMED - Discovering and designing genomes for Earth, Mars, and beyond](http://tedmed.com/talks/show?id=528172)
+ - 2015-11-09 [【ICF2015】クリストファー・メイソン - 「スマートシティを司る“２番目の脳”」](https://youtu.be/3egxzBzynvY)
+ - 2015-11-09 [【ICF2015】Christopher Mason - Second Brain for the Smart City](https://youtu.be/ZK5ORqWqnps)
+ - 2015-06-19 [Integrative Genomics in Single Cells, Entire Cities, and Astronauts](https://youtu.be/Q_eUq9FNSaY)
+ - 2015-03-27 [SciCafe: Mapping the Urban Microbiome, Genome, and Metagenome - YouTube](https://www.youtube.com/watch?v=mn5MkKXtxms)
+
+- Dr. Rumi Chunara (New York University) | [Chunara Lab: Computer Science & Engineering And Global Public Health](https://wp.nyu.edu/chunaralab/)
+ - 2014-01-26 [Rumi Chunara: Flu Near You - YouTube](https://www.youtube.com/watch?v=HQaNsKAk9j8)
+ - 2013-10-08 [Rumi Chunara's Ignite presentation, "Why We Need Crowdsourced Data...", at Strata RX 2013. - YouTube](https://www.youtube.com/watch?v=I1-qwR6gK88)
+ - 2013-09-17 [Rumi Chunara // Health Innovation Summit - YouTube](https://www.youtube.com/watch?v=Zei0XeSnCcg)
+
+----------
+
 ## 地下鉄
 - 2016年01月20日 NY公共交通システム、「全面リニューアル」プラン発表　21世紀のシステムへ http://newyork.keizai.biz/headline/1505/
 - 2016.1.20 「世界中の地下鉄」に乗り換えできる路線図をつくってみた « WIRED.jp http://wired.jp/2016/01/20/map-worldwide-subway-system/
@@ -139,22 +155,6 @@ T Card｜Culture Convenience Club Co., Ltd. http://www.ccc.co.jp/en/showcase/sc_
 
 https://ja.wikipedia.org/wiki/実験計画法
 https://en.wikipedia.org/wiki/Design_of_experiments
-
-----------
-
-## Video
-
-- Dr. Christopher Mason (Weill Medical College of Cornell University) | [Mason Lab](http://www.masonlab.net)
- - [TEDMED - Discovering and designing genomes for Earth, Mars, and beyond](http://tedmed.com/talks/show?id=528172)
- - 2015-11-09 [【ICF2015】クリストファー・メイソン - 「スマートシティを司る“２番目の脳”」](https://youtu.be/3egxzBzynvY)
- - 2015-11-09 [【ICF2015】Christopher Mason - Second Brain for the Smart City](https://youtu.be/ZK5ORqWqnps)
- - 2015-06-19 [Integrative Genomics in Single Cells, Entire Cities, and Astronauts](https://youtu.be/Q_eUq9FNSaY)
- - 2015-03-27 [SciCafe: Mapping the Urban Microbiome, Genome, and Metagenome - YouTube](https://www.youtube.com/watch?v=mn5MkKXtxms)
-
-- Dr. Rumi Chunara (New York University) | [Chunara Lab: Computer Science & Engineering And Global Public Health](https://wp.nyu.edu/chunaralab/)
- - 2014-01-26 [Rumi Chunara: Flu Near You - YouTube](https://www.youtube.com/watch?v=HQaNsKAk9j8)
- - 2013-10-08 [Rumi Chunara's Ignite presentation, "Why We Need Crowdsourced Data...", at Strata RX 2013. - YouTube](https://www.youtube.com/watch?v=I1-qwR6gK88)
- - 2013-09-17 [Rumi Chunara // Health Innovation Summit - YouTube](https://www.youtube.com/watch?v=Zei0XeSnCcg)
 
 ----------
 
