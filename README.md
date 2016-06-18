@@ -15,13 +15,25 @@ Last Update: 2016-06-10
 - [Meetings](http://metasub.org/?page_id=46)
 - [Links](http://metasub.org/?page_id=49)
 
-----------
+Our grant from the Bill and Melinda Gates Foundation was announced today for MetaSUB! https://t.co/UfsHN4TYea & WCM: https://t.co/njizLZec0P
+
+### News
+- [MetaSUB Research (@metasub) | Twitter](https://twitter.com/metasub)
+- [MetaSUB International Consortium. Microbiome. 2016 Jun 'The Metagenomics and Metadesign of the Subways and Urban Biomes (MetaSUB) International Consortium inaugural meeting report.'](http://www.ncbi.nlm.nih.gov/pubmed/27255532)
+
+### Events
+- June 21, Global City Sampling Day (CSD)
+- JULY 1-2, @ SHANGHAI, CHINA [2016 Meetings](http://metasub.org/?page_id=4409)
+- [Innovative City Forum 2016](http://icf.academyhills.com) 日程：2016年10月19日(水)・20日(木) [予定] | 場所：虎ノ門ヒルズフォーラム
 
 ### [2016 Meetings](http://metasub.org/?page_id=4409)
 
-----------
+JULY 1-2, 2016 MEETING AGENDA - SHANGHAI, CHINA
+
+2016年7月1-2日、上海の復旦大学で、第2回MetaSUBミーティング
 
 ### [2015 Meetings](http://metasub.org/?page_id=4407)
+
 2015年6月20日、1st MetaSUB Summit 開催
 
 - [#MetaSUB15 hashtag on Twitter](https://twitter.com/hashtag/MetaSUB15?src=hash)
@@ -37,14 +49,14 @@ Last Update: 2016-06-10
 
 ## PathoMap
 [PathoMap - Mapping New York's Microscopic Residents](http://www.pathomap.org)
-ニューヨーク地下鉄の微生物叢
+ニューヨーク地下鉄メタゲノム
 
 - [PathoMap Research (@nycpathomap) | Twitter](https://twitter.com/nycpathomap)
 - [都市微生物叢研究PathoMap｜2015年2月号｜News & Hot Paper Digest｜羊土社：実験医学online](https://www.yodosha.co.jp/jikkenigaku/nhpd/9784758101363/c5.html)
 - [Pathomap Japan node - 国立遺伝学研究所](http://tga.nig.ac.jp/pathomapj/)
  - [Pathomapプロジェクトの日本語紹介文](http://tga.nig.ac.jp/pathomapj/pathomap_mason.html)
 
-### NY地下鉄メタゲノム論文
+### Publications
 
 - (Cell Systems 1, 72–87; July 29, 2015) Article. Mason and colleagues. "Geospatial Resolution of Human and Bacterial Diversity with City-Scale Metagenomics" [pdfExtended](http://www.cell.com/cell-systems/pdfExtended/S2405-4712(15)00002-2)|[cell.com](http://www.cell.com/cell-systems/abstract/S2405-4712(15)00002-2)|[sciencedirect.com](http://www.sciencedirect.com/science/article/pii/S2405471215000022)  
 - (Cell Systems, Vol. 1, Issue 1, p97) Erratum. Mason and colleagues. "Geospatial Resolution of Human and Bacterial Diversity with City-Scale Metagenomics" [cell.com](http://www.cell.com/cell-systems/abstract/S2405-4712(15)00014-9)  
@@ -79,9 +91,22 @@ Last Update: 2016-06-10
 
 ----------
 
-## Updates
+- Dr. Christopher Mason (Weill Medical College of Cornell University) | [Mason Lab](http://www.masonlab.net)
+ - [Christopher Mason (@mason_lab) | Twitter](https://twitter.com/mason_lab)
+ - Video
+  - 2016-04-25 [Christopher Mason at the 2016 DOE JGI Genomics of Energy & Environment Meeting - YouTube](https://www.youtube.com/watch?v=WtpKmmIg9qM) | Christopher Mason, Cornell University, at the 11th Annual Genomics of Energy & Environment Meeting on March 23, 2016 in Walnut Creek, Calif.
+  - 2016-11-30 [TEDMED - Discovering and designing genomes for Earth, Mars, and beyond](http://tedmed.com/talks/show?id=528172)
+  - 2015-11-09 [【ICF2015】クリストファー・メイソン - 「スマートシティを司る“２番目の脳”」](https://youtu.be/3egxzBzynvY)
+  - 2015-11-09 [【ICF2015】Christopher Mason - Second Brain for the Smart City](https://youtu.be/ZK5ORqWqnps)
+  - 2015-06-19 [Integrative Genomics in Single Cells, Entire Cities, and Astronauts](https://youtu.be/Q_eUq9FNSaY)
+  - 2015-03-27 [SciCafe: Mapping the Urban Microbiome, Genome, and Metagenome - YouTube](https://www.youtube.com/watch?v=mn5MkKXtxms)
 
-- 2016-04-25 動画 [Christopher Mason at the 2016 DOE JGI Genomics of Energy & Environment Meeting - YouTube](https://www.youtube.com/watch?v=WtpKmmIg9qM) | Christopher Mason, Cornell University, at the 11th Annual Genomics of Energy & Environment Meeting on March 23, 2016 in Walnut Creek, Calif.
+  - 2015-11-20 [Cracking the Genetic Code of Our Cities | Sofia Ahsanuddin | TEDxCUNY - YouTube](https://www.youtube.com/watch?v=t9GrVdYWJOc)
+    - [There are 15,000 lifeforms riding the NYC subway, including meningitis | TEDx Innovations Blog](http://tedxinnovations.ted.com/2016/06/15/nyc-subway-commuters-include-15000-lifeforms-including-meningitis/)
+
+----------
+
+## Updates
 
 - 2016-03-01 [Building Off NYC Subway Study, Consortium to Profile Metagenomes of Transit Systems in 45 Cities | GenomeWeb](https://www.genomeweb.com/sequencing-technology/building-nyc-subway-study-consortium-profile-metagenomes-transit-systems-45)
 
@@ -104,14 +129,6 @@ Last Update: 2016-06-10
 ----------
 
 ## Video
-
-- Dr. Christopher Mason (Weill Medical College of Cornell University) | [Mason Lab](http://www.masonlab.net)
- - [TEDMED - Discovering and designing genomes for Earth, Mars, and beyond](http://tedmed.com/talks/show?id=528172)
- - 2015-11-09 [【ICF2015】クリストファー・メイソン - 「スマートシティを司る“２番目の脳”」](https://youtu.be/3egxzBzynvY)
- - 2015-11-09 [【ICF2015】Christopher Mason - Second Brain for the Smart City](https://youtu.be/ZK5ORqWqnps)
- - 2015-06-19 [Integrative Genomics in Single Cells, Entire Cities, and Astronauts](https://youtu.be/Q_eUq9FNSaY)
- - 2015-03-27 [SciCafe: Mapping the Urban Microbiome, Genome, and Metagenome - YouTube](https://www.youtube.com/watch?v=mn5MkKXtxms)
-
 - Dr. Rumi Chunara (New York University) | [Chunara Lab: Computer Science & Engineering And Global Public Health](https://wp.nyu.edu/chunaralab/)
  - 2014-01-26 [Rumi Chunara: Flu Near You - YouTube](https://www.youtube.com/watch?v=HQaNsKAk9j8)
  - 2013-10-08 [Rumi Chunara's Ignite presentation, "Why We Need Crowdsourced Data...", at Strata RX 2013. - YouTube](https://www.youtube.com/watch?v=I1-qwR6gK88)
