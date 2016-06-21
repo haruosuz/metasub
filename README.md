@@ -1,12 +1,12 @@
 ----------
 
 Haruo Suzuki (haruo[at]g-language[dot]org)   
-Last Update: 2016-06-10  
+Last Update: 2016-06-21  
 
 ----------
 
 ## [MetaSUB](http://www.metasub.org)
-​​​MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes  
+MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes  
 都市環境（地下鉄）の微生物叢とデザイン
 
 - [About](http://metasub.org/?page_id=55)
@@ -15,9 +15,10 @@ Last Update: 2016-06-10
 - [Meetings](http://metasub.org/?page_id=46)
 - [Links](http://metasub.org/?page_id=49)
 
-Our grant from the Bill and Melinda Gates Foundation was announced today for MetaSUB! https://t.co/UfsHN4TYea & WCM: https://t.co/njizLZec0P
+[ビル&メリンダ・ゲイツ財団](https://ja.wikipedia.org/wiki/ビル%26メリンダ・ゲイツ財団)からの助成
+grant from the Bill and Melinda Gates Foundation for MetaSUB! https://t.co/UfsHN4TYea & WCM: https://t.co/njizLZec0P
 
-### News
+- [#MetaSUB hashtag on Twitter](https://twitter.com/hashtag/MetaSUB)
 - [MetaSUB Research (@metasub) | Twitter](https://twitter.com/metasub)
 - [MetaSUB International Consortium. Microbiome. 2016 Jun 'The Metagenomics and Metadesign of the Subways and Urban Biomes (MetaSUB) International Consortium inaugural meeting report.'](http://www.ncbi.nlm.nih.gov/pubmed/27255532)
 
@@ -37,7 +38,6 @@ JULY 1-2, 2016 MEETING AGENDA - SHANGHAI, CHINA
 2015年6月20日、1st MetaSUB Summit 開催
 
 - [#MetaSUB15 hashtag on Twitter](https://twitter.com/hashtag/MetaSUB15?src=hash)
-- [#metasub hashtag on Twitter](https://twitter.com/hashtag/metasub)
 
 - 2015-07-17 [将来は、細菌だらけの地下鉄で健康的に通勤できるかも](http://www.lifehacker.jp/2015/07/150717_subway_germs.html)
 - 2015-06-23 [Scientists Are Studying Subway Germs To Keep Us Healthier | Popular Science](http://www.popsci.com/scientists-are-studying-subway-germs-keep-us-healthier)
