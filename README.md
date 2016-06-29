@@ -15,12 +15,11 @@ MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes
 - [Meetings](http://metasub.org/?page_id=46)
 - [Links](http://metasub.org/?page_id=49)
 
-[ビル&メリンダ・ゲイツ財団](https://ja.wikipedia.org/wiki/ビル%26メリンダ・ゲイツ財団)からの助成
-grant from the Bill and Melinda Gates Foundation for MetaSUB! https://t.co/UfsHN4TYea & WCM: https://t.co/njizLZec0P
+[ビル&メリンダ・ゲイツ財団](https://ja.wikipedia.org/wiki/ビル%26メリンダ・ゲイツ財団)からの助成 https://t.co/UfsHN4TYea | https://t.co/njizLZec0P
 
 - [#MetaSUB hashtag on Twitter](https://twitter.com/hashtag/MetaSUB)
 - [MetaSUB Research (@metasub) | Twitter](https://twitter.com/metasub)
-- [MetaSUB International Consortium. Microbiome. 2016 Jun 'The Metagenomics and Metadesign of the Subways and Urban Biomes (MetaSUB) International Consortium inaugural meeting report.'](http://www.ncbi.nlm.nih.gov/pubmed/27255532)
+- 国際コンソーシアムの論文 [MetaSUB International Consortium. Microbiome. 2016 Jun 'The Metagenomics and Metadesign of the Subways and Urban Biomes (MetaSUB) International Consortium inaugural meeting report.'](http://www.ncbi.nlm.nih.gov/pubmed/27255532)
 
 ### Events
 - June 21, Global City Sampling Day (CSD)
@@ -28,13 +27,13 @@ grant from the Bill and Melinda Gates Foundation for MetaSUB! https://t.co/UfsHN
 - [Innovative City Forum 2016](http://icf.academyhills.com) 日程：2016年10月19日(水)・20日(木) [予定] | 場所：虎ノ門ヒルズフォーラム
 
 ### [2016 Meetings](http://metasub.org/?page_id=4409)
+2016年7月1-2日、上海の復旦大学で、MetaSUB Summit 開催
 
 JULY 1-2, 2016 MEETING AGENDA - SHANGHAI, CHINA
 
-2016年7月1-2日、上海の復旦大学で、第2回MetaSUBミーティング
+[Metagenomics & Metadesign of Subways & Urban Biomes (MetaSUB) 2016 Summit Tickets, Fri, Jul 1, 2016 at 8:00 AM | Eventbrite](https://www.eventbrite.com/e/metagenomics-metadesign-of-subways-urban-biomes-metasub-2016-summit-tickets-23006196152)
 
 ### [2015 Meetings](http://metasub.org/?page_id=4407)
-
 2015年6月20日、1st MetaSUB Summit 開催
 
 - [#MetaSUB15 hashtag on Twitter](https://twitter.com/hashtag/MetaSUB15?src=hash)
