@@ -9,11 +9,11 @@ Last Update: 2016-07-01
 MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes  
 都市環境（地下鉄）の微生物叢とデザイン
 
-- [About](http://metasub.org/?page_id=55)
-- [City Profiles](http://metasub.org/?page_id=4)
-- [Methods](http://metasub.org/?page_id=40)
-- [Meetings](http://metasub.org/?page_id=46)
-- [Links](http://metasub.org/?page_id=49)
+[About](http://metasub.org/?page_id=55)
+[City Profiles](http://metasub.org/?page_id=4)
+[Methods](http://metasub.org/?page_id=40)
+[Meetings](http://metasub.org/?page_id=46)
+[Links](http://metasub.org/?page_id=49)
 
 [ビル&メリンダ・ゲイツ財団](https://ja.wikipedia.org/wiki/ビル%26メリンダ・ゲイツ財団)からの助成 https://t.co/UfsHN4TYea | https://t.co/njizLZec0P
 
@@ -22,9 +22,9 @@ MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes
 - 国際コンソーシアムの論文 [MetaSUB International Consortium. Microbiome. 2016 Jun 'The Metagenomics and Metadesign of the Subways and Urban Biomes (MetaSUB) International Consortium inaugural meeting report.'](http://www.ncbi.nlm.nih.gov/pubmed/27255532)
 
 ### Events
-- June 21, Global City Sampling Day (CSD)
-- JULY 1-2, @ SHANGHAI, CHINA [2016 Meetings](http://metasub.org/?page_id=4409)
 - [Innovative City Forum 2016](http://icf.academyhills.com) 日程：2016年10月19日(水)・20日(木) [予定] | 場所：虎ノ門ヒルズフォーラム
+- JULY 1-2, @ SHANGHAI, CHINA [2016 Meetings](http://metasub.org/?page_id=4409)
+- June 21, Global City Sampling Day (CSD)
 
 #### Global City Sampling Day (CSD)
 The interactive data map for all samples collected can now be viewed at two places:
