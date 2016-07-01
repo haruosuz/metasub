@@ -1,7 +1,7 @@
 ----------
 
 Haruo Suzuki (haruo[at]g-language[dot]org)   
-Last Update: 2016-06-21  
+Last Update: 2016-07-01  
 
 ----------
 
@@ -26,14 +26,20 @@ MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes
 - JULY 1-2, @ SHANGHAI, CHINA [2016 Meetings](http://metasub.org/?page_id=4409)
 - [Innovative City Forum 2016](http://icf.academyhills.com) 日程：2016年10月19日(水)・20日(木) [予定] | 場所：虎ノ門ヒルズフォーラム
 
-### [2016 Meetings](http://metasub.org/?page_id=4409)
+#### Global City Sampling Day (CSD)
+The interactive data map for all samples collected can now be viewed at two places:
+http://metasub.org/interactive-map/
+and with the metadata and pictures:
+http://metasub.giscloud.com/
+
+#### [2016 Meetings](http://metasub.org/?page_id=4409)
 2016年7月1-2日、上海の復旦大学で、MetaSUB Summit 開催
 
 JULY 1-2, 2016 MEETING AGENDA - SHANGHAI, CHINA
 
 [Metagenomics & Metadesign of Subways & Urban Biomes (MetaSUB) 2016 Summit Tickets, Fri, Jul 1, 2016 at 8:00 AM | Eventbrite](https://www.eventbrite.com/e/metagenomics-metadesign-of-subways-urban-biomes-metasub-2016-summit-tickets-23006196152)
 
-### [2015 Meetings](http://metasub.org/?page_id=4407)
+#### [2015 Meetings](http://metasub.org/?page_id=4407)
 2015年6月20日、1st MetaSUB Summit 開催
 
 - [#MetaSUB15 hashtag on Twitter](https://twitter.com/hashtag/MetaSUB15?src=hash)
