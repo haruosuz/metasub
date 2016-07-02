@@ -30,23 +30,30 @@ MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes
 - June 21, Global City Sampling Day (CSD)
 
 #### Global City Sampling Day (CSD)
+
+
+![](http://images.med.cornell.edu/body/dean/2016/06_21_16metasub3sm.jpg)
+
+['Global City Sampling Day' to Launch Weill Cornell Medicine-Led Study of Antimicrobial Resistance Across 54 International Cities | Weill Cornell Newsroom | Weill Cornell Medical College](http://weill.cornell.edu/news/pr/2016/06/global-city-sampling-day-to-launch-weill-cornell-medicine-led-study-of-antimicrobial-resistance-acro-1.html)
+
+
 The interactive data map for all samples collected can now be viewed at two places:
 http://metasub.org/interactive-map/
 and with the metadata and pictures:
 http://metasub.giscloud.com/
 
-#### [2016 Meetings](http://metasub.org/?page_id=4409)
-2016年7月1-2日、上海の復旦大学で、MetaSUB Summit 開催
+- 2013-05-16 [River Sampling Day Call | Micro B³](https://www.microb3.eu/feeds/oceansamplingday-blogspot/river-sampling-day-call)
+- [Ocean Sampling Day | Micro B³](https://www.microb3.eu/osd)
+- [グローバル・オーシャン・サンプリング・エクスペディション](https://ja.wikipedia.org/wiki/グローバル・オーシャン・サンプリング・エクスペディション)
 
-JULY 1-2, 2016 MEETING AGENDA - SHANGHAI, CHINA
+#### [2016 Meetings](http://metasub.org/?page_id=4409)
+2016年7月1-3日、上海の復旦大学で、第2回 MetaSUB Summit 開催
 
 [Metagenomics & Metadesign of Subways & Urban Biomes (MetaSUB) 2016 Summit Tickets, Fri, Jul 1, 2016 at 8:00 AM | Eventbrite](https://www.eventbrite.com/e/metagenomics-metadesign-of-subways-urban-biomes-metasub-2016-summit-tickets-23006196152)
 
 #### [2015 Meetings](http://metasub.org/?page_id=4407)
-2015年6月20日、1st MetaSUB Summit 開催
-
+2015年6月20日、The New York Genome Center (NYGC：ニューヨーク ゲノム センター）で、第1回 MetaSUB Summit 開催
 - [#MetaSUB15 hashtag on Twitter](https://twitter.com/hashtag/MetaSUB15?src=hash)
-
 - 2015-07-17 [将来は、細菌だらけの地下鉄で健康的に通勤できるかも](http://www.lifehacker.jp/2015/07/150717_subway_germs.html)
 - 2015-06-23 [Scientists Are Studying Subway Germs To Keep Us Healthier | Popular Science](http://www.popsci.com/scientists-are-studying-subway-germs-keep-us-healthier)
 - 2015-06-22 [Urban microbes come out of the shadows : Nature News & Comment](http://www.nature.com/news/urban-microbes-come-out-of-the-shadows-1.17818)
@@ -121,8 +128,6 @@ JULY 1-2, 2016 MEETING AGENDA - SHANGHAI, CHINA
 - 2016-02-23 New Genetic Spectra Across Earth's Cities & Far Beyond http://blog.tedmed.com/new-genetic-spectra-across-earths-cities-beyond/
 
 - 「微生物から新しいデザインがはじまる」デイヴィッド・ベンジャミン✕ジェシカ・グリーン✕林千晶：Redesigning Tokyo 対話4「Biology」 « WIRED.jp http://wired.jp/special/2016/biology/
-- 2013-05-16 [River Sampling Day Call | Micro B³](https://www.microb3.eu/feeds/oceansamplingday-blogspot/river-sampling-day-call)
-- [Ocean Sampling Day | Micro B³](https://www.microb3.eu/osd)
 
 - 2015-12-01 [東京に多様性と複雑性を：伊藤穰一のバイオシティ構想](http://wired.jp/2015/12/01/joi-ito-future-city-tokyo/)
 - 2015-10-14 [プログラム | Innovative City Forum 2015](http://icf.academyhills.com/program.html)
