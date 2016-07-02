@@ -9,11 +9,14 @@ Last Update: 2016-07-01
 MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes  
 都市環境（地下鉄）の微生物叢とデザイン
 
-[About](http://metasub.org/?page_id=55)
-[City Profiles](http://metasub.org/?page_id=4)
-[Methods](http://metasub.org/?page_id=40)
-[Meetings](http://metasub.org/?page_id=46)
-[Links](http://metasub.org/?page_id=49)
+[City Profiles](http://metasub.org/?page_id=4) |
+[About](http://metasub.org/?page_id=55) |
+[Map](http://metasub.org/interactive-map/) |
+[People](http://metasub.org/people/) |
+[Methods](http://metasub.org/?page_id=40) |
+[Meetings](http://metasub.org/?page_id=46) |
+[Links](http://metasub.org/?page_id=49) |
+[Contact](http://metasub.org/contact-us/)
 
 [ビル&メリンダ・ゲイツ財団](https://ja.wikipedia.org/wiki/ビル%26メリンダ・ゲイツ財団)からの助成 https://t.co/UfsHN4TYea | https://t.co/njizLZec0P
 
