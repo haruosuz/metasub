@@ -1,13 +1,15 @@
 ----------
 
 Haruo Suzuki (haruo[at]g-language[dot]org)   
-Last Update: 2016-07-01  
+Last Update: 2016-07-03  
 
 ----------
 
 ## [MetaSUB](http://www.metasub.org)
 MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes  
 都市環境（地下鉄）の微生物叢とデザイン
+
+[MetaSUB紹介ビデオ](https://vimeo.com/171773795)
 
 [City Profiles](http://metasub.org/?page_id=4) |
 [About](http://metasub.org/?page_id=55) |
@@ -30,12 +32,11 @@ MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes
 - June 21, Global City Sampling Day (CSD)
 
 #### Global City Sampling Day (CSD)
-
+2016-06-21 グローバル・シティ・サンプリング・デー
 
 ![](http://images.med.cornell.edu/body/dean/2016/06_21_16metasub3sm.jpg)
 
 ['Global City Sampling Day' to Launch Weill Cornell Medicine-Led Study of Antimicrobial Resistance Across 54 International Cities | Weill Cornell Newsroom | Weill Cornell Medical College](http://weill.cornell.edu/news/pr/2016/06/global-city-sampling-day-to-launch-weill-cornell-medicine-led-study-of-antimicrobial-resistance-acro-1.html)
-
 
 The interactive data map for all samples collected can now be viewed at two places:
 http://metasub.org/interactive-map/
@@ -47,12 +48,15 @@ http://metasub.giscloud.com/
 - [グローバル・オーシャン・サンプリング・エクスペディション](https://ja.wikipedia.org/wiki/グローバル・オーシャン・サンプリング・エクスペディション)
 
 #### [2016 Meetings](http://metasub.org/?page_id=4409)
-2016年7月1-3日、上海の復旦大学で、第2回 MetaSUB Summit 開催
+第2回 MetaSUB 会議、2016年7月1-3日、中国上海市[復旦大学](https://ja.wikipedia.org/wiki/復旦大学)
 
 [Metagenomics & Metadesign of Subways & Urban Biomes (MetaSUB) 2016 Summit Tickets, Fri, Jul 1, 2016 at 8:00 AM | Eventbrite](https://www.eventbrite.com/e/metagenomics-metadesign-of-subways-urban-biomes-metasub-2016-summit-tickets-23006196152)
 
+
+
 #### [2015 Meetings](http://metasub.org/?page_id=4407)
-2015年6月20日、The New York Genome Center (NYGC：ニューヨーク ゲノム センター）で、第1回 MetaSUB Summit 開催
+第1回 MetaSUB 会議、2015年6月20日、The New York Genome Center (NYGC：ニューヨーク ゲノム センター）
+
 - [#MetaSUB15 hashtag on Twitter](https://twitter.com/hashtag/MetaSUB15?src=hash)
 - 2015-07-17 [将来は、細菌だらけの地下鉄で健康的に通勤できるかも](http://www.lifehacker.jp/2015/07/150717_subway_germs.html)
 - 2015-06-23 [Scientists Are Studying Subway Germs To Keep Us Healthier | Popular Science](http://www.popsci.com/scientists-are-studying-subway-germs-keep-us-healthier)
