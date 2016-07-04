@@ -33,6 +33,7 @@ MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes
 
 #### Global City Sampling Day (CSD)
 2016-06-21 グローバル・シティ・サンプリング・デー
+[City Sampling Day – MetaSUB](http://metasub.org/city-sampling-day/)
 
 ![](http://images.med.cornell.edu/body/dean/2016/06_21_16metasub3sm.jpg)
 
