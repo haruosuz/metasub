@@ -1,7 +1,7 @@
 ----------
 
 Haruo Suzuki (haruo[at]g-language[dot]org)   
-Last Update: 2016-07-03  
+Last Update: 2016-07-04  
 
 ----------
 
@@ -20,16 +20,19 @@ MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes
 [Links](http://metasub.org/?page_id=49) |
 [Contact](http://metasub.org/contact-us/)
 
-[ビル&メリンダ・ゲイツ財団](https://ja.wikipedia.org/wiki/ビル%26メリンダ・ゲイツ財団)からの助成 https://t.co/UfsHN4TYea | https://t.co/njizLZec0P
-
-- [#MetaSUB hashtag on Twitter](https://twitter.com/hashtag/MetaSUB)
-- [MetaSUB Research (@metasub) | Twitter](https://twitter.com/metasub)
-- 国際コンソーシアムの論文 [MetaSUB International Consortium. Microbiome. 2016 Jun 'The Metagenomics and Metadesign of the Subways and Urban Biomes (MetaSUB) International Consortium inaugural meeting report.'](http://www.ncbi.nlm.nih.gov/pubmed/27255532)
-
-### Events
+### News & Events
 - [Innovative City Forum 2016](http://icf.academyhills.com) 日程：2016年10月19日(水)・20日(木) [予定] | 場所：虎ノ門ヒルズフォーラム
 - JULY 1-2, @ SHANGHAI, CHINA [2016 Meetings](http://metasub.org/?page_id=4409)
+- ハーバード公衆衛生大学院 (Harvard School of Public Health: HSPH) Huttenhower Lab「ボストン地下鉄の微生物群集」論文 "Urban Transit System Microbial Communities Differ by Surface Type and Interaction with Humans and the Environment." http://msystems.asm.org/content/1/3/e00018-16
+関連記事 Boston Subway System Covered in Microbes, But They're Not Harmful https://twitter.com/ASMnewsroom/status/747844259605319681
 - June 21, Global City Sampling Day (CSD)
+- 国際コンソーシアムの論文 [MetaSUB International Consortium. Microbiome. 2016 Jun 'The Metagenomics and Metadesign of the Subways and Urban Biomes (MetaSUB) International Consortium inaugural meeting report.'](http://www.ncbi.nlm.nih.gov/pubmed/27255532)
+- [ビル&メリンダ・ゲイツ財団](https://ja.wikipedia.org/wiki/ビル%26メリンダ・ゲイツ財団)からの助成 https://t.co/UfsHN4TYea | https://t.co/njizLZec0P
+
+#### [2016 Meetings](http://metasub.org/?page_id=4409)
+第2回 MetaSUB 会議、2016年7月1-3日、中国上海市[復旦大学](https://ja.wikipedia.org/wiki/復旦大学)
+
+[Metagenomics & Metadesign of Subways & Urban Biomes (MetaSUB) 2016 Summit Tickets, Fri, Jul 1, 2016 at 8:00 AM | Eventbrite](https://www.eventbrite.com/e/metagenomics-metadesign-of-subways-urban-biomes-metasub-2016-summit-tickets-23006196152)
 
 #### Global City Sampling Day (CSD)
 2016-06-21 グローバル・シティ・サンプリング・デー
@@ -48,13 +51,6 @@ http://metasub.giscloud.com/
 - [Ocean Sampling Day | Micro B³](https://www.microb3.eu/osd)
 - [グローバル・オーシャン・サンプリング・エクスペディション](https://ja.wikipedia.org/wiki/グローバル・オーシャン・サンプリング・エクスペディション)
 
-#### [2016 Meetings](http://metasub.org/?page_id=4409)
-第2回 MetaSUB 会議、2016年7月1-3日、中国上海市[復旦大学](https://ja.wikipedia.org/wiki/復旦大学)
-
-[Metagenomics & Metadesign of Subways & Urban Biomes (MetaSUB) 2016 Summit Tickets, Fri, Jul 1, 2016 at 8:00 AM | Eventbrite](https://www.eventbrite.com/e/metagenomics-metadesign-of-subways-urban-biomes-metasub-2016-summit-tickets-23006196152)
-
-
-
 #### [2015 Meetings](http://metasub.org/?page_id=4407)
 第1回 MetaSUB 会議、2015年6月20日、The New York Genome Center (NYGC：ニューヨーク ゲノム センター）
 
@@ -67,7 +63,25 @@ http://metasub.giscloud.com/
 
 ----------
 
-## PathoMap
+### Twitter
+- [#MetaSUB hashtag on Twitter](https://twitter.com/hashtag/MetaSUB)
+- [MetaSUB Research (@metasub) | Twitter](https://twitter.com/metasub)
+
+----------
+
+## Boston Subway Microbiome
+
+- Jul 7, 2016 [The Boston Subway Microbiome - mSystems/American Society for Microbiology - YouTube](https://www.youtube.com/watch?v=bL1v8JIiLNg)
+- 2016年7月5日 6時50分 [地下鉄で細菌が最も多いのはどこ？―中国メディア](http://news.livedoor.com/article/detail/11723867/)
+- 2016年7月5日(火) 6時50分 [地下鉄で細菌が最も多いのはどこ？―中国メディア - Record China](http://www.recordchina.co.jp/a143783.html)
+- 4 Jul 2016 [ボストン地下鉄の微生物環境を精査。驚くほど無害で、表面属性（つり革・シート）で相当違う](https://twitter.com/silex_transl/status/750064564994125824)
+- June 28, 2016 [Boston subway system covered in microbes, but they're not harmful](https://www.sciencedaily.com/releases/2016/06/160628141221.htm)
+- June 28, 2016 [‘Bugs’ on the subway: Monitoring the microbial environment to improve public health](https://www.hsph.harvard.edu/news/press-releases/microbes-boston-subway-public-health/)
+- 論文 [2016 Hsu et al. Urban Transit System Microbial Communities Differ by Surface Type and Interaction with Humans and the Environment | mSystems](http://msystems.asm.org/content/1/3/e00018-16)
+
+----------
+
+## New York Subway Microbiome
 [PathoMap - Mapping New York's Microscopic Residents](http://www.pathomap.org)
 ニューヨーク地下鉄メタゲノム
 
