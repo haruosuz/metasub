@@ -21,6 +21,8 @@ MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes
 [Contact](http://metasub.org/contact-us/)
 
 ### News & Events
+- [#MetaSUB hashtag on Twitter](https://twitter.com/hashtag/MetaSUB)
+- [MetaSUB Research (@metasub) | Twitter](https://twitter.com/metasub)
 - [Innovative City Forum 2016](http://icf.academyhills.com) 日程：2016年10月19日(水)・20日(木) [予定] | 場所：虎ノ門ヒルズフォーラム
 - JULY 1-2, @ SHANGHAI, CHINA [2016 Meetings](http://metasub.org/?page_id=4409)
 - June 21, Global City Sampling Day (CSD)
@@ -32,9 +34,10 @@ MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes
 
 [Metagenomics & Metadesign of Subways & Urban Biomes (MetaSUB) 2016 Summit Tickets, Fri, Jul 1, 2016 at 8:00 AM | Eventbrite](https://www.eventbrite.com/e/metagenomics-metadesign-of-subways-urban-biomes-metasub-2016-summit-tickets-23006196152)
 
-#### Global City Sampling Day (CSD)
-2016-06-21 グローバル・シティ・サンプリング・デー
-[City Sampling Day – MetaSUB](http://metasub.org/city-sampling-day/)
+#### [City Sampling Day](http://metasub.org/city-sampling-day/)
+2016-06-21 シティ・サンプリング・デー
+
+![https://twitter.com/metasub/status/745827908040658945](https://pbs.twimg.com/media/Clm2hJvWMAA6n-T.jpg:small)
 
 ![](http://images.med.cornell.edu/body/dean/2016/06_21_16metasub3sm.jpg)
 
@@ -61,11 +64,6 @@ http://metasub.giscloud.com/
 
 ----------
 
-### Twitter
-- [#MetaSUB hashtag on Twitter](https://twitter.com/hashtag/MetaSUB)
-- [MetaSUB Research (@metasub) | Twitter](https://twitter.com/metasub)
-
-----------
 ## Boston Subway Microbiome
 ボストン地下鉄の微生物叢
 
@@ -125,6 +123,21 @@ http://metasub.giscloud.com/
 
 ----------
 
+## Air Microbiome
+空気中を浮遊する微生物を対象とした研究
+
+- [Air Microbiome of Hong Kong's Subways. Patrick Lee.](http://nebula.wsimg.com/83b61d25af77152a5cca036a87435faa?AccessKeyId=EE67D855699D9B3A8843&disposition=0&alloworigin=1)
+- [Robertson CE et al. Appl Environ Microbiol. 2013 Jun;79(11):3485-93. "Culture-independent analysis of aerosol microbiology in a metropolitan subway system."](http://www.ncbi.nlm.nih.gov/pubmed/23542619)
+- [駅構内の空気質に与える微生物の影響評価　RTRI REPORT Vol. 22, No. 5, May. 2008](http://bunken.rtri.or.jp/PDF/cdroms1/0001/2008/0001003044.pdf)
+- [駅構内の空気質に与える微生物の影響評価　(鉄道総研報告,2008 年 5 月号)](http://www.rtri.or.jp/publish/rtrirep/2008/r_digest/05/0805_6.pdf)
+
+
+### Twitter
+- [#MetaSUB hashtag on Twitter](https://twitter.com/hashtag/MetaSUB)
+- [MetaSUB Research (@metasub) | Twitter](https://twitter.com/metasub)
+
+----------
+
 - Dr. Christopher Mason (Weill Medical College of Cornell University) | [Mason Lab](http://www.masonlab.net)
  - [Christopher Mason (@mason_lab) | Twitter](https://twitter.com/mason_lab)
  - Video
@@ -181,11 +194,6 @@ The MTA standard is to clean each of its 276 stations once every three weeks. Bu
 The report states that 88% of stations were cleaned fewer than eight times a year. The audit covered the period covering July 2013 to June 2014.
  - 2015年05月15日 10:47 [NY市地下鉄は清掃基準を満たさず、線路はゴミ捨て場状態 - Japan Wideニュース](http://www.jwide.com/news/news.htm?id=5098)
 ２０１３年７月から２０１４年６月の清掃記録の監査によると、地下にある２７６駅のうち、３週間に１度という交通局の清掃スケジュールを満たしていたのは僅か３％にあたる７駅の線路だけだった。半数以上の駅の線路は、１１人の清掃員により一年間で４度から８度の清掃が行われているだけだ。
-
-- Air 空気中を浮遊する微生物を対象とした研究
- - [Robertson CE et al. Appl Environ Microbiol. 2013 Jun;79(11):3485-93. "Culture-independent analysis of aerosol microbiology in a metropolitan subway system."](http://www.ncbi.nlm.nih.gov/pubmed/23542619)
- - [駅構内の空気質に与える微生物の影響評価　RTRI REPORT Vol. 22, No. 5, May. 2008](http://bunken.rtri.or.jp/PDF/cdroms1/0001/2008/0001003044.pdf)
- - [駅構内の空気質に与える微生物の影響評価　(鉄道総研報告,2008 年 5 月号)](http://www.rtri.or.jp/publish/rtrirep/2008/r_digest/05/0805_6.pdf)
 
 - 地下鉄 インフルエンザ
  - 公開情報｜東京メトロ [東京地下鉄株式会社 「新型インフルエンザ等対策業務計画」要旨](http://www.tokyometro.jp/corporate/profile/disclosure/pdf/measure_plan.pdf)
