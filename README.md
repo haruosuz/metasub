@@ -23,8 +23,6 @@ MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes
 ### News & Events
 - [Innovative City Forum 2016](http://icf.academyhills.com) 日程：2016年10月19日(水)・20日(木) [予定] | 場所：虎ノ門ヒルズフォーラム
 - JULY 1-2, @ SHANGHAI, CHINA [2016 Meetings](http://metasub.org/?page_id=4409)
-- ハーバード公衆衛生大学院 (Harvard School of Public Health: HSPH) Huttenhower Lab「ボストン地下鉄の微生物群集」論文 "Urban Transit System Microbial Communities Differ by Surface Type and Interaction with Humans and the Environment." http://msystems.asm.org/content/1/3/e00018-16
-関連記事 Boston Subway System Covered in Microbes, But They're Not Harmful https://twitter.com/ASMnewsroom/status/747844259605319681
 - June 21, Global City Sampling Day (CSD)
 - 国際コンソーシアムの論文 [MetaSUB International Consortium. Microbiome. 2016 Jun 'The Metagenomics and Metadesign of the Subways and Urban Biomes (MetaSUB) International Consortium inaugural meeting report.'](http://www.ncbi.nlm.nih.gov/pubmed/27255532)
 - [ビル&メリンダ・ゲイツ財団](https://ja.wikipedia.org/wiki/ビル%26メリンダ・ゲイツ財団)からの助成 https://t.co/UfsHN4TYea | https://t.co/njizLZec0P
@@ -68,30 +66,32 @@ http://metasub.giscloud.com/
 - [MetaSUB Research (@metasub) | Twitter](https://twitter.com/metasub)
 
 ----------
-
 ## Boston Subway Microbiome
+ボストン地下鉄の微生物叢
 
-- Jul 7, 2016 [The Boston Subway Microbiome - mSystems/American Society for Microbiology - YouTube](https://www.youtube.com/watch?v=bL1v8JIiLNg)
-- 2016年7月5日 6時50分 [地下鉄で細菌が最も多いのはどこ？―中国メディア](http://news.livedoor.com/article/detail/11723867/)
-- 2016年7月5日(火) 6時50分 [地下鉄で細菌が最も多いのはどこ？―中国メディア - Record China](http://www.recordchina.co.jp/a143783.html)
-- 4 Jul 2016 [ボストン地下鉄の微生物環境を精査。驚くほど無害で、表面属性（つり革・シート）で相当違う](https://twitter.com/silex_transl/status/750064564994125824)
-- June 28, 2016 [Boston subway system covered in microbes, but they're not harmful](https://www.sciencedaily.com/releases/2016/06/160628141221.htm)
-- June 28, 2016 [‘Bugs’ on the subway: Monitoring the microbial environment to improve public health](https://www.hsph.harvard.edu/news/press-releases/microbes-boston-subway-public-health/)
-- 論文 [2016 Hsu et al. Urban Transit System Microbial Communities Differ by Surface Type and Interaction with Humans and the Environment | mSystems](http://msystems.asm.org/content/1/3/e00018-16)
+#### Publications
+- [2016 Hsu et al. Urban Transit System Microbial Communities Differ by Surface Type and Interaction with Humans and the Environment | mSystems](http://msystems.asm.org/content/1/3/e00018-16)
+- 関連情報
+ - Jul 7, 2016 [The Boston Subway Microbiome - mSystems/American Society for Microbiology - YouTube](https://www.youtube.com/watch?v=bL1v8JIiLNg)
+ - 2016年7月5日 6時50分 [地下鉄で細菌が最も多いのはどこ？―中国メディア](http://news.livedoor.com/article/detail/11723867/)
+ - 2016年7月5日(火) 6時50分 [地下鉄で細菌が最も多いのはどこ？―中国メディア - Record China](http://www.recordchina.co.jp/a143783.html)
+ - 4 Jul 2016 [ボストン地下鉄の微生物環境を精査。驚くほど無害で、表面属性（つり革・シート）で相当違う](https://twitter.com/silex_transl/status/750064564994125824)
+ - June 28, 2016 [Boston Subway System Covered in Microbes, But They're Not Harmful](http://www.asm.org/index.php/journal-press-releases/94287-boston-subway-system-covered-in-microbes-but-they-re-not-harmful)
+ - June 28, 2016 [‘Bugs’ on the subway: Monitoring the microbial environment to improve public health](https://www.hsph.harvard.edu/news/press-releases/microbes-boston-subway-public-health/)
 
 ----------
 
 ## New York Subway Microbiome
+ニューヨーク地下鉄の微生物叢
+
 [PathoMap - Mapping New York's Microscopic Residents](http://www.pathomap.org)
-ニューヨーク地下鉄メタゲノム
 
 - [PathoMap Research (@nycpathomap) | Twitter](https://twitter.com/nycpathomap)
 - [都市微生物叢研究PathoMap｜2015年2月号｜News & Hot Paper Digest｜羊土社：実験医学online](https://www.yodosha.co.jp/jikkenigaku/nhpd/9784758101363/c5.html)
 - [Pathomap Japan node - 国立遺伝学研究所](http://tga.nig.ac.jp/pathomapj/)
  - [Pathomapプロジェクトの日本語紹介文](http://tga.nig.ac.jp/pathomapj/pathomap_mason.html)
 
-### Publications
-
+#### Publications
 - (Cell Systems 1, 72–87; July 29, 2015) Article. Mason and colleagues. "Geospatial Resolution of Human and Bacterial Diversity with City-Scale Metagenomics" [pdfExtended](http://www.cell.com/cell-systems/pdfExtended/S2405-4712(15)00002-2)|[cell.com](http://www.cell.com/cell-systems/abstract/S2405-4712(15)00002-2)|[sciencedirect.com](http://www.sciencedirect.com/science/article/pii/S2405471215000022)  
 - (Cell Systems, Vol. 1, Issue 1, p97) Erratum. Mason and colleagues. "Geospatial Resolution of Human and Bacterial Diversity with City-Scale Metagenomics" [cell.com](http://www.cell.com/cell-systems/abstract/S2405-4712(15)00014-9)  
 - (Cell Systems, Vol. 1, Issue 1, p4–5) Letter. Gee and colleagues. "Lack of Evidence for Plague or Anthrax on the New York City Subway" [cell.com](http://www.cell.com/cell-systems/abstract/S2405-4712(15)00016-2)|[sciencedirect.com](http://www.sciencedirect.com/science/article/pii/S2405471215000162)  
