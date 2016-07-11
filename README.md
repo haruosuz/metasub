@@ -68,9 +68,7 @@ MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes
 - [2016 Hsu et al. Urban Transit System Microbial Communities Differ by Surface Type and Interaction with Humans and the Environment | mSystems](http://msystems.asm.org/content/1/3/e00018-16)
 - 関連情報
  - Jul 7, 2016 [The Boston Subway Microbiome - mSystems/American Society for Microbiology - YouTube](https://www.youtube.com/watch?v=bL1v8JIiLNg)
- - 2016年7月5日 6時50分 [地下鉄で細菌が最も多いのはどこ？―中国メディア](http://news.livedoor.com/article/detail/11723867/)
  - 2016年7月5日(火) 6時50分 [地下鉄で細菌が最も多いのはどこ？―中国メディア - Record China](http://www.recordchina.co.jp/a143783.html)
- - 4 Jul 2016 [ボストン地下鉄の微生物環境を精査。驚くほど無害で、表面属性（つり革・シート）で相当違う](https://twitter.com/silex_transl/status/750064564994125824)
  - June 28, 2016 [Boston Subway System Covered in Microbes, But They're Not Harmful](http://www.asm.org/index.php/journal-press-releases/94287-boston-subway-system-covered-in-microbes-but-they-re-not-harmful)
  - June 28, 2016 [‘Bugs’ on the subway: Monitoring the microbial environment to improve public health](https://www.hsph.harvard.edu/news/press-releases/microbes-boston-subway-public-health/)
 
@@ -121,7 +119,7 @@ MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes
 ----------
 
 ## Air Microbiome
-空気中を浮遊する微生物を対象とした研究
+空気中の微生物叢
 
 - [Air Microbiome of Hong Kong's Subways. Patrick Lee.](http://nebula.wsimg.com/83b61d25af77152a5cca036a87435faa?AccessKeyId=EE67D855699D9B3A8843&disposition=0&alloworigin=1)
 - [Robertson CE et al. Appl Environ Microbiol. 2013 Jun;79(11):3485-93. "Culture-independent analysis of aerosol microbiology in a metropolitan subway system."](http://www.ncbi.nlm.nih.gov/pubmed/23542619)
