@@ -36,8 +36,13 @@ MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes
 
 #### [City Sampling Day](http://metasub.org/city-sampling-day/)
 2016-06-21 シティ・サンプリング・デー  
+
 ['Global City Sampling Day' to Launch Weill Cornell Medicine-Led Study of Antimicrobial Resistance Across 54 International Cities | Weill Cornell Newsroom | Weill Cornell Medical College](http://weill.cornell.edu/news/pr/2016/06/global-city-sampling-day-to-launch-weill-cornell-medicine-led-study-of-antimicrobial-resistance-acro-1.html)
+
 ![](http://images.med.cornell.edu/body/dean/2016/06_21_16metasub3sm.jpg)
+![](http://images.med.cornell.edu/body/dean/2016/06_21_16metasub2sm.jpg)
+![](http://images.med.cornell.edu/body/dean/2016/06_21_16metasub1sm.jpg)
+
 ![https://twitter.com/metasub/status/745827908040658945](https://pbs.twimg.com/media/Clm2hJvWMAA6n-T.jpg:small)
 
 - [グローバル・オーシャン・サンプリング・エクスペディション](https://ja.wikipedia.org/wiki/グローバル・オーシャン・サンプリング・エクスペディション)
@@ -123,6 +128,7 @@ MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes
 - [駅構内の空気質に与える微生物の影響評価　RTRI REPORT Vol. 22, No. 5, May. 2008](http://bunken.rtri.or.jp/PDF/cdroms1/0001/2008/0001003044.pdf)
 - [駅構内の空気質に与える微生物の影響評価　(鉄道総研報告,2008 年 5 月号)](http://www.rtri.or.jp/publish/rtrirep/2008/r_digest/05/0805_6.pdf)
 
+----------
 
 ### Twitter
 - [#MetaSUB hashtag on Twitter](https://twitter.com/hashtag/MetaSUB)
