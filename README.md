@@ -35,22 +35,14 @@ MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes
 [Metagenomics & Metadesign of Subways & Urban Biomes (MetaSUB) 2016 Summit Tickets, Fri, Jul 1, 2016 at 8:00 AM | Eventbrite](https://www.eventbrite.com/e/metagenomics-metadesign-of-subways-urban-biomes-metasub-2016-summit-tickets-23006196152)
 
 #### [City Sampling Day](http://metasub.org/city-sampling-day/)
-2016-06-21 シティ・サンプリング・デー
-
+2016-06-21 シティ・サンプリング・デー  
+['Global City Sampling Day' to Launch Weill Cornell Medicine-Led Study of Antimicrobial Resistance Across 54 International Cities | Weill Cornell Newsroom | Weill Cornell Medical College](http://weill.cornell.edu/news/pr/2016/06/global-city-sampling-day-to-launch-weill-cornell-medicine-led-study-of-antimicrobial-resistance-acro-1.html)
+![](http://images.med.cornell.edu/body/dean/2016/06_21_16metasub3sm.jpg)
 ![https://twitter.com/metasub/status/745827908040658945](https://pbs.twimg.com/media/Clm2hJvWMAA6n-T.jpg:small)
 
-![](http://images.med.cornell.edu/body/dean/2016/06_21_16metasub3sm.jpg)
-
-['Global City Sampling Day' to Launch Weill Cornell Medicine-Led Study of Antimicrobial Resistance Across 54 International Cities | Weill Cornell Newsroom | Weill Cornell Medical College](http://weill.cornell.edu/news/pr/2016/06/global-city-sampling-day-to-launch-weill-cornell-medicine-led-study-of-antimicrobial-resistance-acro-1.html)
-
-The interactive data map for all samples collected can now be viewed at two places:
-http://metasub.org/interactive-map/
-and with the metadata and pictures:
-http://metasub.giscloud.com/
-
-- 2013-05-16 [River Sampling Day Call | Micro B³](https://www.microb3.eu/feeds/oceansamplingday-blogspot/river-sampling-day-call)
-- [Ocean Sampling Day | Micro B³](https://www.microb3.eu/osd)
 - [グローバル・オーシャン・サンプリング・エクスペディション](https://ja.wikipedia.org/wiki/グローバル・オーシャン・サンプリング・エクスペディション)
+- [Ocean Sampling Day | Micro B³](https://www.microb3.eu/osd)
+- 2013-05-16 [River Sampling Day Call | Micro B³](https://www.microb3.eu/feeds/oceansamplingday-blogspot/river-sampling-day-call)
 
 #### [2015 Meetings](http://metasub.org/?page_id=4407)
 第1回 MetaSUB 会議、2015年6月20日、The New York Genome Center (NYGC：ニューヨーク ゲノム センター）
