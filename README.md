@@ -37,6 +37,11 @@ MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes
 #### [City Sampling Day](http://metasub.org/city-sampling-day/)
 2016-06-21 シティ・サンプリング・デー  
 
+目的
+1. 地理空間メタゲノムと法医学遺伝地図の作成
+2. 都市建築環境における抗菌剤耐性マーカーの同定と追跡
+3. 新薬発見につながる新規生合成遺伝子クラスターの同定
+
 ['Global City Sampling Day' to Launch Weill Cornell Medicine-Led Study of Antimicrobial Resistance Across 54 International Cities | Weill Cornell Newsroom | Weill Cornell Medical College](http://weill.cornell.edu/news/pr/2016/06/global-city-sampling-day-to-launch-weill-cornell-medicine-led-study-of-antimicrobial-resistance-acro-1.html)
 
 ![](http://images.med.cornell.edu/body/dean/2016/06_21_16metasub3sm.jpg)
@@ -45,6 +50,7 @@ MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes
 
 ![https://twitter.com/metasub/status/745827908040658945](https://pbs.twimg.com/media/Clm2hJvWMAA6n-T.jpg:small)
 
+- June 25, 2016 [June 21 was International Swab Day for MetaSUB – microBEnet: the microbiology of the Built Environment network.](http://microbe.net/2016/06/25/june-21-was-international-swab-day-for-metasub/)
 - [グローバル・オーシャン・サンプリング・エクスペディション](https://ja.wikipedia.org/wiki/グローバル・オーシャン・サンプリング・エクスペディション)
 - [Ocean Sampling Day | Micro B³](https://www.microb3.eu/osd)
 - 2013-05-16 [River Sampling Day Call | Micro B³](https://www.microb3.eu/feeds/oceansamplingday-blogspot/river-sampling-day-call)
@@ -67,7 +73,7 @@ MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes
 #### Publications
 - [2016 Hsu et al. Urban Transit System Microbial Communities Differ by Surface Type and Interaction with Humans and the Environment | mSystems](http://msystems.asm.org/content/1/3/e00018-16)
 - 関連情報
- - Jul 7, 2016 [The Boston Subway Microbiome - mSystems/American Society for Microbiology - YouTube](https://www.youtube.com/watch?v=bL1v8JIiLNg)
+ - 動画 Jul 7, 2016 [The Boston Subway Microbiome - mSystems/American Society for Microbiology - YouTube](https://www.youtube.com/watch?v=bL1v8JIiLNg)
  - 2016年7月5日(火) 6時50分 [地下鉄で細菌が最も多いのはどこ？―中国メディア - Record China](http://www.recordchina.co.jp/a143783.html)
  - June 28, 2016 [Boston Subway System Covered in Microbes, But They're Not Harmful](http://www.asm.org/index.php/journal-press-releases/94287-boston-subway-system-covered-in-microbes-but-they-re-not-harmful)
  - June 28, 2016 [‘Bugs’ on the subway: Monitoring the microbial environment to improve public health](https://www.hsph.harvard.edu/news/press-releases/microbes-boston-subway-public-health/)
