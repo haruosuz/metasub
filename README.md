@@ -5,7 +5,7 @@ Last Update: 2016-07-04
 
 ----------
 
-## [MetaSUB](http://www.metasub.org)
+# [MetaSUB](http://www.metasub.org)
 MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes  
 都市環境（地下鉄）の微生物叢とデザイン
 
@@ -20,21 +20,20 @@ MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes
 [Links](http://metasub.org/?page_id=49) |
 [Contact](http://metasub.org/contact-us/)
 
-### News & Events
+## News & Events
 - [#MetaSUB hashtag on Twitter](https://twitter.com/hashtag/MetaSUB)
 - [MetaSUB Research (@metasub) | Twitter](https://twitter.com/metasub)
-- [Innovative City Forum 2016](http://icf.academyhills.com) 日程：2016年10月19日(水)・20日(木) [予定] | 場所：虎ノ門ヒルズフォーラム
 - JULY 1-2, @ SHANGHAI, CHINA [2016 Meetings](http://metasub.org/?page_id=4409)
 - June 21, Global City Sampling Day (CSD)
 - 国際コンソーシアムの論文 [MetaSUB International Consortium. Microbiome. 2016 Jun 'The Metagenomics and Metadesign of the Subways and Urban Biomes (MetaSUB) International Consortium inaugural meeting report.'](http://www.ncbi.nlm.nih.gov/pubmed/27255532)
 - [ビル&メリンダ・ゲイツ財団](https://ja.wikipedia.org/wiki/ビル%26メリンダ・ゲイツ財団)からの助成 https://t.co/UfsHN4TYea | https://t.co/njizLZec0P
 
-#### [2016 Meetings](http://metasub.org/?page_id=4409)
+### [2016 Meetings](http://metasub.org/?page_id=4409)
 第2回 MetaSUB 会議、2016年7月1-3日、中国上海市[復旦大学](https://ja.wikipedia.org/wiki/復旦大学)
 
 [Metagenomics & Metadesign of Subways & Urban Biomes (MetaSUB) 2016 Summit Tickets, Fri, Jul 1, 2016 at 8:00 AM | Eventbrite](https://www.eventbrite.com/e/metagenomics-metadesign-of-subways-urban-biomes-metasub-2016-summit-tickets-23006196152)
 
-#### [City Sampling Day](http://metasub.org/city-sampling-day/)
+### [City Sampling Day](http://metasub.org/city-sampling-day/)
 2016-06-21 シティ・サンプリング・デー  
 
 目的
@@ -56,7 +55,7 @@ MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes
 - [Ocean Sampling Day | Micro B³](https://www.microb3.eu/osd)
 - 2013-05-16 [River Sampling Day Call | Micro B³](https://www.microb3.eu/feeds/oceansamplingday-blogspot/river-sampling-day-call)
 
-#### [2015 Meetings](http://metasub.org/?page_id=4407)
+### [2015 Meetings](http://metasub.org/?page_id=4407)
 第1回 MetaSUB 会議、2015年6月20日、The New York Genome Center (NYGC：ニューヨーク ゲノム センター）
 
 - [#MetaSUB15 hashtag on Twitter](https://twitter.com/hashtag/MetaSUB15?src=hash)
