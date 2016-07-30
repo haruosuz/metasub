@@ -1,24 +1,15 @@
 ----------
 
 Haruo Suzuki (haruo[at]g-language[dot]org)   
-Last Update: 2016-07-04  
+Last Update: 2016-07-30  
 
 ----------
 
-# [MetaSUB](http://www.metasub.org)
+# [MetaSUB](http://metasub.org/?page_id=55)
 MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes  
 都市環境（地下鉄）の微生物叢とデザイン
 
 [MetaSUB紹介ビデオ](https://vimeo.com/171773795)
-
-[City Profiles](http://metasub.org/?page_id=4) |
-[About](http://metasub.org/?page_id=55) |
-[Map](http://metasub.org/interactive-map/) |
-[People](http://metasub.org/people/) |
-[Methods](http://metasub.org/?page_id=40) |
-[Meetings](http://metasub.org/?page_id=46) |
-[Links](http://metasub.org/?page_id=49) |
-[Contact](http://metasub.org/contact-us/)
 
 ## News & Events
 - [#MetaSUB hashtag on Twitter](https://twitter.com/hashtag/MetaSUB)
