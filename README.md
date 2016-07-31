@@ -235,6 +235,11 @@ We announced previously that the English and Chinese versions for “Tokyo Metro
 
 ![https://github.com/inutano/training/blob/master/ajacs52/README.md#お花見メタゲノムプロジェクト](https://camo.githubusercontent.com/161a12a73623274212e65e843250877b0405435f/687474703a2f2f6779617a6f2e636f6d2f37306232316534396330393831633839346161373461396233343637333937302e706e67)
 
+- [お花見メタ事務局 (@OhanamiMetaG) | Twitter](https://twitter.com/OhanamiMetaG)
+- [#お花見メタゲノム hashtag on Twitter](https://twitter.com/hashtag/お花見メタゲノム)
+- [#OMGseq hashtag on Twitter](https://twitter.com/hashtag/OMGseq?src=hash)
+- [NGS現場の会 第四回研究会](http://www.ngs-field.org/ngs4th/)
+
 ----------
 
 ## [HealthMap](http://www.healthmap.org)
