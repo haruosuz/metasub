@@ -21,8 +21,8 @@ MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes
 ----------
 
 ### [City Sampling Day](http://metasub.org/city-sampling-day/)
-2016-06-21 シティ・サンプリング・デー  
-目的
+2016-06-21 シティ・サンプリング・デー  の目的
+
 1. 地理空間メタゲノムと法医学遺伝地図の作成
 2. 都市建築環境における抗菌剤耐性マーカーの同定と追跡
 3. 新薬発見につながる新規生合成遺伝子クラスターの同定
