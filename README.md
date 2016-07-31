@@ -195,7 +195,9 @@ MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes
 
 ----------
 
-## 地下鉄
+## Subways
+地下鉄
+
 - 2016年01月20日 NY公共交通システム、「全面リニューアル」プラン発表　21世紀のシステムへ http://newyork.keizai.biz/headline/1505/
 - 2016.1.20 「世界中の地下鉄」に乗り換えできる路線図をつくってみた « WIRED.jp http://wired.jp/2016/01/20/map-worldwide-subway-system/
 - 2016.01.18 世界中のメトロ路線図を繋げたら、こうなった : ギズモード・ジャパン http://www.gizmodo.jp/2016/01/world_subway_map.html
@@ -203,10 +205,10 @@ MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes
 - [趙  慶姫 (2012) 都市環境と芸術 ── 地下鉄駅空間のアート ──](https://www.agulin.aoyama.ac.jp/opac/repository/1000/12898/N20U059_079.pdf)
 
 - NY市地下鉄の清掃状況
- - 5/19/15 4:51pm [The New York City Subway Is Full Of Garbage](http://jalopnik.com/the-new-york-city-subway-is-full-of-garbage-1705602906)
+ - 5/19/15 [The New York City Subway Is Full Of Garbage](http://jalopnik.com/the-new-york-city-subway-is-full-of-garbage-1705602906)
 The MTA standard is to clean each of its 276 stations once every three weeks. But the audit, by the office of City Comptroller Scott Stringer, found that 97% of the stations were cleaned less frequently.
 The report states that 88% of stations were cleaned fewer than eight times a year. The audit covered the period covering July 2013 to June 2014.
- - 2015年05月15日 10:47 [NY市地下鉄は清掃基準を満たさず、線路はゴミ捨て場状態 - Japan Wideニュース](http://www.jwide.com/news/news.htm?id=5098)
+ - 2015年05月15日 [NY市地下鉄は清掃基準を満たさず、線路はゴミ捨て場状態 - Japan Wideニュース](http://www.jwide.com/news/news.htm?id=5098)
 ２０１３年７月から２０１４年６月の清掃記録の監査によると、地下にある２７６駅のうち、３週間に１度という交通局の清掃スケジュールを満たしていたのは僅か３％にあたる７駅の線路だけだった。半数以上の駅の線路は、１１人の清掃員により一年間で４度から８度の清掃が行われているだけだ。
 
 - 地下鉄 インフルエンザ
@@ -228,23 +230,19 @@ We announced previously that the English and Chinese versions for “Tokyo Metro
 
 ----------
 
-- [スーパーサイエンスハイスクール(SSH) | 指定校一覧](https://ssh.jst.go.jp/school/list.html)
+## Ohanami-Metagenome: Community-Driven Research Project
+[お花見メタゲノムプロジェクト powered by NGS現場の会 第四回研究会](http://www.ngs-sakura.jp)
 
-- [お花見メタゲノムプロジェクト powered by NGS現場の会 第四回研究会](http://www.ngs-sakura.jp)
-Ohanami-Metagenome: Community-Driven Research Project
-
-Rakuten Point Club http://point.rakuten.co.jp/en/
-T Card｜Culture Convenience Club Co., Ltd. http://www.ccc.co.jp/en/showcase/sc_004388.html?cat=plat
-
-https://ja.wikipedia.org/wiki/実験計画法
-https://en.wikipedia.org/wiki/Design_of_experiments
+![https://github.com/inutano/training/blob/master/ajacs52/README.md#お花見メタゲノムプロジェクト](https://camo.githubusercontent.com/161a12a73623274212e65e843250877b0405435f/687474703a2f2f6779617a6f2e636f6d2f37306232316534396330393831633839346161373461396233343637333937302e706e67)
 
 ----------
 
 ## [HealthMap](http://www.healthmap.org)
+
+![https://jondorbolo.wordpress.com/2014/11/02/dr-tech-crowdsourcing-infectious-disease/](https://jondorbolo.files.wordpress.com/2014/11/healthmap-300x1891.jpg)
+
 - [HealthMap (@healthmap) | Twitter](https://twitter.com/healthmap)
-- [Brownstein JS et al. PLoS Med. 2008 Jul 8;5(7):e151. "Surveillance Sans Frontières: Internet-based emerging infectious disease intelligence and the HealthMap project."
-](http://www.ncbi.nlm.nih.gov/pubmed/18613747)
+- [Brownstein JS et al. PLoS Med. 2008 Jul 8;5(7):e151. "Surveillance Sans Frontières: Internet-based emerging infectious disease intelligence and the HealthMap project."](http://www.ncbi.nlm.nih.gov/pubmed/18613747)
 
 ### 参考
 - 2014-09-04 [エボラ拡大の兆候を発見するも、手を打てなかったHealthMapの機械学習システム](http://bit.ly/1rNfCaM)
