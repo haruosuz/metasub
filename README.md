@@ -81,8 +81,6 @@ MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes
 
 [PathoMap - Mapping New York's Microscopic Residents](http://www.pathomap.org)
 
-![http://www.pathomap.org/about/](http://d2zahwnsqpmout.cloudfront.net/wp-content/uploads/2013/07/GA.png)
-
 - [PathoMap Research (@nycpathomap) | Twitter](https://twitter.com/nycpathomap)
 - [Pathomapプロジェクトとは](http://tga.nig.ac.jp/pathomapj/pathomap_mason.html)
 - [都市微生物叢研究PathoMap｜2015年2月号｜News & Hot Paper Digest｜羊土社：実験医学online](https://www.yodosha.co.jp/jikkenigaku/nhpd/9784758101363/c5.html)
