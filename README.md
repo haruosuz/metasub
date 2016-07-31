@@ -14,9 +14,9 @@ MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes
 ## News & Events
 - [#MetaSUB hashtag on Twitter](https://twitter.com/hashtag/MetaSUB)
 - [MetaSUB Research (@metasub) | Twitter](https://twitter.com/metasub)
-- August 2016 [Olympiome](https://github.com/haruosuz/metasub/blob/master/README.md#olympiome)
-- JULY 1-2, @ SHANGHAI, CHINA [2016 Meetings](http://metasub.org/?page_id=4409)
-- June 21, Global City Sampling Day (CSD)
+- August 2016 [Olympiome](#olympiome)
+- JULY 1-2 [2016 Meetings](#2016-meetings)
+- June 21, 2016 [Global City Sampling Day (CSD)](#city-sampling-day)
 
 ----------
 
