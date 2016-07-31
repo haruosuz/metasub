@@ -340,8 +340,24 @@ http://www.geopacific.org/file_home/90f3cf … (PDF)
 ## Notes
 
 ### VBNC
-- https://ja.wikipedia.org/wiki/VNC_(微生物学)  viable but non-culturable「生きているけれども培養できない」。一般には、土壌や海水中の常在細菌のうち培養できるものはわずかに1-2%にすぎず、その他の大多数のものは培養不能菌である。
+- https://ja.wikipedia.org/wiki/VNC_(微生物学)  viable but non-culturable 「生きているけれども培養できない」　一般には、土壌や海水中の常在細菌のうち培養できるものはわずかに1-2%にすぎず、その他の大多数のものは培養不能菌である。
 - [『培養できない微生物たち　－自然環境中での微生物の姿－』](http://www.wound-treatment.jp/next/dokusho153.htm)
+
+### Metagenomics best hit analysis
+
+- 12 Feb 2015 [Stephen Turner on Twitter: "What happens if you sample short reads from E. coli and use a metagenomics best-hit approach: http://t.co/jQrPBEOqTX ](https://twitter.com/genetics_blog/status/565933587783249921)
+
+[Metagenomics best hit analysis: caveat emptor · Loman Labs](http://lab.loman.net/2015/02/11/metagenomics-best-hit-analysis-caveat-emptor/)
+
+![](http://lab.loman.net/images/2015-12-11-MGRAST.png)
+
+- 18 Feb 2015 [Ed Yong on Twitter: "Much respect @mason_lab for this humble, detailed response to criticism over the plague result in the NYCsubway paper](https://twitter.com/edyong209/status/568169571405967361)
+
+[The long road from Data to Wisdom, and from DNA to Pathogen](http://microbe.net/2015/02/17/the-long-road-from-data-to-wisdom-and-from-dna-to-pathogen/)
+
+![](http://microbe.net/wp-content/uploads/2015/02/tophits.png)
+
+![](http://microbe.net/wp-content/uploads/2015/02/ENA.png)
 
 ### Diversity
 多様性
@@ -358,10 +374,6 @@ http://www.geopacific.org/file_home/90f3cf … (PDF)
  - さらに困難な問題は，もともと性をもたない種をどうするかだ。「系統学的種概念」　定義から性を外し，その代わりに共通祖先からの系譜を持ち出す。
  - 生物多様性の90％以上を占める微生物の種は，どう定義すればよいのだろう？　
 
-- [三中 信宏 (2011) 分子系統進化学　— 生物の進化を分子データから推論する —](http://cse.naro.affrc.go.jp/minaka/cladist/tamagawa2011-2.pdf)
-
-![](https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTZ2WfJ0mVPjGMphkkB7h7uwqakl4dN5Sh9BKJQ_CLkeXbxanmY)
-
 - [分類学と系統学：ある蜜月の終焉　三中信宏（農環研・計測情報）](http://www.e-jsps.com/2007hp/topic/Datesoudo84/mitsu.html)
  - 分類＝パターン認識 　　系統＝パラメーター推定
 - [http://www004.upp.so-net.ne.jp/jissen/jissen43.htm#minaka](体系化の精神と系統樹の科学－－学問の「壁」を越えて－－)
@@ -369,6 +381,9 @@ http://www.geopacific.org/file_home/90f3cf … (PDF)
 - [http://cse.niaes.affrc.go.jp/minaka/R/R-cluster.html](クラスター分析の光と闇――なぜヒトは分類に憑かれるのか？――)
  - 時空的に連続する外界を人間が理解するために，離散的なカテゴリー（類や群）を認知的に造りだしている
  - 認知カテゴリーと心理的本質主義　なぜ私たちは対象物を「カテゴリー化」するのか？　その理由は，多様な対象物をカテゴリーとして類別することにより，記憶の負担を軽減し，情報の貯蔵と検索の効率を上げられるからである．　連続的波長のスペクトルによって変化する色の離散的なカテゴリー（「赤」とか「緑」のように）を造ることで色彩のありさまを理解するように
+- [三中 信宏 (2011) 分子系統進化学　— 生物の進化を分子データから推論する —](http://cse.naro.affrc.go.jp/minaka/cladist/tamagawa2011-2.pdf)
+
+![](https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTZ2WfJ0mVPjGMphkkB7h7uwqakl4dN5Sh9BKJQ_CLkeXbxanmY)
 
 ## Phylogeny
 
@@ -382,21 +397,7 @@ Joseph Felsensteinの言う【分類なんかどうだっていいじゃん派
 
 ![](http://www.nature.com/article-assets/npg/nmicrobiol/2016/nmicrobiol201648/images_hires/m685/nmicrobiol201648-f2.jpg)
 
-- 18 Feb 2015 [Ed Yong on Twitter: "Much respect @mason_lab for this humble, detailed response to criticism over the plague result in the NYCsubway paper](https://twitter.com/edyong209/status/568169571405967361)
-
-[The long road from Data to Wisdom, and from DNA to Pathogen](http://microbe.net/2015/02/17/the-long-road-from-data-to-wisdom-and-from-dna-to-pathogen/)
-
-![](http://microbe.net/wp-content/uploads/2015/02/tophits.png)
-
-![](http://microbe.net/wp-content/uploads/2015/02/ENA.png)
-
-- 12 Feb 2015 [Stephen Turner on Twitter: "What happens if you sample short reads from E. coli and use a metagenomics best-hit approach: http://t.co/jQrPBEOqTX ](https://twitter.com/genetics_blog/status/565933587783249921)
-
-[Metagenomics best hit analysis: caveat emptor · Loman Labs](http://lab.loman.net/2015/02/11/metagenomics-best-hit-analysis-caveat-emptor/)
-
-![](http://lab.loman.net/images/2015-12-11-MGRAST.png)
-
-## [Plasmid](https://github.com/haruosuz/plasmids)
+### [Plasmid](https://github.com/haruosuz/plasmids)
 
 - [News about plasmid resistance on Twitter](https://twitter.com/search?vertical=news&q=plasmid%20resistance)
 
