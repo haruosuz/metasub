@@ -346,8 +346,9 @@ http://www.geopacific.org/file_home/90f3cf … (PDF)
 ### Diversity
 多様性
 - [論文の紹介： 生物多様性を進化系統学的な尺度で測る (情報：農業と環境 No.83 2007.3)](http://www.niaes.affrc.go.jp/magazine/083/mgzn08304.html)
- - 生物保全において守るべきは、実体のない「種」ではなく、クレード（単系統群）である
-- [Problems in measuring bacterial diversity and a possible solution. Appl Environ Microbiol. 1996 Nov;62(11):4299-301.](http://www.ncbi.nlm.nih.gov/pubmed/16535456)
+ - 「系統学的多様性（PD: phylogenetic diversity）」　ある生物群の系統学的多様度とは、その生物群を系統樹上で結ぶ枝の長さの総和として求められる。　生物保全において守るべきは、実体のない「種」ではなく、クレード（単系統群）である
+- 系統学的多様性 phylogenetic diversity を計算 [Picante: R tools for integrating phylogenies and ecology. Bioinformatics. 2010 Jun 1;26(11):1463-4.](http://www.ncbi.nlm.nih.gov/pubmed/20395285)
+- 細菌群集の多様度の尺度として「種の多様性指数」よりも「細菌間の平均距離」を推奨 [Problems in measuring bacterial diversity and a possible solution. Appl Environ Microbiol. 1996 Nov;62(11):4299-301.](http://www.ncbi.nlm.nih.gov/pubmed/16535456)
 - 統計数理(2012) [α多様性の測定と確率文字列の理論](http://ismrepo.ism.ac.jp/dspace/handle/10787/2973)
  - Shannon 指数や Simpson 指数では,種が明確に定義されていることや各個体をあいまい さなく同定できることが前提になっており,これらの指標の微生物群集への適用には問題があ ることが当初から指摘されていた(Staley, 1980; Torsvik et al., 1990). また,図 1 と 2 において 示されているように,微生物群集からの 16S リボソーム RNA 遺伝子配列のデータの 1 つの特 徴として強いクラスター性があるが,種数に対応する異なる配列数を数える指標や,塩基多様 度のような異なるサイト数に基づく指標では,このようなクラスター構造を反映できないとい う問題がある.代替的な方法の研究として,Watve and Gangal(1996), Hughes et al.(2001), Hong et al.(2006)などがあるが,理論的な基礎を持つ体系的な方法とは言えなかった.
 
