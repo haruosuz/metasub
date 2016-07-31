@@ -82,7 +82,6 @@ MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes
 [PathoMap - Mapping New York's Microscopic Residents](http://www.pathomap.org)
 
 - [PathoMap Research (@nycpathomap) | Twitter](https://twitter.com/nycpathomap)
-- [Pathomapプロジェクトとは](http://tga.nig.ac.jp/pathomapj/pathomap_mason.html)
 - [都市微生物叢研究PathoMap｜2015年2月号｜News & Hot Paper Digest｜羊土社：実験医学online](https://www.yodosha.co.jp/jikkenigaku/nhpd/9784758101363/c5.html)
 
 ![](https://www.yodosha.co.jp/jikkenigaku/nhpd/9784758101363/images/9784758101363_nhpd_pho.png)
@@ -231,6 +230,8 @@ We announced previously that the English and Chinese versions for “Tokyo Metro
 [お花見メタゲノムプロジェクト powered by NGS現場の会 第四回研究会](http://www.ngs-sakura.jp)
 
 ![https://github.com/inutano/training/blob/master/ajacs52/README.md#お花見メタゲノムプロジェクト](https://camo.githubusercontent.com/161a12a73623274212e65e843250877b0405435f/687474703a2f2f6779617a6f2e636f6d2f37306232316534396330393831633839346161373461396233343637333937302e706e67)
+
+O[Hanami](https://en.wikipedia.org/wiki/Hanami) ("flower viewing") is the Japanese traditional custom of enjoying the transient beauty of flowers, flowers ("hana") in this case almost always referring to those of the cherry blossom ("sakura")
 
 - [お花見メタ事務局 (@OhanamiMetaG) | Twitter](https://twitter.com/OhanamiMetaG)
 - [#お花見メタゲノム hashtag on Twitter](https://twitter.com/hashtag/お花見メタゲノム)
