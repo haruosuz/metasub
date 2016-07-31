@@ -14,10 +14,37 @@ MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes
 ## News & Events
 - [#MetaSUB hashtag on Twitter](https://twitter.com/hashtag/MetaSUB)
 - [MetaSUB Research (@metasub) | Twitter](https://twitter.com/metasub)
+- August [Olympiome](https://twitter.com/search?q=olympiome)
 - JULY 1-2, @ SHANGHAI, CHINA [2016 Meetings](http://metasub.org/?page_id=4409)
 - June 21, Global City Sampling Day (CSD)
 - 国際コンソーシアムの論文 [MetaSUB International Consortium. Microbiome. 2016 Jun 'The Metagenomics and Metadesign of the Subways and Urban Biomes (MetaSUB) International Consortium inaugural meeting report.'](http://www.ncbi.nlm.nih.gov/pubmed/27255532)
 - [ビル&メリンダ・ゲイツ財団](https://ja.wikipedia.org/wiki/ビル%26メリンダ・ゲイツ財団)からの助成 https://t.co/UfsHN4TYea | https://t.co/njizLZec0P
+
+----------
+
+### [Olympiome](https://twitter.com/search?q=olympiome)
+
+![](https://pbs.twimg.com/media/CiMCSRuWkAABQTk.jpg)
+
+[リオデジャネイロオリンピック](https://ja.wikipedia.org/wiki/リオデジャネイロオリンピック)は、2016年8月5日から8月21日までブラジルのリオデジャネイロで開催される第31回夏季オリンピック。
+
+- [News about オリンピック on Twitter](https://twitter.com/search?q=オリンピック)
+- [日本オリンピック委員会（JOC） (@Japan_Olympic) | Twitter](https://twitter.com/Japan_Olympic)
+- [リオデジャネイロオリンピックニュース (@asahi_olympics) | Twitter](https://twitter.com/asahi_olympics)
+- 2016.07.06 [CNN.co.jp : リオの海に「スーパー耐性菌」、五輪会場付近や観光ビーチでも - (1/2)](http://www.cnn.co.jp/showbiz/35085425.html)
+- July 5, 2016 [Rio Olympic Games: 'Super bacteria' discovered in Rio's waters as Olympics near - CNN.com](http://edition.cnn.com/2016/07/05/americas/rio-de-janeiro-super-bacteria/)
+
+- []()
+- []()
+- []()
+- JUN 21, 2016 [CosmosID and MetaSUB Consortium Announce Global Collaboration for Studying Anti-Microbial](http://www.prnewswire.com/news-releases/cosmosid-and-metasub-consortium-announce-global-collaboration-for-studying-anti-microbial-resistance-and-urban-metagenomics-across-54-cities-300287559.html)
+ - The 2016 Olympics in Rio de Janeiro will also feature a measurement of the city's metagenome response to the "natural experiment" of a global human migration event, when an estimated 1 million people attend the Olympics. Sampling will occur before, during, and after the 2016 Olympics, and collections for RNA and DNA will be prepared to look also for the presence of any RNA viruses (e.g. Influenza and Zika).
+- 31/05/2016 [MetaSUB: Creating a World-Wide 'DNA Map' of Microbiomes](http://www.chxout.com/blog/environmental-genetics/metasub-creating-a-world-wide-dna-map-of-microbiom)
+ - A related project will focus on the impact of the 2016 Olympics on the microbiomes of Rio de Janeiro, Brazil. An estimated 500,000 people from around the globe will descend on Rio de Janeiro in August and travel on the transport systems. Scientists will be especially interested to study the profile of RNA viruses such as influenza and Zika at this time.
+- 3 June 2016 [The Metagenomics and Metadesign of the Subways and Urban Biomes (MetaSUB) International Consortium inaugural meeting report | Microbiome | Full Text](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-016-0168-z)
+ - Establishing a coordinated, global data collection is slated to begin on June 21, 2016, to match and parallel the Global Ocean Sampling Day (OSD) [46, 47]. *snip* Notably, this time frame overlaps both the Brazilian and Japanese Olympics, generating the profile of a city’s “olympiome,” representing a first-ever sampling of cities before, during, and after a global human migration event.
+ - Our Global City Sampling Day (CSD) will be driven not only by scientists in the consortium but open to all citizens interested in exploring the molecular microbial and metagenomic dynamics of their cities and oceans (with OSD).
+
 
 ### [2016 Meetings](http://metasub.org/?page_id=4409)
 第2回 MetaSUB 会議、2016年7月1-3日、中国上海市[復旦大学](https://ja.wikipedia.org/wiki/復旦大学)
@@ -122,12 +149,6 @@ MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes
 - [Robertson CE et al. Appl Environ Microbiol. 2013 Jun;79(11):3485-93. "Culture-independent analysis of aerosol microbiology in a metropolitan subway system."](http://www.ncbi.nlm.nih.gov/pubmed/23542619)
 - [駅構内の空気質に与える微生物の影響評価　RTRI REPORT Vol. 22, No. 5, May. 2008](http://bunken.rtri.or.jp/PDF/cdroms1/0001/2008/0001003044.pdf)
 - [駅構内の空気質に与える微生物の影響評価　(鉄道総研報告,2008 年 5 月号)](http://www.rtri.or.jp/publish/rtrirep/2008/r_digest/05/0805_6.pdf)
-
-----------
-
-### Twitter
-- [#MetaSUB hashtag on Twitter](https://twitter.com/hashtag/MetaSUB)
-- [MetaSUB Research (@metasub) | Twitter](https://twitter.com/metasub)
 
 ----------
 
