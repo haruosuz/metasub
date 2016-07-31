@@ -139,8 +139,7 @@ MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes
 2016年8月5日から8月21日まで開催される[リオデジャネイロオリンピック](https://ja.wikipedia.org/wiki/リオデジャネイロオリンピック)前後の微生物叢の変化
 
 - [News about オリンピック on Twitter](https://twitter.com/search?q=オリンピック)
-- [日本オリンピック委員会（JOC） (@Japan_Olympic) | Twitter](https://twitter.com/Japan_Olympic)
-- [リオデジャネイロオリンピックニュース (@asahi_olympics) | Twitter](https://twitter.com/asahi_olympics)
+
 - 2016.07.06 [CNN.co.jp : リオの海に「スーパー耐性菌」、五輪会場付近や観光ビーチでも - (1/2)](http://www.cnn.co.jp/showbiz/35085425.html)
 - July 5, 2016 [Rio Olympic Games: 'Super bacteria' discovered in Rio's waters as Olympics near - CNN.com](http://edition.cnn.com/2016/07/05/americas/rio-de-janeiro-super-bacteria/)
 
@@ -150,7 +149,6 @@ MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes
  - A related project will focus on the impact of the 2016 Olympics on the microbiomes of Rio de Janeiro, Brazil. An estimated 500,000 people from around the globe will descend on Rio de Janeiro in August and travel on the transport systems. Scientists will be especially interested to study the profile of RNA viruses such as influenza and Zika at this time.
 - 3 June 2016 [The Metagenomics and Metadesign of the Subways and Urban Biomes (MetaSUB) International Consortium inaugural meeting report | Microbiome | Full Text](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-016-0168-z)
  - Establishing a coordinated, global data collection is slated to begin on June 21, 2016, to match and parallel the Global Ocean Sampling Day (OSD) [46, 47]. *snip* Notably, this time frame overlaps both the Brazilian and Japanese Olympics, generating the profile of a city’s “olympiome,” representing a first-ever sampling of cities before, during, and after a global human migration event.
- - Our Global City Sampling Day (CSD) will be driven not only by scientists in the consortium but open to all citizens interested in exploring the molecular microbial and metagenomic dynamics of their cities and oceans (with OSD).
 
 ----------
 ## People
