@@ -20,34 +20,32 @@ MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes
 
 ----------
 
-### [2016 Meetings](http://metasub.org/?page_id=4409)
-第2回 MetaSUB 会議、2016年7月1-3日、中国上海市[復旦大学](https://ja.wikipedia.org/wiki/復旦大学)
-
-[Metagenomics & Metadesign of Subways & Urban Biomes (MetaSUB) 2016 Summit Tickets, Fri, Jul 1, 2016 at 8:00 AM | Eventbrite](https://www.eventbrite.com/e/metagenomics-metadesign-of-subways-urban-biomes-metasub-2016-summit-tickets-23006196152)
-
-----------
-
 ### [City Sampling Day](http://metasub.org/city-sampling-day/)
 2016-06-21 シティ・サンプリング・デー  
-
 目的
-
 1. 地理空間メタゲノムと法医学遺伝地図の作成
 2. 都市建築環境における抗菌剤耐性マーカーの同定と追跡
 3. 新薬発見につながる新規生合成遺伝子クラスターの同定
 
-['Global City Sampling Day' to Launch Weill Cornell Medicine-Led Study of Antimicrobial Resistance Across 54 International Cities | Weill Cornell Newsroom | Weill Cornell Medical College](http://weill.cornell.edu/news/pr/2016/06/global-city-sampling-day-to-launch-weill-cornell-medicine-led-study-of-antimicrobial-resistance-acro-1.html)
+![https://twitter.com/metasub/status/745827908040658945](https://pbs.twimg.com/media/Clm2hJvWMAA6n-T.jpg:small)
 
 ![](http://images.med.cornell.edu/body/dean/2016/06_21_16metasub3sm.jpg)
 ![](http://images.med.cornell.edu/body/dean/2016/06_21_16metasub2sm.jpg)
 ![](http://images.med.cornell.edu/body/dean/2016/06_21_16metasub1sm.jpg)
 
-![https://twitter.com/metasub/status/745827908040658945](https://pbs.twimg.com/media/Clm2hJvWMAA6n-T.jpg:small)
+['Global City Sampling Day' to Launch Weill Cornell Medicine-Led Study of Antimicrobial Resistance Across 54 International Cities | Weill Cornell Newsroom | Weill Cornell Medical College](http://weill.cornell.edu/news/pr/2016/06/global-city-sampling-day-to-launch-weill-cornell-medicine-led-study-of-antimicrobial-resistance-acro-1.html)
 
 - June 25, 2016 [June 21 was International Swab Day for MetaSUB – microBEnet: the microbiology of the Built Environment network.](http://microbe.net/2016/06/25/june-21-was-international-swab-day-for-metasub/)
 - [グローバル・オーシャン・サンプリング・エクスペディション](https://ja.wikipedia.org/wiki/グローバル・オーシャン・サンプリング・エクスペディション)
 - [Ocean Sampling Day | Micro B³](https://www.microb3.eu/osd)
 - 2013-05-16 [River Sampling Day Call | Micro B³](https://www.microb3.eu/feeds/oceansamplingday-blogspot/river-sampling-day-call)
+
+----------
+
+### [2016 Meetings](http://metasub.org/?page_id=4409)
+第2回 MetaSUB 会議、2016年7月1-3日、中国上海市[復旦大学](https://ja.wikipedia.org/wiki/復旦大学)
+
+[Metagenomics & Metadesign of Subways & Urban Biomes (MetaSUB) 2016 Summit Tickets, Fri, Jul 1, 2016 at 8:00 AM | Eventbrite](https://www.eventbrite.com/e/metagenomics-metadesign-of-subways-urban-biomes-metasub-2016-summit-tickets-23006196152)
 
 ----------
 
