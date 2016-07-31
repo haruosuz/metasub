@@ -81,10 +81,13 @@ MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes
 
 [PathoMap - Mapping New York's Microscopic Residents](http://www.pathomap.org)
 
+![http://www.pathomap.org/about/](http://d2zahwnsqpmout.cloudfront.net/wp-content/uploads/2013/07/GA.png)
+
 - [PathoMap Research (@nycpathomap) | Twitter](https://twitter.com/nycpathomap)
+- [Pathomapプロジェクトとは](http://tga.nig.ac.jp/pathomapj/pathomap_mason.html)
 - [都市微生物叢研究PathoMap｜2015年2月号｜News & Hot Paper Digest｜羊土社：実験医学online](https://www.yodosha.co.jp/jikkenigaku/nhpd/9784758101363/c5.html)
-- [Pathomap Japan node - 国立遺伝学研究所](http://tga.nig.ac.jp/pathomapj/)
- - [Pathomapプロジェクトの日本語紹介文](http://tga.nig.ac.jp/pathomapj/pathomap_mason.html)
+
+![](https://www.yodosha.co.jp/jikkenigaku/nhpd/9784758101363/images/9784758101363_nhpd_pho.png)
 
 #### Publications
 - (Cell Systems 1, 72–87; July 29, 2015) Article. Mason and colleagues. "Geospatial Resolution of Human and Bacterial Diversity with City-Scale Metagenomics" [pdfExtended](http://www.cell.com/cell-systems/pdfExtended/S2405-4712(15)00002-2)|[cell.com](http://www.cell.com/cell-systems/abstract/S2405-4712(15)00002-2)|[sciencedirect.com](http://www.sciencedirect.com/science/article/pii/S2405471215000022)  
