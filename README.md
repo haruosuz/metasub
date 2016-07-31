@@ -287,13 +287,6 @@ We announced previously that the English and Chinese versions for “Tokyo Metro
 
 ## Twitter
 
-5:05 PM - 18 Feb 2015
-Ed Yong on Twitter: "Much respect @mason_lab for this humble, detailed response to criticism over the plague result in the NYCsubway paper http://t.co/tUKlkWoE0M"
-https://twitter.com/edyong209/status/568169571405967361
-
-1:00 PM - 12 Feb 2015
-Stephen Turner on Twitter: "What happens if you sample short reads from E. coli and use a metagenomics best-hit approach: http://t.co/jQrPBEOqTX http://t.co/LsNC7g5rmP” https://twitter.com/genetics_blog/status/565933587783249921
-
 https://twitter.com/hashtag/metasub15
 Christopher Mason ‏@mason_lab  Jun 20
 \#metasub15 John Brownstein @johnbrownstein gave a great talk about Healthmap http://www.healthmap.org  and crowd-sourced medicine
@@ -344,11 +337,20 @@ http://www.geopacific.org/file_home/90f3cf … (PDF)
 
 ----------
 
+## Twitter
 
+- 18 Feb 2015 [Ed Yong on Twitter: "Much respect @mason_lab for this humble, detailed response to criticism over the plague result in the NYCsubway paper](https://twitter.com/edyong209/status/568169571405967361)
+- 12 Feb 2015 [Stephen Turner on Twitter: "What happens if you sample short reads from E. coli and use a metagenomics best-hit approach: http://t.co/jQrPBEOqTX ](https://twitter.com/genetics_blog/status/565933587783249921)
 
-![](https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTZ2WfJ0mVPjGMphkkB7h7uwqakl4dN5Sh9BKJQ_CLkeXbxanmY)
+[Metagenomics best hit analysis: caveat emptor · Loman Labs](http://lab.loman.net/2015/02/11/metagenomics-best-hit-analysis-caveat-emptor/)
+
+![](http://lab.loman.net/images/2015-12-11-MGRAST.png)
+
+## Phylogeny
 
 - [三中 信宏 (2011) 分子系統進化学　— 生物の進化を分子データから推論する —](http://cse.naro.affrc.go.jp/minaka/cladist/tamagawa2011-2.pdf)
+
+![](https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTZ2WfJ0mVPjGMphkkB7h7uwqakl4dN5Sh9BKJQ_CLkeXbxanmY)
 
 ## [Plasmid](https://github.com/haruosuz/plasmids)
 
