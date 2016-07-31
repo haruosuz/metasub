@@ -14,7 +14,7 @@ MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes
 ## News & Events
 - [#MetaSUB hashtag on Twitter](https://twitter.com/hashtag/MetaSUB)
 - [MetaSUB Research (@metasub) | Twitter](https://twitter.com/metasub)
-- August [Olympiome](https://twitter.com/search?q=olympiome)
+- August 2016 [Olympiome](https://github.com/haruosuz/metasub#olympiome)
 - JULY 1-2, @ SHANGHAI, CHINA [2016 Meetings](http://metasub.org/?page_id=4409)
 - June 21, Global City Sampling Day (CSD)
 - 国際コンソーシアムの論文 [MetaSUB International Consortium. Microbiome. 2016 Jun 'The Metagenomics and Metadesign of the Subways and Urban Biomes (MetaSUB) International Consortium inaugural meeting report.'](http://www.ncbi.nlm.nih.gov/pubmed/27255532)
@@ -34,9 +34,6 @@ MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes
 - 2016.07.06 [CNN.co.jp : リオの海に「スーパー耐性菌」、五輪会場付近や観光ビーチでも - (1/2)](http://www.cnn.co.jp/showbiz/35085425.html)
 - July 5, 2016 [Rio Olympic Games: 'Super bacteria' discovered in Rio's waters as Olympics near - CNN.com](http://edition.cnn.com/2016/07/05/americas/rio-de-janeiro-super-bacteria/)
 
-- []()
-- []()
-- []()
 - JUN 21, 2016 [CosmosID and MetaSUB Consortium Announce Global Collaboration for Studying Anti-Microbial](http://www.prnewswire.com/news-releases/cosmosid-and-metasub-consortium-announce-global-collaboration-for-studying-anti-microbial-resistance-and-urban-metagenomics-across-54-cities-300287559.html)
  - The 2016 Olympics in Rio de Janeiro will also feature a measurement of the city's metagenome response to the "natural experiment" of a global human migration event, when an estimated 1 million people attend the Olympics. Sampling will occur before, during, and after the 2016 Olympics, and collections for RNA and DNA will be prepared to look also for the presence of any RNA viruses (e.g. Influenza and Zika).
 - 31/05/2016 [MetaSUB: Creating a World-Wide 'DNA Map' of Microbiomes](http://www.chxout.com/blog/environmental-genetics/metasub-creating-a-world-wide-dna-map-of-microbiom)
