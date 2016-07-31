@@ -137,7 +137,7 @@ MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes
 
 ![](https://pbs.twimg.com/media/CiMCSRuWkAABQTk.jpg)
 
-2016年8月5日から8月21日までブラジルのリオデジャネイロで開催される[リオデジャネイロオリンピック](https://ja.wikipedia.org/wiki/リオデジャネイロオリンピック)前後の微生物叢の変化
+2016年8月5日から8月21日まで開催される[リオデジャネイロオリンピック](https://ja.wikipedia.org/wiki/リオデジャネイロオリンピック)前後の微生物叢の変化
 
 - [News about オリンピック on Twitter](https://twitter.com/search?q=オリンピック)
 - [日本オリンピック委員会（JOC） (@Japan_Olympic) | Twitter](https://twitter.com/Japan_Olympic)
@@ -185,14 +185,6 @@ MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes
 - [ジェシカ・グリーン: 私たちを取り巻く細菌と住環境のデザイン](http://www.ted.com/talks/jessica_green_good_germs_make_healthy_buildings?language=ja)
 - [MITメディアラボきっての遊びの天才ケヴィン・スラヴィン、その「ひらめき」の秘密 « WIRED.jp](http://wired.jp/special/2015/beyond-solution/01.html)
 「微生物と都市のデザイン」を研究している、MITメディアラボのケヴィン・スラヴィンが目指しているのは、マンガ『もやしもん』の世界観だった！
-
-----------
-
-## Video
-- Dr. Rumi Chunara (New York University) | [Chunara Lab: Computer Science & Engineering And Global Public Health](https://wp.nyu.edu/chunaralab/)
- - 2014-01-26 [Rumi Chunara: Flu Near You - YouTube](https://www.youtube.com/watch?v=HQaNsKAk9j8)
- - 2013-10-08 [Rumi Chunara's Ignite presentation, "Why We Need Crowdsourced Data...", at Strata RX 2013. - YouTube](https://www.youtube.com/watch?v=I1-qwR6gK88)
- - 2013-09-17 [Rumi Chunara // Health Innovation Summit - YouTube](https://www.youtube.com/watch?v=Zei0XeSnCcg)
 
 ----------
 
