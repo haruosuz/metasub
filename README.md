@@ -154,6 +154,7 @@ MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes
  - Our Global City Sampling Day (CSD) will be driven not only by scientists in the consortium but open to all citizens interested in exploring the molecular microbial and metagenomic dynamics of their cities and oceans (with OSD).
 
 ----------
+## People
 
 - Dr. Christopher Mason (Weill Medical College of Cornell University) | [Mason Lab](http://www.masonlab.net)
  - [Christopher Mason (@mason_lab) | Twitter](https://twitter.com/mason_lab)
@@ -167,6 +168,9 @@ MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes
   - 2015-03-27 [SciCafe: Mapping the Urban Microbiome, Genome, and Metagenome - YouTube](https://www.youtube.com/watch?v=mn5MkKXtxms)
   - 2015-11-20 [Cracking the Genetic Code of Our Cities | Sofia Ahsanuddin | TEDxCUNY - YouTube](https://www.youtube.com/watch?v=t9GrVdYWJOc)
     - [There are 15,000 lifeforms riding the NYC subway, including meningitis | TEDx Innovations Blog](http://tedxinnovations.ted.com/2016/06/15/nyc-subway-commuters-include-15000-lifeforms-including-meningitis/)
+
+- [Erica Hartmann (@ericamhartmann) | Twitter](https://twitter.com/ericamhartmann)
+[Marcus Leung (@leungmarcus) | Twitter](https://twitter.com/leungmarcus)
 
 ----------
 
@@ -337,7 +341,39 @@ http://ssv190.niaes2.affrc.go.jp/Psystem2/MapShow.do;jsessionid=A6F4B081EB50EC82
 http://www.jst.go.jp/cpse/kagakubu/torikumi/fiscal/2012/120923.html …
 http://www.geopacific.org/file_home/90f3cf … (PDF)
 
+
 ----------
+
+
+
+![](https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTZ2WfJ0mVPjGMphkkB7h7uwqakl4dN5Sh9BKJQ_CLkeXbxanmY)
+
+- [三中 信宏 (2011) 分子系統進化学　— 生物の進化を分子データから推論する —](http://cse.naro.affrc.go.jp/minaka/cladist/tamagawa2011-2.pdf)
+
+## [Plasmid](https://github.com/haruosuz/plasmids)
+
+- [News about plasmid resistance on Twitter](https://twitter.com/search?vertical=news&q=plasmid%20resistance)
+
+- December 16, 2015 [A New Superbug Attacks Our Last Line Of Antibiotic Defense | On Point](http://www.wbur.org/onpoint/2015/12/16/superbug-antibiotics-global-risk) 
+- March 27, 2015 [FACT SHEET: Obama Administration Releases National Action Plan to Combat Antibiotic-Resistant Bacteria | whitehouse.gov](https://www.whitehouse.gov/the-press-office/2015/03/27/fact-sheet-obama-administration-releases-national-action-plan-combat-ant)
+
+- Fri May 27, 2016 [U.S. sees first case of bacteria resistant to last-resort antibiotic | Reuters](http://www.reuters.com/article/us-health-superbug-idUSKCN0YH2KT)
+
+![http://www.reuters.com/article/us-health-superbug-idUSKCN0YH2KT](http://s2.reutersmedia.net/resources/r/?m=02&d=20160527&t=2&i=1139027343&w=&fh=&fw=&ll=644&pl=429&sq=&r=LYNXNPEC4P1O4)
+
+- June 12, 2016 [Bacteria gaining upper hand in war against humans- Nikkei Asian Review](http://asia.nikkei.com/Tech-Science/Science/Bacteria-gaining-upper-hand-in-war-against-humans)
+
+- April 13, 2011 [Antibiotic resistance spreads rapidly between bacteria -- ScienceDaily](https://www.sciencedaily.com/releases/2011/04/110411163918.htm)
+
+![https://www.sciencedaily.com/releases/2011/04/110411163918.htm](https://images.sciencedaily.com/2011/04/110411163918_1_540x360.jpg)
+
+- May 2, 2011 [BEACON Researchers at Work: Plasmid evolution is the key to fighting antibiotic resistance | BEACON](http://beacon-center.org/blog/2011/05/02/beacon-researchers-at-work-plasmid-evolution-is-the-key/)
+
+![http://elizabethely.com/2010/07/11/antibiotic-chloramphenicol-in-chinese-imported-honey/](http://elizabethely.com/wp-content/uploads/2010/07/nz149-superbug-cartoon.jpg)
+
+----------
+
+
 
 
 
