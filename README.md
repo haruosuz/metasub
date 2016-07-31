@@ -342,8 +342,13 @@ http://www.geopacific.org/file_home/90f3cf … (PDF)
 - https://ja.wikipedia.org/wiki/VNC_(微生物学)  viable but non-culturable「生きているけれども培養できない」。一般には、土壌や海水中の常在細菌のうち培養できるものはわずかに1-2%にすぎず、その他の大多数のものは培養不能菌である。
 - [『培養できない微生物たち　－自然環境中での微生物の姿－』](http://www.wound-treatment.jp/next/dokusho153.htm)
 
+[Data Visualization: Great Tree of Life - UA MagazineUA Magazine](http://www.united-academics.org/earth-environment/data-visualization-great-tree-of-life/)
 
-## Twitter
+![](http://www.united-academics.org/wp-content/uploads/2012/09/Great-Tree-of-Life-620x234.gif)
+
+[新しい系統樹では細菌が圧倒的に優勢](http://www.natureasia.com/ja-jp/life-sci/research/10626) [A new view of the tree of life : Nature Microbiology](http://www.nature.com/articles/nmicrobiol201648)
+
+![](http://www.nature.com/article-assets/npg/nmicrobiol/2016/nmicrobiol201648/images_hires/m685/nmicrobiol201648-f2.jpg)
 
 - 18 Feb 2015 [Ed Yong on Twitter: "Much respect @mason_lab for this humble, detailed response to criticism over the plague result in the NYCsubway paper](https://twitter.com/edyong209/status/568169571405967361)
 
@@ -358,12 +363,6 @@ http://www.geopacific.org/file_home/90f3cf … (PDF)
 [Metagenomics best hit analysis: caveat emptor · Loman Labs](http://lab.loman.net/2015/02/11/metagenomics-best-hit-analysis-caveat-emptor/)
 
 ![](http://lab.loman.net/images/2015-12-11-MGRAST.png)
-
-## Phylogeny
-
-- [三中 信宏 (2011) 分子系統進化学　— 生物の進化を分子データから推論する —](http://cse.naro.affrc.go.jp/minaka/cladist/tamagawa2011-2.pdf)
-
-![](https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTZ2WfJ0mVPjGMphkkB7h7uwqakl4dN5Sh9BKJQ_CLkeXbxanmY)
 
 ## [Plasmid](https://github.com/haruosuz/plasmids)
 
