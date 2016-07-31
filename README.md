@@ -346,19 +346,18 @@ http://www.geopacific.org/file_home/90f3cf … (PDF)
 
 ### Metagenomics best hit analysis
 
-- 12 Feb 2015 [Stephen Turner on Twitter: "What happens if you sample short reads from E. coli and use a metagenomics best-hit approach: http://t.co/jQrPBEOqTX ](https://twitter.com/genetics_blog/status/565933587783249921)
-
-[Metagenomics best hit analysis: caveat emptor · Loman Labs](http://lab.loman.net/2015/02/11/metagenomics-best-hit-analysis-caveat-emptor/)
-
-![](http://lab.loman.net/images/2015-12-11-MGRAST.png)
-
 - 18 Feb 2015 [Ed Yong on Twitter: "Much respect @mason_lab for this humble, detailed response to criticism over the plague result in the NYCsubway paper](https://twitter.com/edyong209/status/568169571405967361)
 
 [The long road from Data to Wisdom, and from DNA to Pathogen](http://microbe.net/2015/02/17/the-long-road-from-data-to-wisdom-and-from-dna-to-pathogen/)
 
 ![](http://microbe.net/wp-content/uploads/2015/02/tophits.png)
-
 ![](http://microbe.net/wp-content/uploads/2015/02/ENA.png)
+
+- 12 Feb 2015 [Stephen Turner on Twitter: "What happens if you sample short reads from E. coli and use a metagenomics best-hit approach: http://t.co/jQrPBEOqTX ](https://twitter.com/genetics_blog/status/565933587783249921)
+
+[Metagenomics best hit analysis: caveat emptor · Loman Labs](http://lab.loman.net/2015/02/11/metagenomics-best-hit-analysis-caveat-emptor/)
+
+![](http://lab.loman.net/images/2015-12-11-MGRAST.png)
 
 ### Diversity
 多様性
