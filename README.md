@@ -47,6 +47,8 @@ MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes
 
 [Metagenomics & Metadesign of Subways & Urban Biomes (MetaSUB) 2016 Summit Tickets, Fri, Jul 1, 2016 at 8:00 AM | Eventbrite](https://www.eventbrite.com/e/metagenomics-metadesign-of-subways-urban-biomes-metasub-2016-summit-tickets-23006196152)
 
+![https://twitter.com/leungmarcus/status/748749881230045184](https://pbs.twimg.com/media/CmQYASEUIAAlBAC.jpg)
+
 ----------
 
 ### [2015 Meetings](http://metasub.org/?page_id=4407)
