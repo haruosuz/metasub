@@ -339,8 +339,39 @@ http://www.geopacific.org/file_home/90f3cf … (PDF)
 
 ## Notes
 
+### VBNC
 - https://ja.wikipedia.org/wiki/VNC_(微生物学)  viable but non-culturable「生きているけれども培養できない」。一般には、土壌や海水中の常在細菌のうち培養できるものはわずかに1-2%にすぎず、その他の大多数のものは培養不能菌である。
 - [『培養できない微生物たち　－自然環境中での微生物の姿－』](http://www.wound-treatment.jp/next/dokusho153.htm)
+
+### Diversity
+多様性
+- [論文の紹介： 生物多様性を進化系統学的な尺度で測る (情報：農業と環境 No.83 2007.3)](http://www.niaes.affrc.go.jp/magazine/083/mgzn08304.html)
+ - 生物保全において守るべきは、実体のない「種」ではなく、クレード（単系統群）である
+- [Problems in measuring bacterial diversity and a possible solution. Appl Environ Microbiol. 1996 Nov;62(11):4299-301.](http://www.ncbi.nlm.nih.gov/pubmed/16535456)
+- 統計数理(2012) [α多様性の測定と確率文字列の理論](http://ismrepo.ism.ac.jp/dspace/handle/10787/2973)
+ - Shannon 指数や Simpson 指数では,種が明確に定義されていることや各個体をあいまい さなく同定できることが前提になっており,これらの指標の微生物群集への適用には問題があ ることが当初から指摘されていた(Staley, 1980; Torsvik et al., 1990). また,図 1 と 2 において 示されているように,微生物群集からの 16S リボソーム RNA 遺伝子配列のデータの 1 つの特 徴として強いクラスター性があるが,種数に対応する異なる配列数を数える指標や,塩基多様 度のような異なるサイト数に基づく指標では,このようなクラスター構造を反映できないとい う問題がある.代替的な方法の研究として,Watve and Gangal(1996), Hughes et al.(2001), Hong et al.(2006)などがあるが,理論的な基礎を持つ体系的な方法とは言えなかった.
+
+### Taxonomy
+- [生物の種とは何か | 日経サイエンス](http://www.nikkei-science.com/page/magazine/0809/200809_060.html)
+ - リンネは，あらゆる種は神によって創造されたまま現在にいたったと考えた。生物は進化し，種は分化するという考えはなかったのだ。
+ - さらに困難な問題は，もともと性をもたない種をどうするかだ。「系統学的種概念」　定義から性を外し，その代わりに共通祖先からの系譜を持ち出す。
+ - 生物多様性の90％以上を占める微生物の種は，どう定義すればよいのだろう？　
+
+- [三中 信宏 (2011) 分子系統進化学　— 生物の進化を分子データから推論する —](http://cse.naro.affrc.go.jp/minaka/cladist/tamagawa2011-2.pdf)
+
+![](https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTZ2WfJ0mVPjGMphkkB7h7uwqakl4dN5Sh9BKJQ_CLkeXbxanmY)
+
+- [分類学と系統学：ある蜜月の終焉　三中信宏（農環研・計測情報）](http://www.e-jsps.com/2007hp/topic/Datesoudo84/mitsu.html)
+ - 分類＝パターン認識 　　系統＝パラメーター推定
+- [http://www004.upp.so-net.ne.jp/jissen/jissen43.htm#minaka](体系化の精神と系統樹の科学－－学問の「壁」を越えて－－)
+ - 「種」の概念とは、この心理的本質主義が生みだした認知カテゴリーであると私は考える。つまり、 私の考えでは、種は、あらゆる意味で外界に実在しているのではなく、外界からの刺激に呼応してヒトが認 知心理的に形成した離散カテゴリーである。
+- [http://cse.niaes.affrc.go.jp/minaka/R/R-cluster.html](クラスター分析の光と闇――なぜヒトは分類に憑かれるのか？――)
+ - 時空的に連続する外界を人間が理解するために，離散的なカテゴリー（類や群）を認知的に造りだしている
+ - 認知カテゴリーと心理的本質主義　なぜ私たちは対象物を「カテゴリー化」するのか？　その理由は，多様な対象物をカテゴリーとして類別することにより，記憶の負担を軽減し，情報の貯蔵と検索の効率を上げられるからである．　連続的波長のスペクトルによって変化する色の離散的なカテゴリー（「赤」とか「緑」のように）を造ることで色彩のありさまを理解するように
+
+## Phylogeny
+
+Joseph Felsensteinの言う【分類なんかどうだっていいじゃん派（The  It-Doesn't-Matter-Very-Much school）】（『Inferring Phylogenies』, p.145） http://leeswijzer.org/diary2003-10.html
 
 [Data Visualization: Great Tree of Life - UA MagazineUA Magazine](http://www.united-academics.org/earth-environment/data-visualization-great-tree-of-life/)
 
