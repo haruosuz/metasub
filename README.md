@@ -1,7 +1,7 @@
 ----------
 
 Haruo Suzuki (haruo[at]g-language[dot]org)   
-Last Update: 2016-07-31  
+Last Update: 2016-08-02  
 
 ----------
 
@@ -15,8 +15,9 @@ MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes
 - [#MetaSUB hashtag on Twitter](https://twitter.com/hashtag/MetaSUB)
 - [MetaSUB Research (@metasub) | Twitter](https://twitter.com/metasub)
 - August 2016 [Olympiome](#olympiome)
-- JULY 1-2 [2016 Meetings](#2016-meetings)
-- June 21, 2016 [Global City Sampling Day (CSD)](#city-sampling-day)
+- JULY [2016 Meetings](#2016-meetings)
+- June 2016 [Global City Sampling Day (CSD)](#city-sampling-day)
+- [2015 Meetings](#2015-meetings)
 
 ----------
 
