@@ -137,11 +137,7 @@ MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes
 
 [リオデジャネイロオリンピック](https://ja.wikipedia.org/wiki/リオデジャネイロオリンピック)は、2016年8月5日から8月21日までブラジルのリオデジャネイロで開催される
 
-[2020年東京オリンピック](https://ja.wikipedia.org/wiki/2020年東京オリンピック構想)は、2020年7月24日から8月9日まで日本の東京都で開催される？
-
-- [News about オリンピック on Twitter](https://twitter.com/search?q=オリンピック)
-- 2016.07.06 [CNN.co.jp : リオの海に「スーパー耐性菌」、五輪会場付近や観光ビーチでも - (1/2)](http://www.cnn.co.jp/showbiz/35085425.html)
-- July 5, 2016 [Rio Olympic Games: 'Super bacteria' discovered in Rio's waters as Olympics near - CNN.com](http://edition.cnn.com/2016/07/05/americas/rio-de-janeiro-super-bacteria/)
+[2020年東京オリンピック](https://ja.wikipedia.org/wiki/2020年東京オリンピック構想)は、2020年7月24日から8月9日まで日本の東京都で開催される予定
 
 - JUN 21, 2016 [CosmosID and MetaSUB Consortium Announce Global Collaboration for Studying Anti-Microbial](http://www.prnewswire.com/news-releases/cosmosid-and-metasub-consortium-announce-global-collaboration-for-studying-anti-microbial-resistance-and-urban-metagenomics-across-54-cities-300287559.html)
  - The 2016 Olympics in Rio de Janeiro will also feature a measurement of the city's metagenome response to the "natural experiment" of a global human migration event, when an estimated 1 million people attend the Olympics. Sampling will occur before, during, and after the 2016 Olympics, and collections for RNA and DNA will be prepared to look also for the presence of any RNA viruses (e.g. Influenza and Zika).
@@ -149,6 +145,11 @@ MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes
  - A related project will focus on the impact of the 2016 Olympics on the microbiomes of Rio de Janeiro, Brazil. An estimated 500,000 people from around the globe will descend on Rio de Janeiro in August and travel on the transport systems. Scientists will be especially interested to study the profile of RNA viruses such as influenza and Zika at this time.
 - 3 June 2016 [The Metagenomics and Metadesign of the Subways and Urban Biomes (MetaSUB) International Consortium inaugural meeting report | Microbiome](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-016-0168-z)
  - Establishing a coordinated, global data collection is slated to begin on June 21, 2016, to match and parallel the Global Ocean Sampling Day (OSD) [46, 47]. \*snip\* Notably, this time frame overlaps both the Brazilian and Japanese Olympics, generating the profile of a city’s “olympiome,” representing a first-ever sampling of cities before, during, and after a global human migration event.
+
+- [News about オリンピック on Twitter](https://twitter.com/search?q=オリンピック)
+
+- 2016.07.06 [CNN.co.jp : リオの海に「スーパー耐性菌」、五輪会場付近や観光ビーチでも - (1/2)](http://www.cnn.co.jp/showbiz/35085425.html)
+- July 5, 2016 [Rio Olympic Games: 'Super bacteria' discovered in Rio's waters as Olympics near - CNN.com](http://edition.cnn.com/2016/07/05/americas/rio-de-janeiro-super-bacteria/)
 
 ----------
 ## People
