@@ -137,8 +137,6 @@ MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes
 
 [リオデジャネイロオリンピック](https://ja.wikipedia.org/wiki/リオデジャネイロオリンピック)は、2016年8月5日から8月21日までブラジルのリオデジャネイロで開催される
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Tokyo_2020_Olympics_logo.svg/250px-Tokyo_2020_Olympics_logo.svg.png)
-
 [2020年東京オリンピック](https://ja.wikipedia.org/wiki/2020年東京オリンピック構想)は、2020年7月24日から8月9日まで日本の東京都で開催される？
 
 - [News about オリンピック on Twitter](https://twitter.com/search?q=オリンピック)
