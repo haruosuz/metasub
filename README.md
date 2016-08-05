@@ -14,7 +14,6 @@ MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes
 ## News & Events
 - [#MetaSUB hashtag on Twitter](https://twitter.com/hashtag/MetaSUB)
 - [MetaSUB Research (@metasub) | Twitter](https://twitter.com/metasub)
-- [Innovative City Forum](http://icf.academyhills.com)  – 都市とライフスタイルの未来を描く”をテーマに先端技術、都市開発、アート&クリエイティブのオピニオンリーダーが六本木ヒルズに終結。2日間に渡り議論を尽くします。日程：2016年10月19日(水)・20日(木) [予定] | 場所：虎ノ門ヒルズフォーラム
 - August 2016 [Olympiome](#olympiome)
 - [2016 Meetings](#2016-meetings)
 - June 2016 [Global City Sampling Day (CSD)](#city-sampling-day)
