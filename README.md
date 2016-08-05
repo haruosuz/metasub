@@ -1,7 +1,7 @@
 ----------
 
 Haruo Suzuki (haruo[at]g-language[dot]org)   
-Last Update: 2016-08-04  
+Last Update: 2016-08-05  
 
 ----------
 
@@ -23,11 +23,12 @@ MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes
 ----------
 
 ### [City Sampling Day](http://metasub.org/city-sampling-day/)
-2016-06-21 シティ・サンプリング・デー  の目的
+2016-06-21 シティ サンプリング デー
+の目的
 
 1. 地理空間メタゲノムと法医学遺伝地図の作成
 2. 都市建築環境における抗菌剤耐性マーカーの同定と追跡
-3. 新薬発見につながる新規生合成遺伝子クラスターの同定
+3. 創薬のための新規生合成遺伝子クラスターの同定
 
 ![https://twitter.com/metasub/status/745827908040658945](https://pbs.twimg.com/media/Clm2hJvWMAA6n-T.jpg:small)
 
