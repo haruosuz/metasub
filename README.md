@@ -153,7 +153,8 @@ MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes
  - Establishing a coordinated, global data collection is slated to begin on June 21, 2016, to match and parallel the Global Ocean Sampling Day (OSD) [46, 47]. \*snip\* Notably, this time frame overlaps both the Brazilian and Japanese Olympics, generating the profile of a city’s “olympiome,” representing a first-ever sampling of cities before, during, and after a global human migration event.
 
 - [News about オリンピック on Twitter](https://twitter.com/search?q=オリンピック)
-
+- August 8, 2016 [Antibiotic Resistance Reaches Brazil](http://mobile.the-scientist.com/article/46743/antibiotic-resistance-reaches-brazil)
+ - Scientists detect a colistin-resistance gene in a clinical sample.
 - 2016.07.06 [CNN.co.jp : リオの海に「スーパー耐性菌」、五輪会場付近や観光ビーチでも - (1/2)](http://www.cnn.co.jp/showbiz/35085425.html)
 - July 5, 2016 [Rio Olympic Games: 'Super bacteria' discovered in Rio's waters as Olympics near - CNN.com](http://edition.cnn.com/2016/07/05/americas/rio-de-janeiro-super-bacteria/)
 
