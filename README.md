@@ -1,7 +1,7 @@
 ----------
 
 Haruo Suzuki (haruo[at]g-language[dot]org)   
-Last Update: 2016-08-10  
+Last Update: 2016-08-14  
 
 ----------
 
@@ -127,12 +127,11 @@ MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes
 
 - [Air Microbiome of Hong Kong's Subways. Patrick Lee.](http://nebula.wsimg.com/83b61d25af77152a5cca036a87435faa?AccessKeyId=EE67D855699D9B3A8843&disposition=0&alloworigin=1)
 - [Robertson CE et al. Appl Environ Microbiol. 2013 Jun;79(11):3485-93. "Culture-independent analysis of aerosol microbiology in a metropolitan subway system."](http://www.ncbi.nlm.nih.gov/pubmed/23542619)
-- Railway Technical Research Institute
- - [Kawasaki T et al. J Occup Health. 2013;55(6):495-502. "Distribution of airborne bacteria in railway stations in Tokyo, Japan."](http://www.ncbi.nlm.nih.gov/pubmed/24025860)
- - [Kawasaki T et al. J Occup Health. 2010;52(3):186-93. "Distribution and identification of airborne fungi in railway stations in Tokyo, Japan."](http://www.ncbi.nlm.nih.gov/pubmed/20299760) | [pdf](http://joh.sanei.or.jp/pdf/E52/E52_3_05.pdf)
- - [Kawasaki T et al. "Indoor air quality at stations: Development of a methodology for quantifying railway customers’ perception of odor at stations"](http://www.railway-research.org/IMG/pdf/e5_kawasaki_tanami.pdf)
- - [駅構内の空気質に与える微生物の影響評価　RTRI REPORT Vol. 22, No. 5, May. 2008](http://bunken.rtri.or.jp/PDF/cdroms1/0001/2008/0001003044.pdf)
- - [駅構内の空気質に与える微生物の影響評価　(鉄道総研報告,2008 年 5 月号)](http://www.rtri.or.jp/publish/rtrirep/2008/r_digest/05/0805_6.pdf)
+- [Kawasaki T et al. J Occup Health. 2013;55(6):495-502. "Distribution of airborne bacteria in railway stations in Tokyo, Japan."](http://www.ncbi.nlm.nih.gov/pubmed/24025860)
+- [Kawasaki T et al. J Occup Health. 2010;52(3):186-93. "Distribution and identification of airborne fungi in railway stations in Tokyo, Japan."](http://www.ncbi.nlm.nih.gov/pubmed/20299760) | [pdf](http://joh.sanei.or.jp/pdf/E52/E52_3_05.pdf)
+- [Kawasaki T et al. "Indoor air quality at stations: Development of a methodology for quantifying railway customers’ perception of odor at stations"](http://www.railway-research.org/IMG/pdf/e5_kawasaki_tanami.pdf)
+- [駅構内の空気質に与える微生物の影響評価　RTRI REPORT Vol. 22, No. 5, May. 2008](http://bunken.rtri.or.jp/PDF/cdroms1/0001/2008/0001003044.pdf)
+- [駅構内の空気質に与える微生物の影響評価　(鉄道総研報告,2008 年 5 月号)](http://www.rtri.or.jp/publish/rtrirep/2008/r_digest/05/0805_6.pdf)
 
 ----------
 
@@ -253,15 +252,25 @@ O[hanami](https://en.wikipedia.org/wiki/Hanami) ("flower viewing") is the Japane
 - [HealthMap (@healthmap) | Twitter](https://twitter.com/healthmap)
 - [Brownstein JS et al. PLoS Med. 2008 Jul 8;5(7):e151. "Surveillance Sans Frontières: Internet-based emerging infectious disease intelligence and the HealthMap project."](http://www.ncbi.nlm.nih.gov/pubmed/18613747)
 
-### 参考
-- 2014-09-04 [エボラ拡大の兆候を発見するも、手を打てなかったHealthMapの機械学習システム](http://bit.ly/1rNfCaM)
+### HealthMap related news
+関連ニュース
+
+- 2015-09-25 [SFCでデング熱患者を確認 海外で感染か 保健管理センター「拡大起こらない」 - SFC CLIP](https://shar.es/178McF)
+- 2015-03-17 [米国はしか流行、予防接種率の低さと関連 研究　写真1枚　国際ニュース：AFPBB News](http://www.afpbb.com/articles/-/3042675)
+ - 疫学に計算的アプローチを採用するブラウンシュタイン氏は、はしかを予防する新三種混合（MMR）などのワクチンを提供する場所と人々とをつなぐ助けになるオンラインサービス「ヘルスマップ・ワクチン・ファインダー（HealthMap Vaccine Finder）」の共同創立者の一人でもある。
+- 2014-10-27 [エボラ出血熱対策でビッグデータを活用　写真1枚　国際ニュース：AFPBB News](http://www.afpbb.com/articles/-/3030063)
+ - 研究チームは、ソーシャルメディアや地元報道の他、インターネット上に存在する情報をくまなく収集し、オンライン疾病早期警戒システム「ヘルスマップ（HealthMap）」によって開発されたアルゴリズムに当てはめたところ、エボラ出血熱が西アフリカで猛威を振るい始める様子を捉えることができたという。
+- 2014-09-04 [エボラ拡大の兆候を発見するも、手を打てなかったHealthMapの機械学習システム](http://gendai.ismedia.jp/articles/-/40332)
 - 2014-08-13 [猛威をふるっているエボラを阻止せよ！感染症を可視化！](https://datasciencelab.jp/blog/122)
+- 2014-04-04 [携帯電話でマラリアに立ち向かうアフリカの試み](http://jp.ibtimes.com/articles/386664)
+ - Healthmapも同様に、世界中で病気の発生を追跡しようとする仕組みで、誰でもアクセスでき、どこで病気が発生していて、身を守るにはどうすればいいかを知ることが出来る。
+- 2012-05-10 [シリア騒乱の犠牲者数をリアルリポートするウェブ｜WIRED.jp](http://wired.jp/2012/05/10/italian-news-syria-uprising/)
+ - ボランティアたちは、8年前にボストン小児病院によって開発された「ヘルスマップ」（Healthmap）と呼ばれる、Google News上の関連情報を自動的に検索しそれらをマップ化するためのソフトを修正したものを最大限に利用している。
+- 2012-04-23 [米Google、提供中止など見直し対象サービス発表～One PassやLinux版Picasaなど -INTERNET Watch Watch](http://internet.watch.impress.co.jp/docs/news/528551.html)
+ - インフルエンザ流行を地図上に示す「Google Flu Vaccine Finder」はサービスを停止し、同様のサービスを提供しているHealthMapに機能を引き継ぐとしている。
 - 2008-07-24 [ネットから情報を自動収集：伝染病情報を視覚化する『HealthMap』 ](http://wired.jp/2008/07/24/ネットから情報を自動収集：伝染病情報を視覚化/)
 - 2008-07-10 [感染症の発生をWeb上で追跡するHealthMapプロジェクト](http://jipsti.jst.go.jp/johokanri/sti_updates/?id=619)
 - 2007-12-11 [世界感染症マップ： HealthMap](http://www.tobyo.jp/tobyoblog/2007/803.html)
-
-### 日本の例
-- 2015-09-25 SFCでデング熱患者を確認 海外で感染か 保健管理センター「拡大起こらない」 - SFC CLIP https://shar.es/178McF via @HealthMap
 
 ----------
 
