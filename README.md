@@ -1,7 +1,7 @@
 ----------
 
 Haruo Suzuki (haruo[at]g-language[dot]org)   
-Last Update: 2016-08-14  
+Last Update: 2016-08-15  
 
 ----------
 
@@ -144,6 +144,10 @@ MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes
 
 [2020年東京オリンピック](https://ja.wikipedia.org/wiki/2020年東京オリンピック構想)は、2020年7月24日から8月9日まで日本の東京都で開催される予定
 
+- August 8, 2016 [Antibiotic Resistance Reaches Brazil](http://mobile.the-scientist.com/article/46743/antibiotic-resistance-reaches-brazil)
+ - Scientists detect a colistin-resistance gene in a clinical sample.
+- 2016.07.06 [CNN.co.jp : リオの海に「スーパー耐性菌」、五輪会場付近や観光ビーチでも - (1/2)](http://www.cnn.co.jp/showbiz/35085425.html)
+- July 5, 2016 [Rio Olympic Games: 'Super bacteria' discovered in Rio's waters as Olympics near - CNN.com](http://edition.cnn.com/2016/07/05/americas/rio-de-janeiro-super-bacteria/)
 - JUN 21, 2016 [CosmosID and MetaSUB Consortium Announce Global Collaboration for Studying Anti-Microbial](http://www.prnewswire.com/news-releases/cosmosid-and-metasub-consortium-announce-global-collaboration-for-studying-anti-microbial-resistance-and-urban-metagenomics-across-54-cities-300287559.html)
  - The 2016 Olympics in Rio de Janeiro will also feature a measurement of the city's metagenome response to the "natural experiment" of a global human migration event, when an estimated 1 million people attend the Olympics. Sampling will occur before, during, and after the 2016 Olympics, and collections for RNA and DNA will be prepared to look also for the presence of any RNA viruses (e.g. Influenza and Zika).
 - 31/05/2016 [MetaSUB: Creating a World-Wide 'DNA Map' of Microbiomes](http://www.chxout.com/blog/environmental-genetics/metasub-creating-a-world-wide-dna-map-of-microbiom)
@@ -151,15 +155,9 @@ MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes
 - 3 June 2016 [The Metagenomics and Metadesign of the Subways and Urban Biomes (MetaSUB) International Consortium inaugural meeting report | Microbiome](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-016-0168-z)
  - Establishing a coordinated, global data collection is slated to begin on June 21, 2016, to match and parallel the Global Ocean Sampling Day (OSD) [46, 47]. \*snip\* Notably, this time frame overlaps both the Brazilian and Japanese Olympics, generating the profile of a city’s “olympiome,” representing a first-ever sampling of cities before, during, and after a global human migration event.
 
-- [News about オリンピック on Twitter](https://twitter.com/search?q=オリンピック)
-- August 8, 2016 [Antibiotic Resistance Reaches Brazil](http://mobile.the-scientist.com/article/46743/antibiotic-resistance-reaches-brazil)
- - Scientists detect a colistin-resistance gene in a clinical sample.
-- 2016.07.06 [CNN.co.jp : リオの海に「スーパー耐性菌」、五輪会場付近や観光ビーチでも - (1/2)](http://www.cnn.co.jp/showbiz/35085425.html)
-- July 5, 2016 [Rio Olympic Games: 'Super bacteria' discovered in Rio's waters as Olympics near - CNN.com](http://edition.cnn.com/2016/07/05/americas/rio-de-janeiro-super-bacteria/)
-
 ----------
-## People
 
+## People
 - Dr. Christopher Mason (Weill Medical College of Cornell University) | [Mason Lab](http://www.masonlab.net)
  - [Christopher Mason (@mason_lab) | Twitter](https://twitter.com/mason_lab)
  - 2016-02-23 [New Genetic Spectra Across Earth's Cities & Far BeyondTEDMED Blog](http://blog.tedmed.com/new-genetic-spectra-across-earths-cities-beyond/)
@@ -174,7 +172,7 @@ MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes
     - [There are 15,000 lifeforms riding the NYC subway, including meningitis | TEDx Innovations Blog](http://tedxinnovations.ted.com/2016/06/15/nyc-subway-commuters-include-15000-lifeforms-including-meningitis/)
 
 - [Erica Hartmann (@ericamhartmann) | Twitter](https://twitter.com/ericamhartmann)
-[Marcus Leung (@leungmarcus) | Twitter](https://twitter.com/leungmarcus)
+- [Marcus Leung (@leungmarcus) | Twitter](https://twitter.com/leungmarcus)
 
 ----------
 
