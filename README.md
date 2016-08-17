@@ -145,13 +145,14 @@ MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes
 [2020年東京オリンピック](https://ja.wikipedia.org/wiki/2020年東京オリンピック構想)は、2020年7月24日から8月9日まで日本の東京都で開催される予定
 
 - Aug 16, 2016 [Brazilian Researchers Profile Microbiome of Rio Before, During, After Olympic Games | GenomeWeb](https://www.genomeweb.com/sequencing/brazilian-researchers-profile-microbiome-rio-during-after-olympic-games)
+- Jun 21, 2016 [Qiagen, CosmosID Join International Urban Microbiome Project | GenomeWeb](https://www.genomeweb.com/informatics/qiagen-cosmosid-join-international-urban-microbiome-project)
+ - Researchers will also measure the environmental response to the mass movement of people during the 2016 Olympics to be held in Rio de Janeiro. They will collect samples before, during, and after the games and will assess the samples for the presence of viruses such as influenza and Zika.
 - JUN 21, 2016 [CosmosID and MetaSUB Consortium Announce Global Collaboration for Studying Anti-Microbial](http://www.prnewswire.com/news-releases/cosmosid-and-metasub-consortium-announce-global-collaboration-for-studying-anti-microbial-resistance-and-urban-metagenomics-across-54-cities-300287559.html)
  - The 2016 Olympics in Rio de Janeiro will also feature a measurement of the city's metagenome response to the "natural experiment" of a global human migration event, when an estimated 1 million people attend the Olympics. Sampling will occur before, during, and after the 2016 Olympics, and collections for RNA and DNA will be prepared to look also for the presence of any RNA viruses (e.g. Influenza and Zika).
 - 31/05/2016 [MetaSUB: Creating a World-Wide 'DNA Map' of Microbiomes](http://www.chxout.com/blog/environmental-genetics/metasub-creating-a-world-wide-dna-map-of-microbiom)
  - A related project will focus on the impact of the 2016 Olympics on the microbiomes of Rio de Janeiro, Brazil. An estimated 500,000 people from around the globe will descend on Rio de Janeiro in August and travel on the transport systems. Scientists will be especially interested to study the profile of RNA viruses such as influenza and Zika at this time.
 - 3 June 2016 [The Metagenomics and Metadesign of the Subways and Urban Biomes (MetaSUB) International Consortium inaugural meeting report | Microbiome](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-016-0168-z)
  - Establishing a coordinated, global data collection is slated to begin on June 21, 2016, to match and parallel the Global Ocean Sampling Day (OSD) [46, 47]. \*snip\* Notably, this time frame overlaps both the Brazilian and Japanese Olympics, generating the profile of a city’s “olympiome,” representing a first-ever sampling of cities before, during, and after a global human migration event.
-
 - August 8, 2016 [Antibiotic Resistance Reaches Brazil](http://mobile.the-scientist.com/article/46743/antibiotic-resistance-reaches-brazil)
  - Scientists detect a colistin-resistance gene in a clinical sample.
 - 2016.07.06 [CNN.co.jp : リオの海に「スーパー耐性菌」、五輪会場付近や観光ビーチでも - (1/2)](http://www.cnn.co.jp/showbiz/35085425.html)
