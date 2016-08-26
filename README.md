@@ -144,6 +144,7 @@ MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes
 
 [2020年東京オリンピック](https://ja.wikipedia.org/wiki/2020年東京オリンピック構想)は、2020年7月24日から8月9日まで日本の東京都で開催される予定
 
+- 22/08/2016 ブラジルのニュース動画 [Cientistas aproveitam Olimpíada para pesquisar vírus e bactérias](http://g1.globo.com/jornal-nacional/noticia/2016/08/cientistas-aproveitam-olimpiada-para-pesquisar-virus-e-bacterias.html)
 - Aug 16, 2016 [Brazilian Researchers Profile Microbiome of Rio Before, During, After Olympic Games | GenomeWeb](https://www.genomeweb.com/sequencing/brazilian-researchers-profile-microbiome-rio-during-after-olympic-games)
 - Jun 21, 2016 [Qiagen, CosmosID Join International Urban Microbiome Project | GenomeWeb](https://www.genomeweb.com/informatics/qiagen-cosmosid-join-international-urban-microbiome-project)
  - Researchers will also measure the environmental response to the mass movement of people during the 2016 Olympics to be held in Rio de Janeiro. They will collect samples before, during, and after the games and will assess the samples for the presence of viruses such as influenza and Zika.
@@ -176,6 +177,7 @@ MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes
 
 - [Erica Hartmann (@ericamhartmann) | Twitter](https://twitter.com/ericamhartmann)
 - [Marcus Leung (@leungmarcus) | Twitter](https://twitter.com/leungmarcus)
+- [MetaSUB_Sweden (@MetaSUB_Sweden) | Twitter](https://twitter.com/MetaSUB_Sweden)
 
 ----------
 
