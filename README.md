@@ -1,7 +1,7 @@
 ----------
 
 Haruo Suzuki (haruo[at]g-language[dot]org)   
-Last Update: 2016-08-15  
+Last Update: 2016-08-31  
 
 ----------
 
@@ -14,6 +14,7 @@ MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes
 ## News & Events
 - [#MetaSUB hashtag on Twitter](https://twitter.com/hashtag/MetaSUB)
 - [MetaSUB Research (@metasub) | Twitter](https://twitter.com/metasub)
+- [2017 Meetings](#2017-meetings)
 - August 2016 [Olympiome](#olympiome)
 - [2016 Meetings](#2016-meetings)
 - June 2016 [Global City Sampling Day (CSD)](#city-sampling-day)
@@ -44,8 +45,14 @@ MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes
 
 ----------
 
-### [2016 Meetings](http://metasub.org/?page_id=4409)
-第2回 MetaSUB 会議、2016年7月1-3日、中国上海市[復旦大学](https://ja.wikipedia.org/wiki/復旦大学)
+### [2017 Meetings](http://metasub.org/meetings-2017/)
+3rd Annual MetaSUB Summit in Stockholm, Sweden!  
+第3回 MetaSUB 会議、スウェーデンのストックホルム！
+
+----------
+
+### [2016 Meetings](http://metasub.org/meetings/2016-meetings/)
+第2回 MetaSUB 会議、2016年7月1日〜2日、中国上海市[復旦大学](https://ja.wikipedia.org/wiki/復旦大学)
 
 [Metagenomics & Metadesign of Subways & Urban Biomes (MetaSUB) 2016 Summit Tickets, Fri, Jul 1, 2016 at 8:00 AM | Eventbrite](https://www.eventbrite.com/e/metagenomics-metadesign-of-subways-urban-biomes-metasub-2016-summit-tickets-23006196152)
 
@@ -53,7 +60,7 @@ MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes
 
 ----------
 
-### [2015 Meetings](http://metasub.org/?page_id=4407)
+### [2015 Meetings](http://metasub.org/meetings/2015-meetings/)
 第1回 MetaSUB 会議、2015年6月20日、The New York Genome Center (NYGC：ニューヨーク ゲノム センター）
 
 - [#MetaSUB15 hashtag on Twitter](https://twitter.com/hashtag/MetaSUB15?src=hash)
@@ -152,7 +159,7 @@ MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes
  - The 2016 Olympics in Rio de Janeiro will also feature a measurement of the city's metagenome response to the "natural experiment" of a global human migration event, when an estimated 1 million people attend the Olympics. Sampling will occur before, during, and after the 2016 Olympics, and collections for RNA and DNA will be prepared to look also for the presence of any RNA viruses (e.g. Influenza and Zika).
 - 31/05/2016 [MetaSUB: Creating a World-Wide 'DNA Map' of Microbiomes](http://www.chxout.com/blog/environmental-genetics/metasub-creating-a-world-wide-dna-map-of-microbiom)
  - A related project will focus on the impact of the 2016 Olympics on the microbiomes of Rio de Janeiro, Brazil. An estimated 500,000 people from around the globe will descend on Rio de Janeiro in August and travel on the transport systems. Scientists will be especially interested to study the profile of RNA viruses such as influenza and Zika at this time.
-- 3 June 2016 [The Metagenomics and Metadesign of the Subways and Urban Biomes (MetaSUB) International Consortium inaugural meeting report | Microbiome](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-016-0168-z)
+- 3 June 2016 [MetaSUB International Consortium. Microbiome. 2016 Jun 3;4(1):24. The Metagenomics and Metadesign of the Subways and Urban Biomes (MetaSUB) International Consortium inaugural meeting report.](http://www.ncbi.nlm.nih.gov/pubmed/27255532)
  - Establishing a coordinated, global data collection is slated to begin on June 21, 2016, to match and parallel the Global Ocean Sampling Day (OSD) [46, 47]. \*snip\* Notably, this time frame overlaps both the Brazilian and Japanese Olympics, generating the profile of a city’s “olympiome,” representing a first-ever sampling of cities before, during, and after a global human migration event.
 - August 8, 2016 [Antibiotic Resistance Reaches Brazil](http://mobile.the-scientist.com/article/46743/antibiotic-resistance-reaches-brazil)
  - Scientists detect a colistin-resistance gene in a clinical sample.
@@ -355,9 +362,88 @@ http://www.jst.go.jp/cpse/kagakubu/torikumi/fiscal/2012/120923.html …
 http://www.geopacific.org/file_home/90f3cf … (PDF)
 
 ----------
+
 ----------
 
 ## Notes
+
+### DoE
+https://en.wikipedia.org/wiki/Design_of_experiments
+https://ja.wikipedia.org/wiki/実験計画法
+https://ja.wikipedia.org/wiki/直交表
+
+実験計画法の基礎 http://homepage2.nifty.com/nandemoarchive/toukei_hosoku/jikenkeikaku_kiso.htm
+
+実験計画法 http://heartland.geocities.jp/ecodata222/ed/edj1-7-2.html
+
+- 実験計画には直交表を使おう！ http://homepage1.nifty.com/QCC/2002-8.html
+
+- 直交表の技法解説記事 主な直交表の種類と特徴 - ものづくり.com http://www.monodukuri.com/gihou/article/74
+ - ２．3水準系直交表 (1)　L9直交表 http://www.monodukuri.com/gihou/article/74
+
+《QES》 品質工学Q&A http://www.qes.gr.jp/introduction/whatqe_qa/QA2/QA2Q13V11N4.htm
+品質工学ではL18が推奨されているのに，なぜL9直交表を使ったの
+直交表を使うのならばL18をお薦めします。　その理由は，三つあります。　
+
+
+Slideshare「Rで実験計画法 前編」 http://ow.ly/qd9hp  ｜「Rで実験計画法 後編」 http://ow.ly/qd9is 
+DoE.baseで直交表の自動生成(実験計画法) - arupaka-_-arupakaの日記 (id:arupaka-_-arupaka) http://d.hatena.ne.jp/arupaka-_-arupaka/20131003/1380786203
+
+前回のMetaSUBミーティングで話題になった動画です。
+Biologist talks to statistician https://www.youtube.com/watch?v=Hz1fyhVOjr4
+
+Biologist が言う N = 3 の根拠はおそらく、Wilcoxonの順位和検定（片側検定）で5%水準で有意差が認められるためにはN=3以上のサンプルサイズが必要だからと考えます。
+
+
+
+
+
+(株)日科技研：二元配置分散分析とは（実験計画法）｜製品案内 https://www.i-juse.co.jp/statistics/product/func/doe/two-way-anova.html
+2つの因子A（l水準），因子B（m水準）を選び，各水準の組合せ（l，m通り）における繰り返し数をr回とした
+ここで，r=1の場合には，因子A，Bに関し，l×m通りの組合せがありますが，これらをランダムに1回ずつ行う場合を繰り返しのない二元配置と呼び，r≧2の場合を繰り返しのある二元配置と呼びます．
+
+R言語で統計解析入門： 二元配置の実験計画の実験データを分散分析　梶山　喜一郎 http://monge.tec.fukuoka-u.ac.jp/r_analysis/test_anova21.html
+(1) 表１の実験条件の組み合わせに対して，繰り返しがなく「一回だけ実験する」場合と「同じ回数だけ繰り返す」場合を区別する．
+　　繰り返しのない実験を行えるのは，因子Aと因子B間に交互作用が存在しないとわかっている場合だけに行う実験計画である．
+
+experimental design http://lbm.ab.a.u-tokyo.ac.jp/~omori/experiment.html
+乱塊法(randomized block design)
+Fisher の3原則を完全に満足する実験手法で，すべての処理組み合わせの実験を 1回ずつ集めたもので 1つのブロックを形成する．ブロック数が反復数になる．
+
+実験データー解析概論 http://cse.niaes.affrc.go.jp/minaka/R/nodai2012-6.pdf
+2 要因乱塊法(Box 3)
+[実験]窒素施肥量 N(5 水準)とイネ品種 V(3 水準) でのイネ収量実験を 4 反復の乱塊法で実施した(IRRI).
+
+実験計画法概論 http://avalonbreeze.web.fc2.com/38_01_10_experimentdesign01.html
+① 反復
+同じ条件で「繰り返しのある実験」を行うことにより、実験結果が、調査目的となる要因による影響なのか、あるいは誤差によるばらつきの範囲なのかを判別する。
+反復によって、交互作用を誤差と交絡させずに、分離することができる。
+
+
+
+http://www.ipc.shimane-u.ac.jp/food/kobayasi/biometry11_2010.html
+交互作用による変動を分離するには同じ処理の組み合わせについて２つ以上のデータの反復が必要になります．反復のないときは交互作用による変動と誤差変動を分離できません（交絡しているといいます）．
+
+
+実験・調査における「繰返し」と「反復」の誤用  [in Japanese] http://ci.nii.ac.jp/naid/110007099999
+「反復」Replication
+「繰返し」Repetition
+
+
+
+biological replicateとTechnical replicate http://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q14107746089
+
+
+Error bars in experimental biology http://jcb.rupress.org/content/177/1/7.full
+It is essential that n (the number of independent results) is carefully distinguished from the number of replicates, which refers to repetition of measurement on one individual in a single condition, or multiple measurements of the same or identical samples. 
+
+Points of Significance: Replication : Nature Methods : Nature Publishing Group http://www.nature.com/nmeth/journal/v11/n9/full/nmeth.3091.html
+
+Chapter 2 Introduction to Taguchi Method http://www.ecs.umass.edu/mie/labs/mda/fea/sankar/chap2.html
+-  The L9 orthogonal array is meant for understanding the effect of 4 independent factors each having 3 factor level values. 
+
+
+
 
 ### VBNC
 - https://ja.wikipedia.org/wiki/VNC_(微生物学)  viable but non-culturable 「生きているけれども培養できない」　一般には、土壌や海水中の常在細菌のうち培養できるものはわずかに1-2%にすぎず、その他の大多数のものは培養不能菌である。
