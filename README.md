@@ -1,7 +1,7 @@
 ----------
 
 Haruo Suzuki (haruo[at]g-language[dot]org)   
-Last Update: 2016-08-31  
+Last Update: 2016-09-16
 
 ----------
 
@@ -143,13 +143,13 @@ MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes
 ----------
 
 ### [Olympiome](http://metasub.org/the-olympiome-project/)
-オリンピック開催期間(前/中/後)に人の移動による微生物叢の変化を調べる。
+オリンピック開催期間(前/中/後)の人の移動による微生物叢の変化を調べる。
 
 ![(https://twitter.com/search?q=olympiome)](https://pbs.twimg.com/media/CiMCSRuWkAABQTk.jpg)
 
-[リオデジャネイロオリンピック](https://ja.wikipedia.org/wiki/リオデジャネイロオリンピック)は、2016年8月5日から8月21日までブラジルのリオデジャネイロで開催される
+[リオデジャネイロオリンピック](https://ja.wikipedia.org/wiki/リオデジャネイロオリンピック)は、2016年8月5日から8月21日までブラジルのリオデジャネイロで開催された。
 
-[2020年東京オリンピック](https://ja.wikipedia.org/wiki/2020年東京オリンピック構想)は、2020年7月24日から8月9日まで日本の東京都で開催される予定
+[2020年東京オリンピック](https://ja.wikipedia.org/wiki/2020年東京オリンピック構想)は、2020年7月24日から8月9日まで日本の東京都で開催される予定。
 
 - 22/08/2016 ブラジルのニュース動画 [Cientistas aproveitam Olimpíada para pesquisar vírus e bactérias](http://g1.globo.com/jornal-nacional/noticia/2016/08/cientistas-aproveitam-olimpiada-para-pesquisar-virus-e-bacterias.html)
 - Aug 16, 2016 [Brazilian Researchers Profile Microbiome of Rio Before, During, After Olympic Games | GenomeWeb](https://www.genomeweb.com/sequencing/brazilian-researchers-profile-microbiome-rio-during-after-olympic-games)
@@ -165,6 +165,7 @@ MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes
  - Scientists detect a colistin-resistance gene in a clinical sample.
 - 2016.07.06 [CNN.co.jp : リオの海に「スーパー耐性菌」、五輪会場付近や観光ビーチでも - (1/2)](http://www.cnn.co.jp/showbiz/35085425.html)
 - July 5, 2016 [Rio Olympic Games: 'Super bacteria' discovered in Rio's waters as Olympics near - CNN.com](http://edition.cnn.com/2016/07/05/americas/rio-de-janeiro-super-bacteria/)
+- 2015-07-06 [2020年東京五輪、訪日外客数2000万人！？](http://o2o-marketinglab.jp/post/123328430840/2020%E5%B9%B4%E3%81%AB%E3%81%AF2000%E4%B8%87%E4%BA%BAee-tab%E3%82%A4%E3%83%BC%E3%82%BF%E3%83%96%E3%83%97%E3%83%A9%E3%82%B9limocast%E3%81%A7%E8%A6%B3%E5%85%89%E5%AE%A2%E3%82%92%E5%91%BC%E3%81%B3)
 
 ----------
 
@@ -212,6 +213,12 @@ MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes
 - 2016年01月20日 NY公共交通システム、「全面リニューアル」プラン発表　21世紀のシステムへ http://newyork.keizai.biz/headline/1505/
 - 2016.1.20 「世界中の地下鉄」に乗り換えできる路線図をつくってみた « WIRED.jp http://wired.jp/2016/01/20/map-worldwide-subway-system/
 - 2016.01.18 世界中のメトロ路線図を繋げたら、こうなった : ギズモード・ジャパン http://www.gizmodo.jp/2016/01/world_subway_map.html
+
+http://www.gizmodo.jp/images/2016/01/160114_subwaymap.jpg
+
+- 2013.12.10 「スーパーマリオ」のNY地下鉄マップ｜WIRED.jp http://wired.jp/2013/12/10/videogame-themed-city-maps/
+
+http://wired.jp/wp-content/uploads/2013/12/12571-posters-V-NYC-Subway.373a.png
 
 - [趙  慶姫 (2012) 都市環境と芸術 ── 地下鉄駅空間のアート ──](https://www.agulin.aoyama.ac.jp/opac/repository/1000/12898/N20U059_079.pdf)
 
