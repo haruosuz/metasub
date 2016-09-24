@@ -1,7 +1,7 @@
 ----------
 
 Haruo Suzuki (haruo[at]g-language[dot]org)   
-Last Update: 2016-09-16
+Last Update: 2016-09-24
 
 ----------
 
@@ -248,20 +248,6 @@ We announced previously that the English and Chinese versions for “Tokyo Metro
 
 ----------
 
-## Ohanami-Metagenome: Community-Driven Research Project
-O[hanami](https://en.wikipedia.org/wiki/Hanami) ("flower viewing") is the Japanese traditional custom of enjoying the transient beauty of flowers ("hana") of the cherry blossom ("sakura")
-
-[お花見メタゲノムプロジェクト powered by NGS現場の会 第四回研究会](http://www.ngs-sakura.jp)
-
-![https://github.com/inutano/training/blob/master/ajacs52/README.md#お花見メタゲノムプロジェクト](https://camo.githubusercontent.com/161a12a73623274212e65e843250877b0405435f/687474703a2f2f6779617a6f2e636f6d2f37306232316534396330393831633839346161373461396233343637333937302e706e67)
-
-- [お花見メタ事務局 (@OhanamiMetaG) | Twitter](https://twitter.com/OhanamiMetaG)
-- [#お花見メタゲノム hashtag on Twitter](https://twitter.com/hashtag/お花見メタゲノム)
-- [#OMGseq hashtag on Twitter](https://twitter.com/hashtag/OMGseq?src=hash)
-- [NGS現場の会 第四回研究会](http://www.ngs-field.org/ngs4th/)
-
-----------
-
 ## [HealthMap](http://www.healthmap.org)
 
 ![https://jondorbolo.wordpress.com/2014/11/02/dr-tech-crowdsourcing-infectious-disease/](https://jondorbolo.files.wordpress.com/2014/11/healthmap-300x1891.jpg)
@@ -297,6 +283,20 @@ O[hanami](https://en.wikipedia.org/wiki/Hanami) ("flower viewing") is the Japane
 - 2014年7月 [インフルエンザの流行をリアルタイムで追う](http://www.sakakibara-heart.com/hospital/colum/colum9.html)
 - 2013.02.14 [Uncharted Territorythey will complement, but not substitute for](http://unchartedterritory.blog.fc2.com/blog-entry-31.html)
 - 2012/07/19 [クライシス情報学 -災害などの危機に情報はどう役立つか?- 国立情報学研究所 コンテンツ科学研究系 北本 朝展](http://agora.ex.nii.ac.jp/~kitamoto/outreach/shimin-2012/lecture-ppt.pdf)
+
+----------
+
+## Ohanami-Metagenome: Community-Driven Research Project
+O[hanami](https://en.wikipedia.org/wiki/Hanami) ("flower viewing") is the Japanese traditional custom of enjoying the transient beauty of flowers ("hana") of the cherry blossom ("sakura")
+
+[お花見メタゲノムプロジェクト powered by NGS現場の会 第四回研究会](http://www.ngs-sakura.jp)
+
+![https://github.com/inutano/training/blob/master/ajacs52/README.md#お花見メタゲノムプロジェクト](https://camo.githubusercontent.com/161a12a73623274212e65e843250877b0405435f/687474703a2f2f6779617a6f2e636f6d2f37306232316534396330393831633839346161373461396233343637333937302e706e67)
+
+- [お花見メタ事務局 (@OhanamiMetaG) | Twitter](https://twitter.com/OhanamiMetaG)
+- [#お花見メタゲノム hashtag on Twitter](https://twitter.com/hashtag/お花見メタゲノム)
+- [#OMGseq hashtag on Twitter](https://twitter.com/hashtag/OMGseq?src=hash)
+- [NGS現場の会 第四回研究会](http://www.ngs-field.org/ngs4th/)
 
 ----------
 
@@ -369,169 +369,6 @@ http://www.jst.go.jp/cpse/kagakubu/torikumi/fiscal/2012/120923.html …
 http://www.geopacific.org/file_home/90f3cf … (PDF)
 
 ----------
-
-----------
-
-## Notes
-
-### DoE
-https://en.wikipedia.org/wiki/Design_of_experiments
-https://ja.wikipedia.org/wiki/実験計画法
-https://ja.wikipedia.org/wiki/直交表
-
-実験計画法の基礎 http://homepage2.nifty.com/nandemoarchive/toukei_hosoku/jikenkeikaku_kiso.htm
-
-実験計画法 http://heartland.geocities.jp/ecodata222/ed/edj1-7-2.html
-
-- 実験計画には直交表を使おう！ http://homepage1.nifty.com/QCC/2002-8.html
-
-- 直交表の技法解説記事 主な直交表の種類と特徴 - ものづくり.com http://www.monodukuri.com/gihou/article/74
- - ２．3水準系直交表 (1)　L9直交表 http://www.monodukuri.com/gihou/article/74
-
-《QES》 品質工学Q&A http://www.qes.gr.jp/introduction/whatqe_qa/QA2/QA2Q13V11N4.htm
-品質工学ではL18が推奨されているのに，なぜL9直交表を使ったの
-直交表を使うのならばL18をお薦めします。　その理由は，三つあります。　
-
-
-Slideshare「Rで実験計画法 前編」 http://ow.ly/qd9hp  ｜「Rで実験計画法 後編」 http://ow.ly/qd9is 
-DoE.baseで直交表の自動生成(実験計画法) - arupaka-_-arupakaの日記 (id:arupaka-_-arupaka) http://d.hatena.ne.jp/arupaka-_-arupaka/20131003/1380786203
-
-前回のMetaSUBミーティングで話題になった動画です。
-Biologist talks to statistician https://www.youtube.com/watch?v=Hz1fyhVOjr4
-
-Biologist が言う N = 3 の根拠はおそらく、Wilcoxonの順位和検定（片側検定）で5%水準で有意差が認められるためにはN=3以上のサンプルサイズが必要だからと考えます。
-
-
-
-
-
-(株)日科技研：二元配置分散分析とは（実験計画法）｜製品案内 https://www.i-juse.co.jp/statistics/product/func/doe/two-way-anova.html
-2つの因子A（l水準），因子B（m水準）を選び，各水準の組合せ（l，m通り）における繰り返し数をr回とした
-ここで，r=1の場合には，因子A，Bに関し，l×m通りの組合せがありますが，これらをランダムに1回ずつ行う場合を繰り返しのない二元配置と呼び，r≧2の場合を繰り返しのある二元配置と呼びます．
-
-R言語で統計解析入門： 二元配置の実験計画の実験データを分散分析　梶山　喜一郎 http://monge.tec.fukuoka-u.ac.jp/r_analysis/test_anova21.html
-(1) 表１の実験条件の組み合わせに対して，繰り返しがなく「一回だけ実験する」場合と「同じ回数だけ繰り返す」場合を区別する．
-　　繰り返しのない実験を行えるのは，因子Aと因子B間に交互作用が存在しないとわかっている場合だけに行う実験計画である．
-
-experimental design http://lbm.ab.a.u-tokyo.ac.jp/~omori/experiment.html
-乱塊法(randomized block design)
-Fisher の3原則を完全に満足する実験手法で，すべての処理組み合わせの実験を 1回ずつ集めたもので 1つのブロックを形成する．ブロック数が反復数になる．
-
-実験データー解析概論 http://cse.niaes.affrc.go.jp/minaka/R/nodai2012-6.pdf
-2 要因乱塊法(Box 3)
-[実験]窒素施肥量 N(5 水準)とイネ品種 V(3 水準) でのイネ収量実験を 4 反復の乱塊法で実施した(IRRI).
-
-実験計画法概論 http://avalonbreeze.web.fc2.com/38_01_10_experimentdesign01.html
-① 反復
-同じ条件で「繰り返しのある実験」を行うことにより、実験結果が、調査目的となる要因による影響なのか、あるいは誤差によるばらつきの範囲なのかを判別する。
-反復によって、交互作用を誤差と交絡させずに、分離することができる。
-
-
-
-http://www.ipc.shimane-u.ac.jp/food/kobayasi/biometry11_2010.html
-交互作用による変動を分離するには同じ処理の組み合わせについて２つ以上のデータの反復が必要になります．反復のないときは交互作用による変動と誤差変動を分離できません（交絡しているといいます）．
-
-
-実験・調査における「繰返し」と「反復」の誤用  [in Japanese] http://ci.nii.ac.jp/naid/110007099999
-「反復」Replication
-「繰返し」Repetition
-
-
-
-biological replicateとTechnical replicate http://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q14107746089
-
-
-Error bars in experimental biology http://jcb.rupress.org/content/177/1/7.full
-It is essential that n (the number of independent results) is carefully distinguished from the number of replicates, which refers to repetition of measurement on one individual in a single condition, or multiple measurements of the same or identical samples. 
-
-Points of Significance: Replication : Nature Methods : Nature Publishing Group http://www.nature.com/nmeth/journal/v11/n9/full/nmeth.3091.html
-
-Chapter 2 Introduction to Taguchi Method http://www.ecs.umass.edu/mie/labs/mda/fea/sankar/chap2.html
--  The L9 orthogonal array is meant for understanding the effect of 4 independent factors each having 3 factor level values. 
-
-
-
-
-### VBNC
-- https://ja.wikipedia.org/wiki/VNC_(微生物学)  viable but non-culturable 「生きているけれども培養できない」　一般には、土壌や海水中の常在細菌のうち培養できるものはわずかに1-2%にすぎず、その他の大多数のものは培養不能菌である。
-- [『培養できない微生物たち　－自然環境中での微生物の姿－』](http://www.wound-treatment.jp/next/dokusho153.htm)
-
-### Metagenomics best hit analysis
-
-- 18 Feb 2015 [Ed Yong on Twitter: "Much respect @mason_lab for this humble, detailed response to criticism over the plague result in the NYCsubway paper](https://twitter.com/edyong209/status/568169571405967361)
-
-[The long road from Data to Wisdom, and from DNA to Pathogen](http://microbe.net/2015/02/17/the-long-road-from-data-to-wisdom-and-from-dna-to-pathogen/)
-
-![](http://microbe.net/wp-content/uploads/2015/02/tophits.png)
-![](http://microbe.net/wp-content/uploads/2015/02/ENA.png)
-
-- 12 Feb 2015 [Stephen Turner on Twitter: "What happens if you sample short reads from E. coli and use a metagenomics best-hit approach: http://t.co/jQrPBEOqTX ](https://twitter.com/genetics_blog/status/565933587783249921)
-
-[Metagenomics best hit analysis: caveat emptor · Loman Labs](http://lab.loman.net/2015/02/11/metagenomics-best-hit-analysis-caveat-emptor/)
-
-![](http://lab.loman.net/images/2015-12-11-MGRAST.png)
-
-### Taxonomy
-- [生物の種とは何か | 日経サイエンス](http://www.nikkei-science.com/page/magazine/0809/200809_060.html)
- - リンネは，あらゆる種は神によって創造されたまま現在にいたったと考えた。生物は進化し，種は分化するという考えはなかったのだ。
- - さらに困難な問題は，もともと性をもたない種をどうするかだ。「系統学的種概念」　定義から性を外し，その代わりに共通祖先からの系譜を持ち出す。
- - 生物多様性の90％以上を占める微生物の種は，どう定義すればよいのだろう？　
-
-- [分類学と系統学：ある蜜月の終焉　三中信宏（農環研・計測情報）](http://www.e-jsps.com/2007hp/topic/Datesoudo84/mitsu.html)
- - 分類＝パターン認識 　　系統＝パラメーター推定
-- [http://www004.upp.so-net.ne.jp/jissen/jissen43.htm#minaka](体系化の精神と系統樹の科学－－学問の「壁」を越えて－－)
- - 「種」の概念とは、この心理的本質主義が生みだした認知カテゴリーであると私は考える。つまり、 私の考えでは、種は、あらゆる意味で外界に実在しているのではなく、外界からの刺激に呼応してヒトが認 知心理的に形成した離散カテゴリーである。
-- [http://cse.niaes.affrc.go.jp/minaka/R/R-cluster.html](クラスター分析の光と闇――なぜヒトは分類に憑かれるのか？――)
- - 時空的に連続する外界を人間が理解するために，離散的なカテゴリー（類や群）を認知的に造りだしている
- - 認知カテゴリーと心理的本質主義　なぜ私たちは対象物を「カテゴリー化」するのか？　その理由は，多様な対象物をカテゴリーとして類別することにより，記憶の負担を軽減し，情報の貯蔵と検索の効率を上げられるからである．　連続的波長のスペクトルによって変化する色の離散的なカテゴリー（「赤」とか「緑」のように）を造ることで色彩のありさまを理解するように
-- [三中 信宏 (2011) 分子系統進化学　— 生物の進化を分子データから推論する —](http://cse.naro.affrc.go.jp/minaka/cladist/tamagawa2011-2.pdf)
-
-![](https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTZ2WfJ0mVPjGMphkkB7h7uwqakl4dN5Sh9BKJQ_CLkeXbxanmY)
-
-## Phylogeny
-
-Joseph Felsensteinの言う【分類なんかどうだっていいじゃん派（The  It-Doesn't-Matter-Very-Much school）】（『Inferring Phylogenies』, p.145） http://leeswijzer.org/diary2003-10.html
-
-[Data Visualization: Great Tree of Life - UA MagazineUA Magazine](http://www.united-academics.org/earth-environment/data-visualization-great-tree-of-life/)
-
-![](http://www.united-academics.org/wp-content/uploads/2012/09/Great-Tree-of-Life-620x234.gif)
-
-[新しい系統樹では細菌が圧倒的に優勢](http://www.natureasia.com/ja-jp/life-sci/research/10626) [A new view of the tree of life : Nature Microbiology](http://www.nature.com/articles/nmicrobiol201648)
-
-![](http://www.nature.com/article-assets/npg/nmicrobiol/2016/nmicrobiol201648/images_hires/m685/nmicrobiol201648-f2.jpg)
-
-### Diversity
-多様性
-- [論文の紹介： 生物多様性を進化系統学的な尺度で測る (情報：農業と環境 No.83 2007.3)](http://www.niaes.affrc.go.jp/magazine/083/mgzn08304.html)
- - 「系統学的多様性（PD: phylogenetic diversity）」　ある生物群の系統学的多様度とは、その生物群を系統樹上で結ぶ枝の長さの総和として求められる。　生物保全において守るべきは、実体のない「種」ではなく、クレード（単系統群）である
-- [Picante: R tools for integrating phylogenies and ecology. Bioinformatics. 2010 Jun 1;26(11):1463-4.](http://www.ncbi.nlm.nih.gov/pubmed/20395285)
- - 系統学的多様性 phylogenetic diversity の計算
-- [Problems in measuring bacterial diversity and a possible solution. Appl Environ Microbiol. 1996 Nov;62(11):4299-301.](http://www.ncbi.nlm.nih.gov/pubmed/16535456)
- - 細菌群集の多様度の尺度として「種の多様性指数」よりも「細菌間の平均距離」を推奨
-- 統計数理(2012) [α多様性の測定と確率文字列の理論](http://ismrepo.ism.ac.jp/dspace/handle/10787/2973)
- - Shannon 指数や Simpson 指数では,種が明確に定義されていることや各個体をあいまい さなく同定できることが前提になっており,これらの指標の微生物群集への適用には問題があ ることが当初から指摘されていた(Staley, 1980; Torsvik et al., 1990). また,図 1 と 2 において 示されているように,微生物群集からの 16S リボソーム RNA 遺伝子配列のデータの 1 つの特 徴として強いクラスター性があるが,種数に対応する異なる配列数を数える指標や,塩基多様 度のような異なるサイト数に基づく指標では,このようなクラスター構造を反映できないとい う問題がある.代替的な方法の研究として,Watve and Gangal(1996), Hughes et al.(2001), Hong et al.(2006)などがあるが,理論的な基礎を持つ体系的な方法とは言えなかった.
-
-### [Plasmid](https://github.com/haruosuz/plasmids)
-
-- [News about plasmid resistance on Twitter](https://twitter.com/search?vertical=news&q=plasmid%20resistance)
-
-- December 16, 2015 [A New Superbug Attacks Our Last Line Of Antibiotic Defense | On Point](http://www.wbur.org/onpoint/2015/12/16/superbug-antibiotics-global-risk) 
-- March 27, 2015 [FACT SHEET: Obama Administration Releases National Action Plan to Combat Antibiotic-Resistant Bacteria | whitehouse.gov](https://www.whitehouse.gov/the-press-office/2015/03/27/fact-sheet-obama-administration-releases-national-action-plan-combat-ant)
-
-- Fri May 27, 2016 [U.S. sees first case of bacteria resistant to last-resort antibiotic | Reuters](http://www.reuters.com/article/us-health-superbug-idUSKCN0YH2KT)
-
-![http://www.reuters.com/article/us-health-superbug-idUSKCN0YH2KT](http://s2.reutersmedia.net/resources/r/?m=02&d=20160527&t=2&i=1139027343&w=&fh=&fw=&ll=644&pl=429&sq=&r=LYNXNPEC4P1O4)
-
-- June 12, 2016 [Bacteria gaining upper hand in war against humans- Nikkei Asian Review](http://asia.nikkei.com/Tech-Science/Science/Bacteria-gaining-upper-hand-in-war-against-humans)
-
-- April 13, 2011 [Antibiotic resistance spreads rapidly between bacteria -- ScienceDaily](https://www.sciencedaily.com/releases/2011/04/110411163918.htm)
-
-![https://www.sciencedaily.com/releases/2011/04/110411163918.htm](https://images.sciencedaily.com/2011/04/110411163918_1_540x360.jpg)
-
-- May 2, 2011 [BEACON Researchers at Work: Plasmid evolution is the key to fighting antibiotic resistance | BEACON](http://beacon-center.org/blog/2011/05/02/beacon-researchers-at-work-plasmid-evolution-is-the-key/)
-
-![http://elizabethely.com/2010/07/11/antibiotic-chloramphenicol-in-chinese-imported-honey/](http://elizabethely.com/wp-content/uploads/2010/07/nz149-superbug-cartoon.jpg)
-
 ----------
 
 
