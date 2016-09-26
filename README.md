@@ -129,19 +129,6 @@ MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes
 
 ----------
 
-## Air Microbiome
-空気中の微生物叢
-
-- [Air Microbiome of Hong Kong's Subways. Patrick Lee.](http://nebula.wsimg.com/83b61d25af77152a5cca036a87435faa?AccessKeyId=EE67D855699D9B3A8843&disposition=0&alloworigin=1)
-- [Robertson CE et al. Appl Environ Microbiol. 2013 Jun;79(11):3485-93. "Culture-independent analysis of aerosol microbiology in a metropolitan subway system."](http://www.ncbi.nlm.nih.gov/pubmed/23542619)
-- [Kawasaki T et al. J Occup Health. 2013;55(6):495-502. "Distribution of airborne bacteria in railway stations in Tokyo, Japan."](http://www.ncbi.nlm.nih.gov/pubmed/24025860)
-- [Kawasaki T et al. J Occup Health. 2010;52(3):186-93. "Distribution and identification of airborne fungi in railway stations in Tokyo, Japan."](http://www.ncbi.nlm.nih.gov/pubmed/20299760) | [pdf](http://joh.sanei.or.jp/pdf/E52/E52_3_05.pdf)
-- [Kawasaki T et al. "Indoor air quality at stations: Development of a methodology for quantifying railway customers’ perception of odor at stations"](http://www.railway-research.org/IMG/pdf/e5_kawasaki_tanami.pdf)
-- [駅構内の空気質に与える微生物の影響評価　RTRI REPORT Vol. 22, No. 5, May. 2008](http://bunken.rtri.or.jp/PDF/cdroms1/0001/2008/0001003044.pdf)
-- [駅構内の空気質に与える微生物の影響評価　(鉄道総研報告,2008 年 5 月号)](http://www.rtri.or.jp/publish/rtrirep/2008/r_digest/05/0805_6.pdf)
-
-----------
-
 ### [Olympiome](http://metasub.org/the-olympiome-project/)
 オリンピック開催期間(前/中/後)の人の移動による微生物叢の変化を調べる。
 
