@@ -1,7 +1,7 @@
 ----------
 
 Haruo Suzuki (haruo[at]g-language[dot]org)   
-Last Update: 2016-09-24
+Last Update: 2016-10-13
 
 ----------
 
@@ -79,6 +79,7 @@ MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes
 - [2016 Hsu et al. Urban Transit System Microbial Communities Differ by Surface Type and Interaction with Humans and the Environment | mSystems](http://msystems.asm.org/content/1/3/e00018-16)
 - 関連情報
  - 動画 Jul 7, 2016 [The Boston Subway Microbiome - mSystems/American Society for Microbiology - YouTube](https://www.youtube.com/watch?v=bL1v8JIiLNg)
+ - 動画 Jun 30, 2016 [The Boston Subway Microbiome - YouTube](https://youtu.be/HXQqjKA9S5A)
  - 2016年7月5日(火) 6時50分 [地下鉄で細菌が最も多いのはどこ？―中国メディア - Record China](http://www.recordchina.co.jp/a143783.html)
  - June 28, 2016 [Boston Subway System Covered in Microbes, But They're Not Harmful](http://www.asm.org/index.php/journal-press-releases/94287-boston-subway-system-covered-in-microbes-but-they-re-not-harmful)
  - June 28, 2016 [‘Bugs’ on the subway: Monitoring the microbial environment to improve public health](https://www.hsph.harvard.edu/news/press-releases/microbes-boston-subway-public-health/)
@@ -170,9 +171,11 @@ MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes
   - 2015-11-20 [Cracking the Genetic Code of Our Cities | Sofia Ahsanuddin | TEDxCUNY - YouTube](https://www.youtube.com/watch?v=t9GrVdYWJOc)
     - [There are 15,000 lifeforms riding the NYC subway, including meningitis | TEDx Innovations Blog](http://tedxinnovations.ted.com/2016/06/15/nyc-subway-commuters-include-15000-lifeforms-including-meningitis/)
 
+- [MetaSUB Zurich (@Metasub_Zurich) | Twitter](https://twitter.com/Metasub_Zurich)
+- [Metasub_Paris (@metasub_paris) | Twitter](https://twitter.com/metasub_paris)
+- [MetaSUB_Sweden (@MetaSUB_Sweden) | Twitter](https://twitter.com/MetaSUB_Sweden)
 - [Erica Hartmann (@ericamhartmann) | Twitter](https://twitter.com/ericamhartmann)
 - [Marcus Leung (@leungmarcus) | Twitter](https://twitter.com/leungmarcus)
-- [MetaSUB_Sweden (@MetaSUB_Sweden) | Twitter](https://twitter.com/MetaSUB_Sweden)
 
 ----------
 
