@@ -76,18 +76,17 @@ MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes
 ボストン地下鉄の微生物叢
 
 - 論文 [2016 Hsu et al. Urban Transit System Microbial Communities Differ by Surface Type and Interaction with Humans and the Environment | mSystems](http://msystems.asm.org/content/1/3/e00018-16)
-- 関連情報
- - 動画 YouTube
+- 動画 YouTube
   - Jul 7, 2016 [The Boston Subway Microbiome - mSystems/American Society for Microbiology](https://www.youtube.com/watch?v=bL1v8JIiLNg)
   - Jun 30, 2016 [The Boston Subway Microbiome](https://youtu.be/HXQqjKA9S5A)
- - 2016年7月5日(火) 6時50分 [地下鉄で細菌が最も多いのはどこ？―中国メディア - Record China](http://www.recordchina.co.jp/a143783.html)
- - microBEnet: the microbiology of the Built Environment network
+- 2016年7月5日(火) 6時50分 [地下鉄で細菌が最も多いのはどこ？―中国メディア - Record China](http://www.recordchina.co.jp/a143783.html)
+- microBEnet: the microbiology of the Built Environment network
   - July 2, 2016 Elisabeth Bik [New papers on microbiology of the built environment](http://microbe.net/2016/07/02/new-papers-july-2-2016/)
   - June 30, 2016 Tiffany Hsu [Microbes on the Boston "T"](http://microbe.net/2016/06/30/microbes-on-the-boston-t/)
- - 29 June, 2016 by Kelle Freel [Who’s really riding the subway with you? Characterization of the microbial communities on Boston transport](http://www.molecularecologist.com/2016/06/whos-really-riding-the-subway-with-you-characterization-of-the-microbial-communities-on-the-boston-transport/)
- - June 28, 2016 [Boston Subway System Covered in Microbes, But They're Not Harmful](http://www.asm.org/index.php/journal-press-releases/94287-boston-subway-system-covered-in-microbes-but-they-re-not-harmful)
- - June 28, 2016 [‘Bugs’ on the subway: Monitoring the microbial environment to improve public health](https://www.hsph.harvard.edu/news/press-releases/microbes-boston-subway-public-health/)
- - 03/15/16 [MBTA 2015 | The Huttenhower Lab](http://huttenhower.sph.harvard.edu/MBTA2015)
+- 29 June, 2016 by Kelle Freel [Who’s really riding the subway with you? Characterization of the microbial communities on Boston transport](http://www.molecularecologist.com/2016/06/whos-really-riding-the-subway-with-you-characterization-of-the-microbial-communities-on-the-boston-transport/)
+- June 28, 2016 [Boston Subway System Covered in Microbes, But They're Not Harmful](http://www.asm.org/index.php/journal-press-releases/94287-boston-subway-system-covered-in-microbes-but-they-re-not-harmful)
+- June 28, 2016 [‘Bugs’ on the subway: Monitoring the microbial environment to improve public health](https://www.hsph.harvard.edu/news/press-releases/microbes-boston-subway-public-health/)
+- 03/15/16 [MBTA 2015 | The Huttenhower Lab](http://huttenhower.sph.harvard.edu/MBTA2015)
 
 ----------
 
