@@ -79,7 +79,8 @@ MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes
 - 動画 YouTube
   - Jul 7, 2016 [The Boston Subway Microbiome - mSystems/American Society for Microbiology](https://www.youtube.com/watch?v=bL1v8JIiLNg)
   - Jun 30, 2016 [The Boston Subway Microbiome](https://youtu.be/HXQqjKA9S5A)
-- 2016年7月5日(火) 6時50分 [地下鉄で細菌が最も多いのはどこ？―中国メディア - Record China](http://www.recordchina.co.jp/a143783.html)
+- 2016年07月09日 [地下鉄で最も細菌が多い場所 - ZAPZAP!](http://zapzapjp.com/49017741.html)
+- 2016年7月5日 [地下鉄で細菌が最も多いのはどこ？―中国メディア - Record China](http://www.recordchina.co.jp/a143783.html)
 - microBEnet: the microbiology of the Built Environment network
   - July 2, 2016 Elisabeth Bik [New papers on microbiology of the built environment](http://microbe.net/2016/07/02/new-papers-july-2-2016/)
   - June 30, 2016 Tiffany Hsu [Microbes on the Boston "T"](http://microbe.net/2016/06/30/microbes-on-the-boston-t/)
