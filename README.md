@@ -190,8 +190,6 @@ MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes
 ----------
 
 ## Updates
-- 2016年7月号（第62巻7号）[医学と公衆衛生に関する学術情報誌【モダンメディア】](http://www.eiken.co.jp/modern_media/)
- - [公衆衛生および感染症診断に貢献する微生物ゲノム研究の変貌〔PDF:1.19MB〕黒田　誠](http://www.eiken.co.jp/modern_media/backnumber/pdf/MM1607_02.pdf)
 - 2016年4月[（研究開発の俯瞰報告書）研究開発の新しい動向（2016年）／CRDS-FY2016-FR-01](https://www.jst.go.jp/crds/report/report02/CRDS-FY2016-FR-01.html)
  - [PDF](https://www.jst.go.jp/crds/pdf/2016/FR/CRDS-FY2016-FR-01.pdf)
   - 都市スケールでのメタゲノム解析がニューヨ ーク市の地下鉄、運河、公園からのサンプルで行われた 5)。
