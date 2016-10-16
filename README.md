@@ -191,10 +191,8 @@ MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes
 
 ## Updates
 - 2016年4月[（研究開発の俯瞰報告書）研究開発の新しい動向（2016年）／CRDS-FY2016-FR-01](https://www.jst.go.jp/crds/report/report02/CRDS-FY2016-FR-01.html)
- - [PDF](https://www.jst.go.jp/crds/pdf/2016/FR/CRDS-FY2016-FR-01.pdf)
   - 都市スケールでのメタゲノム解析がニューヨ ーク市の地下鉄、運河、公園からのサンプルで行われた 5)。
 - 2016年3月[（調査報告書）グリーンバイオ分野における研究開発の重要課題と統合的推進 ～イノベーション創出と持続可能な社会の形成へ向けて～／CRDS-FY2015-RR-08](https://www.jst.go.jp/crds/report/report04/CRDS-FY2015-RR-08.html)
- - [PDF](https://www.jst.go.jp/crds/pdf/2015/RR/CRDS-FY2015-RR-08.pdf)
   - メタゲノム解析の応用例は多様化し、現在ではさまざまな対象、例えば、土壌 2)、深海底下 4)、ニューヨークの地下鉄 5)、コーヒーサーバー6) 、チーズ 7)、などにまで至っ ている。
 - [公益財団法人鉄道総合技術研究所｜人間科学ニュース 2016年3月号（第202号）](https://www.rtri.or.jp/rd/news/human/human_201603.html)
  - 遺伝子で鉄道の環境を見る（生物工学グループ　池畑政輝）
