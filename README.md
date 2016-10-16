@@ -1,7 +1,7 @@
 ----------
 
 Haruo Suzuki (haruo[at]g-language[dot]org)   
-Last Update: 2016-10-13
+Last Update: 2016-10-16
 
 ----------
 
@@ -81,9 +81,7 @@ MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes
   - Jun 30, 2016 [The Boston Subway Microbiome](https://youtu.be/HXQqjKA9S5A)
 - 2016年07月09日 [地下鉄で最も細菌が多い場所 - ZAPZAP!](http://zapzapjp.com/49017741.html)
 - 2016年7月5日 [地下鉄で細菌が最も多いのはどこ？―中国メディア - Record China](http://www.recordchina.co.jp/a143783.html)
-- microBEnet: the microbiology of the Built Environment network
-  - July 2, 2016 Elisabeth Bik [New papers on microbiology of the built environment](http://microbe.net/2016/07/02/new-papers-july-2-2016/)
-  - June 30, 2016 Tiffany Hsu [Microbes on the Boston "T"](http://microbe.net/2016/06/30/microbes-on-the-boston-t/)
+- June 30, 2016 Tiffany Hsu [Microbes on the Boston “T” – microBEnet: the microbiology of the Built Environment network.](http://www.microbe.net/microbes-on-the-boston-t/)
 - 29 June, 2016 by Kelle Freel [Who’s really riding the subway with you? Characterization of the microbial communities on Boston transport](http://www.molecularecologist.com/2016/06/whos-really-riding-the-subway-with-you-characterization-of-the-microbial-communities-on-the-boston-transport/)
 - June 28, 2016 [Boston Subway System Covered in Microbes, But They're Not Harmful](http://www.asm.org/index.php/journal-press-releases/94287-boston-subway-system-covered-in-microbes-but-they-re-not-harmful)
 - June 28, 2016 [‘Bugs’ on the subway: Monitoring the microbial environment to improve public health](https://www.hsph.harvard.edu/news/press-releases/microbes-boston-subway-public-health/)
@@ -171,10 +169,17 @@ MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes
   - 2016-11-30 [TEDMED - Discovering and designing genomes for Earth, Mars, and beyond](http://tedmed.com/talks/show?id=528172)
   - 2015-11-09 [【ICF2015】クリストファー・メイソン - 「スマートシティを司る“２番目の脳”」](https://youtu.be/3egxzBzynvY)
   - 2015-11-09 [【ICF2015】Christopher Mason - Second Brain for the Smart City](https://youtu.be/ZK5ORqWqnps)
+  - 2015-10-02 [Metagenomic analysis of the New York City subway system](https://www.youtube.com/watch?v=HyqvMEqmkYk)
   - 2015-06-19 [Integrative Genomics in Single Cells, Entire Cities, and Astronauts](https://youtu.be/Q_eUq9FNSaY)
-  - 2015-03-27 [SciCafe: Mapping the Urban Microbiome, Genome, and Metagenome - YouTube](https://www.youtube.com/watch?v=mn5MkKXtxms)
+  - 2015-03-27 [SciCafe: Mapping the Urban Microbiome, Genome, and Metagenome](https://www.youtube.com/watch?v=mn5MkKXtxms)
+  - 2013-06-18 [Tumor Evolution in the Transcriptome, Epigenome, and Epitranscriptome](https://www.youtube.com/watch?v=UQecetRMzWI)
+
+- Sofia Ahsanuddin
   - 2015-11-20 [Cracking the Genetic Code of Our Cities | Sofia Ahsanuddin | TEDxCUNY - YouTube](https://www.youtube.com/watch?v=t9GrVdYWJOc)
     - [There are 15,000 lifeforms riding the NYC subway, including meningitis | TEDx Innovations Blog](http://tedxinnovations.ted.com/2016/06/15/nyc-subway-commuters-include-15000-lifeforms-including-meningitis/)
+
+- [Stockholm University swabs the Tube - Stockholm University](http://www.su.se/english/about/partnerships-collaborations/stockholm-university-swabs-the-tube-1.275059)
+ - [Looking for bacteria in the metro – "People call us nerds"](https://www.youtube.com/watch?v=F8ye-gqHtno)
 
 - [MetaSUB Zurich (@Metasub_Zurich) | Twitter](https://twitter.com/Metasub_Zurich)
 - [Metasub_Paris (@metasub_paris) | Twitter](https://twitter.com/metasub_paris)
@@ -185,6 +190,16 @@ MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes
 ----------
 
 ## Updates
+- 2016年7月号（第62巻7号）[医学と公衆衛生に関する学術情報誌【モダンメディア】](http://www.eiken.co.jp/modern_media/)
+ - [公衆衛生および感染症診断に貢献する微生物ゲノム研究の変貌〔PDF:1.19MB〕黒田　誠](http://www.eiken.co.jp/modern_media/backnumber/pdf/MM1607_02.pdf)
+- 2016年4月[（研究開発の俯瞰報告書）研究開発の新しい動向（2016年）／CRDS-FY2016-FR-01](https://www.jst.go.jp/crds/report/report02/CRDS-FY2016-FR-01.html)
+ - [PDF](https://www.jst.go.jp/crds/pdf/2016/FR/CRDS-FY2016-FR-01.pdf)
+  - 都市スケールでのメタゲノム解析がニューヨ ーク市の地下鉄、運河、公園からのサンプルで行われた 5)。
+- 2016年3月[（調査報告書）グリーンバイオ分野における研究開発の重要課題と統合的推進 ～イノベーション創出と持続可能な社会の形成へ向けて～／CRDS-FY2015-RR-08](https://www.jst.go.jp/crds/report/report04/CRDS-FY2015-RR-08.html)
+ - [PDF](https://www.jst.go.jp/crds/pdf/2015/RR/CRDS-FY2015-RR-08.pdf)
+  - メタゲノム解析の応用例は多様化し、現在ではさまざまな対象、例えば、土壌 2)、深海底下 4)、ニューヨークの地下鉄 5)、コーヒーサーバー6) 、チーズ 7)、などにまで至っ ている。
+- [公益財団法人鉄道総合技術研究所｜人間科学ニュース 2016年3月号（第202号）](https://www.rtri.or.jp/rd/news/human/human_201603.html)
+ - 遺伝子で鉄道の環境を見る（生物工学グループ　池畑政輝）
 - [「微生物から新しいデザインがはじまる」デイヴィッド・ベンジャミン✕ジェシカ・グリーン✕林千晶：Redesigning Tokyo 対話4「Biology」 « WIRED.jp](http://wired.jp/special/2016/biology/)
 - 2015-10-14 [プログラム | Innovative City Forum 2015](http://icf.academyhills.com/2015/program.html)
 スマートシティを司る“２番目の脳”
