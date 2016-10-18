@@ -213,44 +213,33 @@ MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes
 
 ----------
 
-## Subways
-地下鉄
+## Ohanami-Metagenome: Community-Driven Research Project
+O[hanami](https://en.wikipedia.org/wiki/Hanami) ("flower viewing") is the Japanese traditional custom of enjoying the transient beauty of flowers ("hana") of the cherry blossom ("sakura")
 
-- 2016年01月20日 NY公共交通システム、「全面リニューアル」プラン発表　21世紀のシステムへ http://newyork.keizai.biz/headline/1505/
-- 2016.1.20 「世界中の地下鉄」に乗り換えできる路線図をつくってみた « WIRED.jp http://wired.jp/2016/01/20/map-worldwide-subway-system/
-- 2016.01.18 世界中のメトロ路線図を繋げたら、こうなった : ギズモード・ジャパン http://www.gizmodo.jp/2016/01/world_subway_map.html
+[お花見メタゲノムプロジェクト powered by NGS現場の会 第四回研究会](http://www.ngs-sakura.jp)
 
-http://www.gizmodo.jp/images/2016/01/160114_subwaymap.jpg
+![https://github.com/inutano/training/blob/master/ajacs52/README.md#お花見メタゲノムプロジェクト](https://camo.githubusercontent.com/161a12a73623274212e65e843250877b0405435f/687474703a2f2f6779617a6f2e636f6d2f37306232316534396330393831633839346161373461396233343637333937302e706e67)
 
-- 2013.12.10 「スーパーマリオ」のNY地下鉄マップ｜WIRED.jp http://wired.jp/2013/12/10/videogame-themed-city-maps/
+- [お花見メタ事務局 (@OhanamiMetaG) | Twitter](https://twitter.com/OhanamiMetaG)
+- [#お花見メタゲノム hashtag on Twitter](https://twitter.com/hashtag/お花見メタゲノム)
+- [#OMGseq hashtag on Twitter](https://twitter.com/hashtag/OMGseq?src=hash)
+- [NGS現場の会 第四回研究会](http://www.ngs-field.org/ngs4th/)
 
-http://wired.jp/wp-content/uploads/2013/12/12571-posters-V-NYC-Subway.373a.png
+----------
 
-- [趙  慶姫 (2012) 都市環境と芸術 ── 地下鉄駅空間のアート ──](https://www.agulin.aoyama.ac.jp/opac/repository/1000/12898/N20U059_079.pdf)
+## Money Microbiome
+お金の微生物叢
 
-- NY市地下鉄の清掃状況
- - 5/19/15 [The New York City Subway Is Full Of Garbage](http://jalopnik.com/the-new-york-city-subway-is-full-of-garbage-1705602906)
-The MTA standard is to clean each of its 276 stations once every three weeks. But the audit, by the office of City Comptroller Scott Stringer, found that 97% of the stations were cleaned less frequently.
-The report states that 88% of stations were cleaned fewer than eight times a year. The audit covered the period covering July 2013 to June 2014.
- - 2015年05月15日 [NY市地下鉄は清掃基準を満たさず、線路はゴミ捨て場状態 - Japan Wideニュース](http://www.jwide.com/news/news.htm?id=5098)
-２０１３年７月から２０１４年６月の清掃記録の監査によると、地下にある２７６駅のうち、３週間に１度という交通局の清掃スケジュールを満たしていたのは僅か３％にあたる７駅の線路だけだった。半数以上の駅の線路は、１１人の清掃員により一年間で４度から８度の清掃が行われているだけだ。
+- 2015-06-08 [Money metagenomics](https://www.genomeweb.com/scan/week-plos-31) インド紙幣のメタゲノムに病原細菌や抗生物質耐性遺伝子
+- 2014-05-19 [【衝撃！】お札はトイレより汚い!?3,000ものバクテリアが付着していた！ - NAVER まとめ](http://matome.naver.jp/odai/2140045497330359201)
+- 2014-04-24 [Dirty money: Your cash is home to thousands of bacteria](http://www.cbsnews.com/news/dirty-money-your-cash-is-home-to-thousands-of-bacteria)
+- 2014-04-21 [「口にお金を入れる」のはやめよう―紙幣に膨大なバクテリア - WSJ](http://on.wsj.com/1eSGYpK)
+- 2013-08-06 [お札の5枚に1枚は、食中毒菌がついていることを示唆するデータが… お金を使うときに少しでも菌から身を守る対応策を聞いてみた | マイナビニュース](http://news.mynavi.jp/kikaku/2013/08/06/001/)
 
-- 地下鉄 インフルエンザ
- - 公開情報｜東京メトロ [東京地下鉄株式会社 「新型インフルエンザ等対策業務計画」要旨](http://www.tokyometro.jp/corporate/profile/disclosure/pdf/measure_plan.pdf)
- - [新型インフルエンザにおける 鉄道輸送抑制の効果評価](http://www.mlit.go.jp/pri/adobaizari/pdf/16_No2Shiryou82.pdf) 国立感染症研究所 感染症情報センター
- - 2011-12-03 [都市の空間特性に基づくインフルエンザの感染リスク評価に関する研究 その 2 -路線網を考慮した駅の分布に基づく考察-](http://www.cit.nihon-u.ac.jp/kouendata/No.44/pdf/4-70.pdf)
- - 2008年12月23日 [新型インフル対策で実験＝地下鉄車両使 - 「新型インフルエンザ」情報 | mixiコミュニティ](http://mixi.jp/view_bbs.pl?comm_id=3544178&id=38214071)
- - 2008/12/22 [通勤電車で隣の人との間隔を１ｍあける？？ 社会：ZAKZAK](http://www.zakzak.co.jp/top/200812/t2008122265_all.html) 新型インフル拡大防止で電車使い乗り方実験
- - 2008/12/22 新型インフル拡大防止で実験 通勤電車での乗り方 - 47NEWS
- - [地下鉄で新型インフルエンザ対策実験：政治経済ニュース！](http://seizikeizai.seesaa.net/article/111617412.html)
 
-- Adam Magyar on Vimeo
- - [Stainless, 42 Street (excerpt)](https://vimeo.com/83664407)
- - [Stainless - Shinjuku (excerpt)](https://vimeo.com/77489382)
- - [Array #2](https://vimeo.com/120853055) Ikebukuro, Tokyo (2014)
 
-- [ナゾトキ街歩きゲーム「地下謎への招待状2015」 | 東京メトロに乗って、謎を解く体験型ゲームです。](http://realdgame.jp/chikanazo/2/)
-We announced previously that the English and Chinese versions for “Tokyo Metro - Underground Mysteries” will be available for play starting 1 November 2015. Please be informed that the release date has been postponed. We will release it within November 2015! We apologize for any inconvenience caused. Please stick with us for a little longer!
+
+
 
 ----------
 
@@ -290,30 +279,6 @@ We announced previously that the English and Chinese versions for “Tokyo Metro
 - 2013.02.14 [Uncharted Territorythey will complement, but not substitute for](http://unchartedterritory.blog.fc2.com/blog-entry-31.html)
 - 2012/07/19 [クライシス情報学 -災害などの危機に情報はどう役立つか?- 国立情報学研究所 コンテンツ科学研究系 北本 朝展](http://agora.ex.nii.ac.jp/~kitamoto/outreach/shimin-2012/lecture-ppt.pdf)
 
-----------
-
-## Ohanami-Metagenome: Community-Driven Research Project
-O[hanami](https://en.wikipedia.org/wiki/Hanami) ("flower viewing") is the Japanese traditional custom of enjoying the transient beauty of flowers ("hana") of the cherry blossom ("sakura")
-
-[お花見メタゲノムプロジェクト powered by NGS現場の会 第四回研究会](http://www.ngs-sakura.jp)
-
-![https://github.com/inutano/training/blob/master/ajacs52/README.md#お花見メタゲノムプロジェクト](https://camo.githubusercontent.com/161a12a73623274212e65e843250877b0405435f/687474703a2f2f6779617a6f2e636f6d2f37306232316534396330393831633839346161373461396233343637333937302e706e67)
-
-- [お花見メタ事務局 (@OhanamiMetaG) | Twitter](https://twitter.com/OhanamiMetaG)
-- [#お花見メタゲノム hashtag on Twitter](https://twitter.com/hashtag/お花見メタゲノム)
-- [#OMGseq hashtag on Twitter](https://twitter.com/hashtag/OMGseq?src=hash)
-- [NGS現場の会 第四回研究会](http://www.ngs-field.org/ngs4th/)
-
-----------
-
-## Money Microbiome
-お金の微生物叢
-
-- 2015-06-08 [Money metagenomics](https://www.genomeweb.com/scan/week-plos-31) インド紙幣のメタゲノムに病原細菌や抗生物質耐性遺伝子
-- 2014-05-19 [【衝撃！】お札はトイレより汚い!?3,000ものバクテリアが付着していた！ - NAVER まとめ](http://matome.naver.jp/odai/2140045497330359201)
-- 2014-04-24 [Dirty money: Your cash is home to thousands of bacteria](http://www.cbsnews.com/news/dirty-money-your-cash-is-home-to-thousands-of-bacteria)
-- 2014-04-21 [「口にお金を入れる」のはやめよう―紙幣に膨大なバクテリア - WSJ](http://on.wsj.com/1eSGYpK)
-- 2013-08-06 [お札の5枚に1枚は、食中毒菌がついていることを示唆するデータが… お金を使うときに少しでも菌から身を守る対応策を聞いてみた | マイナビニュース](http://news.mynavi.jp/kikaku/2013/08/06/001/)
 
 ----------
 
@@ -334,7 +299,6 @@ O[hanami](https://en.wikipedia.org/wiki/Hanami) ("flower viewing") is the Japane
  - 2012-07-01 [シチズンサイエンス考](http://blog.livedoor.jp/randdmanagement/archives/52032892.html)
 
 ----------
-----------
 
 ## Twitter
 
@@ -353,39 +317,46 @@ Our paper on bringing together molecular specimens and online participatory surv
 https://twitter.com/guruguruyellow/status/298194313572130819
 .@cnn_co_jp 僭越ながら1/31の「ツイッターでインフルエンザ流行地域の予測目指す」の捕捉をさせて頂きます。2006年よりハーバード大学公衆衛生大学院が以下のサイトを立ち上げております。ご覧頂けましたら幸いです。@healthmap @FluNearYou 
 
-https://twitter.com/search?q=市民参加型調査&src=typd
-東日本大震災の影響があった地域を中心に、対象種20種の生きものの分布情報を集めているそうです。｜EICネット　環境省、全国の市民参加型調査「しおかぜ自然環境調査」への協力募集　http://www.eic.or.jp/news/?act=view&serial=32776
+----------
 
-「しおかぜ自然環境調査」に参加しよう！東日本大震災後、生きものがどこにすんでいるか、震災前後で状況がどのように変化しているかを把握するため、全国の生きもの情報を集める市民参加型調査です。http://ikilog.biodic.go.jp/?_action=investigation&_command=detail&eventremarks_id=56&param=1
+## Subways
+地下鉄
 
-クラウドシステムを用いた市民参加型マルハナバチ類国勢調査
-RT【市民参加型調査：花まるマルハナバチ国勢調査】研究チームへ位置情報を付けて写メして下さい！参加方法、詳細はホームページで→　http://bit.ly/11XLSbd 　Twitter→　@Hanamaruchan870
-【市民参加型調査】花まるマルハナバチ国勢調査がはじまりますhttp://satomoni.com/2013/05/hanamarumaruhana/
+- NY市地下鉄の清掃状況
+ - 5/19/15 [The New York City Subway Is Full Of Garbage](http://jalopnik.com/the-new-york-city-subway-is-full-of-garbage-1705602906)
+The MTA standard is to clean each of its 276 stations once every three weeks. But the audit, by the office of City Comptroller Scott Stringer, found that 97% of the stations were cleaned less frequently.
+The report states that 88% of stations were cleaned fewer than eight times a year. The audit covered the period covering July 2013 to June 2014.
+ - 2015年05月15日 [NY市地下鉄は清掃基準を満たさず、線路はゴミ捨て場状態 - Japan Wideニュース](http://www.jwide.com/news/news.htm?id=5098)
+２０１３年７月から２０１４年６月の清掃記録の監査によると、地下にある２７６駅のうち、３週間に１度という交通局の清掃スケジュールを満たしていたのは僅か３％にあたる７駅の線路だけだった。半数以上の駅の線路は、１１人の清掃員により一年間で４度から８度の清掃が行われているだけだ。
 
-Miyazawa, Eri ‏@MiyaBirding  10 May 2013
-The Cornell Lab of Ornithology の市民参加型調査 http://bit.ly/10fObqi  ほぼ全てのプロジェクトごとにFacebookページがあるという気合いの入れよう
-去年の鳥学会，バードリサーチ企画の市民参加型調査ラウンドテーブル http://bit.ly/10fMZDb  の概要ってどこかに出てないかしら？英語聞き取るのに集中しようとしてたから，全然メモ取ってなかった。特にCornell Labの方のお話がすごく興味深かった
+- 地下鉄 インフルエンザ
+ - 公開情報｜東京メトロ [東京地下鉄株式会社 「新型インフルエンザ等対策業務計画」要旨](http://www.tokyometro.jp/corporate/profile/disclosure/pdf/measure_plan.pdf)
+ - [新型インフルエンザにおける 鉄道輸送抑制の効果評価](http://www.mlit.go.jp/pri/adobaizari/pdf/16_No2Shiryou82.pdf) 国立感染症研究所 感染症情報センター
+ - 2011-12-03 [都市の空間特性に基づくインフルエンザの感染リスク評価に関する研究 その 2 -路線網を考慮した駅の分布に基づく考察-](http://www.cit.nihon-u.ac.jp/kouendata/No.44/pdf/4-70.pdf)
+ - 2008年12月23日 [新型インフル対策で実験＝地下鉄車両使 - 「新型インフルエンザ」情報 | mixiコミュニティ](http://mixi.jp/view_bbs.pl?comm_id=3544178&id=38214071)
+ - 2008/12/22 [通勤電車で隣の人との間隔を１ｍあける？？ 社会：ZAKZAK](http://www.zakzak.co.jp/top/200812/t2008122265_all.html) 新型インフル拡大防止で電車使い乗り方実験
+ - 2008/12/22 新型インフル拡大防止で実験 通勤電車での乗り方 - 47NEWS
+ - [地下鉄で新型インフルエンザ対策実験：政治経済ニュース！](http://seizikeizai.seesaa.net/article/111617412.html)
 
-札幌市新着RSS: 市民参加型調査「札幌市セミ調査」の集計結果を更新 http://bit.ly/HBMBoA  SAPP‿RO
 
-https://twitter.com/MasakiHoso
-日本での蝶や蛾の市民参加型調査の例。環境省の「いきものみっけ」 http://www.mikke.go.jp/  自然保護協会の「自然しらべ2011」 http://www.nacsj.or.jp/project/ss2011/  東京大学＆パルシステムの「いきモニ」http://butterfly.tkl.iis.u-tokyo.ac.jp/
 
-第46回種生物学シンポジウムのハッシュタグ→ #ssb46
+- 2016.1.20 「世界中の地下鉄」に乗り換えできる路線図をつくってみた « WIRED.jp http://wired.jp/2016/01/20/map-worldwide-subway-system/
 
-午前中最後の講演始まる。バードリサーチの神山さんによる「参加型野鳥調査の歴史と現在」。高度経済成長末期の1970年代前半に端緒。鳥類は市民参加型調査による研究が世界的に極めて盛んな分類群。さて日本ではどうなのでしょうか… #ssb46
+![](http://www.gizmodo.jp/images/2016/01/160114_subwaymap.jpg)
 
-繰り返し強調される市民参加型調査における地域博物館の場としての重要性。核となる人がいる場、地域を調べる文化が育成される場、交流や学習の場、情報や標本が集まる場。 #ssb46
+- 2016.01.18 世界中のメトロ路線図を繋げたら、こうなった : ギズモード・ジャパン http://www.gizmodo.jp/2016/01/world_subway_map.html
 
-神奈川県博の大西さんによる「"神奈川県植物誌"における市民参加型調査の挑戦」。3172分類群の維管束植物証拠標本25万点超に基づく3次メッシュ（一辺約1km）単位の位置情報を記録した重量4kg超の狂気の書。圧巻。 #ssb46
+![](http://www.gizmodo.jp/images/2016/01/160114_subwaymap.jpg)
 
-生物情報収集プロジェクト 摂津二中科学部
-http://ssv190.niaes2.affrc.go.jp/Psystem2/MapShow.do;jsessionid=A6F4B081EB50EC82E0199ACCCEE13C70?mode=settsu …
-うーむ。すばらしい。
-http://www.jst.go.jp/cpse/kagakubu/torikumi/fiscal/2012/120923.html …
-http://www.geopacific.org/file_home/90f3cf … (PDF)
+- 2013.12.10 「スーパーマリオ」のNY地下鉄マップ｜WIRED.jp http://wired.jp/2013/12/10/videogame-themed-city-maps/
+
+![](http://wired.jp/wp-content/uploads/2013/12/12571-posters-V-NYC-Subway.373a.png)
+
 
 ----------
+
+
+
 ----------
 
 
