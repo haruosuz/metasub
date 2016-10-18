@@ -236,11 +236,6 @@ O[hanami](https://en.wikipedia.org/wiki/Hanami) ("flower viewing") is the Japane
 - 2014-04-21 [「口にお金を入れる」のはやめよう―紙幣に膨大なバクテリア - WSJ](http://on.wsj.com/1eSGYpK)
 - 2013-08-06 [お札の5枚に1枚は、食中毒菌がついていることを示唆するデータが… お金を使うときに少しでも菌から身を守る対応策を聞いてみた | マイナビニュース](http://news.mynavi.jp/kikaku/2013/08/06/001/)
 
-
-
-
-
-
 ----------
 
 ## [HealthMap](http://www.healthmap.org)
@@ -338,24 +333,7 @@ The report states that 88% of stations were cleaned fewer than eight times a yea
  - 2008/12/22 新型インフル拡大防止で実験 通勤電車での乗り方 - 47NEWS
  - [地下鉄で新型インフルエンザ対策実験：政治経済ニュース！](http://seizikeizai.seesaa.net/article/111617412.html)
 
-
-
-- 2016.1.20 「世界中の地下鉄」に乗り換えできる路線図をつくってみた « WIRED.jp http://wired.jp/2016/01/20/map-worldwide-subway-system/
-
-![](http://www.gizmodo.jp/images/2016/01/160114_subwaymap.jpg)
-
-- 2016.01.18 世界中のメトロ路線図を繋げたら、こうなった : ギズモード・ジャパン http://www.gizmodo.jp/2016/01/world_subway_map.html
-
-![](http://www.gizmodo.jp/images/2016/01/160114_subwaymap.jpg)
-
-- 2013.12.10 「スーパーマリオ」のNY地下鉄マップ｜WIRED.jp http://wired.jp/2013/12/10/videogame-themed-city-maps/
-
-![](http://wired.jp/wp-content/uploads/2013/12/12571-posters-V-NYC-Subway.373a.png)
-
-
 ----------
-
-
 
 ----------
 
