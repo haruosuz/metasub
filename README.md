@@ -20,14 +20,6 @@ MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes
 - June 2016 [Global City Sampling Day (CSD)](#city-sampling-day)
 - [2015 Meetings](#2015-meetings)
 
-## Updates
-- 2016年4月[（研究開発の俯瞰報告書）研究開発の新しい動向（2016年）／CRDS-FY2016-FR-01](https://www.jst.go.jp/crds/report/report02/CRDS-FY2016-FR-01.html)
-  - 都市スケールでのメタゲノム解析がニューヨ ーク市の地下鉄、運河、公園からのサンプルで行われた 5)。
-- 2016年3月[（調査報告書）グリーンバイオ分野における研究開発の重要課題と統合的推進 ～イノベーション創出と持続可能な社会の形成へ向けて～／CRDS-FY2015-RR-08](https://www.jst.go.jp/crds/report/report04/CRDS-FY2015-RR-08.html)
-  - メタゲノム解析の応用例は多様化し、現在ではさまざまな対象、例えば、土壌 2)、深海底下 4)、ニューヨークの地下鉄 5)、コーヒーサーバー6) 、チーズ 7)、などにまで至っ ている。
-- [公益財団法人鉄道総合技術研究所｜人間科学ニュース 2016年3月号（第202号）](https://www.rtri.or.jp/rd/news/human/human_201603.html)
- - 遺伝子で鉄道の環境を見る（生物工学グループ　池畑政輝）
-
 ----------
 
 ### [City Sampling Day](http://metasub.org/city-sampling-day/)
@@ -198,6 +190,16 @@ MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes
 - [ジェシカ・グリーン「微生物を正しく取り除くために」](http://www.ted.com/talks/jessica_green_are_we_filtering_the_wrong_microbes?language=ja)
 - [ジェシカ・グリーン: 私たちを取り巻く細菌と住環境のデザイン](http://www.ted.com/talks/jessica_green_good_germs_make_healthy_buildings?language=ja)
 - [MITメディアラボきっての遊びの天才ケヴィン・スラヴィン、その「ひらめき」の秘密 « WIRED.jp](http://wired.jp/special/2015/beyond-solution/01.html)　「微生物と都市のデザイン」を研究している、MITメディアラボのケヴィン・スラヴィンが目指しているのは、マンガ『もやしもん』の世界観だった！
+
+----------
+
+## Updates
+- 2016年4月[（研究開発の俯瞰報告書）研究開発の新しい動向（2016年）／CRDS-FY2016-FR-01](https://www.jst.go.jp/crds/report/report02/CRDS-FY2016-FR-01.html)
+  - 都市スケールでのメタゲノム解析がニューヨ ーク市の地下鉄、運河、公園からのサンプルで行われた 5)。
+- 2016年3月[（調査報告書）グリーンバイオ分野における研究開発の重要課題と統合的推進 ～イノベーション創出と持続可能な社会の形成へ向けて～／CRDS-FY2015-RR-08](https://www.jst.go.jp/crds/report/report04/CRDS-FY2015-RR-08.html)
+  - メタゲノム解析の応用例は多様化し、現在ではさまざまな対象、例えば、土壌 2)、深海底下 4)、ニューヨークの地下鉄 5)、コーヒーサーバー6) 、チーズ 7)、などにまで至っ ている。
+- [公益財団法人鉄道総合技術研究所｜人間科学ニュース 2016年3月号（第202号）](https://www.rtri.or.jp/rd/news/human/human_201603.html)
+ - 遺伝子で鉄道の環境を見る（生物工学グループ　池畑政輝）
 
 ----------
 
