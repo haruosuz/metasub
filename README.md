@@ -217,6 +217,7 @@ MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes
 都市の中の微生物叢から学ぶこと
 「都市における微生物の存在が私達の健康にどのように関係しているのか？」
 私達を取り巻く微生物と都市環境デザインについて、ハード、ソフト、バイオテクノロジーの観点から議論を展開します。
+- 【動画】
  - [スマートシティを司る“２番目の脳”](https://youtu.be/EQiO9kzpeBw?list=PLQl-BPZhcsy9EN-0jO8QildbCxtyIsR0C)
  - [Second Brain for the Smart City](https://youtu.be/uSjGeACndIA?list=PLHMUAsAGfigcKRu2Quna-C-VhzJbl5hY2)
 - 2015 [Innovative City Forum に関する記事一覧｜WIRED.jp](http://wired.jp/tag/innovative-city-forum/)
