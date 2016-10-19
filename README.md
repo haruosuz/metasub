@@ -1,13 +1,13 @@
 ----------
 
 Haruo Suzuki (haruo[at]g-language[dot]org)   
-Last Update: 2016-10-16
+Last Update: 2016-10-19
 
 ----------
 
 # [MetaSUB](http://metasub.org/?page_id=55)
 MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes  
-都市環境（地下鉄）の微生物叢とデザイン
+都市環境（地下鉄）の微生物叢
 
 [MetaSUB紹介ビデオ](https://vimeo.com/171773795)
 
@@ -19,6 +19,14 @@ MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes
 - [2016 Meetings](#2016-meetings)
 - June 2016 [Global City Sampling Day (CSD)](#city-sampling-day)
 - [2015 Meetings](#2015-meetings)
+
+## Updates
+- 2016年4月[（研究開発の俯瞰報告書）研究開発の新しい動向（2016年）／CRDS-FY2016-FR-01](https://www.jst.go.jp/crds/report/report02/CRDS-FY2016-FR-01.html)
+  - 都市スケールでのメタゲノム解析がニューヨ ーク市の地下鉄、運河、公園からのサンプルで行われた 5)。
+- 2016年3月[（調査報告書）グリーンバイオ分野における研究開発の重要課題と統合的推進 ～イノベーション創出と持続可能な社会の形成へ向けて～／CRDS-FY2015-RR-08](https://www.jst.go.jp/crds/report/report04/CRDS-FY2015-RR-08.html)
+  - メタゲノム解析の応用例は多様化し、現在ではさまざまな対象、例えば、土壌 2)、深海底下 4)、ニューヨークの地下鉄 5)、コーヒーサーバー6) 、チーズ 7)、などにまで至っ ている。
+- [公益財団法人鉄道総合技術研究所｜人間科学ニュース 2016年3月号（第202号）](https://www.rtri.or.jp/rd/news/human/human_201603.html)
+ - 遺伝子で鉄道の環境を見る（生物工学グループ　池畑政輝）
 
 ----------
 
@@ -161,12 +169,6 @@ MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes
 ----------
 
 ## People
-- [MetaSUB Zurich (@Metasub_Zurich) | Twitter](https://twitter.com/Metasub_Zurich)
-- [Metasub_Paris (@metasub_paris) | Twitter](https://twitter.com/metasub_paris)
-- [MetaSUB_Sweden (@MetaSUB_Sweden) | Twitter](https://twitter.com/MetaSUB_Sweden)
-- [Erica Hartmann (@ericamhartmann) | Twitter](https://twitter.com/ericamhartmann)
-- [Marcus Leung (@leungmarcus) | Twitter](https://twitter.com/leungmarcus)
-
 - Dr. Christopher Mason (Weill Medical College of Cornell University) | [Mason Lab](http://www.masonlab.net)
  - [Christopher Mason (@mason_lab) | Twitter](https://twitter.com/mason_lab)
  - 2016-02-23 [New Genetic Spectra Across Earth's Cities & Far BeyondTEDMED Blog](http://blog.tedmed.com/new-genetic-spectra-across-earths-cities-beyond/)
@@ -187,20 +189,15 @@ MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes
 - [Stockholm University swabs the Tube - Stockholm University](http://www.su.se/english/about/partnerships-collaborations/stockholm-university-swabs-the-tube-1.275059)
  - [Looking for bacteria in the metro – "People call us nerds"](https://www.youtube.com/watch?v=F8ye-gqHtno)
 
+- [MetaSUB Zurich (@Metasub_Zurich) | Twitter](https://twitter.com/Metasub_Zurich)
+- [Metasub_Paris (@metasub_paris) | Twitter](https://twitter.com/metasub_paris)
+- [MetaSUB_Sweden (@MetaSUB_Sweden) | Twitter](https://twitter.com/MetaSUB_Sweden)
+- [Erica Hartmann (@ericamhartmann) | Twitter](https://twitter.com/ericamhartmann)
+- [Marcus Leung (@leungmarcus) | Twitter](https://twitter.com/leungmarcus)
+
 - [ジェシカ・グリーン「微生物を正しく取り除くために」](http://www.ted.com/talks/jessica_green_are_we_filtering_the_wrong_microbes?language=ja)
 - [ジェシカ・グリーン: 私たちを取り巻く細菌と住環境のデザイン](http://www.ted.com/talks/jessica_green_good_germs_make_healthy_buildings?language=ja)
-- [MITメディアラボきっての遊びの天才ケヴィン・スラヴィン、その「ひらめき」の秘密 « WIRED.jp](http://wired.jp/special/2015/beyond-solution/01.html)
-「微生物と都市のデザイン」を研究している、MITメディアラボのケヴィン・スラヴィンが目指しているのは、マンガ『もやしもん』の世界観だった！
-
-----------
-
-## Updates
-- 2016年4月[（研究開発の俯瞰報告書）研究開発の新しい動向（2016年）／CRDS-FY2016-FR-01](https://www.jst.go.jp/crds/report/report02/CRDS-FY2016-FR-01.html)
-  - 都市スケールでのメタゲノム解析がニューヨ ーク市の地下鉄、運河、公園からのサンプルで行われた 5)。
-- 2016年3月[（調査報告書）グリーンバイオ分野における研究開発の重要課題と統合的推進 ～イノベーション創出と持続可能な社会の形成へ向けて～／CRDS-FY2015-RR-08](https://www.jst.go.jp/crds/report/report04/CRDS-FY2015-RR-08.html)
-  - メタゲノム解析の応用例は多様化し、現在ではさまざまな対象、例えば、土壌 2)、深海底下 4)、ニューヨークの地下鉄 5)、コーヒーサーバー6) 、チーズ 7)、などにまで至っ ている。
-- [公益財団法人鉄道総合技術研究所｜人間科学ニュース 2016年3月号（第202号）](https://www.rtri.or.jp/rd/news/human/human_201603.html)
- - 遺伝子で鉄道の環境を見る（生物工学グループ　池畑政輝）
+- [MITメディアラボきっての遊びの天才ケヴィン・スラヴィン、その「ひらめき」の秘密 « WIRED.jp](http://wired.jp/special/2015/beyond-solution/01.html)　「微生物と都市のデザイン」を研究している、MITメディアラボのケヴィン・スラヴィンが目指しているのは、マンガ『もやしもん』の世界観だった！
 
 ----------
 
