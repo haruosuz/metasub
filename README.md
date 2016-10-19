@@ -205,10 +205,10 @@ MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes
 
 ----------
 
-## [Innovative City Forum - ICF | Facebook](https://www.facebook.com/ICF.TOKYO/)
+## [Innovative City Forum - ICF](https://www.facebook.com/ICF.TOKYO/)
 ### [ICF2016](http://icf.academyhills.com)
 - 2016-10-20 [プログラム – Innovative City Forum](http://icf.academyhills.com/program/#session_special)
- - スペシャルセッション 「スマートシティを司る”2番目の脳”都市のホロバイオント」
+ - 「スマートシティを司る”2番目の脳”都市のホロバイオント」
 ＩＣＦ2015で、都市における微生物と人の関係を披露したケヴィン。「宿主と多数の微生物が共生する生物単位“ホロバイオント”が、生物の個体である」という概念を、建築や都市にまで拡大した最新研究を紹介します。また、ケヴィンが研究のインスピレーションを受けたまんが「もやしもん」の作家　石川雅之氏を交え、微生物と人と都市の関係を紐解きます。
 
 ### [ICF2015](http://icf.academyhills.com/2015/)
@@ -217,10 +217,8 @@ MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes
 都市の中の微生物叢から学ぶこと
 「都市における微生物の存在が私達の健康にどのように関係しているのか？」
 私達を取り巻く微生物と都市環境デザインについて、ハード、ソフト、バイオテクノロジーの観点から議論を展開します。
-- 【動画】
- - [スマートシティを司る“２番目の脳”](https://youtu.be/EQiO9kzpeBw?list=PLQl-BPZhcsy9EN-0jO8QildbCxtyIsR0C)
- - [Second Brain for the Smart City](https://youtu.be/uSjGeACndIA?list=PLHMUAsAGfigcKRu2Quna-C-VhzJbl5hY2)
-- 2015 [Innovative City Forum に関する記事一覧｜WIRED.jp](http://wired.jp/tag/innovative-city-forum/)
+- 【動画】[スマートシティを司る“２番目の脳”](https://youtu.be/EQiO9kzpeBw?list=PLQl-BPZhcsy9EN-0jO8QildbCxtyIsR0C)｜[Second Brain for the Smart City](https://youtu.be/uSjGeACndIA?list=PLHMUAsAGfigcKRu2Quna-C-VhzJbl5hY2)
+- [Innovative City Forum に関する記事一覧｜WIRED.jp](http://wired.jp/tag/innovative-city-forum/)
  - 2015-12-01 [東京に多様性と複雑性を：伊藤穰一のバイオシティ構想](http://wired.jp/2015/12/01/joi-ito-future-city-tokyo/)
  - 2015-10-02 [「微生物によって建築のデザイン・プロセスを変えたい」ジェシカ・グリーン（微生物学者） « WIRED.jp](http://wired.jp/2015/10/02/innovative-city-forum-2015-4/)
  - 2015-09-18 [「バイオは自分には関係ないと思っていませんか」林千晶（MITメディアラボ所長補佐）：ICF 2015の見どころを語る｜WIRED.jp](http://wired.jp/2015/09/18/innovative-city-forum-2015-2/)
