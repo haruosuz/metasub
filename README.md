@@ -161,6 +161,12 @@ MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes
 ----------
 
 ## People
+- [MetaSUB Zurich (@Metasub_Zurich) | Twitter](https://twitter.com/Metasub_Zurich)
+- [Metasub_Paris (@metasub_paris) | Twitter](https://twitter.com/metasub_paris)
+- [MetaSUB_Sweden (@MetaSUB_Sweden) | Twitter](https://twitter.com/MetaSUB_Sweden)
+- [Erica Hartmann (@ericamhartmann) | Twitter](https://twitter.com/ericamhartmann)
+- [Marcus Leung (@leungmarcus) | Twitter](https://twitter.com/leungmarcus)
+
 - Dr. Christopher Mason (Weill Medical College of Cornell University) | [Mason Lab](http://www.masonlab.net)
  - [Christopher Mason (@mason_lab) | Twitter](https://twitter.com/mason_lab)
  - 2016-02-23 [New Genetic Spectra Across Earth's Cities & Far BeyondTEDMED Blog](http://blog.tedmed.com/new-genetic-spectra-across-earths-cities-beyond/)
@@ -181,11 +187,10 @@ MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes
 - [Stockholm University swabs the Tube - Stockholm University](http://www.su.se/english/about/partnerships-collaborations/stockholm-university-swabs-the-tube-1.275059)
  - [Looking for bacteria in the metro – "People call us nerds"](https://www.youtube.com/watch?v=F8ye-gqHtno)
 
-- [MetaSUB Zurich (@Metasub_Zurich) | Twitter](https://twitter.com/Metasub_Zurich)
-- [Metasub_Paris (@metasub_paris) | Twitter](https://twitter.com/metasub_paris)
-- [MetaSUB_Sweden (@MetaSUB_Sweden) | Twitter](https://twitter.com/MetaSUB_Sweden)
-- [Erica Hartmann (@ericamhartmann) | Twitter](https://twitter.com/ericamhartmann)
-- [Marcus Leung (@leungmarcus) | Twitter](https://twitter.com/leungmarcus)
+- [ジェシカ・グリーン「微生物を正しく取り除くために」](http://www.ted.com/talks/jessica_green_are_we_filtering_the_wrong_microbes?language=ja)
+- [ジェシカ・グリーン: 私たちを取り巻く細菌と住環境のデザイン](http://www.ted.com/talks/jessica_green_good_germs_make_healthy_buildings?language=ja)
+- [MITメディアラボきっての遊びの天才ケヴィン・スラヴィン、その「ひらめき」の秘密 « WIRED.jp](http://wired.jp/special/2015/beyond-solution/01.html)
+「微生物と都市のデザイン」を研究している、MITメディアラボのケヴィン・スラヴィンが目指しているのは、マンガ『もやしもん』の世界観だった！
 
 ----------
 
@@ -197,19 +202,22 @@ MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes
 - [公益財団法人鉄道総合技術研究所｜人間科学ニュース 2016年3月号（第202号）](https://www.rtri.or.jp/rd/news/human/human_201603.html)
  - 遺伝子で鉄道の環境を見る（生物工学グループ　池畑政輝）
 - [「微生物から新しいデザインがはじまる」デイヴィッド・ベンジャミン✕ジェシカ・グリーン✕林千晶：Redesigning Tokyo 対話4「Biology」 « WIRED.jp](http://wired.jp/special/2016/biology/)
+
+----------
+
+## [Innovative City Forum - ICF](http://icf.academyhills.com)
+- [Facebook](https://www.facebook.com/ICF.TOKYO/)
+- [プログラム – Innovative City Forum](http://icf.academyhills.com/program/#session_special)
+ - スペシャルセッション 「スマートシティを司る”2番目の脳”都市のホロバイオント」　ＩＣＦ2015で、都市における微生物と人の関係を披露したケヴィン。「宿主と多数の微生物が共生する生物単位“ホロバイオント”が、生物の個体である」という概念を、建築や都市にまで拡大した最新研究を紹介します。また、ケヴィンが研究のインスピレーションを受けたまんが「もやしもん」の作家　石川雅之氏を交え、微生物と人と都市の関係を紐解きます。
+- [ICF2015](http://icf.academyhills.com/2015/)
+ - [スマートシティを司る“２番目の脳”](https://youtu.be/EQiO9kzpeBw?list=PLQl-BPZhcsy9EN-0jO8QildbCxtyIsR0C)
+ - [Second Brain for the Smart City](https://youtu.be/uSjGeACndIA?list=PLHMUAsAGfigcKRu2Quna-C-VhzJbl5hY2)
 - 2015-10-14 [プログラム | Innovative City Forum 2015](http://icf.academyhills.com/2015/program.html)
-スマートシティを司る“２番目の脳”
-都市の中の微生物叢から学ぶこと
-「都市における微生物の存在が私達の健康にどのように関係しているのか？」
-私達を取り巻く微生物と都市環境デザインについて、ハード、ソフト、バイオテクノロジーの観点から議論を展開します。
+ - スマートシティを司る“２番目の脳”　都市の中の微生物叢から学ぶこと　「都市における微生物の存在が私達の健康にどのように関係しているのか？」　私達を取り巻く微生物と都市環境デザインについて、ハード、ソフト、バイオテクノロジーの観点から議論を展開します。
 - 2015 [Innovative City Forum に関する記事一覧｜WIRED.jp](http://wired.jp/tag/innovative-city-forum/)
  - 2015-12-01 [東京に多様性と複雑性を：伊藤穰一のバイオシティ構想](http://wired.jp/2015/12/01/joi-ito-future-city-tokyo/)
  - 2015-10-02 [「微生物によって建築のデザイン・プロセスを変えたい」ジェシカ・グリーン（微生物学者） « WIRED.jp](http://wired.jp/2015/10/02/innovative-city-forum-2015-4/)
  - 2015-09-18 [「バイオは自分には関係ないと思っていませんか」林千晶（MITメディアラボ所長補佐）：ICF 2015の見どころを語る｜WIRED.jp](http://wired.jp/2015/09/18/innovative-city-forum-2015-2/)
-- [ジェシカ・グリーン「微生物を正しく取り除くために」](http://www.ted.com/talks/jessica_green_are_we_filtering_the_wrong_microbes?language=ja)
-- [ジェシカ・グリーン: 私たちを取り巻く細菌と住環境のデザイン](http://www.ted.com/talks/jessica_green_good_germs_make_healthy_buildings?language=ja)
-- [MITメディアラボきっての遊びの天才ケヴィン・スラヴィン、その「ひらめき」の秘密 « WIRED.jp](http://wired.jp/special/2015/beyond-solution/01.html)
-「微生物と都市のデザイン」を研究している、MITメディアラボのケヴィン・スラヴィンが目指しているのは、マンガ『もやしもん』の世界観だった！
 
 ----------
 
