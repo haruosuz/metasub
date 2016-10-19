@@ -201,7 +201,6 @@ MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes
   - メタゲノム解析の応用例は多様化し、現在ではさまざまな対象、例えば、土壌 2)、深海底下 4)、ニューヨークの地下鉄 5)、コーヒーサーバー6) 、チーズ 7)、などにまで至っ ている。
 - [公益財団法人鉄道総合技術研究所｜人間科学ニュース 2016年3月号（第202号）](https://www.rtri.or.jp/rd/news/human/human_201603.html)
  - 遺伝子で鉄道の環境を見る（生物工学グループ　池畑政輝）
-- [「微生物から新しいデザインがはじまる」デイヴィッド・ベンジャミン✕ジェシカ・グリーン✕林千晶：Redesigning Tokyo 対話4「Biology」 « WIRED.jp](http://wired.jp/special/2016/biology/)
 
 ----------
 
@@ -222,6 +221,10 @@ MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes
  - 2015-12-01 [東京に多様性と複雑性を：伊藤穰一のバイオシティ構想](http://wired.jp/2015/12/01/joi-ito-future-city-tokyo/)
  - 2015-10-02 [「微生物によって建築のデザイン・プロセスを変えたい」ジェシカ・グリーン（微生物学者） « WIRED.jp](http://wired.jp/2015/10/02/innovative-city-forum-2015-4/)
  - 2015-09-18 [「バイオは自分には関係ないと思っていませんか」林千晶（MITメディアラボ所長補佐）：ICF 2015の見どころを語る｜WIRED.jp](http://wired.jp/2015/09/18/innovative-city-forum-2015-2/)
+- [「微生物から新しいデザインがはじまる」デイヴィッド・ベンジャミン✕ジェシカ・グリーン✕林千晶：Redesigning Tokyo 対話4「Biology」 « WIRED.jp](http://wired.jp/special/2016/biology/)
+ - BiomeView（Autodesk Research）ホコリから生まれた空間デザイン
+ - Bee Debris Project（MIT Media Lab）蜂の巣箱のなかのビッグデータ
+ - Pathomap Project（Weill Cornell Medical College）NY地下鉄の細菌マップ
 
 ----------
 
