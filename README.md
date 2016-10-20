@@ -208,6 +208,8 @@ MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes
 - 2016-10-20 [プログラム](http://icf.academyhills.com/program/#session_special)
  - 「スマートシティを司る”2番目の脳”都市のホロバイオント」
 ＩＣＦ2015で、都市における微生物と人の関係を披露したケヴィン。「宿主と多数の微生物が共生する生物単位“ホロバイオント”が、生物の個体である」という概念を、建築や都市にまで拡大した最新研究を紹介します。また、ケヴィンが研究のインスピレーションを受けたまんが「もやしもん」の作家　石川雅之氏を交え、微生物と人と都市の関係を紐解きます。
+- [ICF2016 (@icf_tokyo) | Twitter](https://twitter.com/icf_tokyo)
+- [#icf_tokyo hashtag on Twitter](https://twitter.com/hashtag/icf_tokyo)
 
 ### [ICF2015](http://icf.academyhills.com/2015/)
 - 2015-10-14 [プログラム](http://icf.academyhills.com/2015/program.html)
