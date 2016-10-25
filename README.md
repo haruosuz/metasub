@@ -1,7 +1,7 @@
 ----------
 
 Haruo Suzuki (haruo[at]g-language[dot]org)   
-Last Update: 2016-10-19
+Last Update: 2016-10-24
 
 ----------
 
@@ -12,12 +12,14 @@ MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes
 [MetaSUB紹介ビデオ](https://vimeo.com/171773795)
 
 ## News & Events
-- [#MetaSUB hashtag on Twitter](https://twitter.com/hashtag/MetaSUB)
+- [MetaSUB Research (@metasub) のツイート - ツイセーブ](http://twisave.com/metasub)
 - [MetaSUB Research (@metasub) | Twitter](https://twitter.com/metasub)
+- [#MetaSUB hashtag on Twitter](https://twitter.com/hashtag/MetaSUB)
+- 2016-10-20 [Innovative City Forum ICF2016](#innovative-city-forum)
 - [2017 Meetings](#2017-meetings)
-- August 2016 [Olympiome](#olympiome)
+- 2016-08 [Olympiome](#olympiome)
 - [2016 Meetings](#2016-meetings)
-- June 2016 [Global City Sampling Day (CSD)](#city-sampling-day)
+- 2016-06 [Global City Sampling Day (CSD)](#city-sampling-day)
 - [2015 Meetings](#2015-meetings)
 
 ----------
@@ -38,7 +40,7 @@ MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes
 
 ['Global City Sampling Day' to Launch Weill Cornell Medicine-Led Study of Antimicrobial Resistance Across 54 International Cities | Weill Cornell Newsroom | Weill Cornell Medical College](http://weill.cornell.edu/news/pr/2016/06/global-city-sampling-day-to-launch-weill-cornell-medicine-led-study-of-antimicrobial-resistance-acro-1.html)
 
-- June 25, 2016 [June 21 was International Swab Day for MetaSUB – microBEnet: the microbiology of the Built Environment network.](http://microbe.net/2016/06/25/june-21-was-international-swab-day-for-metasub/)
+- June 25, 2016  Elisabeth Bik [June 21 was International Swab Day for MetaSUB – microBEnet: the microbiology of the Built Environment network.](http://www.microbe.net/2016/06/25/june-21-was-international-swab-day-for-metasub/)
 - [グローバル・オーシャン・サンプリング・エクスペディション](https://ja.wikipedia.org/wiki/グローバル・オーシャン・サンプリング・エクスペディション)
 - [Ocean Sampling Day | Micro B³](https://www.microb3.eu/osd)
 - 2013-05-16 [River Sampling Day Call | Micro B³](https://www.microb3.eu/feeds/oceansamplingday-blogspot/river-sampling-day-call)
@@ -167,8 +169,7 @@ MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes
  - Video
   - 2016-04-25 [Christopher Mason at the 2016 DOE JGI Genomics of Energy & Environment Meeting - YouTube](https://www.youtube.com/watch?v=WtpKmmIg9qM) | Christopher Mason, Cornell University, at the 11th Annual Genomics of Energy & Environment Meeting on March 23, 2016 in Walnut Creek, Calif.
   - 2016-11-30 [TEDMED - Discovering and designing genomes for Earth, Mars, and beyond](http://tedmed.com/talks/show?id=528172)
-  - 2015-11-09 [【ICF2015】クリストファー・メイソン - 「スマートシティを司る“２番目の脳”」](https://youtu.be/3egxzBzynvY)
-  - 2015-11-09 [【ICF2015】Christopher Mason - Second Brain for the Smart City](https://youtu.be/ZK5ORqWqnps)
+  - 2015-11-09 【ICF2015】[クリストファー・メイソン - 「スマートシティを司る“２番目の脳”」](https://youtu.be/3egxzBzynvY) | [Christopher Mason - Second Brain for the Smart City](https://youtu.be/ZK5ORqWqnps)
   - 2015-10-02 [Metagenomic analysis of the New York City subway system](https://www.youtube.com/watch?v=HyqvMEqmkYk)
   - 2015-06-19 [Integrative Genomics in Single Cells, Entire Cities, and Astronauts](https://youtu.be/Q_eUq9FNSaY)
   - 2015-03-27 [SciCafe: Mapping the Urban Microbiome, Genome, and Metagenome](https://www.youtube.com/watch?v=mn5MkKXtxms)
@@ -203,13 +204,15 @@ MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes
 
 ----------
 
-## [Innovative City Forum](https://www.facebook.com/ICF.TOKYO/)
+## Innovative City Forum
 ### [ICF2016](http://icf.academyhills.com)
 - 2016-10-20 [プログラム](http://icf.academyhills.com/program/#session_special)
  - 「スマートシティを司る”2番目の脳”都市のホロバイオント」
 ＩＣＦ2015で、都市における微生物と人の関係を披露したケヴィン。「宿主と多数の微生物が共生する生物単位“ホロバイオント”が、生物の個体である」という概念を、建築や都市にまで拡大した最新研究を紹介します。また、ケヴィンが研究のインスピレーションを受けたまんが「もやしもん」の作家　石川雅之氏を交え、微生物と人と都市の関係を紐解きます。
 - [ICF2016 (@icf_tokyo) | Twitter](https://twitter.com/icf_tokyo)
 - [#icf_tokyo hashtag on Twitter](https://twitter.com/hashtag/icf_tokyo)
+- [Innovative City Forum - Twitter Search](https://twitter.com/search?q=Innovative%20City%20Forum)
+- [Innovative City Forum - ICF | Facebook](https://www.facebook.com/ICF.TOKYO/)
 
 ### [ICF2015](http://icf.academyhills.com/2015/)
 - 2015-10-14 [プログラム](http://icf.academyhills.com/2015/program.html)
@@ -251,6 +254,15 @@ O[hanami](https://en.wikipedia.org/wiki/Hanami) ("flower viewing") is the Japane
 - 2014-04-24 [Dirty money: Your cash is home to thousands of bacteria](http://www.cbsnews.com/news/dirty-money-your-cash-is-home-to-thousands-of-bacteria)
 - 2014-04-21 [「口にお金を入れる」のはやめよう―紙幣に膨大なバクテリア - WSJ](http://on.wsj.com/1eSGYpK)
 - 2013-08-06 [お札の5枚に1枚は、食中毒菌がついていることを示唆するデータが… お金を使うときに少しでも菌から身を守る対応策を聞いてみた | マイナビニュース](http://news.mynavi.jp/kikaku/2013/08/06/001/)
+
+----------
+
+## [GOVIRAL](https://www.goviralstudy.com)
+- [Go Viral (@gogoviral) | Twitter](https://twitter.com/gogoviral)
+- [Go Viral | Facebook](https://www.facebook.com/GoViralStudy/)
+- [goviralstudy CUNYSPHsubjects - YouTube](https://www.youtube.com/watch?v=XkfHQxPu2Gk)
+
+![](https://pbs.twimg.com/media/Cu_ERe6WAAAOzG6.jpg:large)
 
 ----------
 
