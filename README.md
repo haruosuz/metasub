@@ -1,7 +1,7 @@
 ----------
 
 Haruo Suzuki (haruo[at]g-language[dot]org)   
-Last Update: 2016-10-24
+Last Update: 2016-10-30
 
 ----------
 
@@ -10,6 +10,8 @@ MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes
 都市環境（地下鉄）の微生物叢
 
 [MetaSUB紹介ビデオ](https://vimeo.com/171773795)
+
+![](https://pbs.twimg.com/media/CuF4yeCXgAAjcAr.jpg:small)
 
 ## News & Events
 - [MetaSUB Research (@metasub) のツイート - ツイセーブ](http://twisave.com/metasub)
@@ -21,6 +23,18 @@ MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes
 - [2016 Meetings](#2016-meetings)
 - 2016-06 [Global City Sampling Day (CSD)](#city-sampling-day)
 - [2015 Meetings](#2015-meetings)
+
+----------
+
+## Updates
+- 2016 [MetaSUB Use Case: Building Healthier and Smarter Cities with the Help of GIS](http://www.giscloud.com/blog/metasub-use-case-building-healthier-and-smarter-cities-with-the-help-of-gis/)
+- 10.13.2016, by Grégory Fléchet [Mapping the Subway's Microbiome | CNRS News](https://news.cnrs.fr/articles/mapping-the-subways-microbiome)
+- 2016年4月[（研究開発の俯瞰報告書）研究開発の新しい動向（2016年）／CRDS-FY2016-FR-01](https://www.jst.go.jp/crds/report/report02/CRDS-FY2016-FR-01.html)
+  - 都市スケールでのメタゲノム解析がニューヨ ーク市の地下鉄、運河、公園からのサンプルで行われた 5)。
+- 2016年3月[（調査報告書）グリーンバイオ分野における研究開発の重要課題と統合的推進 ～イノベーション創出と持続可能な社会の形成へ向けて～／CRDS-FY2015-RR-08](https://www.jst.go.jp/crds/report/report04/CRDS-FY2015-RR-08.html)
+  - メタゲノム解析の応用例は多様化し、現在ではさまざまな対象、例えば、土壌 2)、深海底下 4)、ニューヨークの地下鉄 5)、コーヒーサーバー6) 、チーズ 7)、などにまで至っ ている。
+- [公益財団法人鉄道総合技術研究所｜人間科学ニュース 2016年3月号（第202号）](https://www.rtri.or.jp/rd/news/human/human_201603.html)
+ - 遺伝子で鉄道の環境を見る（生物工学グループ　池畑政輝）
 
 ----------
 
@@ -194,16 +208,6 @@ MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes
 
 ----------
 
-## Updates
-- 2016年4月[（研究開発の俯瞰報告書）研究開発の新しい動向（2016年）／CRDS-FY2016-FR-01](https://www.jst.go.jp/crds/report/report02/CRDS-FY2016-FR-01.html)
-  - 都市スケールでのメタゲノム解析がニューヨ ーク市の地下鉄、運河、公園からのサンプルで行われた 5)。
-- 2016年3月[（調査報告書）グリーンバイオ分野における研究開発の重要課題と統合的推進 ～イノベーション創出と持続可能な社会の形成へ向けて～／CRDS-FY2015-RR-08](https://www.jst.go.jp/crds/report/report04/CRDS-FY2015-RR-08.html)
-  - メタゲノム解析の応用例は多様化し、現在ではさまざまな対象、例えば、土壌 2)、深海底下 4)、ニューヨークの地下鉄 5)、コーヒーサーバー6) 、チーズ 7)、などにまで至っ ている。
-- [公益財団法人鉄道総合技術研究所｜人間科学ニュース 2016年3月号（第202号）](https://www.rtri.or.jp/rd/news/human/human_201603.html)
- - 遺伝子で鉄道の環境を見る（生物工学グループ　池畑政輝）
-
-----------
-
 ## Innovative City Forum
 ### [ICF2016](http://icf.academyhills.com)
 - 2016-10-20 [プログラム](http://icf.academyhills.com/program/#session_special)
@@ -249,6 +253,8 @@ O[hanami](https://en.wikipedia.org/wiki/Hanami) ("flower viewing") is the Japane
 ## Money Microbiome
 お金の微生物叢
 
+![](http://si.wsj.net/public/resources/images/NA-CA854_MONEY_G_20140418181251.jpg)
+
 - 2015-06-08 [Money metagenomics](https://www.genomeweb.com/scan/week-plos-31) インド紙幣のメタゲノムに病原細菌や抗生物質耐性遺伝子
 - 2014-05-19 [【衝撃！】お札はトイレより汚い!?3,000ものバクテリアが付着していた！ - NAVER まとめ](http://matome.naver.jp/odai/2140045497330359201)
 - 2014-04-24 [Dirty money: Your cash is home to thousands of bacteria](http://www.cbsnews.com/news/dirty-money-your-cash-is-home-to-thousands-of-bacteria)
@@ -258,11 +264,11 @@ O[hanami](https://en.wikipedia.org/wiki/Hanami) ("flower viewing") is the Japane
 ----------
 
 ## [GOVIRAL](https://www.goviralstudy.com)
+![](https://scontent-nrt1-1.xx.fbcdn.net/v/t1.0-1/p160x160/13939323_1715925921992023_3282613453439525165_n.jpg?oh=645f92ecff9c65abe0d7e156c230f35f&oe=58D39DEF)
+
 - [Go Viral (@gogoviral) | Twitter](https://twitter.com/gogoviral)
 - [Go Viral | Facebook](https://www.facebook.com/GoViralStudy/)
 - [goviralstudy CUNYSPHsubjects - YouTube](https://www.youtube.com/watch?v=XkfHQxPu2Gk)
-
-![](https://pbs.twimg.com/media/Cu_ERe6WAAAOzG6.jpg:large)
 
 ----------
 
@@ -345,6 +351,7 @@ https://twitter.com/guruguruyellow/status/298194313572130819
 ## Subways
 地下鉄
 
+- 10/26/2016 [A It’s embarrassing how clean Tokyo’s subways are compared to New York’s](https://socialfeed.info/a-it-s-embarrassing-how-clean-tokyo-s-subways-are-compared-to-new-york-s-7780311)
 - NY市地下鉄の清掃状況
  - 5/19/15 [The New York City Subway Is Full Of Garbage](http://jalopnik.com/the-new-york-city-subway-is-full-of-garbage-1705602906)
 The MTA standard is to clean each of its 276 stations once every three weeks. But the audit, by the office of City Comptroller Scott Stringer, found that 97% of the stations were cleaned less frequently.
