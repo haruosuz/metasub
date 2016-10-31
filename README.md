@@ -14,9 +14,6 @@ MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes
 ![](https://pbs.twimg.com/media/CuF4yeCXgAAjcAr.jpg:small)
 
 ## News & Events
-- [MetaSUB Research (@metasub) のツイート - ツイセーブ](http://twisave.com/metasub)
-- [MetaSUB Research (@metasub) | Twitter](https://twitter.com/metasub)
-- [#MetaSUB hashtag on Twitter](https://twitter.com/hashtag/MetaSUB)
 - 2016-10-20 [Innovative City Forum ICF2016](#innovative-city-forum)
 - [2017 Meetings](#2017-meetings)
 - 2016-08 [Olympiome](#olympiome)
@@ -178,7 +175,6 @@ MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes
 
 ## People
 - Dr. Christopher Mason (Weill Medical College of Cornell University) | [Mason Lab](http://www.masonlab.net)
- - [Christopher Mason (@mason_lab) | Twitter](https://twitter.com/mason_lab)
  - 2016-02-23 [New Genetic Spectra Across Earth's Cities & Far BeyondTEDMED Blog](http://blog.tedmed.com/new-genetic-spectra-across-earths-cities-beyond/)
  - Video
   - 2016-04-25 [Christopher Mason at the 2016 DOE JGI Genomics of Energy & Environment Meeting - YouTube](https://www.youtube.com/watch?v=WtpKmmIg9qM) | Christopher Mason, Cornell University, at the 11th Annual Genomics of Energy & Environment Meeting on March 23, 2016 in Walnut Creek, Calif.
@@ -196,16 +192,6 @@ MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes
 - [Stockholm University swabs the Tube - Stockholm University](http://www.su.se/english/about/partnerships-collaborations/stockholm-university-swabs-the-tube-1.275059)
  - [Looking for bacteria in the metro – "People call us nerds"](https://www.youtube.com/watch?v=F8ye-gqHtno)
 
-- [MetaSUB Zurich (@Metasub_Zurich) | Twitter](https://twitter.com/Metasub_Zurich)
-- [Metasub_Paris (@metasub_paris) | Twitter](https://twitter.com/metasub_paris)
-- [MetaSUB_Sweden (@MetaSUB_Sweden) | Twitter](https://twitter.com/MetaSUB_Sweden)
-- [Erica Hartmann (@ericamhartmann) | Twitter](https://twitter.com/ericamhartmann)
-- [Marcus Leung (@leungmarcus) | Twitter](https://twitter.com/leungmarcus)
-
-- [ジェシカ・グリーン「微生物を正しく取り除くために」](http://www.ted.com/talks/jessica_green_are_we_filtering_the_wrong_microbes?language=ja)
-- [ジェシカ・グリーン: 私たちを取り巻く細菌と住環境のデザイン](http://www.ted.com/talks/jessica_green_good_germs_make_healthy_buildings?language=ja)
-- [MITメディアラボきっての遊びの天才ケヴィン・スラヴィン、その「ひらめき」の秘密 « WIRED.jp](http://wired.jp/special/2015/beyond-solution/01.html)　「微生物と都市のデザイン」を研究している、MITメディアラボのケヴィン・スラヴィンが目指しているのは、マンガ『もやしもん』の世界観だった！
-
 ----------
 
 ## Innovative City Forum
@@ -215,7 +201,6 @@ MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes
 ＩＣＦ2015で、都市における微生物と人の関係を披露したケヴィン。「宿主と多数の微生物が共生する生物単位“ホロバイオント”が、生物の個体である」という概念を、建築や都市にまで拡大した最新研究を紹介します。また、ケヴィンが研究のインスピレーションを受けたまんが「もやしもん」の作家　石川雅之氏を交え、微生物と人と都市の関係を紐解きます。
 - [ICF2016 (@icf_tokyo) | Twitter](https://twitter.com/icf_tokyo)
 - [#icf_tokyo hashtag on Twitter](https://twitter.com/hashtag/icf_tokyo)
-- [Innovative City Forum - Twitter Search](https://twitter.com/search?q=Innovative%20City%20Forum)
 - [Innovative City Forum - ICF | Facebook](https://www.facebook.com/ICF.TOKYO/)
 
 ### [ICF2015](http://icf.academyhills.com/2015/)
@@ -247,19 +232,6 @@ O[hanami](https://en.wikipedia.org/wiki/Hanami) ("flower viewing") is the Japane
 - [#お花見メタゲノム hashtag on Twitter](https://twitter.com/hashtag/お花見メタゲノム)
 - [#OMGseq hashtag on Twitter](https://twitter.com/hashtag/OMGseq?src=hash)
 - [NGS現場の会 第四回研究会](http://www.ngs-field.org/ngs4th/)
-
-----------
-
-## Money Microbiome
-お金の微生物叢
-
-![](http://si.wsj.net/public/resources/images/NA-CA854_MONEY_G_20140418181251.jpg)
-
-- 2015-06-08 [Money metagenomics](https://www.genomeweb.com/scan/week-plos-31) インド紙幣のメタゲノムに病原細菌や抗生物質耐性遺伝子
-- 2014-05-19 [【衝撃！】お札はトイレより汚い!?3,000ものバクテリアが付着していた！ - NAVER まとめ](http://matome.naver.jp/odai/2140045497330359201)
-- 2014-04-24 [Dirty money: Your cash is home to thousands of bacteria](http://www.cbsnews.com/news/dirty-money-your-cash-is-home-to-thousands-of-bacteria)
-- 2014-04-21 [「口にお金を入れる」のはやめよう―紙幣に膨大なバクテリア - WSJ](http://on.wsj.com/1eSGYpK)
-- 2013-08-06 [お札の5枚に1枚は、食中毒菌がついていることを示唆するデータが… お金を使うときに少しでも菌から身を守る対応策を聞いてみた | マイナビニュース](http://news.mynavi.jp/kikaku/2013/08/06/001/)
 
 ----------
 
@@ -303,11 +275,8 @@ O[hanami](https://en.wikipedia.org/wiki/Hanami) ("flower viewing") is the Japane
 
 ## [Flu Near You](https://flunearyou.org)
 - [Flu Near You (@FluNearYou) | Twitter](https://twitter.com/flunearyou)
-
-- 2014年7月 [インフルエンザの流行をリアルタイムで追う](http://www.sakakibara-heart.com/hospital/colum/colum9.html)
 - 2013.02.14 [Uncharted Territorythey will complement, but not substitute for](http://unchartedterritory.blog.fc2.com/blog-entry-31.html)
 - 2012/07/19 [クライシス情報学 -災害などの危機に情報はどう役立つか?- 国立情報学研究所 コンテンツ科学研究系 北本 朝展](http://agora.ex.nii.ac.jp/~kitamoto/outreach/shimin-2012/lecture-ppt.pdf)
-
 
 ----------
 
@@ -330,6 +299,15 @@ O[hanami](https://en.wikipedia.org/wiki/Hanami) ("flower viewing") is the Japane
 ----------
 
 ## Twitter
+- [MetaSUB Research (@metasub) のツイート - ツイセーブ](http://twisave.com/metasub)
+- [MetaSUB Research (@metasub) | Twitter](https://twitter.com/metasub)
+- [#MetaSUB hashtag on Twitter](https://twitter.com/hashtag/MetaSUB)
+- [MetaSUB Zurich (@Metasub_Zurich) | Twitter](https://twitter.com/Metasub_Zurich)
+- [Metasub_Paris (@metasub_paris) | Twitter](https://twitter.com/metasub_paris)
+- [MetaSUB_Sweden (@MetaSUB_Sweden) | Twitter](https://twitter.com/MetaSUB_Sweden)
+- [Christopher Mason (@mason_lab) | Twitter](https://twitter.com/mason_lab)
+- [Erica Hartmann (@ericamhartmann) | Twitter](https://twitter.com/ericamhartmann)
+- [Marcus Leung (@leungmarcus) | Twitter](https://twitter.com/leungmarcus)
 
 https://twitter.com/hashtag/metasub15
 Christopher Mason ‏@mason_lab  Jun 20
