@@ -1,7 +1,7 @@
 ----------
 
 Haruo Suzuki (haruo[at]g-language[dot]org)   
-Last Update: 2016-10-30
+Last Update: 2016-11-07
 
 ----------
 
@@ -24,8 +24,9 @@ MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes
 ----------
 
 ## Updates
-- 2016 [MetaSUB Use Case: Building Healthier and Smarter Cities with the Help of GIS](http://www.giscloud.com/blog/metasub-use-case-building-healthier-and-smarter-cities-with-the-help-of-gis/)
+- 11.03.16 [The City Of Tomorrow Is A Petri Dish--By Design | Co.Design | business + design](https://www.fastcodesign.com/3065152/the-city-of-tomorrow-is-a-petri-dish-by-design)
 - 10.13.2016, by Grégory Fléchet [Mapping the Subway's Microbiome | CNRS News](https://news.cnrs.fr/articles/mapping-the-subways-microbiome)
+- 2016 [MetaSUB Use Case: Building Healthier and Smarter Cities with the Help of GIS](http://www.giscloud.com/blog/metasub-use-case-building-healthier-and-smarter-cities-with-the-help-of-gis/)
 - 2016年4月[（研究開発の俯瞰報告書）研究開発の新しい動向（2016年）／CRDS-FY2016-FR-01](https://www.jst.go.jp/crds/report/report02/CRDS-FY2016-FR-01.html)
   - 都市スケールでのメタゲノム解析がニューヨ ーク市の地下鉄、運河、公園からのサンプルで行われた 5)。
 - 2016年3月[（調査報告書）グリーンバイオ分野における研究開発の重要課題と統合的推進 ～イノベーション創出と持続可能な社会の形成へ向けて～／CRDS-FY2015-RR-08](https://www.jst.go.jp/crds/report/report04/CRDS-FY2015-RR-08.html)
@@ -89,11 +90,14 @@ MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes
 ボストン地下鉄の微生物叢
 
 - 論文 [2016 Hsu et al. Urban Transit System Microbial Communities Differ by Surface Type and Interaction with Humans and the Environment | mSystems](http://msystems.asm.org/content/1/3/e00018-16)
+
+- 関連記事
 - 動画 YouTube
   - Jul 7, 2016 [The Boston Subway Microbiome - mSystems/American Society for Microbiology](https://www.youtube.com/watch?v=bL1v8JIiLNg)
   - Jun 30, 2016 [The Boston Subway Microbiome](https://youtu.be/HXQqjKA9S5A)
 - 2016年07月09日 [地下鉄で最も細菌が多い場所 - ZAPZAP!](http://zapzapjp.com/49017741.html)
 - 2016年7月5日 [地下鉄で細菌が最も多いのはどこ？―中国メディア - Record China](http://www.recordchina.co.jp/a143783.html)
+- November 1, 2016 Tiffany Hsu [Assessing biochemical activity and metagenomic codes to a “T” – microBEnet: the microbiology of the Built Environment network.](http://www.microbe.net/2016/11/01/assessing-biochemical-activity-and-metagenomic-codes-to-a-t/)
 - June 30, 2016 Tiffany Hsu [Microbes on the Boston “T” – microBEnet: the microbiology of the Built Environment network.](http://www.microbe.net/microbes-on-the-boston-t/)
 - 29 June, 2016 by Kelle Freel [Who’s really riding the subway with you? Characterization of the microbial communities on Boston transport](http://www.molecularecologist.com/2016/06/whos-really-riding-the-subway-with-you-characterization-of-the-microbial-communities-on-the-boston-transport/)
 - June 28, 2016 [Boston Subway System Covered in Microbes, But They're Not Harmful](http://www.asm.org/index.php/journal-press-releases/94287-boston-subway-system-covered-in-microbes-but-they-re-not-harmful)
