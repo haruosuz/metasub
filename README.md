@@ -1,17 +1,17 @@
 ----------
 
 Haruo Suzuki (haruo[at]g-language[dot]org)   
-Last Update: 2016-11-07
+Last Update: 2016-11-25
 
 ----------
 
 # [MetaSUB](http://metasub.org/?page_id=55)
 MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes  
-都市環境（地下鉄）の微生物叢
-
-[MetaSUB紹介ビデオ](https://vimeo.com/171773795)
+都市（地下鉄）の微生物叢
 
 ![](https://pbs.twimg.com/media/CuF4yeCXgAAjcAr.jpg:small)
+
+[MetaSUB紹介ビデオ](https://vimeo.com/171773795)
 
 ## News & Events
 - 2016-10-20 [Innovative City Forum ICF2016](#innovative-city-forum)
@@ -24,9 +24,11 @@ MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes
 ----------
 
 ## Updates
+- November 23, 2016 [Globalizing and crowdsourcing biomedical research](http://bmb.oxfordjournals.org/content/early/2016/10/30/bmb.ldw044.full) Ebrahim Afshinnekoo, Sofia Ahsanuddin and Christopher E. Mason
 - 11.03.16 [The City Of Tomorrow Is A Petri Dish--By Design | Co.Design | business + design](https://www.fastcodesign.com/3065152/the-city-of-tomorrow-is-a-petri-dish-by-design)
 - 10.13.2016, by Grégory Fléchet [Mapping the Subway's Microbiome | CNRS News](https://news.cnrs.fr/articles/mapping-the-subways-microbiome)
 - 2016 [MetaSUB Use Case: Building Healthier and Smarter Cities with the Help of GIS](http://www.giscloud.com/blog/metasub-use-case-building-healthier-and-smarter-cities-with-the-help-of-gis/)
+- 28 June 2016 [Avoiding Pandemic Fears in the Subway and Conquering the Platypus | mSystems](http://msystems.asm.org/content/1/3/e00050-16)
 - 2016年4月[（研究開発の俯瞰報告書）研究開発の新しい動向（2016年）／CRDS-FY2016-FR-01](https://www.jst.go.jp/crds/report/report02/CRDS-FY2016-FR-01.html)
   - 都市スケールでのメタゲノム解析がニューヨ ーク市の地下鉄、運河、公園からのサンプルで行われた 5)。
 - 2016年3月[（調査報告書）グリーンバイオ分野における研究開発の重要課題と統合的推進 ～イノベーション創出と持続可能な社会の形成へ向けて～／CRDS-FY2015-RR-08](https://www.jst.go.jp/crds/report/report04/CRDS-FY2015-RR-08.html)
@@ -53,6 +55,7 @@ MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes
 ['Global City Sampling Day' to Launch Weill Cornell Medicine-Led Study of Antimicrobial Resistance Across 54 International Cities | Weill Cornell Newsroom | Weill Cornell Medical College](http://weill.cornell.edu/news/pr/2016/06/global-city-sampling-day-to-launch-weill-cornell-medicine-led-study-of-antimicrobial-resistance-acro-1.html)
 
 - June 25, 2016  Elisabeth Bik [June 21 was International Swab Day for MetaSUB – microBEnet: the microbiology of the Built Environment network.](http://www.microbe.net/2016/06/25/june-21-was-international-swab-day-for-metasub/)
+- Jun 21, 2016 [Swabbing the New York subway DNA and microbes - YouTube](https://www.youtube.com/watch?v=HWIBUU94vl8)
 - [グローバル・オーシャン・サンプリング・エクスペディション](https://ja.wikipedia.org/wiki/グローバル・オーシャン・サンプリング・エクスペディション)
 - [Ocean Sampling Day | Micro B³](https://www.microb3.eu/osd)
 - 2013-05-16 [River Sampling Day Call | Micro B³](https://www.microb3.eu/feeds/oceansamplingday-blogspot/river-sampling-day-call)
@@ -161,6 +164,8 @@ MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes
 
 - 22/08/2016 ブラジルのニュース動画 [Cientistas aproveitam Olimpíada para pesquisar vírus e bactérias](http://g1.globo.com/jornal-nacional/noticia/2016/08/cientistas-aproveitam-olimpiada-para-pesquisar-virus-e-bacterias.html)
 - Aug 16, 2016 [Brazilian Researchers Profile Microbiome of Rio Before, During, After Olympic Games | GenomeWeb](https://www.genomeweb.com/sequencing/brazilian-researchers-profile-microbiome-rio-during-after-olympic-games)
+- June 21, 2016 [Global Microbiome Initiative Explores Subways for Drug-Resistance Markers | GEN](http://www.genengnews.com/gen-news-highlights/global-microbiome-initiative-explores-subways-for-drug-resistance-markers/81252856)
+ - MetaSUB researchers will also look at metagenomic impacts of the Olympics in Rio de Janeiro in August, in what the consortium says is a “natural experiment” illustrating a global human migration event. Researchers will carry out sampling of RNA and DNA before, during, and after the Olympics, including a search for RNA viruses such as influenza and Zika.
 - Jun 21, 2016 [Qiagen, CosmosID Join International Urban Microbiome Project | GenomeWeb](https://www.genomeweb.com/informatics/qiagen-cosmosid-join-international-urban-microbiome-project)
  - Researchers will also measure the environmental response to the mass movement of people during the 2016 Olympics to be held in Rio de Janeiro. They will collect samples before, during, and after the games and will assess the samples for the presence of viruses such as influenza and Zika.
 - JUN 21, 2016 [CosmosID and MetaSUB Consortium Announce Global Collaboration for Studying Anti-Microbial](http://www.prnewswire.com/news-releases/cosmosid-and-metasub-consortium-announce-global-collaboration-for-studying-anti-microbial-resistance-and-urban-metagenomics-across-54-cities-300287559.html)
