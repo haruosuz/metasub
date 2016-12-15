@@ -1,7 +1,7 @@
 ----------
 
 Haruo Suzuki (haruo[at]g-language[dot]org)   
-Last Update: 2016-11-25
+Last Update: 2016-12-13
 
 ----------
 
@@ -25,10 +25,13 @@ MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes
 
 ## Updates
 - November 23, 2016 [Globalizing and crowdsourcing biomedical research](http://bmb.oxfordjournals.org/content/early/2016/10/30/bmb.ldw044.full) Ebrahim Afshinnekoo, Sofia Ahsanuddin and Christopher E. Mason
+- 08 / 11 / 2016 [Current issue of Microbiology Today | Microbiology Society](http://www.microbiologysociety.org/all-microsite-sections/microbiology-today/index.cfm/article/4DBF07CD-B495-4BB3-A5644653B08FF5EF)
 - 11.03.16 [The City Of Tomorrow Is A Petri Dish--By Design | Co.Design | business + design](https://www.fastcodesign.com/3065152/the-city-of-tomorrow-is-a-petri-dish-by-design)
 - 10.13.2016, by Grégory Fléchet [Mapping the Subway's Microbiome | CNRS News](https://news.cnrs.fr/articles/mapping-the-subways-microbiome)
 - 2016 [MetaSUB Use Case: Building Healthier and Smarter Cities with the Help of GIS](http://www.giscloud.com/blog/metasub-use-case-building-healthier-and-smarter-cities-with-the-help-of-gis/)
 - 28 June 2016 [Avoiding Pandemic Fears in the Subway and Conquering the Platypus | mSystems](http://msystems.asm.org/content/1/3/e00050-16)
+- 2016.06.28 [QIAGEN社、Weill Cornell Medicineと協力し54都市で微生物マップ作製](https://bio.nikkeibp.co.jp/atcl/news/p1/16/06/25/00996/)
+  - ドイツQIAGEN社は2016年6月21日、病原菌の有病率(prevalence) を探索するグローバル研究で、米Weill Cornell Medicineと協力すると発表した。研究対象には、都市環境における抗菌剤耐性が含まれる。
 - 2016年4月[（研究開発の俯瞰報告書）研究開発の新しい動向（2016年）／CRDS-FY2016-FR-01](https://www.jst.go.jp/crds/report/report02/CRDS-FY2016-FR-01.html)
   - 都市スケールでのメタゲノム解析がニューヨ ーク市の地下鉄、運河、公園からのサンプルで行われた 5)。
 - 2016年3月[（調査報告書）グリーンバイオ分野における研究開発の重要課題と統合的推進 ～イノベーション創出と持続可能な社会の形成へ向けて～／CRDS-FY2015-RR-08](https://www.jst.go.jp/crds/report/report04/CRDS-FY2015-RR-08.html)
@@ -238,6 +241,7 @@ O[hanami](https://en.wikipedia.org/wiki/Hanami) ("flower viewing") is the Japane
 ![https://github.com/inutano/training/blob/master/ajacs52/README.md#お花見メタゲノムプロジェクト](https://camo.githubusercontent.com/161a12a73623274212e65e843250877b0405435f/687474703a2f2f6779617a6f2e636f6d2f37306232316534396330393831633839346161373461396233343637333937302e706e67)
 
 - [お花見メタ事務局 (@OhanamiMetaG) | Twitter](https://twitter.com/OhanamiMetaG)
+- [🌸 OMG-Seq Data Portal 🌸](http://data.dbcls.jp/~inutano/omg-seq/)
 - [#お花見メタゲノム hashtag on Twitter](https://twitter.com/hashtag/お花見メタゲノム)
 - [#OMGseq hashtag on Twitter](https://twitter.com/hashtag/OMGseq?src=hash)
 - [NGS現場の会 第四回研究会](http://www.ngs-field.org/ngs4th/)
