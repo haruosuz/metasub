@@ -30,6 +30,10 @@ MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes
 - 10.13.2016, by Grégory Fléchet [Mapping the Subway's Microbiome | CNRS News](https://news.cnrs.fr/articles/mapping-the-subways-microbiome)
 - 2016 [MetaSUB Use Case: Building Healthier and Smarter Cities with the Help of GIS](http://www.giscloud.com/blog/metasub-use-case-building-healthier-and-smarter-cities-with-the-help-of-gis/)
 - 28 June 2016 [Avoiding Pandemic Fears in the Subway and Conquering the Platypus | mSystems](http://msystems.asm.org/content/1/3/e00050-16)
+- June 23, 2016 [Global Project Uses GIS Cloud for Mapping Pathogens Worldwide - Geospatialpr : Geospatialpr](http://geospatialpr.com/2016/06/global-project-uses-gis-cloud-mapping-pathogens-worldwide/)
+
+![](http://www.giscloud.com/wp-content/uploads/2016/06/metasub2-960pix.jpg)
+
 - 2016.06.28 [QIAGEN社、Weill Cornell Medicineと協力し54都市で微生物マップ作製](https://bio.nikkeibp.co.jp/atcl/news/p1/16/06/25/00996/)
   - ドイツQIAGEN社は2016年6月21日、病原菌の有病率(prevalence) を探索するグローバル研究で、米Weill Cornell Medicineと協力すると発表した。研究対象には、都市環境における抗菌剤耐性が含まれる。
 - 2016年4月[（研究開発の俯瞰報告書）研究開発の新しい動向（2016年）／CRDS-FY2016-FR-01](https://www.jst.go.jp/crds/report/report02/CRDS-FY2016-FR-01.html)
