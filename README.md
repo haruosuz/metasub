@@ -7,7 +7,7 @@ Last Update: 2016-12-13
 
 # [MetaSUB](http://metasub.org/?page_id=55)
 MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes  
-都市（地下鉄）の微生物叢
+都市環境（地下鉄）の微生物叢
 
 ![](https://pbs.twimg.com/media/CuF4yeCXgAAjcAr.jpg:small)
 
@@ -25,7 +25,7 @@ MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes
 
 ## Updates
 - November 23, 2016 [Globalizing and crowdsourcing biomedical research](http://bmb.oxfordjournals.org/content/early/2016/10/30/bmb.ldw044.full) Ebrahim Afshinnekoo, Sofia Ahsanuddin and Christopher E. Mason
-- 08 / 11 / 2016 [Current issue of Microbiology Today | Microbiology Society](http://www.microbiologysociety.org/all-microsite-sections/microbiology-today/index.cfm/article/4DBF07CD-B495-4BB3-A5644653B08FF5EF)
+- 08 / 11 / 2016 Cracking the genetic code of our cities [Current issue of Microbiology Today | Microbiology Society](http://www.microbiologysociety.org/all-microsite-sections/microbiology-today/index.cfm/article/4DBF07CD-B495-4BB3-A5644653B08FF5EF)
 - 10/11/2016 [A phalanx of friends](https://www.qiagen.com/jp/about-us/newsportal/stories/2016/10/2016-11-microbiome)
 - 11.03.16 [The City Of Tomorrow Is A Petri Dish--By Design | Co.Design | business + design](https://www.fastcodesign.com/3065152/the-city-of-tomorrow-is-a-petri-dish-by-design)
 - 10.13.2016, by Grégory Fléchet [Mapping the Subway's Microbiome | CNRS News](https://news.cnrs.fr/articles/mapping-the-subways-microbiome)
