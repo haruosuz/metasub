@@ -14,6 +14,7 @@ MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes
 [MetaSUB紹介ビデオ](https://vimeo.com/171773795)
 
 ## News & Events
+- 2017-07 CAMDA 2017 Conference
 - 2016-10-20 [Innovative City Forum ICF2016](#innovative-city-forum)
 - [2017 Meetings](#2017-meetings)
 - 2016-08 [Olympiome](#olympiome)
@@ -44,6 +45,18 @@ MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes
   - メタゲノム解析の応用例は多様化し、現在ではさまざまな対象、例えば、土壌 2)、深海底下 4)、ニューヨークの地下鉄 5)、コーヒーサーバー6) 、チーズ 7)、などにまで至っ ている。
 - [公益財団法人鉄道総合技術研究所｜人間科学ニュース 2016年3月号（第202号）](https://www.rtri.or.jp/rd/news/human/human_201603.html)
  - 遺伝子で鉄道の環境を見る（生物工学グループ　池畑政輝）
+
+----------
+
+### CAMDA 2017
+![](http://camda2017.bioinf.jku.at/lib/tpl/mnml-blog/user/logo.png)
+
+- [CAMDA 2017 – Critical Assessment of Massive Data Analysis](http://camda.info)
+ - The MetaSUB Inter-City Challenge presents the urban microbiomes of three cities. Compare organism fingerprints from public places across cities. Investigate organism sequences and biodiversity vs location.
+- [The CAMDA Contest Challenges](http://contest.camda.info)
+ - [MetaSUB Inter-City Challenge](http://camda2017.bioinf.jku.at/doku.php/contest_dataset#metasub_inter-city_challenge)
+- [CAMDA 2017 (@CAMDA_conf) | Twitter](https://twitter.com/camda_conf)
+- [Pawel Labaj (@pawel_labaj) | Twitter](https://twitter.com/pawel_labaj)
 
 ----------
 
@@ -317,34 +330,6 @@ O[hanami](https://en.wikipedia.org/wiki/Hanami) ("flower viewing") is the Japane
 
 ----------
 
-## Twitter
-- [MetaSUB Research (@metasub) のツイート - ツイセーブ](http://twisave.com/metasub)
-- [MetaSUB Research (@metasub) | Twitter](https://twitter.com/metasub)
-- [#MetaSUB hashtag on Twitter](https://twitter.com/hashtag/MetaSUB)
-- [MetaSUB Zurich (@Metasub_Zurich) | Twitter](https://twitter.com/Metasub_Zurich)
-- [Metasub_Paris (@metasub_paris) | Twitter](https://twitter.com/metasub_paris)
-- [MetaSUB_Sweden (@MetaSUB_Sweden) | Twitter](https://twitter.com/MetaSUB_Sweden)
-- [Christopher Mason (@mason_lab) | Twitter](https://twitter.com/mason_lab)
-- [Erica Hartmann (@ericamhartmann) | Twitter](https://twitter.com/ericamhartmann)
-- [Marcus Leung (@leungmarcus) | Twitter](https://twitter.com/leungmarcus)
-
-https://twitter.com/hashtag/metasub15
-Christopher Mason ‏@mason_lab  Jun 20
-\#metasub15 John Brownstein @johnbrownstein gave a great talk about Healthmap http://www.healthmap.org  and crowd-sourced medicine
-
-https://twitter.com/gogoviral
-Julie Nadel ‏@JulieNadel  Jun 19
-NY+MA: participate in crowd sourced epidemiology. Sign up now for next time you're sick! #UrbanGenome @gogoviral http://www.goviralstudy.com
-
-Rumi ‏@rumichunara  May 27Rome, Lazio
-Our paper on bringing together molecular specimens and online participatory surveillance http://currents.plos.org/outbreaks/article/surveillance-of-acute-respiratory-infections-using-community-submitted-symptoms-and-specimens-for-molecular-diagnostic-testing/ … @gogoviral
-
-5:20 PM - 3 Feb 2013
-https://twitter.com/guruguruyellow/status/298194313572130819
-.@cnn_co_jp 僭越ながら1/31の「ツイッターでインフルエンザ流行地域の予測目指す」の捕捉をさせて頂きます。2006年よりハーバード大学公衆衛生大学院が以下のサイトを立ち上げております。ご覧頂けましたら幸いです。@healthmap @FluNearYou 
-
-----------
-
 ## Subways
 地下鉄
 
@@ -366,6 +351,33 @@ The report states that 88% of stations were cleaned fewer than eight times a yea
  - [地下鉄で新型インフルエンザ対策実験：政治経済ニュース！](http://seizikeizai.seesaa.net/article/111617412.html)
 
 ----------
+
+## Twitter
+- [MetaSUB Research (@metasub) のツイート - ツイセーブ](http://twisave.com/metasub)
+- [MetaSUB Research (@metasub) | Twitter](https://twitter.com/metasub)
+- [#MetaSUB hashtag on Twitter](https://twitter.com/hashtag/MetaSUB)
+- [MetaSUB Zurich (@Metasub_Zurich) | Twitter](https://twitter.com/Metasub_Zurich)
+- [Metasub_Paris (@metasub_paris) | Twitter](https://twitter.com/metasub_paris)
+- [MetaSUB_Sweden (@MetaSUB_Sweden) | Twitter](https://twitter.com/MetaSUB_Sweden)
+- [MetaSUB_Hyderabad (@Metasub_India) | Twitter](https://twitter.com/Metasub_India)
+- [Christopher Mason (@mason_lab) | Twitter](https://twitter.com/mason_lab)
+- [Erica Hartmann (@ericamhartmann) | Twitter](https://twitter.com/ericamhartmann)
+- [Marcus Leung (@leungmarcus) | Twitter](https://twitter.com/leungmarcus)
+
+https://twitter.com/hashtag/metasub15
+Christopher Mason ‏@mason_lab  Jun 20
+\#metasub15 John Brownstein @johnbrownstein gave a great talk about Healthmap http://www.healthmap.org  and crowd-sourced medicine
+
+https://twitter.com/gogoviral
+Julie Nadel ‏@JulieNadel  Jun 19
+NY+MA: participate in crowd sourced epidemiology. Sign up now for next time you're sick! #UrbanGenome @gogoviral http://www.goviralstudy.com
+
+Rumi ‏@rumichunara  May 27Rome, Lazio
+Our paper on bringing together molecular specimens and online participatory surveillance http://currents.plos.org/outbreaks/article/surveillance-of-acute-respiratory-infections-using-community-submitted-symptoms-and-specimens-for-molecular-diagnostic-testing/ … @gogoviral
+
+5:20 PM - 3 Feb 2013
+https://twitter.com/guruguruyellow/status/298194313572130819
+.@cnn_co_jp 僭越ながら1/31の「ツイッターでインフルエンザ流行地域の予測目指す」の捕捉をさせて頂きます。2006年よりハーバード大学公衆衛生大学院が以下のサイトを立ち上げております。ご覧頂けましたら幸いです。@healthmap @FluNearYou 
 
 ----------
 
