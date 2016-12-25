@@ -20,9 +20,9 @@ MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes
 - 2016-08 [Olympiome](#olympiome)
 - [2016 Meetings](#2016-meetings)
 - 2016-06 [Global City Sampling Day (CSD)](#city-sampling-day)
-- 2016-06 [Boston Subway Microbiome]()
+- 2016-06 [Boston Subway Microbiome](#boston-subway-microbiome)
 - [2015 Meetings](#2015-meetings)
-- 2015-07 [New York Subway Microbiome]()
+- 2015-07 [New York Subway Microbiome](#new-york-subway-microbiome)
 
 ----------
 
@@ -35,6 +35,7 @@ MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes
 - 2016 [MetaSUB Use Case: Building Healthier and Smarter Cities with the Help of GIS](http://www.giscloud.com/blog/metasub-use-case-building-healthier-and-smarter-cities-with-the-help-of-gis/)
 - 28 June 2016 [Avoiding Pandemic Fears in the Subway and Conquering the Platypus | mSystems](http://msystems.asm.org/content/1/3/e00050-16)
 - June 25 2016 [The Winnower | June 21 was International Swab Day for MetaSUB](https://thewinnower.com/papers/4874-june-21-was-international-swab-day-for-metasub)
+- June 23, 2016 [Stockholm University swabs the Tube - Stockholm University](http://www.su.se/english/about/partnerships-collaborations/stockholm-university-swabs-the-tube-1.275059) | [Looking for bacteria in the metro – "People call us nerds"](https://www.youtube.com/watch?v=F8ye-gqHtno)
 - June 23, 2016 [Global Project Uses GIS Cloud for Mapping Pathogens Worldwide - Geospatialpr : Geospatialpr](http://geospatialpr.com/2016/06/global-project-uses-gis-cloud-mapping-pathogens-worldwide/)
 
 ![](http://www.giscloud.com/wp-content/uploads/2016/06/metasub2-960pix.jpg)
@@ -45,8 +46,7 @@ MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes
   - 都市スケールでのメタゲノム解析がニューヨ ーク市の地下鉄、運河、公園からのサンプルで行われた 5)。
 - 2016年3月[（調査報告書）グリーンバイオ分野における研究開発の重要課題と統合的推進 ～イノベーション創出と持続可能な社会の形成へ向けて～／CRDS-FY2015-RR-08](https://www.jst.go.jp/crds/report/report04/CRDS-FY2015-RR-08.html)
   - メタゲノム解析の応用例は多様化し、現在ではさまざまな対象、例えば、土壌 2)、深海底下 4)、ニューヨークの地下鉄 5)、コーヒーサーバー6) 、チーズ 7)、などにまで至っ ている。
-- [公益財団法人鉄道総合技術研究所｜人間科学ニュース 2016年3月号（第202号）](https://www.rtri.or.jp/rd/news/human/human_201603.html)
- - 遺伝子で鉄道の環境を見る（生物工学グループ　池畑政輝）
+- [公益財団法人鉄道総合技術研究所｜人間科学ニュース 2016年3月号（第202号）](https://www.rtri.or.jp/rd/news/human/human_201603.html#sect04) 遺伝子で鉄道の環境を見る（生物工学グループ　池畑政輝）
 
 ----------
 
@@ -59,33 +59,6 @@ MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes
  - [MetaSUB Inter-City Challenge](http://camda2017.bioinf.jku.at/doku.php/contest_dataset#metasub_inter-city_challenge)
 - [CAMDA 2017 (@CAMDA_conf) | Twitter](https://twitter.com/camda_conf)
 - [Pawel Labaj (@pawel_labaj) | Twitter](https://twitter.com/pawel_labaj)
-
-----------
-
-## Innovative City Forum
-### [ICF2016](http://icf.academyhills.com)
-- 2016-10-20 [プログラム](http://icf.academyhills.com/program/#session_special)
- - 「スマートシティを司る”2番目の脳”都市のホロバイオント」
-ＩＣＦ2015で、都市における微生物と人の関係を披露したケヴィン。「宿主と多数の微生物が共生する生物単位“ホロバイオント”が、生物の個体である」という概念を、建築や都市にまで拡大した最新研究を紹介します。また、ケヴィンが研究のインスピレーションを受けたまんが「もやしもん」の作家　石川雅之氏を交え、微生物と人と都市の関係を紐解きます。
-- [ICF2016 (@icf_tokyo) | Twitter](https://twitter.com/icf_tokyo)
-- [#icf_tokyo hashtag on Twitter](https://twitter.com/hashtag/icf_tokyo)
-- [Innovative City Forum - ICF | Facebook](https://www.facebook.com/ICF.TOKYO/)
-
-### [ICF2015](http://icf.academyhills.com/2015/)
-- 2015-10-14 [プログラム](http://icf.academyhills.com/2015/program.html)
- - スマートシティを司る“２番目の脳”
-都市の中の微生物叢から学ぶこと
-「都市における微生物の存在が私達の健康にどのように関係しているのか？」
-私達を取り巻く微生物と都市環境デザインについて、ハード、ソフト、バイオテクノロジーの観点から議論を展開します。
-- 【動画】[スマートシティを司る“２番目の脳”](https://youtu.be/EQiO9kzpeBw?list=PLQl-BPZhcsy9EN-0jO8QildbCxtyIsR0C)｜[Second Brain for the Smart City](https://youtu.be/uSjGeACndIA?list=PLHMUAsAGfigcKRu2Quna-C-VhzJbl5hY2)
-- [Innovative City Forum に関する記事一覧｜WIRED.jp](http://wired.jp/tag/innovative-city-forum/)
- - 2015-12-01 [東京に多様性と複雑性を：伊藤穰一のバイオシティ構想](http://wired.jp/2015/12/01/joi-ito-future-city-tokyo/)
- - 2015-10-02 [「微生物によって建築のデザイン・プロセスを変えたい」ジェシカ・グリーン（微生物学者） « WIRED.jp](http://wired.jp/2015/10/02/innovative-city-forum-2015-4/)
- - 2015-09-18 [「バイオは自分には関係ないと思っていませんか」林千晶（MITメディアラボ所長補佐）：ICF 2015の見どころを語る｜WIRED.jp](http://wired.jp/2015/09/18/innovative-city-forum-2015-2/)
-- [「微生物から新しいデザインがはじまる」デイヴィッド・ベンジャミン✕ジェシカ・グリーン✕林千晶：Redesigning Tokyo 対話4「Biology」 « WIRED.jp](http://wired.jp/special/2016/biology/)
- - BiomeView（Autodesk Research）ホコリから生まれた空間デザイン
- - Bee Debris Project（MIT Media Lab）蜂の巣箱のなかのビッグデータ
- - Pathomap Project（Weill Cornell Medical College）NY地下鉄の細菌マップ
 
 ----------
 
@@ -233,24 +206,30 @@ MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes
 
 ----------
 
-## People
-- Dr. Christopher Mason (Weill Medical College of Cornell University) | [Mason Lab](http://www.masonlab.net)
- - 2016-02-23 [New Genetic Spectra Across Earth's Cities & Far BeyondTEDMED Blog](http://blog.tedmed.com/new-genetic-spectra-across-earths-cities-beyond/)
- - Video
-  - 2016-04-25 [Christopher Mason at the 2016 DOE JGI Genomics of Energy & Environment Meeting - YouTube](https://www.youtube.com/watch?v=WtpKmmIg9qM) | Christopher Mason, Cornell University, at the 11th Annual Genomics of Energy & Environment Meeting on March 23, 2016 in Walnut Creek, Calif.
-  - 2016-11-30 [TEDMED - Discovering and designing genomes for Earth, Mars, and beyond](http://tedmed.com/talks/show?id=528172)
-  - 2015-11-09 【ICF2015】[クリストファー・メイソン - 「スマートシティを司る“２番目の脳”」](https://youtu.be/3egxzBzynvY) | [Christopher Mason - Second Brain for the Smart City](https://youtu.be/ZK5ORqWqnps)
-  - 2015-10-02 [Metagenomic analysis of the New York City subway system](https://www.youtube.com/watch?v=HyqvMEqmkYk)
-  - 2015-06-19 [Integrative Genomics in Single Cells, Entire Cities, and Astronauts](https://youtu.be/Q_eUq9FNSaY)
-  - 2015-03-27 [SciCafe: Mapping the Urban Microbiome, Genome, and Metagenome](https://www.youtube.com/watch?v=mn5MkKXtxms)
-  - 2013-06-18 [Tumor Evolution in the Transcriptome, Epigenome, and Epitranscriptome](https://www.youtube.com/watch?v=UQecetRMzWI)
+## Innovative City Forum
+### [ICF2016](http://icf.academyhills.com)
+- 2016-10-20 [プログラム](http://icf.academyhills.com/program/#session_special)
+ - 「スマートシティを司る”2番目の脳”都市のホロバイオント」
+ＩＣＦ2015で、都市における微生物と人の関係を披露したケヴィン。「宿主と多数の微生物が共生する生物単位“ホロバイオント”が、生物の個体である」という概念を、建築や都市にまで拡大した最新研究を紹介します。また、ケヴィンが研究のインスピレーションを受けたまんが「もやしもん」の作家　石川雅之氏を交え、微生物と人と都市の関係を紐解きます。
+- [ICF2016 (@icf_tokyo) | Twitter](https://twitter.com/icf_tokyo)
+- [#icf_tokyo hashtag on Twitter](https://twitter.com/hashtag/icf_tokyo)
+- [Innovative City Forum - ICF | Facebook](https://www.facebook.com/ICF.TOKYO/)
 
-- Sofia Ahsanuddin
-  - 2015-11-20 [Cracking the Genetic Code of Our Cities | Sofia Ahsanuddin | TEDxCUNY - YouTube](https://www.youtube.com/watch?v=t9GrVdYWJOc)
-    - [There are 15,000 lifeforms riding the NYC subway, including meningitis | TEDx Innovations Blog](http://tedxinnovations.ted.com/2016/06/15/nyc-subway-commuters-include-15000-lifeforms-including-meningitis/)
-
-- [Stockholm University swabs the Tube - Stockholm University](http://www.su.se/english/about/partnerships-collaborations/stockholm-university-swabs-the-tube-1.275059)
- - [Looking for bacteria in the metro – "People call us nerds"](https://www.youtube.com/watch?v=F8ye-gqHtno)
+### [ICF2015](http://icf.academyhills.com/2015/)
+- 2015-10-14 [プログラム](http://icf.academyhills.com/2015/program.html)
+ - スマートシティを司る“２番目の脳”
+都市の中の微生物叢から学ぶこと
+「都市における微生物の存在が私達の健康にどのように関係しているのか？」
+私達を取り巻く微生物と都市環境デザインについて、ハード、ソフト、バイオテクノロジーの観点から議論を展開します。
+- 【動画】[スマートシティを司る“２番目の脳”](https://youtu.be/EQiO9kzpeBw?list=PLQl-BPZhcsy9EN-0jO8QildbCxtyIsR0C)｜[Second Brain for the Smart City](https://youtu.be/uSjGeACndIA?list=PLHMUAsAGfigcKRu2Quna-C-VhzJbl5hY2)
+- [Innovative City Forum に関する記事一覧｜WIRED.jp](http://wired.jp/tag/innovative-city-forum/)
+ - 2015-12-01 [東京に多様性と複雑性を：伊藤穰一のバイオシティ構想](http://wired.jp/2015/12/01/joi-ito-future-city-tokyo/)
+ - 2015-10-02 [「微生物によって建築のデザイン・プロセスを変えたい」ジェシカ・グリーン（微生物学者） « WIRED.jp](http://wired.jp/2015/10/02/innovative-city-forum-2015-4/)
+ - 2015-09-18 [「バイオは自分には関係ないと思っていませんか」林千晶（MITメディアラボ所長補佐）：ICF 2015の見どころを語る｜WIRED.jp](http://wired.jp/2015/09/18/innovative-city-forum-2015-2/)
+- [「微生物から新しいデザインがはじまる」デイヴィッド・ベンジャミン✕ジェシカ・グリーン✕林千晶：Redesigning Tokyo 対話4「Biology」 « WIRED.jp](http://wired.jp/special/2016/biology/)
+ - BiomeView（Autodesk Research）ホコリから生まれた空間デザイン
+ - Bee Debris Project（MIT Media Lab）蜂の巣箱のなかのビッグデータ
+ - Pathomap Project（Weill Cornell Medical College）NY地下鉄の細菌マップ
 
 ----------
 
@@ -351,6 +330,25 @@ The report states that 88% of stations were cleaned fewer than eight times a yea
  - 2008/12/22 [通勤電車で隣の人との間隔を１ｍあける？？ 社会：ZAKZAK](http://www.zakzak.co.jp/top/200812/t2008122265_all.html) 新型インフル拡大防止で電車使い乗り方実験
  - 2008/12/22 新型インフル拡大防止で実験 通勤電車での乗り方 - 47NEWS
  - [地下鉄で新型インフルエンザ対策実験：政治経済ニュース！](http://seizikeizai.seesaa.net/article/111617412.html)
+
+
+----------
+
+## People
+- Dr. Christopher Mason (Weill Medical College of Cornell University) | [Mason Lab](http://www.masonlab.net)
+ - 2016-02-23 [New Genetic Spectra Across Earth's Cities & Far BeyondTEDMED Blog](http://blog.tedmed.com/new-genetic-spectra-across-earths-cities-beyond/)
+ - Video
+  - 2016-04-25 [Christopher Mason at the 2016 DOE JGI Genomics of Energy & Environment Meeting - YouTube](https://www.youtube.com/watch?v=WtpKmmIg9qM) | Christopher Mason, Cornell University, at the 11th Annual Genomics of Energy & Environment Meeting on March 23, 2016 in Walnut Creek, Calif.
+  - 2016-11-30 [TEDMED - Discovering and designing genomes for Earth, Mars, and beyond](http://tedmed.com/talks/show?id=528172)
+  - 2015-11-09 【ICF2015】[クリストファー・メイソン - 「スマートシティを司る“２番目の脳”」](https://youtu.be/3egxzBzynvY) | [Christopher Mason - Second Brain for the Smart City](https://youtu.be/ZK5ORqWqnps)
+  - 2015-10-02 [Metagenomic analysis of the New York City subway system](https://www.youtube.com/watch?v=HyqvMEqmkYk)
+  - 2015-06-19 [Integrative Genomics in Single Cells, Entire Cities, and Astronauts](https://youtu.be/Q_eUq9FNSaY)
+  - 2015-03-27 [SciCafe: Mapping the Urban Microbiome, Genome, and Metagenome](https://www.youtube.com/watch?v=mn5MkKXtxms)
+  - 2013-06-18 [Tumor Evolution in the Transcriptome, Epigenome, and Epitranscriptome](https://www.youtube.com/watch?v=UQecetRMzWI)
+
+- Sofia Ahsanuddin
+  - 2015-11-20 [Cracking the Genetic Code of Our Cities | Sofia Ahsanuddin | TEDxCUNY - YouTube](https://www.youtube.com/watch?v=t9GrVdYWJOc)
+    - [There are 15,000 lifeforms riding the NYC subway, including meningitis | TEDx Innovations Blog](http://tedxinnovations.ted.com/2016/06/15/nyc-subway-commuters-include-15000-lifeforms-including-meningitis/)
 
 ----------
 
