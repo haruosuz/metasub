@@ -1,7 +1,7 @@
 ----------
 
 Haruo Suzuki (haruo[at]g-language[dot]org)   
-Last Update: 2016-12-13
+Last Update: 2016-12-25
 
 ----------
 
@@ -13,14 +13,16 @@ MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes
 
 [MetaSUB紹介ビデオ](https://vimeo.com/171773795)
 
-## News & Events
+## Contents
+- [2017 Meetings](#2017-meetings)
 - 2017-07 [CAMDA 2017 Conference](#camda-2017)
 - 2016-10-20 [Innovative City Forum ICF2016](#innovative-city-forum)
-- [2017 Meetings](#2017-meetings)
 - 2016-08 [Olympiome](#olympiome)
 - [2016 Meetings](#2016-meetings)
 - 2016-06 [Global City Sampling Day (CSD)](#city-sampling-day)
+- 2016-06 [Boston Subway Microbiome]()
 - [2015 Meetings](#2015-meetings)
+- 2015-07 [New York Subway Microbiome]()
 
 ----------
 
@@ -57,6 +59,33 @@ MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes
  - [MetaSUB Inter-City Challenge](http://camda2017.bioinf.jku.at/doku.php/contest_dataset#metasub_inter-city_challenge)
 - [CAMDA 2017 (@CAMDA_conf) | Twitter](https://twitter.com/camda_conf)
 - [Pawel Labaj (@pawel_labaj) | Twitter](https://twitter.com/pawel_labaj)
+
+----------
+
+## Innovative City Forum
+### [ICF2016](http://icf.academyhills.com)
+- 2016-10-20 [プログラム](http://icf.academyhills.com/program/#session_special)
+ - 「スマートシティを司る”2番目の脳”都市のホロバイオント」
+ＩＣＦ2015で、都市における微生物と人の関係を披露したケヴィン。「宿主と多数の微生物が共生する生物単位“ホロバイオント”が、生物の個体である」という概念を、建築や都市にまで拡大した最新研究を紹介します。また、ケヴィンが研究のインスピレーションを受けたまんが「もやしもん」の作家　石川雅之氏を交え、微生物と人と都市の関係を紐解きます。
+- [ICF2016 (@icf_tokyo) | Twitter](https://twitter.com/icf_tokyo)
+- [#icf_tokyo hashtag on Twitter](https://twitter.com/hashtag/icf_tokyo)
+- [Innovative City Forum - ICF | Facebook](https://www.facebook.com/ICF.TOKYO/)
+
+### [ICF2015](http://icf.academyhills.com/2015/)
+- 2015-10-14 [プログラム](http://icf.academyhills.com/2015/program.html)
+ - スマートシティを司る“２番目の脳”
+都市の中の微生物叢から学ぶこと
+「都市における微生物の存在が私達の健康にどのように関係しているのか？」
+私達を取り巻く微生物と都市環境デザインについて、ハード、ソフト、バイオテクノロジーの観点から議論を展開します。
+- 【動画】[スマートシティを司る“２番目の脳”](https://youtu.be/EQiO9kzpeBw?list=PLQl-BPZhcsy9EN-0jO8QildbCxtyIsR0C)｜[Second Brain for the Smart City](https://youtu.be/uSjGeACndIA?list=PLHMUAsAGfigcKRu2Quna-C-VhzJbl5hY2)
+- [Innovative City Forum に関する記事一覧｜WIRED.jp](http://wired.jp/tag/innovative-city-forum/)
+ - 2015-12-01 [東京に多様性と複雑性を：伊藤穰一のバイオシティ構想](http://wired.jp/2015/12/01/joi-ito-future-city-tokyo/)
+ - 2015-10-02 [「微生物によって建築のデザイン・プロセスを変えたい」ジェシカ・グリーン（微生物学者） « WIRED.jp](http://wired.jp/2015/10/02/innovative-city-forum-2015-4/)
+ - 2015-09-18 [「バイオは自分には関係ないと思っていませんか」林千晶（MITメディアラボ所長補佐）：ICF 2015の見どころを語る｜WIRED.jp](http://wired.jp/2015/09/18/innovative-city-forum-2015-2/)
+- [「微生物から新しいデザインがはじまる」デイヴィッド・ベンジャミン✕ジェシカ・グリーン✕林千晶：Redesigning Tokyo 対話4「Biology」 « WIRED.jp](http://wired.jp/special/2016/biology/)
+ - BiomeView（Autodesk Research）ホコリから生まれた空間デザイン
+ - Bee Debris Project（MIT Media Lab）蜂の巣箱のなかのビッグデータ
+ - Pathomap Project（Weill Cornell Medical College）NY地下鉄の細菌マップ
 
 ----------
 
@@ -222,33 +251,6 @@ MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes
 
 - [Stockholm University swabs the Tube - Stockholm University](http://www.su.se/english/about/partnerships-collaborations/stockholm-university-swabs-the-tube-1.275059)
  - [Looking for bacteria in the metro – "People call us nerds"](https://www.youtube.com/watch?v=F8ye-gqHtno)
-
-----------
-
-## Innovative City Forum
-### [ICF2016](http://icf.academyhills.com)
-- 2016-10-20 [プログラム](http://icf.academyhills.com/program/#session_special)
- - 「スマートシティを司る”2番目の脳”都市のホロバイオント」
-ＩＣＦ2015で、都市における微生物と人の関係を披露したケヴィン。「宿主と多数の微生物が共生する生物単位“ホロバイオント”が、生物の個体である」という概念を、建築や都市にまで拡大した最新研究を紹介します。また、ケヴィンが研究のインスピレーションを受けたまんが「もやしもん」の作家　石川雅之氏を交え、微生物と人と都市の関係を紐解きます。
-- [ICF2016 (@icf_tokyo) | Twitter](https://twitter.com/icf_tokyo)
-- [#icf_tokyo hashtag on Twitter](https://twitter.com/hashtag/icf_tokyo)
-- [Innovative City Forum - ICF | Facebook](https://www.facebook.com/ICF.TOKYO/)
-
-### [ICF2015](http://icf.academyhills.com/2015/)
-- 2015-10-14 [プログラム](http://icf.academyhills.com/2015/program.html)
- - スマートシティを司る“２番目の脳”
-都市の中の微生物叢から学ぶこと
-「都市における微生物の存在が私達の健康にどのように関係しているのか？」
-私達を取り巻く微生物と都市環境デザインについて、ハード、ソフト、バイオテクノロジーの観点から議論を展開します。
-- 【動画】[スマートシティを司る“２番目の脳”](https://youtu.be/EQiO9kzpeBw?list=PLQl-BPZhcsy9EN-0jO8QildbCxtyIsR0C)｜[Second Brain for the Smart City](https://youtu.be/uSjGeACndIA?list=PLHMUAsAGfigcKRu2Quna-C-VhzJbl5hY2)
-- [Innovative City Forum に関する記事一覧｜WIRED.jp](http://wired.jp/tag/innovative-city-forum/)
- - 2015-12-01 [東京に多様性と複雑性を：伊藤穰一のバイオシティ構想](http://wired.jp/2015/12/01/joi-ito-future-city-tokyo/)
- - 2015-10-02 [「微生物によって建築のデザイン・プロセスを変えたい」ジェシカ・グリーン（微生物学者） « WIRED.jp](http://wired.jp/2015/10/02/innovative-city-forum-2015-4/)
- - 2015-09-18 [「バイオは自分には関係ないと思っていませんか」林千晶（MITメディアラボ所長補佐）：ICF 2015の見どころを語る｜WIRED.jp](http://wired.jp/2015/09/18/innovative-city-forum-2015-2/)
-- [「微生物から新しいデザインがはじまる」デイヴィッド・ベンジャミン✕ジェシカ・グリーン✕林千晶：Redesigning Tokyo 対話4「Biology」 « WIRED.jp](http://wired.jp/special/2016/biology/)
- - BiomeView（Autodesk Research）ホコリから生まれた空間デザイン
- - Bee Debris Project（MIT Media Lab）蜂の巣箱のなかのビッグデータ
- - Pathomap Project（Weill Cornell Medical College）NY地下鉄の細菌マップ
 
 ----------
 
