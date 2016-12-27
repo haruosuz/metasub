@@ -73,8 +73,6 @@ MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes
 
 ![https://crowdfunding.cornell.edu/project/3636](https://res.cloudinary.com/scalefunder/image/fetch/s--IPZeYcxb--/f_auto,fl_lossy,h_351,q_auto,w_622/https://res.cloudinary.com/scalefunder/image/upload/v1481836129/Cornell_University/vkt6clbw1ukeomgeokzb.png)
 
-![https://twitter.com/metasub/status/745827908040658945](https://pbs.twimg.com/media/Clm2hJvWMAA6n-T.jpg:small)
-
 ![](http://images.med.cornell.edu/body/dean/2016/06_21_16metasub3sm.jpg)
 ![](http://images.med.cornell.edu/body/dean/2016/06_21_16metasub2sm.jpg)
 ![](http://images.med.cornell.edu/body/dean/2016/06_21_16metasub1sm.jpg)
