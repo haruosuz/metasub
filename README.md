@@ -1,7 +1,7 @@
 ----------
 
 Haruo Suzuki (haruo[at]g-language[dot]org)   
-Last Update: 2016-12-25
+Last Update: 2016-12-27
 
 ----------
 
@@ -27,6 +27,7 @@ MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes
 ----------
 
 ## Updates
+- [Weill Cornell Medicine | MetaSUB: Discover and Map the Genomes Around Us](https://crowdfunding.cornell.edu/project/3636) Our crowdfunding campaign for the global metagenomics study
 - November 23, 2016 [Globalizing and crowdsourcing biomedical research](http://bmb.oxfordjournals.org/content/early/2016/10/30/bmb.ldw044.full) Ebrahim Afshinnekoo, Sofia Ahsanuddin and Christopher E. Mason
 - 08 / 11 / 2016 Cracking the genetic code of our cities [Current issue of Microbiology Today | Microbiology Society](http://www.microbiologysociety.org/all-microsite-sections/microbiology-today/index.cfm/article/4DBF07CD-B495-4BB3-A5644653B08FF5EF)
 - 10/11/2016 [A phalanx of friends](https://www.qiagen.com/jp/about-us/newsportal/stories/2016/10/2016-11-microbiome)
@@ -69,6 +70,8 @@ MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes
 1. 地理空間メタゲノムと法医学遺伝地図の作成
 2. 都市建築環境における抗菌剤耐性マーカーの同定と追跡
 3. 創薬のための新規生合成遺伝子クラスターの同定
+
+![https://crowdfunding.cornell.edu/project/3636](https://res.cloudinary.com/scalefunder/image/fetch/s--IPZeYcxb--/f_auto,fl_lossy,h_351,q_auto,w_622/https://res.cloudinary.com/scalefunder/image/upload/v1481836129/Cornell_University/vkt6clbw1ukeomgeokzb.png)
 
 ![https://twitter.com/metasub/status/745827908040658945](https://pbs.twimg.com/media/Clm2hJvWMAA6n-T.jpg:small)
 
