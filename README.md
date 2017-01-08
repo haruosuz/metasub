@@ -1,7 +1,7 @@
 ----------
 
 Haruo Suzuki (haruo[at]g-language[dot]org)   
-Last Update: 2016-12-27
+Last Update: 2017-01-08
 
 ----------
 
@@ -9,7 +9,11 @@ Last Update: 2016-12-27
 MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes  
 都市環境（地下鉄）の微生物叢
 
+![https://crowdfunding.cornell.edu/project/3636](https://res.cloudinary.com/scalefunder/image/fetch/s--IPZeYcxb--/f_auto,fl_lossy,h_351,q_auto,w_622/https://res.cloudinary.com/scalefunder/image/upload/v1481836129/Cornell_University/vkt6clbw1ukeomgeokzb.png)
+
 ![](https://pbs.twimg.com/media/CuF4yeCXgAAjcAr.jpg:small)
+
+![https://twitter.com/metasub/status/745237893153722369](https://pbs.twimg.com/media/Cled6GCWEAQySfM.jpg)
 
 [MetaSUB紹介ビデオ](https://vimeo.com/171773795)
 
@@ -70,8 +74,6 @@ MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes
 1. 地理空間メタゲノムと法医学遺伝地図の作成
 2. 都市建築環境における抗菌剤耐性マーカーの同定と追跡
 3. 創薬のための新規生合成遺伝子クラスターの同定
-
-![https://crowdfunding.cornell.edu/project/3636](https://res.cloudinary.com/scalefunder/image/fetch/s--IPZeYcxb--/f_auto,fl_lossy,h_351,q_auto,w_622/https://res.cloudinary.com/scalefunder/image/upload/v1481836129/Cornell_University/vkt6clbw1ukeomgeokzb.png)
 
 ![](http://images.med.cornell.edu/body/dean/2016/06_21_16metasub3sm.jpg)
 ![](http://images.med.cornell.edu/body/dean/2016/06_21_16metasub2sm.jpg)
@@ -223,6 +225,7 @@ MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes
 「都市における微生物の存在が私達の健康にどのように関係しているのか？」
 私達を取り巻く微生物と都市環境デザインについて、ハード、ソフト、バイオテクノロジーの観点から議論を展開します。
 - 【動画】[スマートシティを司る“２番目の脳”](https://youtu.be/EQiO9kzpeBw?list=PLQl-BPZhcsy9EN-0jO8QildbCxtyIsR0C)｜[Second Brain for the Smart City](https://youtu.be/uSjGeACndIA?list=PLHMUAsAGfigcKRu2Quna-C-VhzJbl5hY2)
+- [「スマートシティを司る“２番目の脳” 」先端技術セッション2の動画　/ケヴィン・スラヴィン、クリストファー・メイソン、ジェシカ・グリーン、伊藤穰一/　 Innovative City Forum 2015 /　動画（ youtube/Innovative City Forum – Japanese）　-archiclue.](http://archiclue.com/?p=16436)
 - [Innovative City Forum に関する記事一覧｜WIRED.jp](http://wired.jp/tag/innovative-city-forum/)
  - 2015-12-01 [東京に多様性と複雑性を：伊藤穰一のバイオシティ構想](http://wired.jp/2015/12/01/joi-ito-future-city-tokyo/)
  - 2015-10-02 [「微生物によって建築のデザイン・プロセスを変えたい」ジェシカ・グリーン（微生物学者） « WIRED.jp](http://wired.jp/2015/10/02/innovative-city-forum-2015-4/)
