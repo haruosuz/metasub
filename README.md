@@ -9,11 +9,9 @@ Last Update: 2017-01-08
 MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes  
 都市環境（地下鉄）の微生物叢
 
-![https://crowdfunding.cornell.edu/project/3636](https://res.cloudinary.com/scalefunder/image/fetch/s--IPZeYcxb--/f_auto,fl_lossy,h_351,q_auto,w_622/https://res.cloudinary.com/scalefunder/image/upload/v1481836129/Cornell_University/vkt6clbw1ukeomgeokzb.png)
-
 ![](https://pbs.twimg.com/media/CuF4yeCXgAAjcAr.jpg:small)
 
-![https://twitter.com/metasub/status/745237893153722369](https://pbs.twimg.com/media/Cled6GCWEAQySfM.jpg)
+![https://crowdfunding.cornell.edu/project/3636](https://res.cloudinary.com/scalefunder/image/fetch/s--IPZeYcxb--/f_auto,fl_lossy,h_351,q_auto,w_622/https://res.cloudinary.com/scalefunder/image/upload/v1481836129/Cornell_University/vkt6clbw1ukeomgeokzb.png)
 
 [MetaSUB紹介ビデオ](https://vimeo.com/171773795)
 
@@ -384,6 +382,8 @@ https://twitter.com/guruguruyellow/status/298194313572130819
 .@cnn_co_jp 僭越ながら1/31の「ツイッターでインフルエンザ流行地域の予測目指す」の捕捉をさせて頂きます。2006年よりハーバード大学公衆衛生大学院が以下のサイトを立ち上げております。ご覧頂けましたら幸いです。@healthmap @FluNearYou 
 
 ----------
+
+![https://twitter.com/metasub/status/745237893153722369](https://pbs.twimg.com/media/Cled6GCWEAQySfM.jpg)
 
 
 
