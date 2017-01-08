@@ -36,6 +36,9 @@ MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes
 - 11.03.16 [The City Of Tomorrow Is A Petri Dish--By Design | Co.Design | business + design](https://www.fastcodesign.com/3065152/the-city-of-tomorrow-is-a-petri-dish-by-design)
 - 10.13.2016, by Grégory Fléchet [Mapping the Subway's Microbiome | CNRS News](https://news.cnrs.fr/articles/mapping-the-subways-microbiome)
 - 2016 [MetaSUB Use Case: Building Healthier and Smarter Cities with the Help of GIS](http://www.giscloud.com/blog/metasub-use-case-building-healthier-and-smarter-cities-with-the-help-of-gis/)
+
+![](http://www.giscloud.com/wp-content/uploads/2016/10/Metasub-cover.jpg)
+
 - 28 June 2016 [Avoiding Pandemic Fears in the Subway and Conquering the Platypus | mSystems](http://msystems.asm.org/content/1/3/e00050-16)
 - June 25 2016 [The Winnower | June 21 was International Swab Day for MetaSUB](https://thewinnower.com/papers/4874-june-21-was-international-swab-day-for-metasub)
 - June 23, 2016 [Stockholm University swabs the Tube - Stockholm University](http://www.su.se/english/about/partnerships-collaborations/stockholm-university-swabs-the-tube-1.275059) | [Looking for bacteria in the metro – "People call us nerds"](https://www.youtube.com/watch?v=F8ye-gqHtno)
