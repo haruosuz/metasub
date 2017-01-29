@@ -119,20 +119,26 @@ MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes
 ## Boston Subway Microbiome
 ボストン地下鉄の微生物叢
 
-- 論文 [2016 Hsu et al. Urban Transit System Microbial Communities Differ by Surface Type and Interaction with Humans and the Environment | mSystems](http://msystems.asm.org/content/1/3/e00018-16)
+![](https://dvjhhd5e4gesk.cloudfront.net/content/msys/1/3/e00018-16/F1.medium.gif)
 
+- 論文 [2016 Hsu et al. Urban Transit System Microbial Communities Differ by Surface Type and Interaction with Humans and the Environment | mSystems](http://msystems.asm.org/content/1/3/e00018-16)
 - 関連記事
-- 動画 YouTube
-  - Jul 7, 2016 [The Boston Subway Microbiome - mSystems/American Society for Microbiology](https://www.youtube.com/watch?v=bL1v8JIiLNg)
-  - Jun 30, 2016 [The Boston Subway Microbiome](https://youtu.be/HXQqjKA9S5A)
-- 2016年07月09日 [地下鉄で最も細菌が多い場所 - ZAPZAP!](http://zapzapjp.com/49017741.html)
-- 2016年7月5日 [地下鉄で細菌が最も多いのはどこ？―中国メディア - Record China](http://www.recordchina.co.jp/a143783.html)
-- November 1, 2016 Tiffany Hsu [Assessing biochemical activity and metagenomic codes to a “T” – microBEnet: the microbiology of the Built Environment network.](http://www.microbe.net/2016/11/01/assessing-biochemical-activity-and-metagenomic-codes-to-a-t/)
-- June 30, 2016 Tiffany Hsu [Microbes on the Boston “T” – microBEnet: the microbiology of the Built Environment network.](http://www.microbe.net/microbes-on-the-boston-t/)
-- 29 June, 2016 by Kelle Freel [Who’s really riding the subway with you? Characterization of the microbial communities on Boston transport](http://www.molecularecologist.com/2016/06/whos-really-riding-the-subway-with-you-characterization-of-the-microbial-communities-on-the-boston-transport/)
-- June 28, 2016 [Boston Subway System Covered in Microbes, But They're Not Harmful](http://www.asm.org/index.php/journal-press-releases/94287-boston-subway-system-covered-in-microbes-but-they-re-not-harmful)
-- June 28, 2016 [‘Bugs’ on the subway: Monitoring the microbial environment to improve public health](https://www.hsph.harvard.edu/news/press-releases/microbes-boston-subway-public-health/)
-- 03/15/16 [MBTA 2015 | The Huttenhower Lab](http://huttenhower.sph.harvard.edu/MBTA2015)
+ - 2016年07月09日 [地下鉄で最も細菌が多い場所 - ZAPZAP!](http://zapzapjp.com/49017741.html)
+ - 2016年7月5日 [地下鉄で細菌が最も多いのはどこ？―中国メディア - Record China](http://www.recordchina.co.jp/a143783.html)
+ - November 1, 2016 Tiffany Hsu [Assessing biochemical activity and metagenomic codes to a “T” – microBEnet: the microbiology of the Built Environment network.](http://www.microbe.net/2016/11/01/assessing-biochemical-activity-and-metagenomic-codes-to-a-t/)
+ - June 30, 2016 Tiffany Hsu [Microbes on the Boston “T” – microBEnet: the microbiology of the Built Environment network.](http://www.microbe.net/microbes-on-the-boston-t/)
+ - 29 June, 2016 by Kelle Freel [Who’s really riding the subway with you? Characterization of the microbial communities on Boston transport](http://www.molecularecologist.com/2016/06/whos-really-riding-the-subway-with-you-characterization-of-the-microbial-communities-on-the-boston-transport/)
+ - June 28, 2016 [Boston Subway System Covered in Microbes, But They're Not Harmful](http://www.asm.org/index.php/journal-press-releases/94287-boston-subway-system-covered-in-microbes-but-they-re-not-harmful)
+- Harvard T.H. Chan School of Public Health
+ - July 5, 2016 [The Boston Subway Microbiome](https://www.hsph.harvard.edu/biostatistics/2016/07/05/the-boston-subway-microbiome-2/)
+ - June 29, 2016 [The Boston Subway Microbiome](https://www.hsph.harvard.edu/biostatistics/2016/06/29/the-boston-subway-microbiome/)
+ - June 28, 2016 [‘Bugs’ on the subway: Monitoring the microbial environment to improve public health](https://www.hsph.harvard.edu/news/press-releases/microbes-boston-subway-public-health/)
+ - 03/15/16 [MBTA 2015 | The Huttenhower Lab](http://huttenhower.sph.harvard.edu/MBTA2015)
+ - Spring 2013 [Our bugs, ourselves](https://www.hsph.harvard.edu/news/magazine/our-bugs-ourselves/) Microbes and mass transit
+- 動画
+ - 06 January 2017 [The Boston Subway Microbiome](https://www.asm.org/index.php/asm-video-on-demand/publication-videos/item/5275-the-boston-subway-microbiome)
+ - Jul 7, 2016 [The Boston Subway Microbiome - mSystems/American Society for Microbiology](https://www.youtube.com/watch?v=bL1v8JIiLNg)
+ - Jun 30, 2016 [The Boston Subway Microbiome](https://www.youtube.com/watch?v=HXQqjKA9S5A)
 
 ----------
 
@@ -149,14 +155,13 @@ MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes
 ![](https://www.yodosha.co.jp/jikkenigaku/nhpd/9784758101363/images/9784758101363_nhpd_pho.png)
 
 #### Publications
+- 論文
 - (Cell Systems 1, 72–87; July 29, 2015) Article. Mason and colleagues. "Geospatial Resolution of Human and Bacterial Diversity with City-Scale Metagenomics" [pdfExtended](http://www.cell.com/cell-systems/pdfExtended/S2405-4712(15)00002-2)|[cell.com](http://www.cell.com/cell-systems/abstract/S2405-4712(15)00002-2)|[sciencedirect.com](http://www.sciencedirect.com/science/article/pii/S2405471215000022)  
 - (Cell Systems, Vol. 1, Issue 1, p97) Erratum. Mason and colleagues. "Geospatial Resolution of Human and Bacterial Diversity with City-Scale Metagenomics" [cell.com](http://www.cell.com/cell-systems/abstract/S2405-4712(15)00014-9)  
 - (Cell Systems, Vol. 1, Issue 1, p4–5) Letter. Gee and colleagues. "Lack of Evidence for Plague or Anthrax on the New York City Subway" [cell.com](http://www.cell.com/cell-systems/abstract/S2405-4712(15)00016-2)|[sciencedirect.com](http://www.sciencedirect.com/science/article/pii/S2405471215000162)  
 [sciencedirect.com](http://www.sciencedirect.com/science/article/pii/S2405471215000162)
 - (Cell Systems, Vol. 1, Issue 1, p6–7) Letter. Mason and colleagues. "Modern Methods for Delineating Metagenomic Complexity" [cell.com](http://www.cell.com/cell-systems/abstract/S2405-4712(15)00015-0)|[sciencedirect.com](http://www.sciencedirect.com/science/article/pii/S2405471215000150)  
-
 - [Crowdfunding genomics and bioinformatics. Genome Biol. 2013;14(9):134.](http://www.ncbi.nlm.nih.gov/pubmed/24079746) PathoMap: crowdfunding a citizen science microbiome | Christopher Mason
-
 - 関連記事
  - 2015-07-31 [Plague or anthrax on the subway? Think again, says now-corrected study - Retraction Watch at Retraction Watch](http://retractionwatch.com/2015/07/31/plague-or-anthrax-on-the-subway-think-again-says-now-corrected-study/) Written by Ross Keith
  - [Metagenomics: Urban microbiome : Nature Reviews Genetics : Nature Publishing Group](http://www.nature.com/nrg/journal/v16/n4/full/nrg3921.html)
@@ -168,11 +173,8 @@ MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes
  - 2015-02-07 [ＮＹ地下鉄にペスト菌や炭疽菌＝ごく微量、健康に脅威なし－米調査](http://www.jiji.com/jc/zc?k=201502/2015020700220)
  - 2015-02-06 [ビッグデータとバクテリア―NY地下鉄のDNAマップ作成 - WSJ](http://jp.wsj.com/articles/SB12052756172436844285404580444870276852224)
  - 2015-02-05 [Metagenomic Study Offers Glimpse of NYC Subway System Microbes](https://www.genomeweb.com/genetic-research/metagenomic-study-offers-glimpse-nyc-subway-system-microbes)
-
-- Radio Podcast
- - [The Microbe Map Creeping Everybody Out by FiveThirtyEight](https://soundcloud.com/fivethirtyeight/the-microbe-map-creeping-everybody-out)
-
-- ニュース動画
+- 音声・動画
+ - Radio Podcast [The Microbe Map Creeping Everybody Out by FiveThirtyEight](https://soundcloud.com/fivethirtyeight/the-microbe-map-creeping-everybody-out)
  - 2015-02-05 [Mapping the Bacteria in the NYC Subway - YouTube](https://www.youtube.com/watch?v=COOKdzfQueI)
  - 2015-02-11 [What Are You Touching in NYC's Subway? - YouTube](https://www.youtube.com/watch?v=6a4jmzxNuzQ)
  - 2015-02-09 [Study Finds NYC Subways Are Crawling With Germs - YouTube](https://www.youtube.com/watch?v=3aBAK2xkljU)
