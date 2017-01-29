@@ -9,19 +9,19 @@ Last Update: 2017-01-12
 MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes  
 都市環境（地下鉄）の微生物叢
 
-![https://crowdfunding.cornell.edu/project/3636](https://res.cloudinary.com/scalefunder/image/fetch/s--IPZeYcxb--/f_auto,fl_lossy,h_351,q_auto,w_622/https://res.cloudinary.com/scalefunder/image/upload/v1481836129/Cornell_University/vkt6clbw1ukeomgeokzb.png)
+[MetaSUB Introductory Video on Vimeo](https://vimeo.com/171773795)  
 
-[MetaSUB紹介ビデオ](https://vimeo.com/171773795)
+![https://crowdfunding.cornell.edu/project/3636](https://res.cloudinary.com/scalefunder/image/fetch/s--IPZeYcxb--/f_auto,fl_lossy,h_351,q_auto,w_622/https://res.cloudinary.com/scalefunder/image/upload/v1481836129/Cornell_University/vkt6clbw1ukeomgeokzb.png)
 
 ## Contents
 - [2017 Meetings](#2017-meetings)
 - 2017-07 [CAMDA 2017 Conference](#camda-2017)
 - 2016-10-20 [Innovative City Forum ICF2016](#innovative-city-forum)
 - 2016-08 [Olympiome](#olympiome)
-- [2016 Meetings](#2016-meetings)
-- 2016-06 [Global City Sampling Day (CSD)](#city-sampling-day)
-- 2016-06 [Boston Subway Microbiome](#boston-subway-microbiome)
-- [2015 Meetings](#2015-meetings)
+- 2016-07-01 [2016 Meetings](#2016-meetings)
+- 2016-06-28 [Boston Subway Microbiome](#boston-subway-microbiome)
+- 2016-06-21 [Global City Sampling Day (CSD)](#city-sampling-day)
+- 2015-06-20 [2015 Meetings](#2015-meetings)
 - 2015-07 [New York Subway Microbiome](#new-york-subway-microbiome)
 
 ----------
@@ -136,8 +136,7 @@ MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes
  - 03/15/16 [MBTA 2015 | The Huttenhower Lab](http://huttenhower.sph.harvard.edu/MBTA2015)
  - Spring 2013 [Our bugs, ourselves](https://www.hsph.harvard.edu/news/magazine/our-bugs-ourselves/) Microbes and mass transit
 - 動画
- - 06 January 2017 [The Boston Subway Microbiome](https://www.asm.org/index.php/asm-video-on-demand/publication-videos/item/5275-the-boston-subway-microbiome)
- - Jul 7, 2016 [The Boston Subway Microbiome - mSystems/American Society for Microbiology](https://www.youtube.com/watch?v=bL1v8JIiLNg)
+ - [The Boston Subway Microbiome - mSystems/American Society for Microbiology](https://www.asm.org/index.php/asm-video-on-demand/publication-videos/item/5275-the-boston-subway-microbiome) | [YouTube](https://www.youtube.com/watch?v=bL1v8JIiLNg)
  - Jun 30, 2016 [The Boston Subway Microbiome](https://www.youtube.com/watch?v=HXQqjKA9S5A)
 
 ----------
