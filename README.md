@@ -173,7 +173,7 @@ MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes
  - 2015-02-07 [ＮＹ地下鉄にペスト菌や炭疽菌＝ごく微量、健康に脅威なし－米調査](http://www.jiji.com/jc/zc?k=201502/2015020700220)
  - 2015-02-06 [ビッグデータとバクテリア―NY地下鉄のDNAマップ作成 - WSJ](http://jp.wsj.com/articles/SB12052756172436844285404580444870276852224)
  - 2015-02-05 [Metagenomic Study Offers Glimpse of NYC Subway System Microbes](https://www.genomeweb.com/genetic-research/metagenomic-study-offers-glimpse-nyc-subway-system-microbes)
-- 音声・動画
+- 動画・音声
  - Radio Podcast [The Microbe Map Creeping Everybody Out by FiveThirtyEight](https://soundcloud.com/fivethirtyeight/the-microbe-map-creeping-everybody-out)
  - 2015-02-05 [Mapping the Bacteria in the NYC Subway - YouTube](https://www.youtube.com/watch?v=COOKdzfQueI)
  - 2015-02-11 [What Are You Touching in NYC's Subway? - YouTube](https://www.youtube.com/watch?v=6a4jmzxNuzQ)
@@ -187,11 +187,13 @@ MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes
 ### [Olympiome](http://metasub.org/the-olympiome-project/)
 オリンピック開催期間(前/中/後)の人の移動による微生物叢の変化を調べる。
 
-![(https://twitter.com/search?q=olympiome)](https://pbs.twimg.com/media/CiMCSRuWkAABQTk.jpg)
+[2020年東京オリンピック](https://ja.wikipedia.org/wiki/2020年東京オリンピック構想)は、2020年7月24日から8月9日まで日本の東京都で開催される予定。
 
 [リオデジャネイロオリンピック](https://ja.wikipedia.org/wiki/リオデジャネイロオリンピック)は、2016年8月5日から8月21日までブラジルのリオデジャネイロで開催された。
 
-[2020年東京オリンピック](https://ja.wikipedia.org/wiki/2020年東京オリンピック構想)は、2020年7月24日から8月9日まで日本の東京都で開催される予定。
+![https://www.genomeweb.com/sequencing/brazilian-researchers-profile-microbiome-rio-during-after-olympic-games](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRk9ezOAWZ-aWYjJ0UjbDhybWC_8hEE7WA4qG_Hf0ozC9dfOJNM)
+
+![(https://twitter.com/search?q=olympiome)](https://pbs.twimg.com/media/CiMCSRuWkAABQTk.jpg)
 
 - 22/08/2016 ブラジルのニュース動画 [Cientistas aproveitam Olimpíada para pesquisar vírus e bactérias](http://g1.globo.com/jornal-nacional/noticia/2016/08/cientistas-aproveitam-olimpiada-para-pesquisar-virus-e-bacterias.html)
 - Aug 16, 2016 [Brazilian Researchers Profile Microbiome of Rio Before, During, After Olympic Games | GenomeWeb](https://www.genomeweb.com/sequencing/brazilian-researchers-profile-microbiome-rio-during-after-olympic-games)
