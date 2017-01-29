@@ -22,7 +22,7 @@ MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes
 - 2016-06-28 [Boston Subway Microbiome](#boston-subway-microbiome)
 - 2016-06-21 [Global City Sampling Day (CSD)](#city-sampling-day)
 - 2015-06-20 [2015 Meetings](#2015-meetings)
-- 2015-07 [PathoMap](#PathoMap)
+- 2015-07 [PathoMap](#pathomap)
 
 ----------
 
@@ -189,9 +189,8 @@ MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes
 
 [リオデジャネイロオリンピック](https://ja.wikipedia.org/wiki/リオデジャネイロオリンピック)は、2016年8月5日から8月21日までブラジルのリオデジャネイロで開催された。
 
-![https://www.genomeweb.com/sequencing/brazilian-researchers-profile-microbiome-rio-during-after-olympic-games](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRk9ezOAWZ-aWYjJ0UjbDhybWC_8hEE7WA4qG_Hf0ozC9dfOJNM)
-
 ![(https://twitter.com/search?q=olympiome)](https://pbs.twimg.com/media/CiMCSRuWkAABQTk.jpg)
+![https://www.genomeweb.com/sequencing/brazilian-researchers-profile-microbiome-rio-during-after-olympic-games](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRk9ezOAWZ-aWYjJ0UjbDhybWC_8hEE7WA4qG_Hf0ozC9dfOJNM)
 
 - 22/08/2016 ブラジルのニュース動画 [Cientistas aproveitam Olimpíada para pesquisar vírus e bactérias](http://g1.globo.com/jornal-nacional/noticia/2016/08/cientistas-aproveitam-olimpiada-para-pesquisar-virus-e-bacterias.html)
 - Aug 16, 2016 [Brazilian Researchers Profile Microbiome of Rio Before, During, After Olympic Games | GenomeWeb](https://www.genomeweb.com/sequencing/brazilian-researchers-profile-microbiome-rio-during-after-olympic-games)
