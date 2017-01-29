@@ -13,7 +13,7 @@ MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes
 
 ![https://crowdfunding.cornell.edu/project/3636](https://res.cloudinary.com/scalefunder/image/fetch/s--IPZeYcxb--/f_auto,fl_lossy,h_351,q_auto,w_622/https://res.cloudinary.com/scalefunder/image/upload/v1481836129/Cornell_University/vkt6clbw1ukeomgeokzb.png)
 
-## Contents
+## Table of Contents
 - [2017 Meetings](#2017-meetings)
 - 2017-07 [CAMDA 2017 Conference](#camda-2017)
 - 2016-10-20 [Innovative City Forum ICF2016](#innovative-city-forum)
@@ -22,7 +22,7 @@ MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes
 - 2016-06-28 [Boston Subway Microbiome](#boston-subway-microbiome)
 - 2016-06-21 [Global City Sampling Day (CSD)](#city-sampling-day)
 - 2015-06-20 [2015 Meetings](#2015-meetings)
-- 2015-07 [New York Subway Microbiome](#new-york-subway-microbiome)
+- 2015-07 [PathoMap](#PathoMap)
 
 ----------
 
@@ -141,16 +141,14 @@ MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes
 
 ----------
 
-## New York Subway Microbiome
+## PathoMap
 ニューヨーク地下鉄の微生物叢
+
+[PathoMap - Mapping New York's Microscopic Residents](http://www.pathomap.org)
 
 ![](http://ars.els-cdn.com/content/image/1-s2.0-S2405471215000022-fx1.jpg)
 
-- [PathoMap - Mapping New York's Microscopic Residents](http://www.pathomap.org)
-- [PathoMap Research (@nycpathomap) | Twitter](https://twitter.com/nycpathomap)
-- [都市微生物叢研究PathoMap｜2015年2月号｜News & Hot Paper Digest｜羊土社：実験医学online](https://www.yodosha.co.jp/jikkenigaku/nhpd/9784758101363/c5.html)
-
-![](https://www.yodosha.co.jp/jikkenigaku/nhpd/9784758101363/images/9784758101363_nhpd_pho.png)
+[PathoMap Research (@nycpathomap) | Twitter](https://twitter.com/nycpathomap)
 
 - 論文
  - [Cell Syst. 2015 Jul 29;1(1):97-97.e3. Afshinekoo et al. Erratum for Cell Syst. 2015 Jul 29;1(1):72-87.](https://www.ncbi.nlm.nih.gov/pubmed/27135689)
@@ -169,6 +167,10 @@ MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes
  - 2015-02-07 [ＮＹ地下鉄にペスト菌や炭疽菌＝ごく微量、健康に脅威なし－米調査](http://www.jiji.com/jc/zc?k=201502/2015020700220)
  - 2015-02-06 [ビッグデータとバクテリア―NY地下鉄のDNAマップ作成 - WSJ](http://jp.wsj.com/articles/SB12052756172436844285404580444870276852224)
  - 2015-02-05 [Metagenomic Study Offers Glimpse of NYC Subway System Microbes](https://www.genomeweb.com/genetic-research/metagenomic-study-offers-glimpse-nyc-subway-system-microbes)
+- [都市微生物叢研究PathoMap｜2015年2月号｜News & Hot Paper Digest｜羊土社：実験医学online](https://www.yodosha.co.jp/jikkenigaku/nhpd/9784758101363/c5.html)
+
+![](https://www.yodosha.co.jp/jikkenigaku/nhpd/9784758101363/images/9784758101363_nhpd_pho.png)
+
 - 動画・音声
  - Radio Podcast [The Microbe Map Creeping Everybody Out by FiveThirtyEight](https://soundcloud.com/fivethirtyeight/the-microbe-map-creeping-everybody-out)
  - 2015-02-05 [Mapping the Bacteria in the NYC Subway - YouTube](https://www.youtube.com/watch?v=COOKdzfQueI)
