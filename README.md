@@ -145,10 +145,9 @@ MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes
 ## New York Subway Microbiome
 ニューヨーク地下鉄の微生物叢
 
-[PathoMap - Mapping New York's Microscopic Residents](http://www.pathomap.org)
+![](http://ars.els-cdn.com/content/image/1-s2.0-S2405471215000022-fx1.jpg)
 
-![http://www.pathomap.org/about/](http://d2zahwnsqpmout.cloudfront.net/wp-content/uploads/2013/07/GA-640x429.png)
-
+- [PathoMap - Mapping New York's Microscopic Residents](http://www.pathomap.org)
 - [PathoMap Research (@nycpathomap) | Twitter](https://twitter.com/nycpathomap)
 - [都市微生物叢研究PathoMap｜2015年2月号｜News & Hot Paper Digest｜羊土社：実験医学online](https://www.yodosha.co.jp/jikkenigaku/nhpd/9784758101363/c5.html)
 
@@ -159,7 +158,6 @@ MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes
 - (Cell Systems 1, 72–87; July 29, 2015) Article. Mason and colleagues. "Geospatial Resolution of Human and Bacterial Diversity with City-Scale Metagenomics" [pdfExtended](http://www.cell.com/cell-systems/pdfExtended/S2405-4712(15)00002-2)|[cell.com](http://www.cell.com/cell-systems/abstract/S2405-4712(15)00002-2)|[sciencedirect.com](http://www.sciencedirect.com/science/article/pii/S2405471215000022)  
 - (Cell Systems, Vol. 1, Issue 1, p97) Erratum. Mason and colleagues. "Geospatial Resolution of Human and Bacterial Diversity with City-Scale Metagenomics" [cell.com](http://www.cell.com/cell-systems/abstract/S2405-4712(15)00014-9)  
 - (Cell Systems, Vol. 1, Issue 1, p4–5) Letter. Gee and colleagues. "Lack of Evidence for Plague or Anthrax on the New York City Subway" [cell.com](http://www.cell.com/cell-systems/abstract/S2405-4712(15)00016-2)|[sciencedirect.com](http://www.sciencedirect.com/science/article/pii/S2405471215000162)  
-[sciencedirect.com](http://www.sciencedirect.com/science/article/pii/S2405471215000162)
 - (Cell Systems, Vol. 1, Issue 1, p6–7) Letter. Mason and colleagues. "Modern Methods for Delineating Metagenomic Complexity" [cell.com](http://www.cell.com/cell-systems/abstract/S2405-4712(15)00015-0)|[sciencedirect.com](http://www.sciencedirect.com/science/article/pii/S2405471215000150)  
 - [Crowdfunding genomics and bioinformatics. Genome Biol. 2013;14(9):134.](http://www.ncbi.nlm.nih.gov/pubmed/24079746) PathoMap: crowdfunding a citizen science microbiome | Christopher Mason
 - 関連記事
