@@ -153,13 +153,12 @@ MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes
 
 ![](https://www.yodosha.co.jp/jikkenigaku/nhpd/9784758101363/images/9784758101363_nhpd_pho.png)
 
-#### Publications
 - 論文
-- (Cell Systems 1, 72–87; July 29, 2015) Article. Mason and colleagues. "Geospatial Resolution of Human and Bacterial Diversity with City-Scale Metagenomics" [pdfExtended](http://www.cell.com/cell-systems/pdfExtended/S2405-4712(15)00002-2)|[cell.com](http://www.cell.com/cell-systems/abstract/S2405-4712(15)00002-2)|[sciencedirect.com](http://www.sciencedirect.com/science/article/pii/S2405471215000022)  
-- (Cell Systems, Vol. 1, Issue 1, p97) Erratum. Mason and colleagues. "Geospatial Resolution of Human and Bacterial Diversity with City-Scale Metagenomics" [cell.com](http://www.cell.com/cell-systems/abstract/S2405-4712(15)00014-9)  
-- (Cell Systems, Vol. 1, Issue 1, p4–5) Letter. Gee and colleagues. "Lack of Evidence for Plague or Anthrax on the New York City Subway" [cell.com](http://www.cell.com/cell-systems/abstract/S2405-4712(15)00016-2)|[sciencedirect.com](http://www.sciencedirect.com/science/article/pii/S2405471215000162)  
-- (Cell Systems, Vol. 1, Issue 1, p6–7) Letter. Mason and colleagues. "Modern Methods for Delineating Metagenomic Complexity" [cell.com](http://www.cell.com/cell-systems/abstract/S2405-4712(15)00015-0)|[sciencedirect.com](http://www.sciencedirect.com/science/article/pii/S2405471215000150)  
-- [Crowdfunding genomics and bioinformatics. Genome Biol. 2013;14(9):134.](http://www.ncbi.nlm.nih.gov/pubmed/24079746) PathoMap: crowdfunding a citizen science microbiome | Christopher Mason
+ - [Cell Syst. 2015 Jul 29;1(1):97-97.e3. Afshinekoo et al. Erratum for Cell Syst. 2015 Jul 29;1(1):72-87.](https://www.ncbi.nlm.nih.gov/pubmed/27135689)
+ - [Cell Syst. 2015 Jul 29;1(1):72-87. Afshinekoo et al. "Geospatial Resolution of Human and Bacterial Diversity with City-Scale Metagenomics."](https://www.ncbi.nlm.nih.gov/pubmed/26594662)
+ - [Cell Syst. 2015 Jul 29;1(1):6-7. Afshinekoo et al. "Modern Methods for Delineating Metagenomic Complexity."](https://www.ncbi.nlm.nih.gov/pubmed/27135684)
+ - [Cell Syst. 2015 Jul 29;1(1):4-5. Ackelsberg et al. "Lack of Evidence for Plague or Anthrax on the New York City Subway."](https://www.ncbi.nlm.nih.gov/pubmed/27135683)
+ - [Genome Biol. 2013;14(9):134. "Crowdfunding genomics and bioinformatics."](https://www.ncbi.nlm.nih.gov/pubmed/24079746) PathoMap: crowdfunding a citizen science microbiome
 - 関連記事
  - 2015-07-31 [Plague or anthrax on the subway? Think again, says now-corrected study - Retraction Watch at Retraction Watch](http://retractionwatch.com/2015/07/31/plague-or-anthrax-on-the-subway-think-again-says-now-corrected-study/) Written by Ross Keith
  - [Metagenomics: Urban microbiome : Nature Reviews Genetics : Nature Publishing Group](http://www.nature.com/nrg/journal/v16/n4/full/nrg3921.html)
