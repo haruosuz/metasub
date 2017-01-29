@@ -32,8 +32,14 @@ MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes
 - November 23, 2016 [Globalizing and crowdsourcing biomedical research](http://bmb.oxfordjournals.org/content/early/2016/10/30/bmb.ldw044.full) Ebrahim Afshinnekoo, Sofia Ahsanuddin and Christopher E. Mason
 - 08 / 11 / 2016 Cracking the genetic code of our cities [Current issue of Microbiology Today | Microbiology Society](http://www.microbiologysociety.org/all-microsite-sections/microbiology-today/index.cfm/article/4DBF07CD-B495-4BB3-A5644653B08FF5EF)
 - 10/11/2016 [A phalanx of friends](https://www.qiagen.com/jp/about-us/newsportal/stories/2016/10/2016-11-microbiome)
+
+![](https://www.qiagen.com/~/media/nextq/image%20library/s/53/97/s_5397_gen_pr_dsc9883_s/3_10.ashx?h=222&la=en&mh=222&mw=666&w=665&hash=476BD3FE907BCC423D289C0EA660BDCD0044D186)
+
 - 11.03.16 [The City Of Tomorrow Is A Petri Dish--By Design | Co.Design | business + design](https://www.fastcodesign.com/3065152/the-city-of-tomorrow-is-a-petri-dish-by-design)
 - 10.13.2016, by Grégory Fléchet [Mapping the Subway's Microbiome | CNRS News](https://news.cnrs.fr/articles/mapping-the-subways-microbiome)
+
+![https://twitter.com/CNRS/status/789552344153387008](https://pbs.twimg.com/media/CvUNrBZXgAAYo28.jpg:small)
+
 - 2016 [MetaSUB Use Case: Building Healthier and Smarter Cities with the Help of GIS](http://www.giscloud.com/blog/metasub-use-case-building-healthier-and-smarter-cities-with-the-help-of-gis/)
 
 ![](http://www.giscloud.com/wp-content/uploads/2016/10/Metasub-cover.jpg)
@@ -83,6 +89,10 @@ MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes
 
 - June 25, 2016  Elisabeth Bik [June 21 was International Swab Day for MetaSUB – microBEnet: the microbiology of the Built Environment network.](http://www.microbe.net/2016/06/25/june-21-was-international-swab-day-for-metasub/)
 - Jun 21, 2016 [Swabbing the New York subway DNA and microbes - YouTube](https://www.youtube.com/watch?v=HWIBUU94vl8)
+- June 21, 2016 [Mapping the subway’s microbiome | Scienmag: Latest Science and Health News](https://scienmag.com/mapping-the-subways-microbiome/)
+
+![](https://scienmag.com/wp-content/uploads/2016/06/118144_web-1.jpg)
+
 - [グローバル・オーシャン・サンプリング・エクスペディション](https://ja.wikipedia.org/wiki/グローバル・オーシャン・サンプリング・エクスペディション)
 - [Ocean Sampling Day | Micro B³](https://www.microb3.eu/osd)
 - 2013-05-16 [River Sampling Day Call | Micro B³](https://www.microb3.eu/feeds/oceansamplingday-blogspot/river-sampling-day-call)
@@ -183,11 +193,7 @@ MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes
 ----------
 
 ### [Olympiome](http://metasub.org/the-olympiome-project/)
-オリンピック開催期間(前/中/後)の人の移動による微生物叢の変化を調べる。
-
-[2020年東京オリンピック](https://ja.wikipedia.org/wiki/2020年東京オリンピック構想)は、2020年7月24日から8月9日まで日本の東京都で開催される予定。
-
-[リオデジャネイロオリンピック](https://ja.wikipedia.org/wiki/リオデジャネイロオリンピック)は、2016年8月5日から8月21日までブラジルのリオデジャネイロで開催された。
+オリンピック開催期間の人の移動による微生物叢の変化
 
 ![(https://twitter.com/search?q=olympiome)](https://pbs.twimg.com/media/CiMCSRuWkAABQTk.jpg)
 ![https://www.genomeweb.com/sequencing/brazilian-researchers-profile-microbiome-rio-during-after-olympic-games](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRk9ezOAWZ-aWYjJ0UjbDhybWC_8hEE7WA4qG_Hf0ozC9dfOJNM)
