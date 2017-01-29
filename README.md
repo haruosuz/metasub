@@ -1,15 +1,13 @@
 ----------
 
 Haruo Suzuki (haruo[at]g-language[dot]org)   
-Last Update: 2017-01-08
+Last Update: 2017-01-12
 
 ----------
 
 # [MetaSUB](http://metasub.org/?page_id=55)
 MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes  
 都市環境（地下鉄）の微生物叢
-
-![](https://pbs.twimg.com/media/CuF4yeCXgAAjcAr.jpg:small)
 
 ![https://crowdfunding.cornell.edu/project/3636](https://res.cloudinary.com/scalefunder/image/fetch/s--IPZeYcxb--/f_auto,fl_lossy,h_351,q_auto,w_622/https://res.cloudinary.com/scalefunder/image/upload/v1481836129/Cornell_University/vkt6clbw1ukeomgeokzb.png)
 
@@ -29,7 +27,8 @@ MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes
 ----------
 
 ## Updates
-- [Weill Cornell Medicine | MetaSUB: Discover and Map the Genomes Around Us](https://crowdfunding.cornell.edu/project/3636) Our crowdfunding campaign for the global metagenomics study
+- December 19, 2016 [Deep GIS: Mapping What You Touch In the Subways | eSpatially New York](http://espatiallynewyork.com/2016/12/19/deep-gis-mapping-what-you-touch-in-the-subways/)
+- 16 Dec 2016 Christopher Mason ‏[MetaSUB: Discover and Map the Genomes Around Us](https://twitter.com/mason_lab/status/809840594075971584) Our crowdfunding campaign for the global metagenomics study
 - November 23, 2016 [Globalizing and crowdsourcing biomedical research](http://bmb.oxfordjournals.org/content/early/2016/10/30/bmb.ldw044.full) Ebrahim Afshinnekoo, Sofia Ahsanuddin and Christopher E. Mason
 - 08 / 11 / 2016 Cracking the genetic code of our cities [Current issue of Microbiology Today | Microbiology Society](http://www.microbiologysociety.org/all-microsite-sections/microbiology-today/index.cfm/article/4DBF07CD-B495-4BB3-A5644653B08FF5EF)
 - 10/11/2016 [A phalanx of friends](https://www.qiagen.com/jp/about-us/newsportal/stories/2016/10/2016-11-microbiome)
@@ -141,6 +140,8 @@ MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes
 ニューヨーク地下鉄の微生物叢
 
 [PathoMap - Mapping New York's Microscopic Residents](http://www.pathomap.org)
+
+![http://www.pathomap.org/about/](http://d2zahwnsqpmout.cloudfront.net/wp-content/uploads/2013/07/GA.png)
 
 - [PathoMap Research (@nycpathomap) | Twitter](https://twitter.com/nycpathomap)
 - [都市微生物叢研究PathoMap｜2015年2月号｜News & Hot Paper Digest｜羊土社：実験医学online](https://www.yodosha.co.jp/jikkenigaku/nhpd/9784758101363/c5.html)
