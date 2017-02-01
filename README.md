@@ -1,7 +1,7 @@
 ----------
 
 Haruo Suzuki (haruo[at]g-language[dot]org)   
-Last Update: 2017-01-12
+Last Update: 2017-02-01
 
 ----------
 
@@ -11,7 +11,7 @@ MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes
 
 [MetaSUB Introductory Video on Vimeo](https://vimeo.com/171773795)  
 
-![https://crowdfunding.cornell.edu/project/3636](https://res.cloudinary.com/scalefunder/image/fetch/s--IPZeYcxb--/f_auto,fl_lossy,h_351,q_auto,w_622/https://res.cloudinary.com/scalefunder/image/upload/v1481836129/Cornell_University/vkt6clbw1ukeomgeokzb.png)
+----------
 
 ## Table of Contents
 - [2017 Meetings](#2017-meetings)
@@ -22,7 +22,9 @@ MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes
 - 2016-06-28 [Boston Subway Microbiome](#boston-subway-microbiome)
 - 2016-06-21 [Global City Sampling Day (CSD)](#city-sampling-day)
 - 2015-06-20 [2015 Meetings](#2015-meetings)
-- 2015-07 [PathoMap](#pathomap)
+- 2015-07 [New York Subway Microbiome](#new-york-subway-microbiome)
+
+![https://crowdfunding.cornell.edu/project/3636](https://res.cloudinary.com/scalefunder/image/fetch/s--IPZeYcxb--/f_auto,fl_lossy,h_351,q_auto,w_622/https://res.cloudinary.com/scalefunder/image/upload/v1481836129/Cornell_University/vkt6clbw1ukeomgeokzb.png)
 
 ----------
 
@@ -85,13 +87,14 @@ MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes
 ![](http://images.med.cornell.edu/body/dean/2016/06_21_16metasub2sm.jpg)
 ![](http://images.med.cornell.edu/body/dean/2016/06_21_16metasub1sm.jpg)
 
-['Global City Sampling Day' to Launch Weill Cornell Medicine-Led Study of Antimicrobial Resistance Across 54 International Cities | Weill Cornell Newsroom | Weill Cornell Medical College](http://weill.cornell.edu/news/pr/2016/06/global-city-sampling-day-to-launch-weill-cornell-medicine-led-study-of-antimicrobial-resistance-acro-1.html)
-
 - June 25, 2016  Elisabeth Bik [June 21 was International Swab Day for MetaSUB – microBEnet: the microbiology of the Built Environment network.](http://www.microbe.net/2016/06/25/june-21-was-international-swab-day-for-metasub/)
 - Jun 21, 2016 [Swabbing the New York subway DNA and microbes - YouTube](https://www.youtube.com/watch?v=HWIBUU94vl8)
 - June 21, 2016 [Mapping the subway’s microbiome | Scienmag: Latest Science and Health News](https://scienmag.com/mapping-the-subways-microbiome/)
 
 ![](https://scienmag.com/wp-content/uploads/2016/06/118144_web-1.jpg)
+
+- June 22, 2016 ['Global City Sampling Day' launches Weill antimicrobial study | Cornell Chronicle](http://news.cornell.edu/stories/2016/06/global-city-sampling-day-launches-weill-antimicrobial-study)
+- JUNE 21, 2016 ['Global City Sampling Day' to Launch Weill Cornell Medicine-Led Study of Antimicrobial Resistance Across 54 International Cities | Newsroom | Weill Cornell Medicine](http://news.weill.cornell.edu/news/2016/06/global-city-sampling-day-to-launch-weill-cornell-medicine-led-study-of-antimicrobial-resistance-acro-1)
 
 - [グローバル・オーシャン・サンプリング・エクスペディション](https://ja.wikipedia.org/wiki/グローバル・オーシャン・サンプリング・エクスペディション)
 - [Ocean Sampling Day | Micro B³](https://www.microb3.eu/osd)
@@ -151,7 +154,7 @@ MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes
 
 ----------
 
-## PathoMap
+## New York Subway Microbiome
 ニューヨーク地下鉄の微生物叢
 
 [PathoMap - Mapping New York's Microscopic Residents](http://www.pathomap.org)
@@ -162,7 +165,8 @@ MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes
 
 - 論文
  - [Cell Syst. 2015 Jul 29;1(1):97-97.e3. Afshinekoo et al. Erratum for Cell Syst. 2015 Jul 29;1(1):72-87.](https://www.ncbi.nlm.nih.gov/pubmed/27135689)
- - [Cell Syst. 2015 Jul 29;1(1):72-87. Afshinekoo et al. "Geospatial Resolution of Human and Bacterial Diversity with City-Scale Metagenomics."](https://www.ncbi.nlm.nih.gov/pubmed/26594662)
+ - [Cell Syst. 2015 Jul 29;1(1):72-87. Afshinekoo et al. "Geospatial Resolution of Human and Bacterial Diversity with City-Scale Metagenomics."](https://www.ncbi.nlm.nih.gov/pubmed/26594662)|[cell.com](http://www.cell.com/cell-systems/abstract/S2405-4712(15)00002-2)
+
  - [Cell Syst. 2015 Jul 29;1(1):6-7. Afshinekoo et al. "Modern Methods for Delineating Metagenomic Complexity."](https://www.ncbi.nlm.nih.gov/pubmed/27135684)
  - [Cell Syst. 2015 Jul 29;1(1):4-5. Ackelsberg et al. "Lack of Evidence for Plague or Anthrax on the New York City Subway."](https://www.ncbi.nlm.nih.gov/pubmed/27135683)
  - [Genome Biol. 2013;14(9):134. "Crowdfunding genomics and bioinformatics."](https://www.ncbi.nlm.nih.gov/pubmed/24079746) PathoMap: crowdfunding a citizen science microbiome
