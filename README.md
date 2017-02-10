@@ -23,7 +23,6 @@ MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes
 - 2016-06-21 [Global City Sampling Day (CSD)](#city-sampling-day)
 - 2015-06-20 [2015 Meetings](#2015-meetings)
 - 2015-07 [New York Subway Microbiome](#new-york-subway-microbiome)
-- 2015-04 [Ohanami-MetaGenome Sequence (OMG-Seq)](#omg-seq)
 
 ----------
 
