@@ -1,7 +1,7 @@
 ----------
 
 Haruo Suzuki (haruo[at]g-language[dot]org)   
-Last Update: 2017-02-01
+Last Update: 2017-02-10
 
 ----------
 
@@ -11,7 +11,7 @@ MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes
 
 [MetaSUB Introductory Video on Vimeo](https://vimeo.com/171773795)  
 
-----------
+![https://crowdfunding.cornell.edu/project/3636](https://res.cloudinary.com/scalefunder/image/fetch/s--IPZeYcxb--/f_auto,fl_lossy,h_351,q_auto,w_622/https://res.cloudinary.com/scalefunder/image/upload/v1481836129/Cornell_University/vkt6clbw1ukeomgeokzb.png)
 
 ## Table of Contents
 - [2017 Meetings](#2017-meetings)
@@ -23,8 +23,7 @@ MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes
 - 2016-06-21 [Global City Sampling Day (CSD)](#city-sampling-day)
 - 2015-06-20 [2015 Meetings](#2015-meetings)
 - 2015-07 [New York Subway Microbiome](#new-york-subway-microbiome)
-
-![https://crowdfunding.cornell.edu/project/3636](https://res.cloudinary.com/scalefunder/image/fetch/s--IPZeYcxb--/f_auto,fl_lossy,h_351,q_auto,w_622/https://res.cloudinary.com/scalefunder/image/upload/v1481836129/Cornell_University/vkt6clbw1ukeomgeokzb.png)
+- 2015-04 [Ohanami-MetaGenome Sequence (OMG-Seq)](#omg-seq)
 
 ----------
 
@@ -246,17 +245,18 @@ MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes
 
 ----------
 
-## Ohanami-Metagenome: Community-Driven Research Project
-O[hanami](https://en.wikipedia.org/wiki/Hanami) ("flower viewing") is the Japanese traditional custom of enjoying the transient beauty of flowers ("hana") of the cherry blossom ("sakura")
+## OMG-Seq
+[お花見メタゲノム](http://www.ngs-sakura.jp)
+Ohanami-MetaGenome Sequence (OMG-Seq): Community-Driven Research Project
 
-[お花見メタゲノムプロジェクト powered by NGS現場の会 第四回研究会](http://www.ngs-sakura.jp)
+O[hanami](https://en.wikipedia.org/wiki/Hanami) ("flower viewing") is the Japanese traditional custom of enjoying the transient beauty of flowers ("hana") of the cherry blossom ("sakura")
 
 ![https://github.com/inutano/training/blob/master/ajacs52/README.md#お花見メタゲノムプロジェクト](https://camo.githubusercontent.com/161a12a73623274212e65e843250877b0405435f/687474703a2f2f6779617a6f2e636f6d2f37306232316534396330393831633839346161373461396233343637333937302e706e67)
 
 - [お花見メタ事務局 (@OhanamiMetaG) | Twitter](https://twitter.com/OhanamiMetaG)
 - [🌸 OMG-Seq Data Portal 🌸](http://data.dbcls.jp/~inutano/omg-seq/)
 - [#お花見メタゲノム hashtag on Twitter](https://twitter.com/hashtag/お花見メタゲノム)
-- [#OMGseq hashtag on Twitter](https://twitter.com/hashtag/OMGseq?src=hash)
+- [#OMGseq hashtag on Twitter](https://twitter.com/hashtag/OMGseq)
 - [NGS現場の会 第四回研究会](http://www.ngs-field.org/ngs4th/)
 
 ----------
