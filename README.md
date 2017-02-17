@@ -128,7 +128,7 @@ MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes
 
 ![](https://dvjhhd5e4gesk.cloudfront.net/content/msys/1/3/e00018-16/F1.medium.gif)
 
-- 論文 [2016 Hsu et al. Urban Transit System Microbial Communities Differ by Surface Type and Interaction with Humans and the Environment | mSystems](http://msystems.asm.org/content/1/3/e00018-16)
+- 論文 [mSystems. 2016 Jun 28;1(3). Hsu et al. "Urban Transit System Microbial Communities Differ by Surface Type and Interaction with Humans and the Environment."](https://www.ncbi.nlm.nih.gov/pubmed/27822528)
 - 関連記事
  - 2016年07月09日 [地下鉄で最も細菌が多い場所 - ZAPZAP!](http://zapzapjp.com/49017741.html)
  - 2016年7月5日 [地下鉄で細菌が最も多いのはどこ？―中国メディア - Record China](http://www.recordchina.co.jp/a143783.html)
