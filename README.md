@@ -167,7 +167,7 @@ MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes
 - 関連記事
  - 2015-07-31 [Plague or anthrax on the subway? Think again, says now-corrected study - Retraction Watch at Retraction Watch](http://retractionwatch.com/2015/07/31/plague-or-anthrax-on-the-subway-think-again-says-now-corrected-study/) Written by Ross Keith
  - [Metagenomics: Urban microbiome : Nature Reviews Genetics : Nature Publishing Group](http://www.nature.com/nrg/journal/v16/n4/full/nrg3921.html)
- - 2015-04-12 [ニューヨークの地下鉄に1688種類の微生物DNAを確認、テロで使われる炭疽菌もいた | Medエッジ](https://www.mededge.jp/b/huap/11491)
+ - 2015-04-12 [ニューヨークの地下鉄に1688種類の微生物DNAを確認、テロで使われる炭疽菌もいた | Medエッジ](http://archive.fo/67UAW)
  - 2015-02-17 [The long road from Data to Wisdom, and from DNA to Pathogen | microBEnet: the microbiology of the Built Environment network.](http://microbe.net/2015/02/17/the-long-road-from-data-to-wisdom-and-from-dna-to-pathogen) by Christopher Mason
  - 2015-02-11 [Metagenomics best hit analysis: caveat emptor · Loman Labs](http://nickloman.github.io/2015/02/11/metagenomics-best-hit-analysis-caveat-emptor/)
  - 2015-02-13 [ニューヨークの地下鉄にペスト菌のDNAがいるかも？という報告の喧々諤々](http://blog.goo.ne.jp/tabibito12/e/6bf479f45aec31d08d35eccb1bfbe717)
@@ -395,7 +395,25 @@ https://twitter.com/guruguruyellow/status/298194313572130819
 
 ![https://twitter.com/metasub/status/745237893153722369](https://pbs.twimg.com/media/Cled6GCWEAQySfM.jpg)
 
+## [Bioinformatics Analysis – MetaSUB](http://metasub.org/methods/bioinformatics-analysis/)
 
+- [Kraken](http://ccb.jhu.edu/software/kraken/)
+ - 論文 [Wood DE, Salzberg SL. Genome Biol. 2014 "Kraken: ultrafast metagenomic sequence classification using exact alignments."]()
 
+- [Kaiju: Fast and sensitive taxonomic classification for metagenomics](http://kaiju.binf.ku.dk)
+ - 論文 [Menzel P et al. Nat Commun. 2016 "Fast and sensitive taxonomic classification for metagenomics with Kaiju."](https://www.ncbi.nlm.nih.gov/pubmed/27071849)
+  - We compared the performance of Kaiju with the two k-mer-based programs Kraken and Clark, which performed best in speed and accuracy in a recent benchmark study18. https://www.ncbi.nlm.nih.gov/pubmed/26778510
 
+## Metagenomic Assembly
+
+- [Assembly software tools | Metagenomic sequencing analysis - OMICtools](https://omictools.com/metagenomic-assembly-category)
+
+- [Yale J Biol Med. 2016 Sep 30 "Metagenomic Assembly: Overview, Challenges and Applications."](https://www.ncbi.nlm.nih.gov/pubmed/27698619)
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5045144/
+ - Most metagenomic assemblers developed to date (MetaVelvet [23], Meta-IDBA [24], MEGAHIT [25] and Ray [26]) use de Bruijn graph approach.
+
+- [SPAdes](http://cab.spbu.ru/software/spades/)
+ - 1 Aug 2016 [metaSPAdes: a new versatile de novo metagenomics assembler](https://arxiv.org/abs/1604.03071)
+
+----------
 
