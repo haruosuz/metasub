@@ -349,9 +349,10 @@ The report states that 88% of stations were cleaned fewer than eight times a yea
 ----------
 ## Video
 - [MetaSUB Introductory Video on Vimeo](https://vimeo.com/171773795)  
+- 2017 [Tracking Bacteria on the Space Station Could Help Us Survive Beyond Earth](https://twitter.com/mason_lab/status/844405384328687621)
 - 2016-06-17 [Weill Cornell Medical College Uncovers Bacteria In Nyc Subways](https://wn.com/weill_cornell_medical_college_uncovers_bacteria_in_nyc_subways)
 - 2016-02-23 [New Genetic Spectra Across Earth's Cities & Far BeyondTEDMED Blog](http://blog.tedmed.com/new-genetic-spectra-across-earths-cities-beyond/)
-- 2016-04-25 [Christopher Mason at the 2016 DOE JGI Genomics of Energy & Environment Meeting - YouTube](https://www.youtube.com/watch?v=WtpKmmIg9qM) | Christopher Mason, Cornell University, at the 11th Annual Genomics of Energy & Environment Meeting on March 23, 2016 in Walnut Creek, Calif.
+- 2016-04-25 [Christopher Mason at the 2016 DOE JGI Genomics of Energy & Environment Meeting - YouTube](https://www.youtube.com/watch?v=WtpKmmIg9qM)
 - 2016-11-30 [TEDMED - Discovering and designing genomes for Earth, Mars, and beyond](http://tedmed.com/talks/show?id=528172)
 - 2015-11-09 【ICF2015】[クリストファー・メイソン - 「スマートシティを司る“２番目の脳”」](https://youtu.be/3egxzBzynvY) | [Christopher Mason - Second Brain for the Smart City](https://youtu.be/ZK5ORqWqnps)
 - 2015-10-02 [Metagenomic analysis of the New York City subway system](https://www.youtube.com/watch?v=HyqvMEqmkYk)
@@ -415,4 +416,13 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5045144/
  - 1 Aug 2016 [metaSPAdes: a new versatile de novo metagenomics assembler](https://arxiv.org/abs/1604.03071)
 
 ----------
+
+https://www.ncbi.nlm.nih.gov/pubmed/25479039
+Int J Environ Res Public Health. 2014 Dec 3;11(12):12544-61. doi: 10.3390/ijerph111212544.
+Diversity of bacterial communities of fitness center surfaces in a U.S. metropolitan area.
+Mukherjee N1, Dowd SE2, Wise A3, Kedia S4, Vohra V5, Banerjee P6.
+
+----------
+
+
 
