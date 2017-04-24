@@ -1,7 +1,7 @@
 ----------
 
 Haruo Suzuki (haruo[at]g-language[dot]org)   
-Last Update: 2017-02-10
+Last Update: 2017-04-24
 
 ----------
 
@@ -415,13 +415,20 @@ Three very recent papers comparing metagenome assembly tools:
 https://www.ncbi.nlm.nih.gov/pubmed/28099457
 PLoS One. 2017 Jan 18;12(1):e0169662.
 Comparing and Evaluating Metagenome Assembly Tools from a Microbiologist's Perspective - Not Only Size Matters!
-Vollmers J1, Wiegand S1, Kaster AK1.
 
 https://www.ncbi.nlm.nih.gov/pubmed/27698619
 Yale J Biol Med. 2016 Sep 30;89(3):353-362.
 Metagenomic Assembly: Overview, Challenges and Applications.
-Ghurye JS1, Cepeda-Espinoza V1, Pop M1.
- - Most metagenomic assemblers developed to date (MetaVelvet [23], Meta-IDBA [24], MEGAHIT [25] and Ray [26]) use de Bruijn graph approach.
+
+[MetAMOS](https://github.com/treangen/MetAMOS)
+https://www.ncbi.nlm.nih.gov/pubmed/23320958
+Genome Biol. 2013 Jan 15;14(1):R2. doi: 10.1186/gb-2013-14-1-r2.
+MetAMOS: a modular and open source metagenomic assembly and analysis pipeline.
+
+[MOCAT](http://www.bork.embl.de/mocat/)
+https://www.ncbi.nlm.nih.gov/pubmed/23082188
+PLoS One. 2012;7(10):e47656.
+MOCAT: a metagenomics assembly and gene prediction toolkit.
 
 ----------
 
