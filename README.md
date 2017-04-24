@@ -406,14 +406,22 @@ https://twitter.com/guruguruyellow/status/298194313572130819
 
 ## Metagenomic Assembly
 
-- [Assembly software tools | Metagenomic sequencing analysis - OMICtools](https://omictools.com/metagenomic-assembly-category)
+https://omictools.com/metagenomic-assembly-category
+Assembly software tools | Metagenomic sequencing analysis - OMICtools
 
-- [Yale J Biol Med. 2016 Sep 30 "Metagenomic Assembly: Overview, Challenges and Applications."](https://www.ncbi.nlm.nih.gov/pubmed/27698619)
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5045144/
+https://twitter.com/StevenJRobbins/status/849484107797204997
+Three very recent papers comparing metagenome assembly tools:
+
+https://www.ncbi.nlm.nih.gov/pubmed/28099457
+PLoS One. 2017 Jan 18;12(1):e0169662.
+Comparing and Evaluating Metagenome Assembly Tools from a Microbiologist's Perspective - Not Only Size Matters!
+Vollmers J1, Wiegand S1, Kaster AK1.
+
+https://www.ncbi.nlm.nih.gov/pubmed/27698619
+Yale J Biol Med. 2016 Sep 30;89(3):353-362.
+Metagenomic Assembly: Overview, Challenges and Applications.
+Ghurye JS1, Cepeda-Espinoza V1, Pop M1.
  - Most metagenomic assemblers developed to date (MetaVelvet [23], Meta-IDBA [24], MEGAHIT [25] and Ray [26]) use de Bruijn graph approach.
-
-- [SPAdes](http://cab.spbu.ru/software/spades/)
- - 1 Aug 2016 [metaSPAdes: a new versatile de novo metagenomics assembler](https://arxiv.org/abs/1604.03071)
 
 ----------
 
