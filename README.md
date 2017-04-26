@@ -397,6 +397,12 @@ https://twitter.com/guruguruyellow/status/298194313572130819
 
 ## [Bioinformatics Analysis – MetaSUB](http://metasub.org/methods/bioinformatics-analysis/)
 
+
+https://www.ncbi.nlm.nih.gov/pubmed/28321234
+Front Genet. 2017 Mar 6;8:23. doi: 10.3389/fgene.2017.00023. eCollection 2017.
+A Review of Bioinformatics Tools for Bio-Prospecting from Metagenomic Sequence Data.
+Roumpeka DD1, Wallace RJ2, Escalettes F3, Fotheringham I3, Watson M1.
+
 - [Kraken](http://ccb.jhu.edu/software/kraken/)
  - 論文 [Wood DE, Salzberg SL. Genome Biol. 2014 "Kraken: ultrafast metagenomic sequence classification using exact alignments."]()
 
@@ -417,8 +423,10 @@ PLoS One. 2017 Jan 18;12(1):e0169662.
 Comparing and Evaluating Metagenome Assembly Tools from a Microbiologist's Perspective - Not Only Size Matters!
 
 https://www.ncbi.nlm.nih.gov/pubmed/27698619
-Yale J Biol Med. 2016 Sep 30;89(3):353-362.
+Yale J Biol Med. 2016 Sep 30;89(3):353-362. eCollection 2016.
 Metagenomic Assembly: Overview, Challenges and Applications.
+Ghurye JS1, Cepeda-Espinoza V1, Pop M1.
+
 
 [MetAMOS](https://github.com/treangen/MetAMOS)
 https://www.ncbi.nlm.nih.gov/pubmed/23320958
