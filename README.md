@@ -1,13 +1,13 @@
 ----------
 
 Haruo Suzuki (haruo[at]g-language[dot]org)   
-Last Update: 2017-04-24
+Last Update: 2017-05-10
 
 ----------
 
 # [MetaSUB](http://metasub.org/?page_id=55)
 MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes  
-都市環境（地下鉄）の微生物叢
+都市環境の微生物叢
 
 ![https://crowdfunding.cornell.edu/project/3636](https://res.cloudinary.com/scalefunder/image/fetch/s--IPZeYcxb--/f_auto,fl_lossy,h_351,q_auto,w_622/https://res.cloudinary.com/scalefunder/image/upload/v1481836129/Cornell_University/vkt6clbw1ukeomgeokzb.png)
 
@@ -19,7 +19,7 @@ MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes
 - 2016-08 [Olympiome](#olympiome)
 - 2016-07-01 [2016 Meetings](#2016-meetings)
 - 2016-06-28 [Boston Subway Microbiome](#boston-subway-microbiome)
-- 2016-06-21 [Global City Sampling Day (CSD)](#city-sampling-day)
+- 2016-06-21 [Global City Sampling Day (CSD)](#csd)
 - 2015-06-20 [2015 Meetings](#2015-meetings)
 - 2015-07 [New York Subway Microbiome](#new-york-subway-microbiome)
 
@@ -72,8 +72,11 @@ MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes
 
 ----------
 
-### [City Sampling Day](http://metasub.org/city-sampling-day/)
-2016-06-21 シティ サンプリング デー
+### CSD
+**[Projects](http://metasub.org/city-sampling-day/)**  
+**[Global City Sampling Day](http://metasub.org/global-city-sampling-day/) (CSD)**  
+6月21日
+グローバル シティ サンプリング デー
 の目的
 
 1. 地理空間メタゲノムと法医学遺伝地図の作成
