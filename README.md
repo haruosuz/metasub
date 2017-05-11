@@ -15,17 +15,19 @@ MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes
 - [Video](#video)
 - [2017 Meetings](#2017-meetings)
 - 2017-07 [CAMDA 2017 Conference](#camda-2017)
+- 2017-06-21 [Global City Sampling Day (CSD)](#csd)
+- 2017-03-28 [StuckOnU](#stuckonu)
 - 2016-10-20 [Innovative City Forum ICF2016](#innovative-city-forum)
 - 2016-08 [Olympiome](#olympiome)
 - 2016-07-01 [2016 Meetings](#2016-meetings)
 - 2016-06-28 [Boston Subway Microbiome](#boston-subway-microbiome)
-- 2016-06-21 [Global City Sampling Day (CSD)](#csd)
 - 2015-06-20 [2015 Meetings](#2015-meetings)
 - 2015-07 [New York Subway Microbiome](#new-york-subway-microbiome)
 
 ----------
 
 ## Updates
+- 2017-05-10 [オープンデータを分析する 〜 微生物ゲノム編 - connpass](https://connpass.com/event/55043/)
 - December 19, 2016 [Deep GIS: Mapping What You Touch In the Subways | eSpatially New York](http://espatiallynewyork.com/2016/12/19/deep-gis-mapping-what-you-touch-in-the-subways/)
 - 16 Dec 2016 Christopher Mason ‏[MetaSUB: Discover and Map the Genomes Around Us](https://twitter.com/mason_lab/status/809840594075971584) Our crowdfunding campaign for the global metagenomics study
 - November 23, 2016 [Globalizing and crowdsourcing biomedical research](http://bmb.oxfordjournals.org/content/early/2016/10/30/bmb.ldw044.full) Ebrahim Afshinnekoo, Sofia Ahsanuddin and Christopher E. Mason
@@ -59,7 +61,6 @@ MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes
 - [公益財団法人鉄道総合技術研究所｜人間科学ニュース 2016年3月号（第202号）](https://www.rtri.or.jp/rd/news/human/human_201603.html#sect04) 遺伝子で鉄道の環境を見る（生物工学グループ　池畑政輝）
 
 ----------
-
 ### CAMDA 2017
 ![](http://camda2017.bioinf.jku.at/lib/tpl/mnml-blog/user/logo.png)
 
@@ -71,7 +72,13 @@ MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes
 - [Pawel Labaj (@pawel_labaj) | Twitter](https://twitter.com/pawel_labaj)
 
 ----------
+### [StuckOnU](http://metasub.org/stuckonu/)
+- [StuckOnU JPM Jan 2017](http://metasub.org/stuckonu2017/)
+- [StuckOnU ABRF 2017 - MetaSUB](http://metasub.org/stuckonu-abrf-2017/) ABRF San Diego Mar 24th-29th 2017
+- https://twitter.com/hashtag/StuckonU
+- https://twitter.com/mason_lab/status/846879838577176576 Christopher Mason on Twitter: "#ABRF2017 slides from the #StuckOnU presentation about the metagenomics of the conference https://t.co/3MPfrkktZj"
 
+----------
 ### [CSD](http://metasub.org/city-sampling-day/)
 **[Global City Sampling Day (CSD)](http://metasub.org/global-city-sampling-day/)**  
 6月21日
