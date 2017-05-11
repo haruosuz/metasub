@@ -72,9 +72,8 @@ MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes
 
 ----------
 
-### CSD
-**[Projects](http://metasub.org/city-sampling-day/)**  
-**[Global City Sampling Day](http://metasub.org/global-city-sampling-day/) (CSD)**  
+### [CSD](http://metasub.org/city-sampling-day/)
+**[Global City Sampling Day (CSD)](http://metasub.org/global-city-sampling-day/)**  
 6月21日
 グローバル シティ サンプリング デー
 の目的
