@@ -278,7 +278,9 @@ O[hanami](https://en.wikipedia.org/wiki/Hanami) ("flower viewing") is the Japane
 ----------
 
 ## [GOVIRAL](https://www.goviralstudy.com)
-![](https://scontent-nrt1-1.xx.fbcdn.net/v/t1.0-1/p160x160/13939323_1715925921992023_3282613453439525165_n.jpg?oh=645f92ecff9c65abe0d7e156c230f35f&oe=58D39DEF)
+![https://www.linkedin.com/pulse/find-out-what-viruses-spreading-your-community-hamza-sadhra](https://media.licdn.com/mpr/mpr/shrinknp_800_800/AAEAAQAAAAAAAAe2AAAAJDM5MjZhOWQ3LWJjZTYtNDk4OC05ZDhlLTVhZmNmMmNkNGZmMw.png)
+
+![https://twitter.com/gogoviral](https://pbs.twimg.com/profile_images/767807791121793024/KMqIr0Gh.jpg)
 
 - [Go Viral (@gogoviral) | Twitter](https://twitter.com/gogoviral)
 - [Go Viral | Facebook](https://www.facebook.com/GoViralStudy/)
