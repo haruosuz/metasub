@@ -201,6 +201,23 @@ MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes
   - 2015-02-05 [Researchers map bacteria in New York City subway system | abc7ny.com](http://abc7ny.com/506427/)
 
 ----------
+## Video
+- [MetaSUB Introductory Video on Vimeo](https://vimeo.com/171773795)  
+- 2017 [Tracking Bacteria on the Space Station Could Help Us Survive Beyond Earth](https://twitter.com/mason_lab/status/844405384328687621)
+- 2016-06-17 [Weill Cornell Medical College Uncovers Bacteria In Nyc Subways](https://wn.com/weill_cornell_medical_college_uncovers_bacteria_in_nyc_subways)
+- 2016-02-23 [New Genetic Spectra Across Earth's Cities & Far BeyondTEDMED Blog](http://blog.tedmed.com/new-genetic-spectra-across-earths-cities-beyond/)
+- 2016-04-25 [Christopher Mason at the 2016 DOE JGI Genomics of Energy & Environment Meeting - YouTube](https://www.youtube.com/watch?v=WtpKmmIg9qM)
+- 2016-11-30 [TEDMED - Discovering and designing genomes for Earth, Mars, and beyond](http://tedmed.com/talks/show?id=528172)
+- 2015-11-09 【ICF2015】[クリストファー・メイソン - 「スマートシティを司る“２番目の脳”」](https://youtu.be/3egxzBzynvY) | [Christopher Mason - Second Brain for the Smart City](https://youtu.be/ZK5ORqWqnps)
+- 2015-10-02 [Metagenomic analysis of the New York City subway system](https://www.youtube.com/watch?v=HyqvMEqmkYk)
+- 2015-06-19 [Integrative Genomics in Single Cells, Entire Cities, and Astronauts](https://youtu.be/Q_eUq9FNSaY)
+- 2015-03-27 [SciCafe: Mapping the Urban Microbiome, Genome, and Metagenome](https://www.youtube.com/watch?v=mn5MkKXtxms)
+- 2013-06-18 [Tumor Evolution in the Transcriptome, Epigenome, and Epitranscriptome](https://www.youtube.com/watch?v=UQecetRMzWI)
+- 2015-11-20 [Cracking the Genetic Code of Our Cities | Sofia Ahsanuddin | TEDxCUNY - YouTube](https://www.youtube.com/watch?v=t9GrVdYWJOc)
+  - [There are 15,000 lifeforms riding the NYC subway, including meningitis | TEDx Innovations Blog](http://tedxinnovations.ted.com/2016/06/15/nyc-subway-commuters-include-15000-lifeforms-including-meningitis/)
+
+
+----------
 
 ### [Olympiome](http://metasub.org/the-olympiome-project/)
 オリンピック開催期間の人の移動による微生物叢の変化
@@ -254,9 +271,34 @@ MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes
  - Bee Debris Project（MIT Media Lab）蜂の巣箱のなかのビッグデータ
  - Pathomap Project（Weill Cornell Medical College）NY地下鉄の細菌マップ
 
+----------
 
+## Twitter
+- [MetaSUB Research (@metasub) のツイート - ツイセーブ](http://twisave.com/metasub)
+- [MetaSUB Research (@metasub) | Twitter](https://twitter.com/metasub)
+- [#MetaSUB hashtag on Twitter](https://twitter.com/hashtag/MetaSUB)
+- [MetaSUB Zurich (@Metasub_Zurich) | Twitter](https://twitter.com/Metasub_Zurich)
+- [Metasub_Paris (@metasub_paris) | Twitter](https://twitter.com/metasub_paris)
+- [MetaSUB_Sweden (@MetaSUB_Sweden) | Twitter](https://twitter.com/MetaSUB_Sweden)
+- [MetaSUB_Hyderabad (@Metasub_India) | Twitter](https://twitter.com/Metasub_India)
+- [Christopher Mason (@mason_lab) | Twitter](https://twitter.com/mason_lab)
+- [Erica Hartmann (@ericamhartmann) | Twitter](https://twitter.com/ericamhartmann)
+- [Marcus Leung (@leungmarcus) | Twitter](https://twitter.com/leungmarcus)
 
+https://twitter.com/hashtag/metasub15
+Christopher Mason ‏@mason_lab  Jun 20
+\#metasub15 John Brownstein @johnbrownstein gave a great talk about Healthmap http://www.healthmap.org  and crowd-sourced medicine
 
+https://twitter.com/gogoviral
+Julie Nadel ‏@JulieNadel  Jun 19
+NY+MA: participate in crowd sourced epidemiology. Sign up now for next time you're sick! #UrbanGenome @gogoviral http://www.goviralstudy.com
+
+Rumi ‏@rumichunara  May 27Rome, Lazio
+Our paper on bringing together molecular specimens and online participatory surveillance http://currents.plos.org/outbreaks/article/surveillance-of-acute-respiratory-infections-using-community-submitted-symptoms-and-specimens-for-molecular-diagnostic-testing/ … @gogoviral
+
+5:20 PM - 3 Feb 2013
+https://twitter.com/guruguruyellow/status/298194313572130819
+.@cnn_co_jp 僭越ながら1/31の「ツイッターでインフルエンザ流行地域の予測目指す」の捕捉をさせて頂きます。2006年よりハーバード大学公衆衛生大学院が以下のサイトを立ち上げております。ご覧頂けましたら幸いです。@healthmap @FluNearYou 
 
 
 ----------
@@ -333,10 +375,9 @@ O[hanami](https://en.wikipedia.org/wiki/Hanami) ("flower viewing") is the Japane
 - 2015-01-19 [クラウドサイエンスで野生生物研究に貢献 | ナショナルジオグラフィック日本版サイト](http://natgeo.nikkeibp.co.jp/nng/article/20150117/432142/)
 - 2014年11月11日 [メタゲノム・ビジネス（３）：uBiomeが推進する市民科学](http://genaport.genaris.com/GOC_sequencer_post.php?eid=00113)
 - 2013年7月号 [翼を得たシチズン・サイエンス | 日経サイエンス]( http://www.nikkei-science.com/201307_086.html)
-
 - 研究開発マネジメントノート
- - 2013-10-27 [「オープンサイエンス革命」（ニールセン著）より](http://blog.livedoor.jp/randdmanagement/archives/52127213.html)
- - 2012-07-01 [シチズンサイエンス考](http://blog.livedoor.jp/randdmanagement/archives/52032892.html)
+  - 2013-10-27 [「オープンサイエンス革命」（ニールセン著）より](http://blog.livedoor.jp/randdmanagement/archives/52127213.html)
+  - 2012-07-01 [シチズンサイエンス考](http://blog.livedoor.jp/randdmanagement/archives/52032892.html)
 
 ----------
 
@@ -360,50 +401,6 @@ The report states that 88% of stations were cleaned fewer than eight times a yea
  - 2008/12/22 新型インフル拡大防止で実験 通勤電車での乗り方 - 47NEWS
  - [地下鉄で新型インフルエンザ対策実験：政治経済ニュース！](http://seizikeizai.seesaa.net/article/111617412.html)
 
-----------
-## Video
-- [MetaSUB Introductory Video on Vimeo](https://vimeo.com/171773795)  
-- 2017 [Tracking Bacteria on the Space Station Could Help Us Survive Beyond Earth](https://twitter.com/mason_lab/status/844405384328687621)
-- 2016-06-17 [Weill Cornell Medical College Uncovers Bacteria In Nyc Subways](https://wn.com/weill_cornell_medical_college_uncovers_bacteria_in_nyc_subways)
-- 2016-02-23 [New Genetic Spectra Across Earth's Cities & Far BeyondTEDMED Blog](http://blog.tedmed.com/new-genetic-spectra-across-earths-cities-beyond/)
-- 2016-04-25 [Christopher Mason at the 2016 DOE JGI Genomics of Energy & Environment Meeting - YouTube](https://www.youtube.com/watch?v=WtpKmmIg9qM)
-- 2016-11-30 [TEDMED - Discovering and designing genomes for Earth, Mars, and beyond](http://tedmed.com/talks/show?id=528172)
-- 2015-11-09 【ICF2015】[クリストファー・メイソン - 「スマートシティを司る“２番目の脳”」](https://youtu.be/3egxzBzynvY) | [Christopher Mason - Second Brain for the Smart City](https://youtu.be/ZK5ORqWqnps)
-- 2015-10-02 [Metagenomic analysis of the New York City subway system](https://www.youtube.com/watch?v=HyqvMEqmkYk)
-- 2015-06-19 [Integrative Genomics in Single Cells, Entire Cities, and Astronauts](https://youtu.be/Q_eUq9FNSaY)
-- 2015-03-27 [SciCafe: Mapping the Urban Microbiome, Genome, and Metagenome](https://www.youtube.com/watch?v=mn5MkKXtxms)
-- 2013-06-18 [Tumor Evolution in the Transcriptome, Epigenome, and Epitranscriptome](https://www.youtube.com/watch?v=UQecetRMzWI)
-- 2015-11-20 [Cracking the Genetic Code of Our Cities | Sofia Ahsanuddin | TEDxCUNY - YouTube](https://www.youtube.com/watch?v=t9GrVdYWJOc)
-  - [There are 15,000 lifeforms riding the NYC subway, including meningitis | TEDx Innovations Blog](http://tedxinnovations.ted.com/2016/06/15/nyc-subway-commuters-include-15000-lifeforms-including-meningitis/)
-
-----------
-
-## Twitter
-- [MetaSUB Research (@metasub) のツイート - ツイセーブ](http://twisave.com/metasub)
-- [MetaSUB Research (@metasub) | Twitter](https://twitter.com/metasub)
-- [#MetaSUB hashtag on Twitter](https://twitter.com/hashtag/MetaSUB)
-- [MetaSUB Zurich (@Metasub_Zurich) | Twitter](https://twitter.com/Metasub_Zurich)
-- [Metasub_Paris (@metasub_paris) | Twitter](https://twitter.com/metasub_paris)
-- [MetaSUB_Sweden (@MetaSUB_Sweden) | Twitter](https://twitter.com/MetaSUB_Sweden)
-- [MetaSUB_Hyderabad (@Metasub_India) | Twitter](https://twitter.com/Metasub_India)
-- [Christopher Mason (@mason_lab) | Twitter](https://twitter.com/mason_lab)
-- [Erica Hartmann (@ericamhartmann) | Twitter](https://twitter.com/ericamhartmann)
-- [Marcus Leung (@leungmarcus) | Twitter](https://twitter.com/leungmarcus)
-
-https://twitter.com/hashtag/metasub15
-Christopher Mason ‏@mason_lab  Jun 20
-\#metasub15 John Brownstein @johnbrownstein gave a great talk about Healthmap http://www.healthmap.org  and crowd-sourced medicine
-
-https://twitter.com/gogoviral
-Julie Nadel ‏@JulieNadel  Jun 19
-NY+MA: participate in crowd sourced epidemiology. Sign up now for next time you're sick! #UrbanGenome @gogoviral http://www.goviralstudy.com
-
-Rumi ‏@rumichunara  May 27Rome, Lazio
-Our paper on bringing together molecular specimens and online participatory surveillance http://currents.plos.org/outbreaks/article/surveillance-of-acute-respiratory-infections-using-community-submitted-symptoms-and-specimens-for-molecular-diagnostic-testing/ … @gogoviral
-
-5:20 PM - 3 Feb 2013
-https://twitter.com/guruguruyellow/status/298194313572130819
-.@cnn_co_jp 僭越ながら1/31の「ツイッターでインフルエンザ流行地域の予測目指す」の捕捉をさせて頂きます。2006年よりハーバード大学公衆衛生大学院が以下のサイトを立ち上げております。ご覧頂けましたら幸いです。@healthmap @FluNearYou 
 
 ----------
 
