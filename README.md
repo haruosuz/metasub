@@ -27,7 +27,6 @@ MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes
 ----------
 
 ## Updates
-- 2017-06-21 [オープンデータを分析する 〜 微生物ゲノム編 #2 - connpass](https://connpass.com/event/57285/)
 - 2017-05-10 [オープンデータを分析する 〜 微生物ゲノム編 - connpass](https://connpass.com/event/55043/)
 
 ![](https://connpass-tokyo.s3.amazonaws.com/thumbs/db/75/db75a4af41c26eaaf6344b8fd80d64c6.png)
