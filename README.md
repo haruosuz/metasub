@@ -28,6 +28,9 @@ MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes
 
 ## Updates
 - 2017-05-10 [オープンデータを分析する 〜 微生物ゲノム編 - connpass](https://connpass.com/event/55043/)
+
+![](https://connpass-tokyo.s3.amazonaws.com/thumbs/db/75/db75a4af41c26eaaf6344b8fd80d64c6.png)
+
 - December 19, 2016 [Deep GIS: Mapping What You Touch In the Subways | eSpatially New York](http://espatiallynewyork.com/2016/12/19/deep-gis-mapping-what-you-touch-in-the-subways/)
 - 16 Dec 2016 Christopher Mason ‏[MetaSUB: Discover and Map the Genomes Around Us](https://twitter.com/mason_lab/status/809840594075971584) Our crowdfunding campaign for the global metagenomics study
 - November 23, 2016 [Globalizing and crowdsourcing biomedical research](http://bmb.oxfordjournals.org/content/early/2016/10/30/bmb.ldw044.full) Ebrahim Afshinnekoo, Sofia Ahsanuddin and Christopher E. Mason
@@ -73,10 +76,12 @@ MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes
 
 ----------
 ### [StuckOnU](http://metasub.org/stuckonu/)
+![https://twitter.com/hashtag/StuckonU](https://pbs.twimg.com/media/C16yKj4UAAAxO5H.png)
+
 - [StuckOnU JPM Jan 2017](http://metasub.org/stuckonu2017/)
 - [StuckOnU ABRF 2017 - MetaSUB](http://metasub.org/stuckonu-abrf-2017/) ABRF San Diego Mar 24th-29th 2017
-- https://twitter.com/hashtag/StuckonU
-- https://twitter.com/mason_lab/status/846879838577176576 Christopher Mason on Twitter: "#ABRF2017 slides from the #StuckOnU presentation about the metagenomics of the conference https://t.co/3MPfrkktZj"
+- 2017-03-28 https://twitter.com/mason_lab/status/846879838577176576 Christopher Mason on Twitter: "#ABRF2017 slides from the #StuckOnU presentation about the metagenomics of the conference https://t.co/3MPfrkktZj"
+- 2017-01-11 https://twitter.com/mason_lab/status/819314001158885378 Christopher Mason on Twitter: "A 36-hour, 96-person #JPM17 metagenome: collect, extract, prep, sequence, analysis, and paper: https://t.co/F2YacBrFYE #StuckonU @illumina"
 
 ----------
 ### [CSD](http://metasub.org/city-sampling-day/)
