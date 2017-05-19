@@ -409,11 +409,15 @@ The report states that 88% of stations were cleaned fewer than eight times a yea
 
 ## [Bioinformatics Analysis – MetaSUB](http://metasub.org/methods/bioinformatics-analysis/)
 
-
 https://www.ncbi.nlm.nih.gov/pubmed/28321234
 Front Genet. 2017 Mar 6;8:23. doi: 10.3389/fgene.2017.00023. eCollection 2017.
 A Review of Bioinformatics Tools for Bio-Prospecting from Metagenomic Sequence Data.
 Roumpeka DD1, Wallace RJ2, Escalettes F3, Fotheringham I3, Watson M1.
+
+https://www.ncbi.nlm.nih.gov/pubmed/25983555
+Bioinform Biol Insights. 2015 May 5;9:75-88. doi: 10.4137/BBI.S12462. eCollection 2015.
+Metagenomics: tools and insights for analyzing next-generation sequencing data derived from biodiversity studies.
+Oulas A1, Pavloudi C2, Polymenakou P1, Pavlopoulos GA3, Papanikolaou N3, Kotoulas G1, Arvanitidis C1, Iliopoulos I3.
 
 - [Kraken](http://ccb.jhu.edu/software/kraken/)
  - 論文 [Wood DE, Salzberg SL. Genome Biol. 2014 "Kraken: ultrafast metagenomic sequence classification using exact alignments."]()
