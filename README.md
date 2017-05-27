@@ -6,15 +6,15 @@ Last Update: 2017-05-10
 ----------
 
 # [MetaSUB](http://metasub.org/?page_id=55)
-MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes  
-都市環境の微生物叢
+**MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes**  
+都市環境（地下鉄）生物叢のメタゲノム・デザイン
 
 ![https://crowdfunding.cornell.edu/project/3636](https://res.cloudinary.com/scalefunder/image/fetch/s--IPZeYcxb--/f_auto,fl_lossy,h_351,q_auto,w_622/https://res.cloudinary.com/scalefunder/image/upload/v1481836129/Cornell_University/vkt6clbw1ukeomgeokzb.png)
 
 ## Table of Contents
 - [Video](#video)
 - [2017 Meetings](#2017-meetings)
-- 2017-07 [CAMDA 2017 Conference](#camda-2017)
+- 2017-07 [CAMDA 2017](#camda)
 - 2017-06-21 [Global City Sampling Day (CSD)](#csd)
 - 2017-03-28 [StuckOnU](#stuckonu)
 - 2016-10-20 [Innovative City Forum](#icf)
@@ -30,6 +30,9 @@ MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes
 - 2017-05-10 [オープンデータを分析する 〜 微生物ゲノム編 - connpass](https://connpass.com/event/55043/)
 
 ![](https://connpass-tokyo.s3.amazonaws.com/thumbs/db/75/db75a4af41c26eaaf6344b8fd80d64c6.png)
+
+- 2017-05-22 QIAGEN on Twitter: "#Genetic mapping of subways created a history of who was there and what they were doing. #PhalanxOfFriends @metasub https://t.co/Fs3z8Fs0RM"
+![https://twitter.com/QIAGEN/status/866685305625034752](https://pbs.twimg.com/media/DAcVsNqWsAIUR3S.jpg)
 
 - December 19, 2016 [Deep GIS: Mapping What You Touch In the Subways | eSpatially New York](http://espatiallynewyork.com/2016/12/19/deep-gis-mapping-what-you-touch-in-the-subways/)
 - 16 Dec 2016 Christopher Mason ‏[MetaSUB: Discover and Map the Genomes Around Us](https://twitter.com/mason_lab/status/809840594075971584) Our crowdfunding campaign for the global metagenomics study
@@ -64,7 +67,7 @@ MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes
 - [公益財団法人鉄道総合技術研究所｜人間科学ニュース 2016年3月号（第202号）](https://www.rtri.or.jp/rd/news/human/human_201603.html#sect04) 遺伝子で鉄道の環境を見る（生物工学グループ　池畑政輝）
 
 ----------
-### CAMDA 2017
+### [CAMDA](http://metasub.org/camda-challenge-2017/)
 ![](http://camda2017.bioinf.jku.at/lib/tpl/mnml-blog/user/logo.png)
 
 - [CAMDA 2017 – Critical Assessment of Massive Data Analysis](http://camda.info)
@@ -75,13 +78,9 @@ MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes
 - [Pawel Labaj (@pawel_labaj) | Twitter](https://twitter.com/pawel_labaj)
 
 ----------
-### [StuckOnU](http://metasub.org/stuckonu/)
-![https://twitter.com/hashtag/StuckonU](https://pbs.twimg.com/media/C16yKj4UAAAxO5H.png)
-
-- [StuckOnU JPM Jan 2017](http://metasub.org/stuckonu2017/)
-- [StuckOnU ABRF 2017 - MetaSUB](http://metasub.org/stuckonu-abrf-2017/) ABRF San Diego Mar 24th-29th 2017
-- 2017-03-28 https://twitter.com/mason_lab/status/846879838577176576 Christopher Mason on Twitter: "#ABRF2017 slides from the #StuckOnU presentation about the metagenomics of the conference https://t.co/3MPfrkktZj"
-- 2017-01-11 https://twitter.com/mason_lab/status/819314001158885378 Christopher Mason on Twitter: "A 36-hour, 96-person #JPM17 metagenome: collect, extract, prep, sequence, analysis, and paper: https://t.co/F2YacBrFYE #StuckonU @illumina"
+### [2017 Meetings](http://metasub.org/meetings-2017/)
+3rd Annual MetaSUB Summit in Stockholm, Sweden!  
+第3回 MetaSUB 会議、スウェーデンのストックホルム！
 
 ----------
 ### [CSD](http://metasub.org/city-sampling-day/)
@@ -108,13 +107,15 @@ MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes
 - 2013-05-16 [River Sampling Day Call | Micro B³](https://www.microb3.eu/feeds/oceansamplingday-blogspot/river-sampling-day-call)
 
 ----------
+### [StuckOnU](http://metasub.org/stuckonu/)
+![https://twitter.com/hashtag/StuckonU](https://pbs.twimg.com/media/C16yKj4UAAAxO5H.png)
 
-### [2017 Meetings](http://metasub.org/meetings-2017/)
-3rd Annual MetaSUB Summit in Stockholm, Sweden!  
-第3回 MetaSUB 会議、スウェーデンのストックホルム！
+- [StuckOnU JPM Jan 2017](http://metasub.org/stuckonu2017/)
+- [StuckOnU ABRF 2017 - MetaSUB](http://metasub.org/stuckonu-abrf-2017/) ABRF San Diego Mar 24th-29th 2017
+- 2017-03-28 https://twitter.com/mason_lab/status/846879838577176576 Christopher Mason on Twitter: "#ABRF2017 slides from the #StuckOnU presentation about the metagenomics of the conference https://t.co/3MPfrkktZj"
+- 2017-01-11 https://twitter.com/mason_lab/status/819314001158885378 Christopher Mason on Twitter: "A 36-hour, 96-person #JPM17 metagenome: collect, extract, prep, sequence, analysis, and paper: https://t.co/F2YacBrFYE #StuckonU @illumina"
 
 ----------
-
 ### [2016 Meetings](http://metasub.org/meetings/2016-meetings/)
 第2回 MetaSUB 会議、2016年7月1日〜2日、中国上海市[復旦大学](https://ja.wikipedia.org/wiki/復旦大学)
 
@@ -123,7 +124,6 @@ MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes
 ![https://twitter.com/leungmarcus/status/748749881230045184](https://pbs.twimg.com/media/CmQYASEUIAAlBAC.jpg)
 
 ----------
-
 ### [2015 Meetings](http://metasub.org/meetings/2015-meetings/)
 第1回 MetaSUB 会議、2015年6月20日、The New York Genome Center (NYGC：ニューヨーク ゲノム センター）
 
@@ -135,7 +135,6 @@ MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes
 - 2015-04-23 [MetaSUB: First International Summit of Metagenomics & Metadesign of Subways and Urban Biomes | microBEnet: the microbiology of the Built Environment network.](http://microbe.net/2015/04/23/metasub-first-international-summit-of-metagenomics-metadesign-of-subways-and-urban-biomes/)
 
 ----------
-
 ## Boston Subway Microbiome
 ボストン地下鉄の微生物叢
 
@@ -160,7 +159,6 @@ MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes
   - Jun 30, 2016 [The Boston Subway Microbiome](https://www.youtube.com/watch?v=HXQqjKA9S5A)
 
 ----------
-
 ## New York Subway Microbiome
 ニューヨーク地下鉄の微生物叢
 
@@ -443,7 +441,6 @@ Yale J Biol Med. 2016 Sep 30;89(3):353-362. eCollection 2016.
 Metagenomic Assembly: Overview, Challenges and Applications.
 Ghurye JS1, Cepeda-Espinoza V1, Pop M1.
 
-
 [MetAMOS](https://github.com/treangen/MetAMOS)
 https://www.ncbi.nlm.nih.gov/pubmed/23320958
 Genome Biol. 2013 Jan 15;14(1):R2. doi: 10.1186/gb-2013-14-1-r2.
@@ -462,6 +459,3 @@ Diversity of bacterial communities of fitness center surfaces in a U.S. metropol
 Mukherjee N1, Dowd SE2, Wise A3, Kedia S4, Vohra V5, Banerjee P6.
 
 ----------
-
-
-
