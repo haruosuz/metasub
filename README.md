@@ -33,7 +33,7 @@ Last Update: 2017-06-10
 ![https://twitter.com/H2HOutreach/status/872813598812274690](https://pbs.twimg.com/media/DBzbOnsXsAAjG7w.jpg)
 
 - 2017-05-22 QIAGEN on Twitter: "#Genetic mapping of subways created a history of who was there and what they were doing. #PhalanxOfFriends @metasub https://t.co/Fs3z8Fs0RM"
-![https://twitter.com/QIAGEN/status/866685305625034752](https://pbs.twimg.com/media/DAcVsNqWsAIUR3S.jpg)
+![https://twitter.com/QIAGEN/status/866685305625034752](https://pbs.twimg.com/media/DAcVsNqWsAIUR3S.jpg:small)
 
 - 2017-05-16 QIAGEN on Twitter: "Not only New York! @metasub will collect & analyze samples from 54 big cities around the world in the next five years. #PhalanxOfFriends https://t.co/TAx93ledNz"
 ![https://twitter.com/QIAGEN/status/864510891953463297](https://pbs.twimg.com/media/C_9cEt5UwAA7sVK.jpg:small)
