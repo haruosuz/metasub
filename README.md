@@ -32,12 +32,15 @@ Last Update: 2017-06-10
 
 ![https://twitter.com/H2HOutreach/status/872813598812274690](https://pbs.twimg.com/media/DBzbOnsXsAAjG7w.jpg)
 
+- 2017-05-22 QIAGEN on Twitter: "#Genetic mapping of subways created a history of who was there and what they were doing. #PhalanxOfFriends @metasub https://t.co/Fs3z8Fs0RM"
+![https://twitter.com/QIAGEN/status/866685305625034752](https://pbs.twimg.com/media/DAcVsNqWsAIUR3S.jpg)
+
+- 2017-05-16 QIAGEN on Twitter: "Not only New York! @metasub will collect & analyze samples from 54 big cities around the world in the next five years. #PhalanxOfFriends https://t.co/TAx93ledNz"
+![https://twitter.com/QIAGEN/status/864510891953463297](https://pbs.twimg.com/media/C_9cEt5UwAA7sVK.jpg:small)
+
 - 2017-05-10 [オープンデータを分析する 〜 微生物ゲノム編 - connpass](https://connpass.com/event/55043/)
 
 ![](https://connpass-tokyo.s3.amazonaws.com/thumbs/db/75/db75a4af41c26eaaf6344b8fd80d64c6.png)
-
-- 2017-05-22 QIAGEN on Twitter: "#Genetic mapping of subways created a history of who was there and what they were doing. #PhalanxOfFriends @metasub https://t.co/Fs3z8Fs0RM"
-![https://twitter.com/QIAGEN/status/866685305625034752](https://pbs.twimg.com/media/DAcVsNqWsAIUR3S.jpg)
 
 - December 19, 2016 [Deep GIS: Mapping What You Touch In the Subways | eSpatially New York](http://espatiallynewyork.com/2016/12/19/deep-gis-mapping-what-you-touch-in-the-subways/)
 - 16 Dec 2016 Christopher Mason ‏[MetaSUB: Discover and Map the Genomes Around Us](https://twitter.com/mason_lab/status/809840594075971584) Our crowdfunding campaign for the global metagenomics study
@@ -65,6 +68,8 @@ Last Update: 2017-06-10
 
 - 2016.06.28 [QIAGEN社、Weill Cornell Medicineと協力し54都市で微生物マップ作製](https://bio.nikkeibp.co.jp/atcl/news/p1/16/06/25/00996/)
   - ドイツQIAGEN社は2016年6月21日、病原菌の有病率(prevalence) を探索するグローバル研究で、米Weill Cornell Medicineと協力すると発表した。研究対象には、都市環境における抗菌剤耐性が含まれる。
+- [医療分野におけるビッグデータ 並びに ICT・AI の利活用の最新動向](http://www.jhsf.or.jp/paper/report/report_201604.pdf)
+  - さらには、地下鉄の 手すりやベンチに常在するマイクロバイオーム解析を行う MetaSUB というプロジェクト も開始されている。
 - 2016年4月[（研究開発の俯瞰報告書）研究開発の新しい動向（2016年）／CRDS-FY2016-FR-01](https://www.jst.go.jp/crds/report/report02/CRDS-FY2016-FR-01.html)
   - 都市スケールでのメタゲノム解析がニューヨ ーク市の地下鉄、運河、公園からのサンプルで行われた 5)。
 - 2016年3月[（調査報告書）グリーンバイオ分野における研究開発の重要課題と統合的推進 ～イノベーション創出と持続可能な社会の形成へ向けて～／CRDS-FY2015-RR-08](https://www.jst.go.jp/crds/report/report04/CRDS-FY2015-RR-08.html)
