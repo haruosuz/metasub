@@ -1,7 +1,7 @@
 ----------
 
 Haruo Suzuki (haruo[at]g-language[dot]org)   
-Last Update: 2017-05-10
+Last Update: 2017-06-10
 
 ----------
 
@@ -27,6 +27,11 @@ Last Update: 2017-05-10
 ----------
 
 ## Updates
+
+- 8 Jun 2017 https://twitter.com/mason_lab/status/872670404783026176 Christopher Mason on Twitter: "10,000 DNA/RNA samples in one day for @metasub on June 21; global city sampling day and citizen scientists welcome! https://t.co/ys4Bwa4IwL"
+
+![https://twitter.com/H2HOutreach/status/872813598812274690](https://pbs.twimg.com/media/DBzbOnsXsAAjG7w.jpg)
+
 - 2017-05-10 [オープンデータを分析する 〜 微生物ゲノム編 - connpass](https://connpass.com/event/55043/)
 
 ![](https://connpass-tokyo.s3.amazonaws.com/thumbs/db/75/db75a4af41c26eaaf6344b8fd80d64c6.png)
@@ -79,7 +84,14 @@ Last Update: 2017-05-10
 
 ----------
 ### [2017 Meetings](http://metasub.org/meetings-2017/)
-3rd Annual MetaSUB Summit in Stockholm, Sweden!  
+2017 Conference - MetaSUB
+
+[2017 Conference Agenda](http://metasub.org/2017-conference-agenda/)
+
+3rd Annual Metagenomics and Metadesign of Subways and Urban Biomes (MetaSUB) Conference
+
+3rd Annual MetaSUB Summit in Stockholm, Sweden!
+
 第3回 MetaSUB 会議、スウェーデンのストックホルム！
 
 ----------
@@ -383,6 +395,9 @@ O[hanami](https://en.wikipedia.org/wiki/Hanami) ("flower viewing") is the Japane
 ## Subways
 地下鉄
 
+http://twistedsifter.com/2017/05/subway-maps-compared-to-their-actual-geography/
+15 Subway Maps Compared to Their Actual Geography 
+
 - 10/26/2016 [A It’s embarrassing how clean Tokyo’s subways are compared to New York’s](https://socialfeed.info/a-it-s-embarrassing-how-clean-tokyo-s-subways-are-compared-to-new-york-s-7780311)
 - NY市地下鉄の清掃状況
  - 5/19/15 [The New York City Subway Is Full Of Garbage](http://jalopnik.com/the-new-york-city-subway-is-full-of-garbage-1705602906)
@@ -452,6 +467,12 @@ PLoS One. 2012;7(10):e47656.
 MOCAT: a metagenomics assembly and gene prediction toolkit.
 
 ----------
+## Unclassified
+
+https://www.ncbi.nlm.nih.gov/pubmed/28337071
+J Biomol Tech. 2017 Apr;28(1):8-18. doi: 10.7171/jbt.17-2801-006. Epub 2017 Mar 17.
+International Standards for Genomes, Transcriptomes, and Metagenomes.
+Mason CE1, Afshinnekoo E2, Tighe S3, Wu S4, Levy S5.
 
 https://www.ncbi.nlm.nih.gov/pubmed/25479039
 Int J Environ Res Public Health. 2014 Dec 3;11(12):12544-61. doi: 10.3390/ijerph111212544.
@@ -459,3 +480,8 @@ Diversity of bacterial communities of fitness center surfaces in a U.S. metropol
 Mukherjee N1, Dowd SE2, Wise A3, Kedia S4, Vohra V5, Banerjee P6.
 
 ----------
+
+https://twitter.com/NatureBiotech/status/864838380353449984
+Nature Biotechnology on Twitter: "Living in a microbial world https://t.co/ZdCdm36qen #metagenomics #microbiome https://t.co/B0oiSiOGcA"
+
+
