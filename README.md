@@ -30,6 +30,7 @@ Last Update: 2017-06-10
 
 - 8 Jun 2017 https://twitter.com/mason_lab/status/872670404783026176 Christopher Mason on Twitter: "10,000 DNA/RNA samples in one day for @metasub on June 21; global city sampling day and citizen scientists welcome! https://t.co/ys4Bwa4IwL"
 
+- https://twitter.com/H2HOutreach/status/872813598812274690 Heart-to-Heart on Twitter: "Volunteer with metaSUB June 21st, 2017 https://t.co/xeeC09xwKB"
 ![https://twitter.com/H2HOutreach/status/872813598812274690](https://pbs.twimg.com/media/DBzbOnsXsAAjG7w.jpg)
 
 - 2017-05-22 QIAGEN on Twitter: "#Genetic mapping of subways created a history of who was there and what they were doing. #PhalanxOfFriends @metasub https://t.co/Fs3z8Fs0RM"
