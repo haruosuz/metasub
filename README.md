@@ -1,7 +1,7 @@
 ----------
 
 Haruo Suzuki (haruo[at]g-language[dot]org)   
-Last Update: 2017-06-10
+Last Update: 2017-07-10
 
 ----------
 
@@ -27,6 +27,10 @@ Last Update: 2017-06-10
 ----------
 
 ## Updates
+
+- 23 Jun 2017 https://twitter.com/WeillCornell/status/878323286349717509 WeillCornellMedicine on Twitter: ".@mason_lab & CM @BenKallos collect DNA from @2ndAvenueSubway station. @NY1 discussed his ongoing #MetaSub project https://t.co/S1uy0l4ACq https://t.co/J4oVcbSQ1j"
+
+- 14 Jun 2017 https://twitter.com/MetaSUB_Sweden/status/875050207427350528 MetaSUB_Sweden on Twitter: "Video: MetaSUB - Creating Molecular Portraits of Cities Around the World https://t.co/0v85fLFjpC #metasub rocks #csd17"
 
 - 8 Jun 2017 https://twitter.com/mason_lab/status/872670404783026176 Christopher Mason on Twitter: "10,000 DNA/RNA samples in one day for @metasub on June 21; global city sampling day and citizen scientists welcome! https://t.co/ys4Bwa4IwL"
 
@@ -111,6 +115,10 @@ Last Update: 2017-06-10
 2. 都市建築環境における抗菌剤耐性マーカーの同定と追跡
 3. 創薬のための新規生合成遺伝子クラスターの同定
 
+- 2017-06-21 [Why Researchers Collected DNA from the Subway Today](http://www.ny1.com/nyc/all-boroughs/transit/2017/06/21/subway-swabbing-manhattan-dna-germs-cells-collection.html)
+- 2017-06-21 [Global City Sampling Day 2017 @ Oracle - connpass](https://connpass.com/event/57285/)
+- 2017-06-19 [Global City Sampling Day Tutorial MetaSUB 2017 - YouTube](https://youtu.be/boIK-ezDuuI)
+
 ![](http://images.med.cornell.edu/body/dean/2016/06_21_16metasub3sm.jpg)
 ![](http://images.med.cornell.edu/body/dean/2016/06_21_16metasub2sm.jpg)
 ![](http://images.med.cornell.edu/body/dean/2016/06_21_16metasub1sm.jpg)
@@ -140,6 +148,8 @@ Last Update: 2017-06-10
 [Metagenomics & Metadesign of Subways & Urban Biomes (MetaSUB) 2016 Summit Tickets, Fri, Jul 1, 2016 at 8:00 AM | Eventbrite](https://www.eventbrite.com/e/metagenomics-metadesign-of-subways-urban-biomes-metasub-2016-summit-tickets-23006196152)
 
 ![https://twitter.com/leungmarcus/status/748749881230045184](https://pbs.twimg.com/media/CmQYASEUIAAlBAC.jpg)
+
+Aug 10, 2016 [Christopher Mason, MetaSUB Consortium - Shanghai, China](https://youtu.be/9fpYvTy_a8k)
 
 ----------
 ### [2015 Meetings](http://metasub.org/meetings/2015-meetings/)
@@ -401,6 +411,9 @@ O[hanami](https://en.wikipedia.org/wiki/Hanami) ("flower viewing") is the Japane
 ## Subways
 地下鉄
 
+http://mymodernmet.com/animated-subway-maps/
+Animated Subway Map GIFs Compared to Actual Geography
+
 http://twistedsifter.com/2017/05/subway-maps-compared-to-their-actual-geography/
 15 Subway Maps Compared to Their Actual Geography 
 
@@ -471,6 +484,20 @@ MetAMOS: a modular and open source metagenomic assembly and analysis pipeline.
 https://www.ncbi.nlm.nih.gov/pubmed/23082188
 PLoS One. 2012;7(10):e47656.
 MOCAT: a metagenomics assembly and gene prediction toolkit.
+
+----------
+## Microbiology of the Built Environment
+
+http://www.microbe.net
+microBEnet: the microbiology of the Built Environment network – At the interface of microbial ecology and building science.
+
+[Microbiology of the Built Environment](https://www.biomedcentral.com/collections/builtenvironment)
+
+https://www.ncbi.nlm.nih.gov/pubmed/27216717
+Microbiome. 2016 May 24;4(1):21. doi: 10.1186/s40168-016-0165-2.
+The roles of the outdoors and occupants in contributing to a potential pan-microbiome of the built environment: a review.
+Leung MH1, Lee PK2.
+http://www.microbe.net/2016/06/01/outdoors-occupants-and-the-pan-microbiome-a-review/
 
 ----------
 ## Unclassified
