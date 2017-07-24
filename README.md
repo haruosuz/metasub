@@ -13,8 +13,8 @@ Last Update: 2017-07-10
 
 ## Table of Contents
 - [Video](#video)
-- [2017 Meetings](#2017-meetings)
 - 2017-07 [CAMDA 2017](#camda)
+- [2017 Meetings](#2017-meetings)
 - 2017-06-21 [Global City Sampling Day (CSD)](#csd)
 - 2017-03-28 [StuckOnU](#stuckonu)
 - 2016-10-20 [Innovative City Forum](#icf)
@@ -93,16 +93,14 @@ Last Update: 2017-07-10
 - [Pawel Labaj (@pawel_labaj) | Twitter](https://twitter.com/pawel_labaj)
 
 ----------
-### [2017 Meetings](http://metasub.org/meetings-2017/)
-2017 Conference - MetaSUB
+### 2017 Meetings
+[2017 Conference - MetaSUB](http://metasub.org/meetings-2017/)
 
 [2017 Conference Agenda](http://metasub.org/2017-conference-agenda/)
 
-3rd Annual Metagenomics and Metadesign of Subways and Urban Biomes (MetaSUB) Conference
+3rd Annual MetaSUB Summit in Stockholm, Sweden
 
-3rd Annual MetaSUB Summit in Stockholm, Sweden!
-
-第3回 MetaSUB 会議、スウェーデンのストックホルム！
+第3回 MetaSUB 会議、スウェーデンのストックホルム
 
 ----------
 ### [CSD](http://metasub.org/city-sampling-day/)
@@ -327,7 +325,6 @@ Our paper on bringing together molecular specimens and online participatory surv
 https://twitter.com/guruguruyellow/status/298194313572130819
 .@cnn_co_jp 僭越ながら1/31の「ツイッターでインフルエンザ流行地域の予測目指す」の捕捉をさせて頂きます。2006年よりハーバード大学公衆衛生大学院が以下のサイトを立ち上げております。ご覧頂けましたら幸いです。@healthmap @FluNearYou 
 
-
 ----------
 
 ## OMG-Seq
@@ -343,6 +340,13 @@ O[hanami](https://en.wikipedia.org/wiki/Hanami) ("flower viewing") is the Japane
 - [#お花見メタゲノム hashtag on Twitter](https://twitter.com/hashtag/お花見メタゲノム)
 - [#OMGseq hashtag on Twitter](https://twitter.com/hashtag/OMGseq)
 - [NGS現場の会 第四回研究会](http://www.ngs-field.org/ngs4th/)
+
+https://twitter.com/iNut/status/887712823257812992
+T. Inutano on Twitter: "お花見論文がbioRxivで公開されました Collaborative environmental DNA sampling from petal surfaces of flowering cherry https://t.co/kg2yqZTpi6"
+
+http://www.biorxiv.org/content/early/2017/07/19/165522
+Collaborative environmental DNA sampling from petal surfaces of flowering cherry Cerasus × yedoensis 'Somei-yoshino' across the Japanese archipelago | bioRxiv
+Posted July 19, 2017.
 
 ----------
 
@@ -411,6 +415,10 @@ O[hanami](https://en.wikipedia.org/wiki/Hanami) ("flower viewing") is the Japane
 ## Subways
 地下鉄
 
+https://twitter.com/search?q=東京メトロ
+
+少年ジャンプの名作コマ、東京メトロ171駅に。あのキャラのしびれるセリフは......【東西線編・23駅】 http://www.huffingtonpost.jp/2017/07/20/jump-metro_n_17548058.html @HuffPostJapanさんから
+
 http://mymodernmet.com/animated-subway-maps/
 Animated Subway Map GIFs Compared to Actual Geography
 
@@ -439,7 +447,12 @@ The report states that 88% of stations were cleaned fewer than eight times a yea
 
 ![https://twitter.com/metasub/status/745237893153722369](https://pbs.twimg.com/media/Cled6GCWEAQySfM.jpg)
 
-## [Bioinformatics Analysis – MetaSUB](http://metasub.org/methods/bioinformatics-analysis/)
+
+----------
+
+## References
+
+### [Bioinformatics Analysis – MetaSUB](http://metasub.org/methods/bioinformatics-analysis/)
 
 https://www.ncbi.nlm.nih.gov/pubmed/28321234
 Front Genet. 2017 Mar 6;8:23. doi: 10.3389/fgene.2017.00023. eCollection 2017.
@@ -458,7 +471,7 @@ Oulas A1, Pavloudi C2, Polymenakou P1, Pavlopoulos GA3, Papanikolaou N3, Kotoula
  - 論文 [Menzel P et al. Nat Commun. 2016 "Fast and sensitive taxonomic classification for metagenomics with Kaiju."](https://www.ncbi.nlm.nih.gov/pubmed/27071849)
   - We compared the performance of Kaiju with the two k-mer-based programs Kraken and Clark, which performed best in speed and accuracy in a recent benchmark study18. https://www.ncbi.nlm.nih.gov/pubmed/26778510
 
-## Metagenomic Assembly
+### Metagenomic Assembly
 
 https://omictools.com/metagenomic-assembly-category
 Assembly software tools | Metagenomic sequencing analysis - OMICtools
@@ -485,22 +498,43 @@ https://www.ncbi.nlm.nih.gov/pubmed/23082188
 PLoS One. 2012;7(10):e47656.
 MOCAT: a metagenomics assembly and gene prediction toolkit.
 
-----------
-## Microbiology of the Built Environment
+### Microbiology of the Built Environment
 
 http://www.microbe.net
 microBEnet: the microbiology of the Built Environment network – At the interface of microbial ecology and building science.
 
-[Microbiology of the Built Environment](https://www.biomedcentral.com/collections/builtenvironment)
+https://twitter.com/NatureBiotech/status/864838380353449984
+Nature Biotechnology on Twitter: "Living in a microbial world https://t.co/ZdCdm36qen #metagenomics #microbiome https://t.co/B0oiSiOGcA"
+
+https://www.ncbi.nlm.nih.gov/pubmed/28486462
+Nat Biotechnol. 2017 May 9;35(5):401-403.
+Living in a microbial world.
+Schmidt C.
+
+http://www.sciencedirect.com/science/article/pii/S0360132316303419
+Building and Environment
+Volume 109, 15 November 2016, Pages 224-234
+Ten questions concerning the microbiomes of buildings
+
+https://www.ncbi.nlm.nih.gov/pubmed/27822547
+mSystems. 2016 Jul 26;1(4). pii: e00083-16. eCollection 2016 Jul-Aug.
+What Have We Learned about the Microbiomes of Indoor Environments?
+Stephens B1.
+
+http://www.microbe.net/2016/06/01/outdoors-occupants-and-the-pan-microbiome-a-review/
+Outdoors, occupants, and the pan-microbiome: a review
+ By Marcus Leung
+Posted on June 1, 2016
 
 https://www.ncbi.nlm.nih.gov/pubmed/27216717
 Microbiome. 2016 May 24;4(1):21. doi: 10.1186/s40168-016-0165-2.
 The roles of the outdoors and occupants in contributing to a potential pan-microbiome of the built environment: a review.
 Leung MH1, Lee PK2.
-http://www.microbe.net/2016/06/01/outdoors-occupants-and-the-pan-microbiome-a-review/
 
-----------
-## Unclassified
+https://www.biomedcentral.com/collections/builtenvironment
+Microbiology of the Built Environment
+
+### Unclassified
 
 https://www.ncbi.nlm.nih.gov/pubmed/28337071
 J Biomol Tech. 2017 Apr;28(1):8-18. doi: 10.7171/jbt.17-2801-006. Epub 2017 Mar 17.
@@ -513,8 +547,3 @@ Diversity of bacterial communities of fitness center surfaces in a U.S. metropol
 Mukherjee N1, Dowd SE2, Wise A3, Kedia S4, Vohra V5, Banerjee P6.
 
 ----------
-
-https://twitter.com/NatureBiotech/status/864838380353449984
-Nature Biotechnology on Twitter: "Living in a microbial world https://t.co/ZdCdm36qen #metagenomics #microbiome https://t.co/B0oiSiOGcA"
-
-
