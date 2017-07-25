@@ -90,17 +90,17 @@ Last Update: 2017-07-10
 - [The CAMDA Contest Challenges](http://contest.camda.info)
  - [MetaSUB Inter-City Challenge](http://camda2017.bioinf.jku.at/doku.php/contest_dataset#metasub_inter-city_challenge)
 - [CAMDA 2017 (@CAMDA_conf) | Twitter](https://twitter.com/camda_conf)
-- [Pawel Labaj (@pawel_labaj) | Twitter](https://twitter.com/pawel_labaj)
 
 ----------
 ### 2017 Meetings
-[2017 Conference - MetaSUB](http://metasub.org/meetings-2017/)
-
-[2017 Conference Agenda](http://metasub.org/2017-conference-agenda/)
-
 3rd Annual MetaSUB Summit in Stockholm, Sweden
 
 第3回 MetaSUB 会議、スウェーデンのストックホルム
+
+- [2017 Conference - MetaSUB](http://metasub.org/meetings-2017/)
+- [2017 Conference Agenda](http://metasub.org/2017-conference-agenda/)
+
+![https://twitter.com/mason_lab/status/887590927409315841](https://pbs.twimg.com/media/DFFbO1FXcAAqUTJ.jpg)
 
 ----------
 ### [CSD](http://metasub.org/city-sampling-day/)
@@ -307,8 +307,9 @@ Aug 10, 2016 [Christopher Mason, MetaSUB Consortium - Shanghai, China](https://y
 - [MetaSUB_Sweden (@MetaSUB_Sweden) | Twitter](https://twitter.com/MetaSUB_Sweden)
 - [MetaSUB_Hyderabad (@Metasub_India) | Twitter](https://twitter.com/Metasub_India)
 - [Christopher Mason (@mason_lab) | Twitter](https://twitter.com/mason_lab)
-- [Erica Hartmann (@ericamhartmann) | Twitter](https://twitter.com/ericamhartmann)
 - [Marcus Leung (@leungmarcus) | Twitter](https://twitter.com/leungmarcus)
+- [Pawel Labaj (@pawel_labaj) | Twitter](https://twitter.com/pawel_labaj)
+- [Erica Hartmann (@ericamhartmann) | Twitter](https://twitter.com/ericamhartmann)
 
 https://twitter.com/hashtag/metasub15
 Christopher Mason ‏@mason_lab  Jun 20
