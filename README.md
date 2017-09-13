@@ -87,7 +87,8 @@ Last Update: 2017-07-10
 
 ### [ICF2017](http://icf.academyhills.com)
 - [プログラム | Innovative City Forum](http://icf.academyhills.com/program/)
-2016-10-13 (金) 10:00 - 12:00
+
+2016-10-13 (金) 10:00 - 12:00  
 バイオテクノロジーセッション  
 「バイオテクノロジーと未来の都市環境デザイン」  
 ～都市の微生物・視えないものを可視化する～  
