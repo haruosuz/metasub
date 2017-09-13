@@ -85,6 +85,8 @@ Last Update: 2017-07-10
 ## ICF
 [**Innovative City Forum**](http://icf.academyhills.com/en/)
 
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQip4H3i04zGIO9Mdqq95avDy83FkwIYNCqcr15ivdE7sOiV44GFQ)
+
 ### [ICF2017](http://icf.academyhills.com)
 - [プログラム | Innovative City Forum](http://icf.academyhills.com/program/)
  - 2016-10-13 (金) 10:00 - 12:00  
