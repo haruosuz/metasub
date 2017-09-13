@@ -7,17 +7,17 @@ Last Update: 2017-07-10
 
 # [MetaSUB](http://metasub.org/?page_id=55)
 **MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes**  
-都市環境（地下鉄）生物叢のメタゲノム・デザイン
+都市環境生物群集
 
 ![https://crowdfunding.cornell.edu/project/3636](https://res.cloudinary.com/scalefunder/image/fetch/s--IPZeYcxb--/f_auto,fl_lossy,h_351,q_auto,w_622/https://res.cloudinary.com/scalefunder/image/upload/v1481836129/Cornell_University/vkt6clbw1ukeomgeokzb.png)
 
 ## Table of Contents
 - [Video](#video)
+- 2016-10-13 [Innovative City Forum](#icf)
 - 2017-07 [CAMDA 2017](#camda)
 - [2017 Meetings](#2017-meetings)
 - 2017-06-21 [Global City Sampling Day (CSD)](#csd)
 - 2017-03-28 [StuckOnU](#stuckonu)
-- 2016-10-20 [Innovative City Forum](#icf)
 - 2016-08 [Olympiome](#olympiome)
 - 2016-07-01 [2016 Meetings](#2016-meetings)
 - 2016-06-28 [Boston Subway Microbiome](#boston-subway-microbiome)
@@ -82,6 +82,43 @@ Last Update: 2017-07-10
 - [公益財団法人鉄道総合技術研究所｜人間科学ニュース 2016年3月号（第202号）](https://www.rtri.or.jp/rd/news/human/human_201603.html#sect04) 遺伝子で鉄道の環境を見る（生物工学グループ　池畑政輝）
 
 ----------
+## ICF
+[**Innovative City Forum**](http://icf.academyhills.com/en/)
+
+### [ICF2017](http://icf.academyhills.com)
+- [プログラム | Innovative City Forum](http://icf.academyhills.com/program/)
+2016-10-13 (金) 10:00 - 12:00
+バイオテクノロジーセッション
+「バイオテクノロジーと未来の都市環境デザイン」
+～都市の微生物・視えないものを可視化する～
+最先端モバイル遺伝子解析装置“MinION”がこれまでない都市環境の可視化をもたらした。NASAと共同で実施した宇宙実験から都市の微生物遺伝子解析プロジェクトMetaSUBまで、未来の都市環境デザインについて、ハードウェア、ソフトウェア、そしてウェットウェア（バイオテクノロジー）の観点から議論を展開します。
+
+### [ICF2016](http://icf.academyhills.com/2016/)
+- 2016-10-20 [プログラム](http://icf.academyhills.com/program/#session_special)
+ - 「スマートシティを司る”2番目の脳”都市のホロバイオント」
+ＩＣＦ2015で、都市における微生物と人の関係を披露したケヴィン。「宿主と多数の微生物が共生する生物単位“ホロバイオント”が、生物の個体である」という概念を、建築や都市にまで拡大した最新研究を紹介します。また、ケヴィンが研究のインスピレーションを受けたまんが「もやしもん」の作家　石川雅之氏を交え、微生物と人と都市の関係を紐解きます。
+- [ICF2016 (@icf_tokyo) | Twitter](https://twitter.com/icf_tokyo)
+- [#icf_tokyo hashtag on Twitter](https://twitter.com/hashtag/icf_tokyo)
+- [Innovative City Forum - ICF | Facebook](https://www.facebook.com/ICF.TOKYO/)
+
+### [ICF2015](http://icf.academyhills.com/2015/)
+- 2015-10-14 [プログラム](http://icf.academyhills.com/2015/program.html)
+ - スマートシティを司る“２番目の脳”
+都市の中の微生物叢から学ぶこと
+「都市における微生物の存在が私達の健康にどのように関係しているのか？」
+私達を取り巻く微生物と都市環境デザインについて、ハード、ソフト、バイオテクノロジーの観点から議論を展開します。
+- 【動画】[スマートシティを司る“２番目の脳”](https://youtu.be/EQiO9kzpeBw?list=PLQl-BPZhcsy9EN-0jO8QildbCxtyIsR0C)｜[Second Brain for the Smart City](https://youtu.be/uSjGeACndIA?list=PLHMUAsAGfigcKRu2Quna-C-VhzJbl5hY2)
+- [「スマートシティを司る“２番目の脳” 」先端技術セッション2の動画　/ケヴィン・スラヴィン、クリストファー・メイソン、ジェシカ・グリーン、伊藤穰一/　 Innovative City Forum 2015 /　動画（ youtube/Innovative City Forum – Japanese）　-archiclue.](http://archiclue.com/?p=16436)
+- [Innovative City Forum に関する記事一覧｜WIRED.jp](http://wired.jp/tag/innovative-city-forum/)
+ - 2015-12-01 [東京に多様性と複雑性を：伊藤穰一のバイオシティ構想](http://wired.jp/2015/12/01/joi-ito-future-city-tokyo/)
+ - 2015-10-02 [「微生物によって建築のデザイン・プロセスを変えたい」ジェシカ・グリーン（微生物学者） « WIRED.jp](http://wired.jp/2015/10/02/innovative-city-forum-2015-4/)
+ - 2015-09-18 [「バイオは自分には関係ないと思っていませんか」林千晶（MITメディアラボ所長補佐）：ICF 2015の見どころを語る｜WIRED.jp](http://wired.jp/2015/09/18/innovative-city-forum-2015-2/)
+- [「微生物から新しいデザインがはじまる」デイヴィッド・ベンジャミン✕ジェシカ・グリーン✕林千晶：Redesigning Tokyo 対話4「Biology」 « WIRED.jp](http://wired.jp/special/2016/biology/)
+ - BiomeView（Autodesk Research）ホコリから生まれた空間デザイン
+ - Bee Debris Project（MIT Media Lab）蜂の巣箱のなかのビッグデータ
+ - Pathomap Project（Weill Cornell Medical College）NY地下鉄の細菌マップ
+
+----------
 ### [CAMDA](http://metasub.org/camda-challenge-2017/)
 ![](http://camda2017.bioinf.jku.at/lib/tpl/mnml-blog/user/logo.png)
 
@@ -143,11 +180,11 @@ Last Update: 2017-07-10
 ### [2016 Meetings](http://metasub.org/meetings/2016-meetings/)
 第2回 MetaSUB 会議、2016年7月1日〜2日、中国上海市[復旦大学](https://ja.wikipedia.org/wiki/復旦大学)
 
-[Metagenomics & Metadesign of Subways & Urban Biomes (MetaSUB) 2016 Summit Tickets, Fri, Jul 1, 2016 at 8:00 AM | Eventbrite](https://www.eventbrite.com/e/metagenomics-metadesign-of-subways-urban-biomes-metasub-2016-summit-tickets-23006196152)
+- Aug 10, 2016 [Christopher Mason, MetaSUB Consortium - Shanghai, China - YouTube](https://www.youtube.com/watch?v=9fpYvTy_a8k)
+- May 13, 2016 [Abstracts for MetaSUB 2016 Meeting in Shanghai, China – microBEnet: the microbiology of the Built Environment network](http://www.microbe.net/2016/05/13/abstracts-for-metasub-2016-meeting-in-shanghai-china/)
+- [Metagenomics & Metadesign of Subways & Urban Biomes (MetaSUB) 2016 Summit Tickets, Fri, Jul 1, 2016 at 8:00 AM | Eventbrite](https://www.eventbrite.com/e/metagenomics-metadesign-of-subways-urban-biomes-metasub-2016-summit-tickets-23006196152)
 
 ![https://twitter.com/leungmarcus/status/748749881230045184](https://pbs.twimg.com/media/CmQYASEUIAAlBAC.jpg)
-
-Aug 10, 2016 [Christopher Mason, MetaSUB Consortium - Shanghai, China](https://youtu.be/9fpYvTy_a8k)
 
 ----------
 ### [2015 Meetings](http://metasub.org/meetings/2015-meetings/)
@@ -162,7 +199,7 @@ Aug 10, 2016 [Christopher Mason, MetaSUB Consortium - Shanghai, China](https://y
 
 ----------
 ## Boston Subway Microbiome
-ボストン地下鉄の微生物叢
+ボストン地下鉄の微生物群集
 
 ![](https://dvjhhd5e4gesk.cloudfront.net/content/msys/1/3/e00018-16/F1.medium.gif)
 
@@ -186,7 +223,7 @@ Aug 10, 2016 [Christopher Mason, MetaSUB Consortium - Shanghai, China](https://y
 
 ----------
 ## New York Subway Microbiome
-ニューヨーク地下鉄の微生物叢
+ニューヨーク地下鉄の微生物群集
 
 [PathoMap - Mapping New York's Microscopic Residents](http://www.pathomap.org)
 
@@ -244,7 +281,7 @@ Aug 10, 2016 [Christopher Mason, MetaSUB Consortium - Shanghai, China](https://y
 ----------
 
 ### [Olympiome](http://metasub.org/the-olympiome-project/)
-オリンピック開催期間の人の移動による微生物叢の変化
+オリンピック開催期間の人の移動による微生物群集の変化
 
 ![(https://twitter.com/search?q=olympiome)](https://pbs.twimg.com/media/CiMCSRuWkAABQTk.jpg)
 ![https://www.genomeweb.com/sequencing/brazilian-researchers-profile-microbiome-rio-during-after-olympic-games](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRk9ezOAWZ-aWYjJ0UjbDhybWC_8hEE7WA4qG_Hf0ozC9dfOJNM)
@@ -266,35 +303,6 @@ Aug 10, 2016 [Christopher Mason, MetaSUB Consortium - Shanghai, China](https://y
 - 2016.07.06 [CNN.co.jp : リオの海に「スーパー耐性菌」、五輪会場付近や観光ビーチでも - (1/2)](http://www.cnn.co.jp/showbiz/35085425.html)
 - July 5, 2016 [Rio Olympic Games: 'Super bacteria' discovered in Rio's waters as Olympics near - CNN.com](http://edition.cnn.com/2016/07/05/americas/rio-de-janeiro-super-bacteria/)
 - 2015-07-06 [2020年東京五輪、訪日外客数2000万人！？](http://o2o-marketinglab.jp/post/123328430840/2020%E5%B9%B4%E3%81%AB%E3%81%AF2000%E4%B8%87%E4%BA%BAee-tab%E3%82%A4%E3%83%BC%E3%82%BF%E3%83%96%E3%83%97%E3%83%A9%E3%82%B9limocast%E3%81%A7%E8%A6%B3%E5%85%89%E5%AE%A2%E3%82%92%E5%91%BC%E3%81%B3)
-
-----------
-## ICF
-[**Innovative City Forum**](http://icf.academyhills.com/en/)
-
-### [ICF2016](http://icf.academyhills.com)
-- 2016-10-20 [プログラム](http://icf.academyhills.com/program/#session_special)
- - 「スマートシティを司る”2番目の脳”都市のホロバイオント」
-ＩＣＦ2015で、都市における微生物と人の関係を披露したケヴィン。「宿主と多数の微生物が共生する生物単位“ホロバイオント”が、生物の個体である」という概念を、建築や都市にまで拡大した最新研究を紹介します。また、ケヴィンが研究のインスピレーションを受けたまんが「もやしもん」の作家　石川雅之氏を交え、微生物と人と都市の関係を紐解きます。
-- [ICF2016 (@icf_tokyo) | Twitter](https://twitter.com/icf_tokyo)
-- [#icf_tokyo hashtag on Twitter](https://twitter.com/hashtag/icf_tokyo)
-- [Innovative City Forum - ICF | Facebook](https://www.facebook.com/ICF.TOKYO/)
-
-### [ICF2015](http://icf.academyhills.com/2015/)
-- 2015-10-14 [プログラム](http://icf.academyhills.com/2015/program.html)
- - スマートシティを司る“２番目の脳”
-都市の中の微生物叢から学ぶこと
-「都市における微生物の存在が私達の健康にどのように関係しているのか？」
-私達を取り巻く微生物と都市環境デザインについて、ハード、ソフト、バイオテクノロジーの観点から議論を展開します。
-- 【動画】[スマートシティを司る“２番目の脳”](https://youtu.be/EQiO9kzpeBw?list=PLQl-BPZhcsy9EN-0jO8QildbCxtyIsR0C)｜[Second Brain for the Smart City](https://youtu.be/uSjGeACndIA?list=PLHMUAsAGfigcKRu2Quna-C-VhzJbl5hY2)
-- [「スマートシティを司る“２番目の脳” 」先端技術セッション2の動画　/ケヴィン・スラヴィン、クリストファー・メイソン、ジェシカ・グリーン、伊藤穰一/　 Innovative City Forum 2015 /　動画（ youtube/Innovative City Forum – Japanese）　-archiclue.](http://archiclue.com/?p=16436)
-- [Innovative City Forum に関する記事一覧｜WIRED.jp](http://wired.jp/tag/innovative-city-forum/)
- - 2015-12-01 [東京に多様性と複雑性を：伊藤穰一のバイオシティ構想](http://wired.jp/2015/12/01/joi-ito-future-city-tokyo/)
- - 2015-10-02 [「微生物によって建築のデザイン・プロセスを変えたい」ジェシカ・グリーン（微生物学者） « WIRED.jp](http://wired.jp/2015/10/02/innovative-city-forum-2015-4/)
- - 2015-09-18 [「バイオは自分には関係ないと思っていませんか」林千晶（MITメディアラボ所長補佐）：ICF 2015の見どころを語る｜WIRED.jp](http://wired.jp/2015/09/18/innovative-city-forum-2015-2/)
-- [「微生物から新しいデザインがはじまる」デイヴィッド・ベンジャミン✕ジェシカ・グリーン✕林千晶：Redesigning Tokyo 対話4「Biology」 « WIRED.jp](http://wired.jp/special/2016/biology/)
- - BiomeView（Autodesk Research）ホコリから生まれた空間デザイン
- - Bee Debris Project（MIT Media Lab）蜂の巣箱のなかのビッグデータ
- - Pathomap Project（Weill Cornell Medical College）NY地下鉄の細菌マップ
 
 ----------
 
@@ -518,7 +526,7 @@ Volume 109, 15 November 2016, Pages 224-234
 Ten questions concerning the microbiomes of buildings
 
 https://www.ncbi.nlm.nih.gov/pubmed/27822547
-mSystems. 2016 Jul 26;1(4). pii: e00083-16. eCollection 2016 Jul-Aug.
+mSystems. 2016 Jul 26;1(4). pii: e00083-16.
 What Have We Learned about the Microbiomes of Indoor Environments?
 Stephens B1.
 
@@ -528,7 +536,7 @@ Outdoors, occupants, and the pan-microbiome: a review
 Posted on June 1, 2016
 
 https://www.ncbi.nlm.nih.gov/pubmed/27216717
-Microbiome. 2016 May 24;4(1):21. doi: 10.1186/s40168-016-0165-2.
+Microbiome. 2016 May 24;4(1):21.
 The roles of the outdoors and occupants in contributing to a potential pan-microbiome of the built environment: a review.
 Leung MH1, Lee PK2.
 
