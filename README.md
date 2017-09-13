@@ -467,6 +467,53 @@ The report states that 88% of stations were cleaned fewer than eight times a yea
 
 ## References
 
+### microBEnet
+http://www.microbe.net
+microBEnet: the microbiology of the Built Environment network – At the interface of microbial ecology and building science.
+
+http://www.microbe.net/microbenet-past-events-meetings-workshops/upcoming-events/mobe_2017/
+MoBE 2017: Microbiology of the Built Environment Research and Applications Symposium
+October 10 – October 12, 2017
+
+http://www.microbe.net/2017/02/06/call-for-papers-mobe-2017-microbiome-special-issue/
+Call for Papers MoBE 2017 Microbiome Special Issue – microBEnet: the microbiology of the Built Environment network
+
+### Microbiology of the Built Environment
+
+https://www.biomedcentral.com/collections/builtenvironment
+Microbiology of the Built Environment
+
+https://www.biomedcentral.com/collections/mobe2017
+Microbiome of the Built Environment (MoBE) 2017: Research to Application
+
+https://twitter.com/NatureBiotech/status/864838380353449984
+Nature Biotechnology on Twitter: "Living in a microbial world https://t.co/ZdCdm36qen #metagenomics #microbiome https://t.co/B0oiSiOGcA"
+
+https://www.ncbi.nlm.nih.gov/pubmed/28486462
+Nat Biotechnol. 2017 May 9;35(5):401-403.
+Living in a microbial world.
+Schmidt C.
+
+http://www.sciencedirect.com/science/article/pii/S0360132316303419
+Building and Environment
+Volume 109, 15 November 2016, Pages 224-234
+Ten questions concerning the microbiomes of buildings
+
+https://www.ncbi.nlm.nih.gov/pubmed/27822547
+mSystems. 2016 Jul 26;1(4). pii: e00083-16.
+What Have We Learned about the Microbiomes of Indoor Environments?
+Stephens B1.
+
+http://www.microbe.net/2016/06/01/outdoors-occupants-and-the-pan-microbiome-a-review/
+Outdoors, occupants, and the pan-microbiome: a review
+ By Marcus Leung
+Posted on June 1, 2016
+
+https://www.ncbi.nlm.nih.gov/pubmed/27216717
+Microbiome. 2016 May 24;4(1):21.
+The roles of the outdoors and occupants in contributing to a potential pan-microbiome of the built environment: a review.
+Leung MH1, Lee PK2.
+
 ### [Bioinformatics Analysis – MetaSUB](http://metasub.org/methods/bioinformatics-analysis/)
 
 https://www.ncbi.nlm.nih.gov/pubmed/28321234
@@ -512,42 +559,6 @@ MetAMOS: a modular and open source metagenomic assembly and analysis pipeline.
 https://www.ncbi.nlm.nih.gov/pubmed/23082188
 PLoS One. 2012;7(10):e47656.
 MOCAT: a metagenomics assembly and gene prediction toolkit.
-
-### Microbiology of the Built Environment
-
-http://www.microbe.net
-microBEnet: the microbiology of the Built Environment network – At the interface of microbial ecology and building science.
-
-https://twitter.com/NatureBiotech/status/864838380353449984
-Nature Biotechnology on Twitter: "Living in a microbial world https://t.co/ZdCdm36qen #metagenomics #microbiome https://t.co/B0oiSiOGcA"
-
-https://www.ncbi.nlm.nih.gov/pubmed/28486462
-Nat Biotechnol. 2017 May 9;35(5):401-403.
-Living in a microbial world.
-Schmidt C.
-
-http://www.sciencedirect.com/science/article/pii/S0360132316303419
-Building and Environment
-Volume 109, 15 November 2016, Pages 224-234
-Ten questions concerning the microbiomes of buildings
-
-https://www.ncbi.nlm.nih.gov/pubmed/27822547
-mSystems. 2016 Jul 26;1(4). pii: e00083-16.
-What Have We Learned about the Microbiomes of Indoor Environments?
-Stephens B1.
-
-http://www.microbe.net/2016/06/01/outdoors-occupants-and-the-pan-microbiome-a-review/
-Outdoors, occupants, and the pan-microbiome: a review
- By Marcus Leung
-Posted on June 1, 2016
-
-https://www.ncbi.nlm.nih.gov/pubmed/27216717
-Microbiome. 2016 May 24;4(1):21.
-The roles of the outdoors and occupants in contributing to a potential pan-microbiome of the built environment: a review.
-Leung MH1, Lee PK2.
-
-https://www.biomedcentral.com/collections/builtenvironment
-Microbiology of the Built Environment
 
 ### Unclassified
 
