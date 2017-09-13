@@ -87,21 +87,21 @@ Last Update: 2017-07-10
 
 ### [ICF2017](http://icf.academyhills.com)
 - [プログラム | Innovative City Forum](http://icf.academyhills.com/program/)
-
-2016-10-13 (金) 10:00 - 12:00  
-バイオテクノロジーセッション  
-「バイオテクノロジーと未来の都市環境デザイン」  
-～都市の微生物・視えないものを可視化する～  
+ - 2016-10-13 (金) 10:00 - 12:00  
+バイオテクノロジーセッション
+「バイオテクノロジーと未来の都市環境デザイン」
+～都市の微生物・視えないものを可視化する～
 
 最先端モバイル遺伝子解析装置“MinION”がこれまでない都市環境の可視化をもたらした。NASAと共同で実施した宇宙実験から都市の微生物遺伝子解析プロジェクトMetaSUBまで、未来の都市環境デザインについて、ハードウェア、ソフトウェア、そしてウェットウェア（バイオテクノロジー）の観点から議論を展開します。
+
+- [ICF2017 (@icf_tokyo) | Twitter](https://twitter.com/icf_tokyo)
+- [#icf_tokyo hashtag on Twitter](https://twitter.com/hashtag/icf_tokyo)
+- [Innovative City Forum - ICF | Facebook](https://www.facebook.com/ICF.TOKYO/)
 
 ### [ICF2016](http://icf.academyhills.com/2016/)
 - 2016-10-20 [プログラム](http://icf.academyhills.com/program/#session_special)
  - 「スマートシティを司る”2番目の脳”都市のホロバイオント」
 ＩＣＦ2015で、都市における微生物と人の関係を披露したケヴィン。「宿主と多数の微生物が共生する生物単位“ホロバイオント”が、生物の個体である」という概念を、建築や都市にまで拡大した最新研究を紹介します。また、ケヴィンが研究のインスピレーションを受けたまんが「もやしもん」の作家　石川雅之氏を交え、微生物と人と都市の関係を紐解きます。
-- [ICF2016 (@icf_tokyo) | Twitter](https://twitter.com/icf_tokyo)
-- [#icf_tokyo hashtag on Twitter](https://twitter.com/hashtag/icf_tokyo)
-- [Innovative City Forum - ICF | Facebook](https://www.facebook.com/ICF.TOKYO/)
 
 ### [ICF2015](http://icf.academyhills.com/2015/)
 - 2015-10-14 [プログラム](http://icf.academyhills.com/2015/program.html)
