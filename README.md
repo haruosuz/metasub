@@ -87,7 +87,7 @@ Last Update: 2017-07-10
 
 ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQip4H3i04zGIO9Mdqq95avDy83FkwIYNCqcr15ivdE7sOiV44GFQ)
 
-![](https://er-static.s3.amazonaws.com/uploads/events/356091b0137452e6a852802849e5a490d423911d.jpg)
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpPj_68sbOWQAbIGSZqQ3CSq3_R-FfKGu8mdR11SCsMLDIXOjR)
 
 ### [ICF2017](http://icf.academyhills.com)
 - [プログラム | Innovative City Forum](http://icf.academyhills.com/program/)
