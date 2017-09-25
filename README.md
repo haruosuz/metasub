@@ -1,13 +1,13 @@
 ----------
 
 Haruo Suzuki (haruo[at]g-language[dot]org)   
-Last Update: 2017-07-10
+Last Update: 2017-09-25
 
 ----------
 
 # [MetaSUB](http://metasub.org/?page_id=55)
 **MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes**  
-都市環境生物群集
+都市環境の生物群集
 
 ![https://crowdfunding.cornell.edu/project/3636](https://res.cloudinary.com/scalefunder/image/fetch/s--IPZeYcxb--/f_auto,fl_lossy,h_351,q_auto,w_622/https://res.cloudinary.com/scalefunder/image/upload/v1481836129/Cornell_University/vkt6clbw1ukeomgeokzb.png)
 
@@ -120,9 +120,9 @@ Last Update: 2017-07-10
  - 2015-10-02 [「微生物によって建築のデザイン・プロセスを変えたい」ジェシカ・グリーン（微生物学者） « WIRED.jp](http://wired.jp/2015/10/02/innovative-city-forum-2015-4/)
  - 2015-09-18 [「バイオは自分には関係ないと思っていませんか」林千晶（MITメディアラボ所長補佐）：ICF 2015の見どころを語る｜WIRED.jp](http://wired.jp/2015/09/18/innovative-city-forum-2015-2/)
 - [「微生物から新しいデザインがはじまる」デイヴィッド・ベンジャミン✕ジェシカ・グリーン✕林千晶：Redesigning Tokyo 対話4「Biology」 « WIRED.jp](http://wired.jp/special/2016/biology/)
- - BiomeView（Autodesk Research）ホコリから生まれた空間デザイン
- - Bee Debris Project（MIT Media Lab）蜂の巣箱のなかのビッグデータ
- - Pathomap Project（Weill Cornell Medical College）NY地下鉄の細菌マップ
+ - BiomeView / ホコリから生まれた空間デザイン
+ - Bee Debris Project / 蜂の巣箱のなかのビッグデータ
+ - Pathomap Project / NY地下鉄の細菌マップ
 
 ----------
 ### [CAMDA](http://metasub.org/camda-challenge-2017/)
@@ -485,6 +485,9 @@ Call for Papers MoBE 2017 Microbiome Special Issue – microBEnet: the microbiol
 ### MoBE
 建築環境の微生物
 
+http://nas-sites.org/builtmicrobiome/
+Microbiomes of the Built Environment
+
 https://www.biomedcentral.com/collections/builtenvironment
 Microbiology of the Built Environment
 
@@ -518,6 +521,14 @@ https://www.ncbi.nlm.nih.gov/pubmed/27216717
 Microbiome. 2016 May 24;4(1):21.
 The roles of the outdoors and occupants in contributing to a potential pan-microbiome of the built environment: a review.
 Leung MH1, Lee PK2.
+
+https://www.ncbi.nlm.nih.gov/pubmed/26674771
+Microbiome. 2015 Dec 17;3:60. doi: 10.1186/s40168-015-0127-0.
+The microbiome of the built environment and mental health.
+Hoisington AJ1, Brenner LA2, Kinney KA3, Postolache TT4, Lowry CA5.
+
+Jonathan Eisen wrote a blog post on microbe.net praising this paper for its careful accuracy.
+http://www.microbe.net/2015/12/23/near-perfect-balance-in-a-microbiome-paper-hopeful-yet-no-hype-the-microbiome-of-the-built-environment-and-mental-health/
 
 ### [Bioinformatics Analysis – MetaSUB](http://metasub.org/methods/bioinformatics-analysis/)
 
@@ -567,6 +578,15 @@ MOCAT: a metagenomics assembly and gene prediction toolkit.
 
 ### Unclassified
 
+
+
+
+https://www.ncbi.nlm.nih.gov/pubmed/28938903
+Microbiome. 2017 Sep 22;5(1):125. doi: 10.1186/s40168-017-0339-6.
+Metagenomic characterization of ambulances across the USA.
+O'Hara NB1, Reed HJ2, Afshinnekoo E2,3,4, Harvin D5, Caplan N5, Rosen G6, Frye B7, Woloszynek S6, Ounit R8, Levy S9, Butler E2, Mason CE10,11,12.
+
+
 https://www.ncbi.nlm.nih.gov/pubmed/28337071
 J Biomol Tech. 2017 Apr;28(1):8-18. doi: 10.7171/jbt.17-2801-006. Epub 2017 Mar 17.
 International Standards for Genomes, Transcriptomes, and Metagenomes.
@@ -576,5 +596,8 @@ https://www.ncbi.nlm.nih.gov/pubmed/25479039
 Int J Environ Res Public Health. 2014 Dec 3;11(12):12544-61. doi: 10.3390/ijerph111212544.
 Diversity of bacterial communities of fitness center surfaces in a U.S. metropolitan area.
 Mukherjee N1, Dowd SE2, Wise A3, Kedia S4, Vohra V5, Banerjee P6.
+
+https://www.flickr.com/photos/134164093@N07/albums/with/72157669783990365
+YCAM Bio Research’s albums | Flickr
 
 ----------
