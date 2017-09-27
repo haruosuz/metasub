@@ -1,7 +1,7 @@
 ----------
 
 Haruo Suzuki (haruo[at]g-language[dot]org)   
-Last Update: 2017-09-25
+Last Update: 2017-09-27
 
 ----------
 
@@ -27,6 +27,10 @@ Last Update: 2017-09-25
 ----------
 
 ## Updates
+
+- 2017/10/12(Thu) [オープンデータを分析する 〜 環境ゲノム編 - connpass](https://opendata.connpass.com/event/67452/)
+
+![](https://connpass-tokyo.s3.amazonaws.com/thumbs/db/75/db75a4af41c26eaaf6344b8fd80d64c6.png)
 
 - 23 Jun 2017 https://twitter.com/WeillCornell/status/878323286349717509 WeillCornellMedicine on Twitter: ".@mason_lab & CM @BenKallos collect DNA from @2ndAvenueSubway station. @NY1 discussed his ongoing #MetaSub project https://t.co/S1uy0l4ACq https://t.co/J4oVcbSQ1j"
 
@@ -85,8 +89,6 @@ Last Update: 2017-09-25
 ## ICF
 [**Innovative City Forum**](http://icf.academyhills.com/en/)
 
-![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQip4H3i04zGIO9Mdqq95avDy83FkwIYNCqcr15ivdE7sOiV44GFQ)
-
 ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpPj_68sbOWQAbIGSZqQ3CSq3_R-FfKGu8mdR11SCsMLDIXOjR)
 
 ### [ICF2017](http://icf.academyhills.com)
@@ -101,6 +103,8 @@ Last Update: 2017-09-25
 - [ICF2017 (@icf_tokyo) | Twitter](https://twitter.com/icf_tokyo)
 - [#icf_tokyo hashtag on Twitter](https://twitter.com/hashtag/icf_tokyo)
 - [Innovative City Forum - ICF | Facebook](https://www.facebook.com/ICF.TOKYO/)
+
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQip4H3i04zGIO9Mdqq95avDy83FkwIYNCqcr15ivdE7sOiV44GFQ)
 
 ### [ICF2016](http://icf.academyhills.com/2016/)
 - 2016-10-20 [プログラム](http://icf.academyhills.com/program/#session_special)
