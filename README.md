@@ -1,7 +1,7 @@
 ----------
 
 Haruo Suzuki (haruo[at]g-language[dot]org)   
-Last Update: 2017-09-27
+Last Update: 2017-10-15
 
 ----------
 
@@ -582,9 +582,6 @@ MOCAT: a metagenomics assembly and gene prediction toolkit.
 
 ### Unclassified
 
-
-
-
 https://www.ncbi.nlm.nih.gov/pubmed/28938903
 Microbiome. 2017 Sep 22;5(1):125. doi: 10.1186/s40168-017-0339-6.
 Metagenomic characterization of ambulances across the USA.
@@ -604,4 +601,16 @@ Mukherjee N1, Dowd SE2, Wise A3, Kedia S4, Vohra V5, Banerjee P6.
 https://www.flickr.com/photos/134164093@N07/albums/with/72157669783990365
 YCAM Bio Research’s albums | Flickr
 
+#### 2017-10-04
+https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-017-0349-4
+Communicating the promise, risks, and ethics of large-scale, open space microbiome and metagenome research
+- The recent launch of global microbiome surveys, such as the Earth Microbiome Project and MetaSUB (Metagenomics and Metadesign of Subways and Urban Biomes) project, has raised ethical, financial, feasibility, and sustainability concerns as to the public’s level of understanding and potential reaction to the findings, which, done improperly, risk negative implications for ongoing and future investigations, but done correctly, can facilitate a new vision of “smart cities.” 
+- One notable initiative, the MetaSUB project, originated to capture a city-scale molecular profile of DNA collected in New York [2]. The project has now grown into a consortium encompassing 72 major worldwide cities. Such studies challenge our perception of public health, safety, and privacy in urban environments, and seek to advance new strategies to protect our growing society, such as the design of “smart cities” that convey early warnings for potential epidemics and genetically protected infrastructure. 
+- Building on our years of experience in the International MetaSUB Consortium [20, 21, 22, 23], we compiled a list of concerns—all raised during our discussions with ethics committees, community leaders, and government officials—and address them. 
+
 ----------
+
+
+
+
+
