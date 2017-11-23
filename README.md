@@ -1,13 +1,11 @@
-----------
-
 Haruo Suzuki (haruo[at]g-language[dot]org)   
-Last Update: 2017-10-15
+Last Update: 2017-11-23
 
 ----------
 
 # [MetaSUB](http://metasub.org/?page_id=55)
 **MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes**  
-都市環境の生物群集
+都市の微生物群集
 
 ![https://crowdfunding.cornell.edu/project/3636](https://res.cloudinary.com/scalefunder/image/fetch/s--IPZeYcxb--/f_auto,fl_lossy,h_351,q_auto,w_622/https://res.cloudinary.com/scalefunder/image/upload/v1481836129/Cornell_University/vkt6clbw1ukeomgeokzb.png)
 
@@ -287,7 +285,6 @@ Last Update: 2017-10-15
 - 2015-11-20 [Cracking the Genetic Code of Our Cities | Sofia Ahsanuddin | TEDxCUNY - YouTube](https://www.youtube.com/watch?v=t9GrVdYWJOc)
   - [There are 15,000 lifeforms riding the NYC subway, including meningitis | TEDx Innovations Blog](http://tedxinnovations.ted.com/2016/06/15/nyc-subway-commuters-include-15000-lifeforms-including-meningitis/)
 
-
 ----------
 
 ### [Olympiome](http://metasub.org/the-olympiome-project/)
@@ -355,7 +352,7 @@ O[hanami](https://en.wikipedia.org/wiki/Hanami) ("flower viewing") is the Japane
 ![https://github.com/inutano/training/blob/master/ajacs52/README.md#お花見メタゲノムプロジェクト](https://camo.githubusercontent.com/161a12a73623274212e65e843250877b0405435f/687474703a2f2f6779617a6f2e636f6d2f37306232316534396330393831633839346161373461396233343637333937302e706e67)
 
 - [お花見メタ事務局 (@OhanamiMetaG) | Twitter](https://twitter.com/OhanamiMetaG)
-- [🌸 OMG-Seq Data Portal 🌸](http://data.dbcls.jp/~inutano/omg-seq/)
+- [OMG-Seq Data Portal](http://data.dbcls.jp/~inutano/omg-seq/)
 - [#お花見メタゲノム hashtag on Twitter](https://twitter.com/hashtag/お花見メタゲノム)
 - [#OMGseq hashtag on Twitter](https://twitter.com/hashtag/OMGseq)
 - [NGS現場の会 第四回研究会](http://www.ngs-field.org/ngs4th/)
@@ -454,6 +451,7 @@ The report states that 88% of stations were cleaned fewer than eight times a yea
 
 - 地下鉄 インフルエンザ
  - 公開情報｜東京メトロ [東京地下鉄株式会社 「新型インフルエンザ等対策業務計画」要旨](http://www.tokyometro.jp/corporate/profile/disclosure/pdf/measure_plan.pdf)
+
  - [新型インフルエンザにおける 鉄道輸送抑制の効果評価](http://www.mlit.go.jp/pri/adobaizari/pdf/16_No2Shiryou82.pdf) 国立感染症研究所 感染症情報センター
  - 2011-12-03 [都市の空間特性に基づくインフルエンザの感染リスク評価に関する研究 その 2 -路線網を考慮した駅の分布に基づく考察-](http://www.cit.nihon-u.ac.jp/kouendata/No.44/pdf/4-70.pdf)
  - 2008年12月23日 [新型インフル対策で実験＝地下鉄車両使 - 「新型インフルエンザ」情報 | mixiコミュニティ](http://mixi.jp/view_bbs.pl?comm_id=3544178&id=38214071)
@@ -461,10 +459,55 @@ The report states that 88% of stations were cleaned fewer than eight times a yea
  - 2008/12/22 新型インフル拡大防止で実験 通勤電車での乗り方 - 47NEWS
  - [地下鉄で新型インフルエンザ対策実験：政治経済ニュース！](http://seizikeizai.seesaa.net/article/111617412.html)
 
+----------
+
+## ATM
+https://www.microbe.net/2016/11/19/new-papers-on-microbiology-of-the-built-environment-november-19-2016/
+New papers on Microbiology of the Built Environment, November 19, 2016 – microBEnet: the microbiology of the Built Environment network
+
+- 11/21/2016 [菌まみれのＡＴＭ　２年の調査で数十種類を検出 | Daily Sun New York](http://www.dailysunny.com/2016/11/21/nynews161121-2/)
+- NOV. 18, 2016 [Your A.T.M. Is Covered in Microbes, but Mostly Harmless - The New York Times](http://www.nytimes.com/2016/11/19/science/atm-keypad-microbes.html)
 
 ----------
 
-![https://twitter.com/metasub/status/745237893153722369](https://pbs.twimg.com/media/Cled6GCWEAQySfM.jpg)
+## Money Microbiome
+お金の微生物叢
+
+![](http://si.wsj.net/public/resources/images/NA-CA854_MONEY_G_20140418181251.jpg)
+
+2017-04-13
+https://twitter.com/yokadzaki/status/852704490436177921
+Yusuke Okazaki on Twitter: "お札のメタゲノム。サンプリングは地下鉄と病院のレジ。しかもアンプリコンでなくHiseqショットガン。微生物以外のDNAの分析も面白そうだけどこのあとやるのかな　https://t.co/wb3MCleJLc"
+
+- 2015-06-08 [Money metagenomics](https://www.genomeweb.com/scan/week-plos-31) インド紙幣のメタゲノムに病原細菌や抗生物質耐性遺伝子
+- 2014-05-19 [【衝撃！】お札はトイレより汚い!?3,000ものバクテリアが付着していた！ - NAVER まとめ](http://matome.naver.jp/odai/2140045497330359201)
+- 2014-04-24 [Dirty money: Your cash is home to thousands of bacteria](http://www.cbsnews.com/news/dirty-money-your-cash-is-home-to-thousands-of-bacteria)
+- 2014-04-21 [「口にお金を入れる」のはやめよう―紙幣に膨大なバクテリア - WSJ](http://on.wsj.com/1eSGYpK)
+- 2013-08-06 [お札の5枚に1枚は、食中毒菌がついていることを示唆するデータが… お金を使うときに少しでも菌から身を守る対応策を聞いてみた | マイナビニュース](http://news.mynavi.jp/kikaku/2013/08/06/001/)
+
+- 2013-08-12 [アジアで最も汚く雑菌まみれのお札、それは人民元―台湾](http://www.recordchina.co.jp/a75402.html)
+
+----------
+
+## Air Microbiome
+空気中の微生物叢
+
+- [Air Microbiome of Hong Kong's Subways. Patrick Lee.](http://nebula.wsimg.com/83b61d25af77152a5cca036a87435faa?AccessKeyId=EE67D855699D9B3A8843&disposition=0&alloworigin=1)
+- [Behzad H, Gojobori T, Mineta K. Genome Biol Evol. 2015 May 6;7(5):1216-26. "Challenges and opportunities of airborne metagenomics."](http://www.ncbi.nlm.nih.gov/pubmed/25953766)
+- [Robertson CE et al. Appl Environ Microbiol. 2013 Jun;79(11):3485-93. "Culture-independent analysis of aerosol microbiology in a metropolitan subway system."](http://www.ncbi.nlm.nih.gov/pubmed/23542619)
+- [Kawasaki T et al. J Occup Health. 2013;55(6):495-502. "Distribution of airborne bacteria in railway stations in Tokyo, Japan."](http://www.ncbi.nlm.nih.gov/pubmed/24025860)
+- [Kawasaki T et al. J Occup Health. 2010;52(3):186-93. "Distribution and identification of airborne fungi in railway stations in Tokyo, Japan."](http://www.ncbi.nlm.nih.gov/pubmed/20299760) | [pdf](http://joh.sanei.or.jp/pdf/E52/E52_3_05.pdf)
+- [Kawasaki T et al. "Indoor air quality at stations: Development of a methodology for quantifying railway customers’ perception of odor at stations"](http://www.railway-research.org/IMG/pdf/e5_kawasaki_tanami.pdf)
+- [駅構内の空気質に与える微生物の影響評価　RTRI REPORT Vol. 22, No. 5, May. 2008](http://bunken.rtri.or.jp/PDF/cdroms1/0001/2008/0001003044.pdf)
+- [駅構内の空気質に与える微生物の影響評価　(鉄道総研報告,2008 年 5 月号)](http://www.rtri.or.jp/publish/rtrirep/2008/r_digest/05/0805_6.pdf)
+
+https://www.rtri.or.jp/rd/news/human/human_201107.html#sect05
+公益財団法人鉄道総合技術研究所｜人間科学ニュース 2011年7月号（第174号）
+においと微生物の関係
+
+https://www.rtri.or.jp/rd/news/human/human_200909.html#sect06
+公益財団法人鉄道総合技術研究所｜人間科学ニュース 2009年9月号（第163号）
+「カビくさい」の正体を探る
 
 
 ----------
@@ -558,6 +601,10 @@ Oulas A1, Pavloudi C2, Polymenakou P1, Pavlopoulos GA3, Papanikolaou N3, Kotoula
 https://omictools.com/metagenomic-assembly-category
 Assembly software tools | Metagenomic sequencing analysis - OMICtools
 
+https://www.ncbi.nlm.nih.gov/pubmed/28693474
+BMC Genomics. 2017 Jul 10;18(1):521. 
+Assembling metagenomes, one community at a time.
+
 https://twitter.com/StevenJRobbins/status/849484107797204997
 Three very recent papers comparing metagenome assembly tools:
 
@@ -608,7 +655,22 @@ Communicating the promise, risks, and ethics of large-scale, open space microbio
 - One notable initiative, the MetaSUB project, originated to capture a city-scale molecular profile of DNA collected in New York [2]. The project has now grown into a consortium encompassing 72 major worldwide cities. Such studies challenge our perception of public health, safety, and privacy in urban environments, and seek to advance new strategies to protect our growing society, such as the design of “smart cities” that convey early warnings for potential epidemics and genetically protected infrastructure. 
 - Building on our years of experience in the International MetaSUB Consortium [20, 21, 22, 23], we compiled a list of concerns—all raised during our discussions with ethics committees, community leaders, and government officials—and address them. 
 
+#### Hong Kong
+Posted on August 20, 2017
+https://www.microbe.net/2017/08/20/the-air-microbiome-of-a-zero-carbon-building-personal-thoughts/
+The air microbiome of a zero carbon building: personal thoughts – microBEnet: the microbiology of the Built Environment network
+
+https://www.ncbi.nlm.nih.gov/pubmed/25172855
+Appl Environ Microbiol. 2014 Nov;80(21):6760-70. doi: 10.1128/AEM.02244-14. Epub 2014 Aug 29.
+Indoor-air microbiome in an urban subway network: diversity and dynamics.
+Leung MH1, Wilkins D1, Li EK1, Kong FK1, Lee PK2.
+
 ----------
+
+
+
+![https://twitter.com/metasub/status/745237893153722369](https://pbs.twimg.com/media/Cled6GCWEAQySfM.jpg)
+
 
 
 
