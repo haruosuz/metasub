@@ -586,6 +586,23 @@ Bioinform Biol Insights. 2015 May 5;9:75-88. doi: 10.4137/BBI.S12462. eCollectio
 Metagenomics: tools and insights for analyzing next-generation sequencing data derived from biodiversity studies.
 Oulas A1, Pavloudi C2, Polymenakou P1, Pavlopoulos GA3, Papanikolaou N3, Kotoulas G1, Arvanitidis C1, Iliopoulos I3.
 
+
+
+http://clark.cs.ucr.edu
+CLARK :: Fast and accurate classification method for metagenomic/genomic sequences
+
+https://www.ncbi.nlm.nih.gov/pubmed/27540266
+Bioinformatics. 2016 Dec 15;32(24):3823-3825. Epub 2016 Aug 18.
+Higher classification sensitivity of short metagenomic reads with CLARK-S.
+Ounit R1, Lonardi S1.
+
+https://www.ncbi.nlm.nih.gov/pubmed/25879410
+BMC Genomics. 2015 Mar 25;16:236. doi: 10.1186/s12864-015-1419-2.
+CLARK: fast and accurate classification of metagenomic and genomic sequences using discriminative k-mers.
+Ounit R1, Wanamaker S2, Close TJ3, Lonardi S4.
+
+
+
 - [Kraken](http://ccb.jhu.edu/software/kraken/)
  - 論文 [Wood DE, Salzberg SL. Genome Biol. 2014 "Kraken: ultrafast metagenomic sequence classification using exact alignments."]()
 
