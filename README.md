@@ -1,5 +1,5 @@
 Haruo Suzuki (haruo[at]g-language[dot]org)   
-Last Update: 2017-11-23
+Last Update: 2017-12-21
 
 ----------
 
@@ -11,8 +11,8 @@ Last Update: 2017-11-23
 
 ## Table of Contents
 - [Video](#video)
-- 2016-10-13 [Innovative City Forum](#icf)
 - 2017-07 [CAMDA 2017](#camda)
+- 2016-10-13 [Innovative City Forum](#icf)
 - [2017 Meetings](#2017-meetings)
 - 2017-06-21 [Global City Sampling Day (CSD)](#csd)
 - 2017-03-28 [StuckOnU](#stuckonu)
@@ -127,14 +127,25 @@ Last Update: 2017-11-23
  - Pathomap Project / NY地下鉄の細菌マップ
 
 ----------
-### [CAMDA](http://metasub.org/camda-challenge-2017/)
+### CAMDA
+[Critical Assessment of Massive Data Analysis](http://camda.info)
+
+[CAMDA 2018 (@CAMDA_conf) | Twitter](https://twitter.com/CAMDA_conf)
+
+![](http://camda2018.bioinf.jku.at/lib/tpl/mnml-blog/user/logo.png)
+
+- [CAMDA 2018 Conference](http://camda2018.bioinf.jku.at/doku.php)
+- [The CAMDA Contest Challenges](http://camda2018.bioinf.jku.at/doku.php/contest_dataset)
+- The [MetaSUB Forensics Challenge](http://camda2018.bioinf.jku.at/doku.php/contest_dataset#metasub_forensics_challenge)
+presents hundreds of novel city microbiome profiles. Construct urban microbiome fingerprints and identify the geographical origin of mystery samples.
+
 ![](http://camda2017.bioinf.jku.at/lib/tpl/mnml-blog/user/logo.png)
 
-- [CAMDA 2017 – Critical Assessment of Massive Data Analysis](http://camda.info)
-  - The MetaSUB Inter-City Challenge presents the urban microbiomes of three cities. Compare organism fingerprints from public places across cities. Investigate organism sequences and biodiversity vs location.
-- [The CAMDA Contest Challenges](http://contest.camda.info)
- - [MetaSUB Inter-City Challenge](http://camda2017.bioinf.jku.at/doku.php/contest_dataset#metasub_inter-city_challenge)
-- [CAMDA 2017 (@CAMDA_conf) | Twitter](https://twitter.com/camda_conf)
+[CAMDA Challenge 2017 - MetaSUB](http://metasub.org/camda-challenge-2017/)
+
+- [CAMDA 2017 Conference - CAMDA 2017](http://camda2017.bioinf.jku.at/doku.php)
+- [The CAMDA Contest Challenges - CAMDA 2017](http://camda2017.bioinf.jku.at/doku.php/contest_dataset)
+- The [MetaSUB Inter-City Challenge](http://camda2017.bioinf.jku.at/doku.php/contest_dataset#metasub_inter-city_challenge) presents the urban microbiomes of three cities. Compare organism fingerprints from public places across cities. Investigate organism sequences and biodiversity vs location.
 
 ----------
 ### 2017 Meetings
@@ -490,6 +501,10 @@ https://www.rtri.or.jp/rd/news/human/human_200909.html#sect06
 2017-04-13
 https://twitter.com/yokadzaki/status/852704490436177921
 Yusuke Okazaki on Twitter: "お札のメタゲノム。サンプリングは地下鉄と病院のレジ。しかもアンプリコンでなくHiseqショットガン。微生物以外のDNAの分析も面白そうだけどこのあとやるのかな　https://t.co/wb3MCleJLc"
+
+https://www.ncbi.nlm.nih.gov/pubmed/28450856
+Front Microbiol. 2017 Apr 13;8:632. doi: 10.3389/fmicb.2017.00632. eCollection 2017.
+Toward a Metagenomic Understanding on the Bacterial Composition and Resistome in Hong Kong Banknotes.
 
 - 2015-06-08 [Money metagenomics](https://www.genomeweb.com/scan/week-plos-31) インド紙幣のメタゲノムに病原細菌や抗生物質耐性遺伝子
 - 2014-05-19 [【衝撃！】お札はトイレより汚い!?3,000ものバクテリアが付着していた！ - NAVER まとめ](http://matome.naver.jp/odai/2140045497330359201)
