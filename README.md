@@ -1,5 +1,5 @@
 Haruo Suzuki (haruo[at]g-language[dot]org)   
-Last Update: 2017-12-21
+Last Update: 2018-01-21
 
 ----------
 
@@ -11,7 +11,7 @@ Last Update: 2017-12-21
 
 ## Table of Contents
 - [Video](#video)
-- 2017-07 [CAMDA 2017](#camda)
+- 2018-07 [CAMDA](#camda)
 - 2016-10-13 [Innovative City Forum](#icf)
 - [2017 Meetings](#2017-meetings)
 - 2017-06-21 [Global City Sampling Day (CSD)](#csd)
@@ -25,6 +25,12 @@ Last Update: 2017-12-21
 ----------
 
 ## Updates
+
+http://metasub.org
+
+Stay tuned for more updates on the 4th Annual MetaSUB Conference to be held in Rio de Janiero, Brazil on August 6-8, 2018!
+
+ Publish your best work at 17th Annual International Conference on Critical Assessment of Massive Data Analysis in Chicago, U.S.A. on July 7-8, 2018! Metagenomic forensics data now online – take the CAMDA challenge!
 
 - 2017/10/12(Thu) [オープンデータを分析する 〜 環境ゲノム編 - connpass](https://opendata.connpass.com/event/67452/)
 
@@ -472,7 +478,16 @@ The report states that 88% of stations were cleaned fewer than eight times a yea
 
 ----------
 ## Air Microbiome
-空気中の微生物叢
+空気中の微生物
+
+By Marcus Leung  Posted on August 20, 2017
+https://www.microbe.net/2017/08/20/the-air-microbiome-of-a-zero-carbon-building-personal-thoughts/
+The air microbiome of a zero carbon building: personal thoughts – microBEnet: the microbiology of the Built Environment network
+
+https://www.ncbi.nlm.nih.gov/pubmed/25172855
+Appl Environ Microbiol. 2014 Nov;80(21):6760-70. doi: 10.1128/AEM.02244-14. Epub 2014 Aug 29.
+Indoor-air microbiome in an urban subway network: diversity and dynamics.
+Leung MH1, Wilkins D1, Li EK1, Kong FK1, Lee PK2.
 
 - [Air Microbiome of Hong Kong's Subways. Patrick Lee.](http://nebula.wsimg.com/83b61d25af77152a5cca036a87435faa?AccessKeyId=EE67D855699D9B3A8843&disposition=0&alloworigin=1)
 - [Behzad H, Gojobori T, Mineta K. Genome Biol Evol. 2015 May 6;7(5):1216-26. "Challenges and opportunities of airborne metagenomics."](http://www.ncbi.nlm.nih.gov/pubmed/25953766)
@@ -491,103 +506,11 @@ https://www.rtri.or.jp/rd/news/human/human_200909.html#sect06
 公益財団法人鉄道総合技術研究所｜人間科学ニュース 2009年9月号（第163号）
 「カビくさい」の正体を探る
 
-----------
-
-## Money Microbiome
-お金の微生物叢
-
-![](http://si.wsj.net/public/resources/images/NA-CA854_MONEY_G_20140418181251.jpg)
-
-2017-04-13
-https://twitter.com/yokadzaki/status/852704490436177921
-Yusuke Okazaki on Twitter: "お札のメタゲノム。サンプリングは地下鉄と病院のレジ。しかもアンプリコンでなくHiseqショットガン。微生物以外のDNAの分析も面白そうだけどこのあとやるのかな　https://t.co/wb3MCleJLc"
-
-https://www.ncbi.nlm.nih.gov/pubmed/28450856
-Front Microbiol. 2017 Apr 13;8:632. doi: 10.3389/fmicb.2017.00632. eCollection 2017.
-Toward a Metagenomic Understanding on the Bacterial Composition and Resistome in Hong Kong Banknotes.
-
-- 2015-06-08 [Money metagenomics](https://www.genomeweb.com/scan/week-plos-31) インド紙幣のメタゲノムに病原細菌や抗生物質耐性遺伝子
-- 2014-05-19 [【衝撃！】お札はトイレより汚い!?3,000ものバクテリアが付着していた！ - NAVER まとめ](http://matome.naver.jp/odai/2140045497330359201)
-- 2014-04-24 [Dirty money: Your cash is home to thousands of bacteria](http://www.cbsnews.com/news/dirty-money-your-cash-is-home-to-thousands-of-bacteria)
-- 2014-04-21 [「口にお金を入れる」のはやめよう―紙幣に膨大なバクテリア - WSJ](http://on.wsj.com/1eSGYpK)
-- 2013-08-06 [お札の5枚に1枚は、食中毒菌がついていることを示唆するデータが… お金を使うときに少しでも菌から身を守る対応策を聞いてみた | マイナビニュース](http://news.mynavi.jp/kikaku/2013/08/06/001/)
-
-- 2013-08-12 [アジアで最も汚く雑菌まみれのお札、それは人民元―台湾](http://www.recordchina.co.jp/a75402.html)
-
-----------
-## ATM
-https://www.microbe.net/2016/11/19/new-papers-on-microbiology-of-the-built-environment-november-19-2016/
-New papers on Microbiology of the Built Environment, November 19, 2016 – microBEnet: the microbiology of the Built Environment network
-
-- 11/21/2016 [菌まみれのＡＴＭ　２年の調査で数十種類を検出 | Daily Sun New York](http://www.dailysunny.com/2016/11/21/nynews161121-2/)
-- NOV. 18, 2016 [Your A.T.M. Is Covered in Microbes, but Mostly Harmless - The New York Times](http://www.nytimes.com/2016/11/19/science/atm-keypad-microbes.html)
 
 ----------
 
 ## References
 
-### microBEnet
-http://www.microbe.net
-microBEnet: the microbiology of the Built Environment network – At the interface of microbial ecology and building science.
-
-https://www.microbe.net/event/mobe-2017-symposium-maryland/
-MoBE 2017 Symposium (Maryland)
-October 10 - October 12
-
-http://www.microbe.net/microbenet-past-events-meetings-workshops/upcoming-events/mobe_2017/
-MoBE 2017: Microbiology of the Built Environment Research and Applications Symposium
-October 10 – October 12, 2017
-
-http://www.microbe.net/2017/02/06/call-for-papers-mobe-2017-microbiome-special-issue/
-Call for Papers MoBE 2017 Microbiome Special Issue – microBEnet: the microbiology of the Built Environment network
-
-### MoBE
-建築環境の微生物
-
-http://nas-sites.org/builtmicrobiome/
-Microbiomes of the Built Environment
-
-https://www.biomedcentral.com/collections/builtenvironment
-Microbiology of the Built Environment
-
-https://www.biomedcentral.com/collections/mobe2017
-Microbiome of the Built Environment (MoBE) 2017: Research to Application
-
-https://twitter.com/NatureBiotech/status/864838380353449984
-Nature Biotechnology on Twitter: "Living in a microbial world https://t.co/ZdCdm36qen #metagenomics #microbiome https://t.co/B0oiSiOGcA"
-
-https://www.ncbi.nlm.nih.gov/pubmed/28486462
-Nat Biotechnol. 2017 May 9;35(5):401-403.
-Living in a microbial world.
-Schmidt C.
-
-http://www.sciencedirect.com/science/article/pii/S0360132316303419
-Building and Environment
-Volume 109, 15 November 2016, Pages 224-234
-Ten questions concerning the microbiomes of buildings
-
-https://www.ncbi.nlm.nih.gov/pubmed/27822547
-mSystems. 2016 Jul 26;1(4). pii: e00083-16.
-What Have We Learned about the Microbiomes of Indoor Environments?
-Stephens B1.
-
-http://www.microbe.net/2016/06/01/outdoors-occupants-and-the-pan-microbiome-a-review/
-Outdoors, occupants, and the pan-microbiome: a review
- By Marcus Leung
-Posted on June 1, 2016
-
-https://www.ncbi.nlm.nih.gov/pubmed/27216717
-Microbiome. 2016 May 24;4(1):21.
-The roles of the outdoors and occupants in contributing to a potential pan-microbiome of the built environment: a review.
-Leung MH1, Lee PK2.
-
-https://www.ncbi.nlm.nih.gov/pubmed/26674771
-Microbiome. 2015 Dec 17;3:60. doi: 10.1186/s40168-015-0127-0.
-The microbiome of the built environment and mental health.
-Hoisington AJ1, Brenner LA2, Kinney KA3, Postolache TT4, Lowry CA5.
-
-Jonathan Eisen wrote a blog post on microbe.net praising this paper for its careful accuracy.
-http://www.microbe.net/2015/12/23/near-perfect-balance-in-a-microbiome-paper-hopeful-yet-no-hype-the-microbiome-of-the-built-environment-and-mental-health/
 
 ### [Bioinformatics Analysis – MetaSUB](http://metasub.org/methods/bioinformatics-analysis/)
 
@@ -683,20 +606,6 @@ Communicating the promise, risks, and ethics of large-scale, open space microbio
 - The recent launch of global microbiome surveys, such as the Earth Microbiome Project and MetaSUB (Metagenomics and Metadesign of Subways and Urban Biomes) project, has raised ethical, financial, feasibility, and sustainability concerns as to the public’s level of understanding and potential reaction to the findings, which, done improperly, risk negative implications for ongoing and future investigations, but done correctly, can facilitate a new vision of “smart cities.” 
 - One notable initiative, the MetaSUB project, originated to capture a city-scale molecular profile of DNA collected in New York [2]. The project has now grown into a consortium encompassing 72 major worldwide cities. Such studies challenge our perception of public health, safety, and privacy in urban environments, and seek to advance new strategies to protect our growing society, such as the design of “smart cities” that convey early warnings for potential epidemics and genetically protected infrastructure. 
 - Building on our years of experience in the International MetaSUB Consortium [20, 21, 22, 23], we compiled a list of concerns—all raised during our discussions with ethics committees, community leaders, and government officials—and address them. 
-
-#### Hong Kong
-Posted on August 20, 2017
-https://www.microbe.net/2017/08/20/the-air-microbiome-of-a-zero-carbon-building-personal-thoughts/
-The air microbiome of a zero carbon building: personal thoughts – microBEnet: the microbiology of the Built Environment network
-
-https://www.ncbi.nlm.nih.gov/pubmed/25172855
-Appl Environ Microbiol. 2014 Nov;80(21):6760-70. doi: 10.1128/AEM.02244-14. Epub 2014 Aug 29.
-Indoor-air microbiome in an urban subway network: diversity and dynamics.
-Leung MH1, Wilkins D1, Li EK1, Kong FK1, Lee PK2.
-
-25 NOV 2016
-http://www.scmp.com/magazines/post-magazine/short-reads/article/2048971/antibiotic-resistant-superbugs-hong-kong-mtr
-Antibiotic-resistant superbugs on Hong Kong MTR trains, study reveals | Post Magazine | South China Morning Post
 
 ----------
 
