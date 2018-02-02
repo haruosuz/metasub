@@ -1,5 +1,5 @@
 Haruo Suzuki (haruo[at]g-language[dot]org)   
-Last Update: 2018-01-21
+Last Update: 2018-02-03
 
 ----------
 
@@ -31,6 +31,14 @@ http://metasub.org
 Stay tuned for more updates on the 4th Annual MetaSUB Conference to be held in Rio de Janiero, Brazil on August 6-8, 2018!
 
  Publish your best work at 17th Annual International Conference on Critical Assessment of Massive Data Analysis in Chicago, U.S.A. on July 7-8, 2018! Metagenomic forensics data now online – take the CAMDA challenge!
+
+
+https://twitter.com/s__morrison/status/954603374292422656
+Shaunna M. Morrison on Twitter: "@mason_lab @metasub sampling at Shinagawa station… "
+20 Jan 2018
+
+https://www.flickr.com/photos/134164093@N07/albums/with/72157669783990365
+YCAM Bio Research’s albums | Flickr
 
 - 2017/10/12(Thu) [オープンデータを分析する 〜 環境ゲノム編 - connpass](https://opendata.connpass.com/event/67452/)
 
@@ -343,243 +351,18 @@ presents hundreds of novel city microbiome profiles. Construct urban microbiome 
 - [Pawel Labaj (@pawel_labaj) | Twitter](https://twitter.com/pawel_labaj)
 - [Erica Hartmann (@ericamhartmann) | Twitter](https://twitter.com/ericamhartmann)
 
-https://twitter.com/hashtag/metasub15
-Christopher Mason ‏@mason_lab  Jun 20
-\#metasub15 John Brownstein @johnbrownstein gave a great talk about Healthmap http://www.healthmap.org  and crowd-sourced medicine
-
-https://twitter.com/gogoviral
-Julie Nadel ‏@JulieNadel  Jun 19
-NY+MA: participate in crowd sourced epidemiology. Sign up now for next time you're sick! #UrbanGenome @gogoviral http://www.goviralstudy.com
-
-Rumi ‏@rumichunara  May 27Rome, Lazio
-Our paper on bringing together molecular specimens and online participatory surveillance http://currents.plos.org/outbreaks/article/surveillance-of-acute-respiratory-infections-using-community-submitted-symptoms-and-specimens-for-molecular-diagnostic-testing/ … @gogoviral
-
-5:20 PM - 3 Feb 2013
-https://twitter.com/guruguruyellow/status/298194313572130819
-.@cnn_co_jp 僭越ながら1/31の「ツイッターでインフルエンザ流行地域の予測目指す」の捕捉をさせて頂きます。2006年よりハーバード大学公衆衛生大学院が以下のサイトを立ち上げております。ご覧頂けましたら幸いです。@healthmap @FluNearYou 
-
-----------
-
-## OMG-Seq
-[お花見メタゲノム](http://www.ngs-sakura.jp)
-Ohanami-MetaGenome Sequence (OMG-Seq): Community-Driven Research Project
-
-O[hanami](https://en.wikipedia.org/wiki/Hanami) ("flower viewing") is the Japanese traditional custom of enjoying the transient beauty of flowers ("hana") of the cherry blossom ("sakura")
-
-![https://github.com/inutano/training/blob/master/ajacs52/README.md#お花見メタゲノムプロジェクト](https://camo.githubusercontent.com/161a12a73623274212e65e843250877b0405435f/687474703a2f2f6779617a6f2e636f6d2f37306232316534396330393831633839346161373461396233343637333937302e706e67)
-
-- [お花見メタ事務局 (@OhanamiMetaG) | Twitter](https://twitter.com/OhanamiMetaG)
-- [OMG-Seq Data Portal](http://data.dbcls.jp/~inutano/omg-seq/)
-- [#お花見メタゲノム hashtag on Twitter](https://twitter.com/hashtag/お花見メタゲノム)
-- [#OMGseq hashtag on Twitter](https://twitter.com/hashtag/OMGseq)
-- [NGS現場の会 第四回研究会](http://www.ngs-field.org/ngs4th/)
-
-https://twitter.com/iNut/status/887712823257812992
-T. Inutano on Twitter: "お花見論文がbioRxivで公開されました Collaborative environmental DNA sampling from petal surfaces of flowering cherry https://t.co/kg2yqZTpi6"
-
-http://www.biorxiv.org/content/early/2017/07/19/165522
-Collaborative environmental DNA sampling from petal surfaces of flowering cherry Cerasus × yedoensis 'Somei-yoshino' across the Japanese archipelago | bioRxiv
-Posted July 19, 2017.
-
-----------
-
-## [GOVIRAL](https://www.goviralstudy.com)
-![https://www.linkedin.com/pulse/find-out-what-viruses-spreading-your-community-hamza-sadhra](https://media.licdn.com/mpr/mpr/shrinknp_800_800/AAEAAQAAAAAAAAe2AAAAJDM5MjZhOWQ3LWJjZTYtNDk4OC05ZDhlLTVhZmNmMmNkNGZmMw.png)
-
-- [Go Viral (@gogoviral) | Twitter](https://twitter.com/gogoviral)
-- [Go Viral | Facebook](https://www.facebook.com/GoViralStudy/)
-- [goviralstudy CUNYSPHsubjects - YouTube](https://www.youtube.com/watch?v=XkfHQxPu2Gk)
-
-----------
-
-## [HealthMap](http://www.healthmap.org)
-
-![https://jondorbolo.wordpress.com/2014/11/02/dr-tech-crowdsourcing-infectious-disease/](https://jondorbolo.files.wordpress.com/2014/11/healthmap-300x1891.jpg)
-
-- [HealthMap (@healthmap) | Twitter](https://twitter.com/healthmap)
-- [Brownstein JS et al. PLoS Med. 2008 Jul 8;5(7):e151. "Surveillance Sans Frontières: Internet-based emerging infectious disease intelligence and the HealthMap project."](http://www.ncbi.nlm.nih.gov/pubmed/18613747)
-
-### HealthMap related news
-関連ニュース
-
-- 2015-09-25 [SFCでデング熱患者を確認 海外で感染か 保健管理センター「拡大起こらない」 - SFC CLIP](https://shar.es/178McF)
-- 2015-03-17 [米国はしか流行、予防接種率の低さと関連 研究　写真1枚　国際ニュース：AFPBB News](http://www.afpbb.com/articles/-/3042675)
- - 疫学に計算的アプローチを採用するブラウンシュタイン氏は、はしかを予防する新三種混合（MMR）などのワクチンを提供する場所と人々とをつなぐ助けになるオンラインサービス「ヘルスマップ・ワクチン・ファインダー（HealthMap Vaccine Finder）」の共同創立者の一人でもある。
-- 2014-10-27 [エボラ出血熱対策でビッグデータを活用　写真1枚　国際ニュース：AFPBB News](http://www.afpbb.com/articles/-/3030063)
- - 研究チームは、ソーシャルメディアや地元報道の他、インターネット上に存在する情報をくまなく収集し、オンライン疾病早期警戒システム「ヘルスマップ（HealthMap）」によって開発されたアルゴリズムに当てはめたところ、エボラ出血熱が西アフリカで猛威を振るい始める様子を捉えることができたという。
-- 2014-09-04 [エボラ拡大の兆候を発見するも、手を打てなかったHealthMapの機械学習システム](http://gendai.ismedia.jp/articles/-/40332)
-- 2014-08-13 [猛威をふるっているエボラを阻止せよ！感染症を可視化！](https://datasciencelab.jp/blog/122)
-- 2014-04-04 [携帯電話でマラリアに立ち向かうアフリカの試み](http://jp.ibtimes.com/articles/386664)
- - Healthmapも同様に、世界中で病気の発生を追跡しようとする仕組みで、誰でもアクセスでき、どこで病気が発生していて、身を守るにはどうすればいいかを知ることが出来る。
-- 2012-05-10 [シリア騒乱の犠牲者数をリアルリポートするウェブ｜WIRED.jp](http://wired.jp/2012/05/10/italian-news-syria-uprising/)
- - ボランティアたちは、8年前にボストン小児病院によって開発された「ヘルスマップ」（Healthmap）と呼ばれる、Google News上の関連情報を自動的に検索しそれらをマップ化するためのソフトを修正したものを最大限に利用している。
-- 2012-04-23 [米Google、提供中止など見直し対象サービス発表～One PassやLinux版Picasaなど -INTERNET Watch Watch](http://internet.watch.impress.co.jp/docs/news/528551.html)
- - インフルエンザ流行を地図上に示す「Google Flu Vaccine Finder」はサービスを停止し、同様のサービスを提供しているHealthMapに機能を引き継ぐとしている。
-- 2008-07-24 [ネットから情報を自動収集：伝染病情報を視覚化する『HealthMap』 ](http://wired.jp/2008/07/24/ネットから情報を自動収集：伝染病情報を視覚化/)
-- 2008-07-10 [感染症の発生をWeb上で追跡するHealthMapプロジェクト](http://jipsti.jst.go.jp/johokanri/sti_updates/?id=619)
-- 2007-12-11 [世界感染症マップ： HealthMap](http://www.tobyo.jp/tobyoblog/2007/803.html)
-
-----------
-
-## [Flu Near You](https://flunearyou.org)
-- [Flu Near You (@FluNearYou) | Twitter](https://twitter.com/flunearyou)
-- 2013.02.14 [Uncharted Territorythey will complement, but not substitute for](http://unchartedterritory.blog.fc2.com/blog-entry-31.html)
-- 2012/07/19 [クライシス情報学 -災害などの危機に情報はどう役立つか?- 国立情報学研究所 コンテンツ科学研究系 北本 朝展](http://agora.ex.nii.ac.jp/~kitamoto/outreach/shimin-2012/lecture-ppt.pdf)
-
-----------
-
-## [Citizen Science](https://en.wikipedia.org/wiki/Citizen_science)
-(a.k.a. crowd science, crowd-sourced science  
-市民科学  
-
-- 2015-06-08 [誰でも研究に参加できるサイト「Zooniverse」が面白い - open ideas, open education](http://rshibato.hatenablog.com/entry/2015/06/08/131239)
-- 2015年5月25日 [科学技術・学術政策研究所の『科学技術動向』2015年5・6月号にオープンな情報流通が促進するシチズンサイエンス（市民科学）の可能性に関する記事が掲載 | カレントアウェアネス・ポータル](http://current.ndl.go.jp/node/28540)
-- 2015年2月20日 [【参考情報】米国大使館主催 米国国立科学財団 (NSF) リサーチダイアローグ シチズンサイエンス](https://ssh.jst.go.jp/information/show/398.html)
-- 2015-02-01 [ネットの写真・ムービーを野生動物学の研究に活用するクラウドサイエンスという手法 - GIGAZINE](http://gigazine.net/news/20150201-cloud-science/)
-- 2015-01-19 [クラウドサイエンスで野生生物研究に貢献 | ナショナルジオグラフィック日本版サイト](http://natgeo.nikkeibp.co.jp/nng/article/20150117/432142/)
-- 2014年11月11日 [メタゲノム・ビジネス（３）：uBiomeが推進する市民科学](http://genaport.genaris.com/GOC_sequencer_post.php?eid=00113)
-- 2013年7月号 [翼を得たシチズン・サイエンス | 日経サイエンス]( http://www.nikkei-science.com/201307_086.html)
-- 研究開発マネジメントノート
-  - 2013-10-27 [「オープンサイエンス革命」（ニールセン著）より](http://blog.livedoor.jp/randdmanagement/archives/52127213.html)
-  - 2012-07-01 [シチズンサイエンス考](http://blog.livedoor.jp/randdmanagement/archives/52032892.html)
-
-----------
-
-## Subways
-地下鉄
-
-https://twitter.com/search?q=東京メトロ
-
-少年ジャンプの名作コマ、東京メトロ171駅に。あのキャラのしびれるセリフは......【東西線編・23駅】 http://www.huffingtonpost.jp/2017/07/20/jump-metro_n_17548058.html @HuffPostJapanさんから
-
-http://mymodernmet.com/animated-subway-maps/
-Animated Subway Map GIFs Compared to Actual Geography
-
-http://twistedsifter.com/2017/05/subway-maps-compared-to-their-actual-geography/
-15 Subway Maps Compared to Their Actual Geography 
-
-- 10/26/2016 [A It’s embarrassing how clean Tokyo’s subways are compared to New York’s](https://socialfeed.info/a-it-s-embarrassing-how-clean-tokyo-s-subways-are-compared-to-new-york-s-7780311)
-- NY市地下鉄の清掃状況
- - 5/19/15 [The New York City Subway Is Full Of Garbage](http://jalopnik.com/the-new-york-city-subway-is-full-of-garbage-1705602906)
-The MTA standard is to clean each of its 276 stations once every three weeks. But the audit, by the office of City Comptroller Scott Stringer, found that 97% of the stations were cleaned less frequently.
-The report states that 88% of stations were cleaned fewer than eight times a year. The audit covered the period covering July 2013 to June 2014.
- - 2015年05月15日 [NY市地下鉄は清掃基準を満たさず、線路はゴミ捨て場状態 - Japan Wideニュース](http://www.jwide.com/news/news.htm?id=5098)
-２０１３年７月から２０１４年６月の清掃記録の監査によると、地下にある２７６駅のうち、３週間に１度という交通局の清掃スケジュールを満たしていたのは僅か３％にあたる７駅の線路だけだった。半数以上の駅の線路は、１１人の清掃員により一年間で４度から８度の清掃が行われているだけだ。
-
-- 地下鉄 インフルエンザ
- - 公開情報｜東京メトロ [東京地下鉄株式会社 「新型インフルエンザ等対策業務計画」要旨](http://www.tokyometro.jp/corporate/profile/disclosure/pdf/measure_plan.pdf)
-
- - [新型インフルエンザにおける 鉄道輸送抑制の効果評価](http://www.mlit.go.jp/pri/adobaizari/pdf/16_No2Shiryou82.pdf) 国立感染症研究所 感染症情報センター
- - 2011-12-03 [都市の空間特性に基づくインフルエンザの感染リスク評価に関する研究 その 2 -路線網を考慮した駅の分布に基づく考察-](http://www.cit.nihon-u.ac.jp/kouendata/No.44/pdf/4-70.pdf)
- - 2008年12月23日 [新型インフル対策で実験＝地下鉄車両使 - 「新型インフルエンザ」情報 | mixiコミュニティ](http://mixi.jp/view_bbs.pl?comm_id=3544178&id=38214071)
- - 2008/12/22 [通勤電車で隣の人との間隔を１ｍあける？？ 社会：ZAKZAK](http://www.zakzak.co.jp/top/200812/t2008122265_all.html) 新型インフル拡大防止で電車使い乗り方実験
- - 2008/12/22 新型インフル拡大防止で実験 通勤電車での乗り方 - 47NEWS
- - [地下鉄で新型インフルエンザ対策実験：政治経済ニュース！](http://seizikeizai.seesaa.net/article/111617412.html)
-
-----------
-## Air Microbiome
-空気中の微生物
-
-By Marcus Leung  Posted on August 20, 2017
-https://www.microbe.net/2017/08/20/the-air-microbiome-of-a-zero-carbon-building-personal-thoughts/
-The air microbiome of a zero carbon building: personal thoughts – microBEnet: the microbiology of the Built Environment network
-
-https://www.ncbi.nlm.nih.gov/pubmed/25172855
-Appl Environ Microbiol. 2014 Nov;80(21):6760-70. doi: 10.1128/AEM.02244-14. Epub 2014 Aug 29.
-Indoor-air microbiome in an urban subway network: diversity and dynamics.
-Leung MH1, Wilkins D1, Li EK1, Kong FK1, Lee PK2.
-
-- [Air Microbiome of Hong Kong's Subways. Patrick Lee.](http://nebula.wsimg.com/83b61d25af77152a5cca036a87435faa?AccessKeyId=EE67D855699D9B3A8843&disposition=0&alloworigin=1)
-- [Behzad H, Gojobori T, Mineta K. Genome Biol Evol. 2015 May 6;7(5):1216-26. "Challenges and opportunities of airborne metagenomics."](http://www.ncbi.nlm.nih.gov/pubmed/25953766)
-- [Robertson CE et al. Appl Environ Microbiol. 2013 Jun;79(11):3485-93. "Culture-independent analysis of aerosol microbiology in a metropolitan subway system."](http://www.ncbi.nlm.nih.gov/pubmed/23542619)
-- [Kawasaki T et al. J Occup Health. 2013;55(6):495-502. "Distribution of airborne bacteria in railway stations in Tokyo, Japan."](http://www.ncbi.nlm.nih.gov/pubmed/24025860)
-- [Kawasaki T et al. J Occup Health. 2010;52(3):186-93. "Distribution and identification of airborne fungi in railway stations in Tokyo, Japan."](http://www.ncbi.nlm.nih.gov/pubmed/20299760) | [pdf](http://joh.sanei.or.jp/pdf/E52/E52_3_05.pdf)
-- [Kawasaki T et al. "Indoor air quality at stations: Development of a methodology for quantifying railway customers’ perception of odor at stations"](http://www.railway-research.org/IMG/pdf/e5_kawasaki_tanami.pdf)
-- [駅構内の空気質に与える微生物の影響評価　RTRI REPORT Vol. 22, No. 5, May. 2008](http://bunken.rtri.or.jp/PDF/cdroms1/0001/2008/0001003044.pdf)
-- [駅構内の空気質に与える微生物の影響評価　(鉄道総研報告,2008 年 5 月号)](http://www.rtri.or.jp/publish/rtrirep/2008/r_digest/05/0805_6.pdf)
-
-https://www.rtri.or.jp/rd/news/human/human_201107.html#sect05
-公益財団法人鉄道総合技術研究所｜人間科学ニュース 2011年7月号（第174号）
-においと微生物の関係
-
-https://www.rtri.or.jp/rd/news/human/human_200909.html#sect06
-公益財団法人鉄道総合技術研究所｜人間科学ニュース 2009年9月号（第163号）
-「カビくさい」の正体を探る
-
-
 ----------
 
 ## References
-
-
 ### [Bioinformatics Analysis – MetaSUB](http://metasub.org/methods/bioinformatics-analysis/)
-
-https://www.ncbi.nlm.nih.gov/pubmed/28321234
-Front Genet. 2017 Mar 6;8:23. doi: 10.3389/fgene.2017.00023. eCollection 2017.
-A Review of Bioinformatics Tools for Bio-Prospecting from Metagenomic Sequence Data.
-Roumpeka DD1, Wallace RJ2, Escalettes F3, Fotheringham I3, Watson M1.
-
-https://www.ncbi.nlm.nih.gov/pubmed/25983555
-Bioinform Biol Insights. 2015 May 5;9:75-88. doi: 10.4137/BBI.S12462. eCollection 2015.
-Metagenomics: tools and insights for analyzing next-generation sequencing data derived from biodiversity studies.
-Oulas A1, Pavloudi C2, Polymenakou P1, Pavlopoulos GA3, Papanikolaou N3, Kotoulas G1, Arvanitidis C1, Iliopoulos I3.
-
-
-
-http://clark.cs.ucr.edu
-CLARK :: Fast and accurate classification method for metagenomic/genomic sequences
-
-https://www.ncbi.nlm.nih.gov/pubmed/27540266
-Bioinformatics. 2016 Dec 15;32(24):3823-3825. Epub 2016 Aug 18.
-Higher classification sensitivity of short metagenomic reads with CLARK-S.
-Ounit R1, Lonardi S1.
-
-https://www.ncbi.nlm.nih.gov/pubmed/25879410
-BMC Genomics. 2015 Mar 25;16:236. doi: 10.1186/s12864-015-1419-2.
-CLARK: fast and accurate classification of metagenomic and genomic sequences using discriminative k-mers.
-Ounit R1, Wanamaker S2, Close TJ3, Lonardi S4.
-
-
-
-- [Kraken](http://ccb.jhu.edu/software/kraken/)
- - 論文 [Wood DE, Salzberg SL. Genome Biol. 2014 "Kraken: ultrafast metagenomic sequence classification using exact alignments."]()
-
-- [Kaiju: Fast and sensitive taxonomic classification for metagenomics](http://kaiju.binf.ku.dk)
- - 論文 [Menzel P et al. Nat Commun. 2016 "Fast and sensitive taxonomic classification for metagenomics with Kaiju."](https://www.ncbi.nlm.nih.gov/pubmed/27071849)
-  - We compared the performance of Kaiju with the two k-mer-based programs Kraken and Clark, which performed best in speed and accuracy in a recent benchmark study18. https://www.ncbi.nlm.nih.gov/pubmed/26778510
-
-### Metagenomic Assembly
-
-https://omictools.com/metagenomic-assembly-category
-Assembly software tools | Metagenomic sequencing analysis - OMICtools
-
-https://www.ncbi.nlm.nih.gov/pubmed/28693474
-BMC Genomics. 2017 Jul 10;18(1):521. 
-Assembling metagenomes, one community at a time.
-
-https://twitter.com/StevenJRobbins/status/849484107797204997
-Three very recent papers comparing metagenome assembly tools:
-
-https://www.ncbi.nlm.nih.gov/pubmed/28099457
-PLoS One. 2017 Jan 18;12(1):e0169662.
-Comparing and Evaluating Metagenome Assembly Tools from a Microbiologist's Perspective - Not Only Size Matters!
-
-https://www.ncbi.nlm.nih.gov/pubmed/27698619
-Yale J Biol Med. 2016 Sep 30;89(3):353-362. eCollection 2016.
-Metagenomic Assembly: Overview, Challenges and Applications.
-Ghurye JS1, Cepeda-Espinoza V1, Pop M1.
-
-[MetAMOS](https://github.com/treangen/MetAMOS)
-https://www.ncbi.nlm.nih.gov/pubmed/23320958
-Genome Biol. 2013 Jan 15;14(1):R2. doi: 10.1186/gb-2013-14-1-r2.
-MetAMOS: a modular and open source metagenomic assembly and analysis pipeline.
-
-[MOCAT](http://www.bork.embl.de/mocat/)
-https://www.ncbi.nlm.nih.gov/pubmed/23082188
-PLoS One. 2012;7(10):e47656.
-MOCAT: a metagenomics assembly and gene prediction toolkit.
-
 ### Unclassified
+#### 2017-10-04
+https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-017-0349-4
+Communicating the promise, risks, and ethics of large-scale, open space microbiome and metagenome research
+- The recent launch of global microbiome surveys, such as the Earth Microbiome Project and MetaSUB (Metagenomics and Metadesign of Subways and Urban Biomes) project, has raised ethical, financial, feasibility, and sustainability concerns as to the public’s level of understanding and potential reaction to the findings, which, done improperly, risk negative implications for ongoing and future investigations, but done correctly, can facilitate a new vision of “smart cities.” 
+- One notable initiative, the MetaSUB project, originated to capture a city-scale molecular profile of DNA collected in New York [2]. The project has now grown into a consortium encompassing 72 major worldwide cities. Such studies challenge our perception of public health, safety, and privacy in urban environments, and seek to advance new strategies to protect our growing society, such as the design of “smart cities” that convey early warnings for potential epidemics and genetically protected infrastructure. 
+- Building on our years of experience in the International MetaSUB Consortium [20, 21, 22, 23], we compiled a list of concerns—all raised during our discussions with ethics committees, community leaders, and government officials—and address them. 
+
 
 https://www.ncbi.nlm.nih.gov/pubmed/28938903
 Microbiome. 2017 Sep 22;5(1):125. doi: 10.1186/s40168-017-0339-6.
@@ -597,22 +380,23 @@ Int J Environ Res Public Health. 2014 Dec 3;11(12):12544-61. doi: 10.3390/ijerph
 Diversity of bacterial communities of fitness center surfaces in a U.S. metropolitan area.
 Mukherjee N1, Dowd SE2, Wise A3, Kedia S4, Vohra V5, Banerjee P6.
 
-https://www.flickr.com/photos/134164093@N07/albums/with/72157669783990365
-YCAM Bio Research’s albums | Flickr
-
-#### 2017-10-04
-https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-017-0349-4
-Communicating the promise, risks, and ethics of large-scale, open space microbiome and metagenome research
-- The recent launch of global microbiome surveys, such as the Earth Microbiome Project and MetaSUB (Metagenomics and Metadesign of Subways and Urban Biomes) project, has raised ethical, financial, feasibility, and sustainability concerns as to the public’s level of understanding and potential reaction to the findings, which, done improperly, risk negative implications for ongoing and future investigations, but done correctly, can facilitate a new vision of “smart cities.” 
-- One notable initiative, the MetaSUB project, originated to capture a city-scale molecular profile of DNA collected in New York [2]. The project has now grown into a consortium encompassing 72 major worldwide cities. Such studies challenge our perception of public health, safety, and privacy in urban environments, and seek to advance new strategies to protect our growing society, such as the design of “smart cities” that convey early warnings for potential epidemics and genetically protected infrastructure. 
-- Building on our years of experience in the International MetaSUB Consortium [20, 21, 22, 23], we compiled a list of concerns—all raised during our discussions with ethics committees, community leaders, and government officials—and address them. 
 
 ----------
+
 
 http://www.scitrove.co.jp/isohelix/swab1.html
 サイトローブ 製品情報 Isohelix 遺伝子検査用口腔スワブ
 ![](http://www.scitrove.co.jp/isohelix/images/swab31.jpg)
 
 ![https://twitter.com/metasub/status/745237893153722369](https://pbs.twimg.com/media/Cled6GCWEAQySfM.jpg)
+
+http://shigematsu.org/?p=12292
+SensorPush — 安価な Bluetooth 対応温湿度データロガー | 晴耕雨読
+
+![](https://images-na.ssl-images-amazon.com/images/I/811-d5KucJL._SL1500_.jpg)
+
+----------
+
+
 
 
