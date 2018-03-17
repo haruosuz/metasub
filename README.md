@@ -5,15 +5,14 @@ Last Update: 2018-03-17
 
 # [MetaSUB](http://metasub.org/?page_id=55)
 **MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes**  
-都市建造環境（地下鉄）の微生物群集
-
-![https://crowdfunding.cornell.edu/project/3636](https://res.cloudinary.com/scalefunder/image/fetch/s--IPZeYcxb--/f_auto,fl_lossy,h_351,q_auto,w_622/https://res.cloudinary.com/scalefunder/image/upload/v1481836129/Cornell_University/vkt6clbw1ukeomgeokzb.png)
 
 **都市の生物群集のマッピング**
 
-MetaSUB国際コンソーシアムは、世界中の都市の分子プロファイルを構築し、都市のデザイン・機能・健康への影響を改善することを目指している。公共交通機関は、毎日多くの人々が密接に相互作用する空間であるが、これらの表面上の微生物群集の変化（また、これらの表面との相互作用が都市と個人の健康に影響を及ぼす可能性）についてはほとんど知られていない。
+我々は、世界中の都市の分子プロファイルを構築し、都市のデザイン・機能・健康への影響を改善することを目指している。公共交通機関は、毎日多くの人々が密接に相互作用する空間であるが、これらの表面上の微生物群集の変化（また、これらの表面との相互作用が都市と個人の健康に影響を及ぼす可能性）についてはほとんど知られていない。
 
 [MetaSUB紹介ビデオ](https://vimeo.com/171773795)
+
+![https://crowdfunding.cornell.edu/project/3636](https://res.cloudinary.com/scalefunder/image/fetch/s--IPZeYcxb--/f_auto,fl_lossy,h_351,q_auto,w_622/https://res.cloudinary.com/scalefunder/image/upload/v1481836129/Cornell_University/vkt6clbw1ukeomgeokzb.png)
 
 ## Table of Contents
 - [Video](#video)
