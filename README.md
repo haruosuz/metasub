@@ -1,17 +1,22 @@
 Haruo Suzuki (haruo[at]g-language[dot]org)   
-Last Update: 2018-02-03
+Last Update: 2018-03-17
 
 ----------
 
 # [MetaSUB](http://metasub.org/?page_id=55)
 **MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes**  
-都市の微生物群集
+都市建造環境（地下鉄）の微生物群集
 
 ![https://crowdfunding.cornell.edu/project/3636](https://res.cloudinary.com/scalefunder/image/fetch/s--IPZeYcxb--/f_auto,fl_lossy,h_351,q_auto,w_622/https://res.cloudinary.com/scalefunder/image/upload/v1481836129/Cornell_University/vkt6clbw1ukeomgeokzb.png)
 
+**都市の生物群集のマッピング**
+我々は、世界中の都市の分子プロファイルを構築して、それらのデザイン・機能・健康に及ぼす影響を改善することを目的とする。公共交通機関は、毎日多くの人々が密接に相互作用する公共スペースであるが、これらの表面上の微生物群集（これらの表面との相互作用が都市と個人の健康に影響を及ぼす可能性）についてはほとんど知られていない。
+
+[MetaSUB紹介ビデオ](https://vimeo.com/171773795)
+
 ## Table of Contents
-- [Updates](#updates)
 - [Video](#video)
+- [Updates](#updates)
 - 2018-07 [CAMDA](#camda)
 - 2016-10-13 [Innovative City Forum](#icf)
 - [2017 Meetings](#2017-meetings)
@@ -24,8 +29,29 @@ Last Update: 2018-02-03
 - 2015-07 [New York Subway Microbiome](#new-york-subway-microbiome)
 
 ----------
+## Video
+- [MetaSUB Introductory Video on Vimeo](https://vimeo.com/171773795)
+- [Your workplace could be a breeding ground for the flu - CBS News](https://www.cbsnews.com/video/your-workplace-could-be-a-breeding-ground-for-the-flu/)
+- 2017 [Tracking Bacteria on the Space Station Could Help Us Survive Beyond Earth](https://twitter.com/mason_lab/status/844405384328687621)
+- 2016-06-17 [Weill Cornell Medical College Uncovers Bacteria In Nyc Subways](https://wn.com/weill_cornell_medical_college_uncovers_bacteria_in_nyc_subways)
+- 2016-02-23 [New Genetic Spectra Across Earth's Cities & Far BeyondTEDMED Blog](http://blog.tedmed.com/new-genetic-spectra-across-earths-cities-beyond/)
+- 2016-04-25 [Christopher Mason at the 2016 DOE JGI Genomics of Energy & Environment Meeting - YouTube](https://www.youtube.com/watch?v=WtpKmmIg9qM)
+- 2016-11-30 [TEDMED - Discovering and designing genomes for Earth, Mars, and beyond](http://tedmed.com/talks/show?id=528172)
+- 2015-11-09 【ICF2015】[クリストファー・メイソン - 「スマートシティを司る“２番目の脳”」](https://youtu.be/3egxzBzynvY) | [Christopher Mason - Second Brain for the Smart City](https://youtu.be/ZK5ORqWqnps)
+- 2015-10-02 [Metagenomic analysis of the New York City subway system](https://www.youtube.com/watch?v=HyqvMEqmkYk)
+- 2015-06-19 [Integrative Genomics in Single Cells, Entire Cities, and Astronauts](https://youtu.be/Q_eUq9FNSaY)
+- 2015-03-27 [SciCafe: Mapping the Urban Microbiome, Genome, and Metagenome](https://www.youtube.com/watch?v=mn5MkKXtxms)
+- 2013-06-18 [Tumor Evolution in the Transcriptome, Epigenome, and Epitranscriptome](https://www.youtube.com/watch?v=UQecetRMzWI)
+- 2015-11-20 [Cracking the Genetic Code of Our Cities | Sofia Ahsanuddin | TEDxCUNY - YouTube](https://www.youtube.com/watch?v=t9GrVdYWJOc)
+  - [There are 15,000 lifeforms riding the NYC subway, including meningitis | TEDx Innovations Blog](http://tedxinnovations.ted.com/2016/06/15/nyc-subway-commuters-include-15000-lifeforms-including-meningitis/)
+
+----------
 
 ## Updates
+
+https://twitter.com/mason_lab/status/964163699102633985
+Christopher Mason on Twitter: "We swabbed & sequenced the offices of @CBSThisMorning - it looks like most offices spaces & the keyboard was the most microbially diverse spot. Not possible in DNA to find flu (it's RNA,) yet... https://t.co/uPpdhcS3xI … @metasub protocol and rapid @dcdanko @Daniela_Bezdan"
+10:45 AM - 15 Feb 2018
 
 http://metasub.org
 
@@ -39,6 +65,13 @@ Shaunna M. Morrison on Twitter: "@mason_lab @metasub sampling at Shinagawa stati
 
 https://www.flickr.com/photos/134164093@N07/albums/with/72157669783990365
 YCAM Bio Research’s albums | Flickr
+
+2017.10.31
+http://www.tel.co.jp/museum/magazine/015/interview02/
+5G通信につながったセンサで、われわれが自動的に行うようになること(1/4) | Telescope Magazine
+ケヴィン・スラヴィン
+http://www.tel.co.jp/museum/magazine/015/interview02/03.html
+都市に生息する微生物
 
 - 2017/10/12(Thu) [オープンデータを分析する 〜 環境ゲノム編 - connpass](https://opendata.connpass.com/event/67452/)
 
@@ -96,23 +129,6 @@ YCAM Bio Research’s albums | Flickr
 - 2016年3月[（調査報告書）グリーンバイオ分野における研究開発の重要課題と統合的推進 ～イノベーション創出と持続可能な社会の形成へ向けて～／CRDS-FY2015-RR-08](https://www.jst.go.jp/crds/report/report04/CRDS-FY2015-RR-08.html)
   - メタゲノム解析の応用例は多様化し、現在ではさまざまな対象、例えば、土壌 2)、深海底下 4)、ニューヨークの地下鉄 5)、コーヒーサーバー6) 、チーズ 7)、などにまで至っ ている。
 - [公益財団法人鉄道総合技術研究所｜人間科学ニュース 2016年3月号（第202号）](https://www.rtri.or.jp/rd/news/human/human_201603.html#sect04) 遺伝子で鉄道の環境を見る（生物工学グループ　池畑政輝）
-
-----------
-## Video
-- [MetaSUB Introductory Video on Vimeo](https://vimeo.com/171773795)  
-- 2017 [Tracking Bacteria on the Space Station Could Help Us Survive Beyond Earth](https://twitter.com/mason_lab/status/844405384328687621)
-- 2016-06-17 [Weill Cornell Medical College Uncovers Bacteria In Nyc Subways](https://wn.com/weill_cornell_medical_college_uncovers_bacteria_in_nyc_subways)
-- 2016-02-23 [New Genetic Spectra Across Earth's Cities & Far BeyondTEDMED Blog](http://blog.tedmed.com/new-genetic-spectra-across-earths-cities-beyond/)
-- 2016-04-25 [Christopher Mason at the 2016 DOE JGI Genomics of Energy & Environment Meeting - YouTube](https://www.youtube.com/watch?v=WtpKmmIg9qM)
-- 2016-11-30 [TEDMED - Discovering and designing genomes for Earth, Mars, and beyond](http://tedmed.com/talks/show?id=528172)
-- 2015-11-09 【ICF2015】[クリストファー・メイソン - 「スマートシティを司る“２番目の脳”」](https://youtu.be/3egxzBzynvY) | [Christopher Mason - Second Brain for the Smart City](https://youtu.be/ZK5ORqWqnps)
-- 2015-10-02 [Metagenomic analysis of the New York City subway system](https://www.youtube.com/watch?v=HyqvMEqmkYk)
-- 2015-06-19 [Integrative Genomics in Single Cells, Entire Cities, and Astronauts](https://youtu.be/Q_eUq9FNSaY)
-- 2015-03-27 [SciCafe: Mapping the Urban Microbiome, Genome, and Metagenome](https://www.youtube.com/watch?v=mn5MkKXtxms)
-- 2013-06-18 [Tumor Evolution in the Transcriptome, Epigenome, and Epitranscriptome](https://www.youtube.com/watch?v=UQecetRMzWI)
-- 2015-11-20 [Cracking the Genetic Code of Our Cities | Sofia Ahsanuddin | TEDxCUNY - YouTube](https://www.youtube.com/watch?v=t9GrVdYWJOc)
-  - [There are 15,000 lifeforms riding the NYC subway, including meningitis | TEDx Innovations Blog](http://tedxinnovations.ted.com/2016/06/15/nyc-subway-commuters-include-15000-lifeforms-including-meningitis/)
-
 
 ----------
 ### CAMDA
@@ -316,7 +332,7 @@ presents hundreds of novel city microbiome profiles. Construct urban microbiome 
 ----------
 
 ### [Olympiome](http://metasub.org/the-olympiome-project/)
-オリンピック開催期間の人の移動による微生物群集の変化
+微生物群集に及ぼすオリンピックの影響
 
 ![(https://twitter.com/search?q=olympiome)](https://pbs.twimg.com/media/CiMCSRuWkAABQTk.jpg)
 ![https://www.genomeweb.com/sequencing/brazilian-researchers-profile-microbiome-rio-during-after-olympic-games](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRk9ezOAWZ-aWYjJ0UjbDhybWC_8hEE7WA4qG_Hf0ozC9dfOJNM)
