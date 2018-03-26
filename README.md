@@ -130,6 +130,8 @@ http://www.tel.co.jp/museum/magazine/015/interview02/03.html
   - メタゲノム解析の応用例は多様化し、現在ではさまざまな対象、例えば、土壌 2)、深海底下 4)、ニューヨークの地下鉄 5)、コーヒーサーバー6) 、チーズ 7)、などにまで至っ ている。
 - [公益財団法人鉄道総合技術研究所｜人間科学ニュース 2016年3月号（第202号）](https://www.rtri.or.jp/rd/news/human/human_201603.html#sect04) 遺伝子で鉄道の環境を見る（生物工学グループ　池畑政輝）
 
+- 2016/04/06 [International Metagenomics Project Representative? I Volunteer As Tribute! – microBEnet](https://www.microbe.net/2016/04/06/international-metagenomics-project-representative-i-volunteer-as-tribute/)
+
 ----------
 ### CAMDA
 [Critical Assessment of Massive Data Analysis](http://camda.info)
@@ -169,12 +171,14 @@ presents hundreds of novel city microbiome profiles. Construct urban microbiome 
 グローバル シティ サンプリング デー
 の目的
 
-1. 地理空間メタゲノムと法医学遺伝地図の作成
-2. 都市建築環境における抗菌剤耐性マーカーの同定と追跡
-3. 創薬のための新規生合成遺伝子クラスターの同定
+1. 微生物群集DNA（法遺伝学）マップの作成
+2. 都市建造環境における薬剤耐性の同定と追跡
+3. 創薬のための新規生合成遺伝子の同定
 
-- 2017-06-21 [Why Researchers Collected DNA from the Subway Today](http://www.ny1.com/nyc/all-boroughs/transit/2017/06/21/subway-swabbing-manhattan-dna-germs-cells-collection.html)
 - 2017-06-21 [Global City Sampling Day 2017 @ Oracle - connpass](https://connpass.com/event/57285/)
+
+![](https://connpass-tokyo.s3.amazonaws.com/thumbs/aa/3b/aa3bad9248c5e6aa25980ce4f7837076.png)
+
 - 2017-06-19 [Global City Sampling Day Tutorial MetaSUB 2017 - YouTube](https://youtu.be/boIK-ezDuuI)
 
 ![](http://images.med.cornell.edu/body/dean/2016/06_21_16metasub3sm.jpg)
