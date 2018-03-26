@@ -171,9 +171,9 @@ presents hundreds of novel city microbiome profiles. Construct urban microbiome 
 グローバル シティ サンプリング デー
 の目的
 
-1. 微生物群集DNA（法遺伝学）マップの作成
-2. 都市建造環境における薬剤耐性の同定と追跡
-3. 創薬のための新規生合成遺伝子の同定
+1. 微生物群集の地理空間情報マップの作成
+2. 都市建造環境における薬剤耐性マーカーの同定と追跡
+3. 創薬のための新規生合成遺伝子クラスターの同定
 
 - 2017-06-21 [Global City Sampling Day 2017 @ Oracle - connpass](https://connpass.com/event/57285/)
 
