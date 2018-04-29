@@ -1,9 +1,9 @@
 Haruo Suzuki (haruo[at]g-language[dot]org)   
-Last Update: 2018-04-21
+Last Update: 2018-04-29
 
 ----------
 
-# [MetaSUB](http://metasub.org/?page_id=55)
+# [MetaSUB](http://metasub.org)
 **MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes**  
 
 **都市の生物群集のマッピング**
@@ -15,23 +15,22 @@ MetaSUB国際コンソーシアムは、世界中の都市の分子プロファ�
 ![https://crowdfunding.cornell.edu/project/3636](https://res.cloudinary.com/scalefunder/image/fetch/s--IPZeYcxb--/f_auto,fl_lossy,h_351,q_auto,w_622/https://res.cloudinary.com/scalefunder/image/upload/v1481836129/Cornell_University/vkt6clbw1ukeomgeokzb.png)
 
 ## Table of Contents
-- 2018-06-21 [Global City Sampling Day (CSD)](#csd)
-- 2017-03-28 [StuckOnU](#stuckonu)
-- 2018-08-13 [2018 Meetings](#2018-meetings)
-- 2018-07-07 [CAMDA](#camda)
-- 2017-07-18 [2017 Meetings](#2017-meetings)
-- 2016-07-01 [2016 Meetings](#2016-meetings)
-- 2015-06-20 [2015 Meetings](#2015-meetings)
-- 2016-06-28 [Boston Subway Microbiome](#boston-subway-microbiome)
-- 2015-07 [New York Subway Microbiome](#new-york-subway-microbiome)
-- 2016-08 [Olympiome](#olympiome)
-- [Updates](#updates)
-- 2016-10-13 [Innovative City Forum](#icf)
-- [Video](#video)
+- [Projects](#projects)
+  - [Global City Sampling Day (CSD)](#csd)
+  - [Olympiome](#olympiome)
+  -  [StuckOnU](#stuckonu)
+- [Meetings](http://metasub.org/meetings/)
+  - [2018 Meetings](#2018-meetings)
+  - [2017 Meetings](#2017-meetings)
+  - [2016 Meetings](#2016-meetings)
+  - [2015 Meetings](#2015-meetings)
+  - [CAMDA](#camda)
 
 ----------
+## [Projects](http://metasub.org/city-sampling-day/)
+
 ### [CSD](http://metasub.org/city-sampling-day/)
-**[Global City Sampling Day (CSD)](http://metasub.org/global-city-sampling-day/)**  
+**[Global City Sampling Day](http://metasub.org/global-city-sampling-day/)**  
 6月21日
 グローバル シティ サンプリング デー
 の目的
@@ -59,9 +58,16 @@ MetaSUB国際コンソーシアムは、世界中の都市の分子プロファ�
 - [Ocean Sampling Day | Micro B³](https://www.microb3.eu/osd)
 - 2013-05-16 [River Sampling Day Call | Micro B³](https://www.microb3.eu/feeds/oceansamplingday-blogspot/river-sampling-day-call)
 
-----------
-### [StuckOnU](http://metasub.org/stuckonu/)
+### [Olympiome](http://metasub.org/the-olympiome-project/)
+微生物群集に及ぼすオリンピックの影響
 
+![(https://twitter.com/search?q=olympiome)](https://pbs.twimg.com/media/CiMCSRuWkAABQTk.jpg)
+![https://www.genomeweb.com/sequencing/brazilian-researchers-profile-microbiome-rio-during-after-olympic-games](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRk9ezOAWZ-aWYjJ0UjbDhybWC_8hEE7WA4qG_Hf0ozC9dfOJNM)
+
+- 22/08/2016 ブラジルのニュース動画 [Cientistas aproveitam Olimpíada para pesquisar vírus e bactérias](http://g1.globo.com/jornal-nacional/noticia/2016/08/cientistas-aproveitam-olimpiada-para-pesquisar-virus-e-bacterias.html)
+- Aug 16, 2016 [Brazilian Researchers Profile Microbiome of Rio Before, During, After Olympic Games | GenomeWeb](https://www.genomeweb.com/sequencing/brazilian-researchers-profile-microbiome-rio-during-after-olympic-games)
+
+### [StuckOnU](http://metasub.org/stuckonu/)
 **携帯電話の微生物群集DNAを調査**
 
 https://twitter.com/mason_lab/status/986274309680267264
@@ -75,7 +81,10 @@ Christopher Mason on Twitter: "We’re looking for @UCLA undergraduate and gradu
 - 2017-01-11 https://twitter.com/mason_lab/status/819314001158885378 Christopher Mason on Twitter: "A 36-hour, 96-person #JPM17 metagenome: collect, extract, prep, sequence, analysis, and paper: https://t.co/F2YacBrFYE #StuckonU @illumina"
 
 ----------
-### 2018 Meetings
+## [Meetings](http://metasub.org/meetings/)
+
+### [2018 Meetings](http://metasub.org/2018-conference/)
+
 4th Annual MetaSUB Summit in Rio de Janiero, Brazil on August 13-16, 2018!
 
 第4回 MetaSUB 会議、2018年8月13日〜16日、ブラジルのリオデジャネイロ
@@ -85,7 +94,36 @@ Christopher Mason on Twitter: "We’re looking for @UCLA undergraduate and gradu
 https://twitter.com/mason_lab/status/984531118203564033
 Christopher Mason on Twitter: "Join us in Brazil, August 14-15, at the 4th Annual Metagenomics & Metadesign of Subways & Urban Biomes Summit. https://t.co/2oTaWbgclK @metasub !"
 
-----------
+### 2017 Meetings
+3rd Annual MetaSUB Summit on July 18-20, 2017, in Stockholm, Sweden
+
+第3回 MetaSUB 会議、2017年7月18日〜20日、スウェーデンのストックホルム
+
+- [2017 Conference - MetaSUB](http://metasub.org/meetings-2017/)
+- [2017 Conference Agenda](http://metasub.org/2017-conference-agenda/)
+
+![https://twitter.com/mason_lab/status/887590927409315841](https://pbs.twimg.com/media/DFFbO1FXcAAqUTJ.jpg)
+
+### [2016 Meetings](http://metasub.org/meetings/2016-meetings/)
+
+第2回 MetaSUB 会議、2016年7月1日〜2日、中国上海市[復旦大学](https://ja.wikipedia.org/wiki/復旦大学)
+
+- Aug 10, 2016 [Christopher Mason, MetaSUB Consortium - Shanghai, China - YouTube](https://www.youtube.com/watch?v=9fpYvTy_a8k)
+- May 13, 2016 [Abstracts for MetaSUB 2016 Meeting in Shanghai, China – microBEnet: the microbiology of the Built Environment network](http://www.microbe.net/2016/05/13/abstracts-for-metasub-2016-meeting-in-shanghai-china/)
+- [Metagenomics & Metadesign of Subways & Urban Biomes (MetaSUB) 2016 Summit Tickets, Fri, Jul 1, 2016 at 8:00 AM | Eventbrite](https://www.eventbrite.com/e/metagenomics-metadesign-of-subways-urban-biomes-metasub-2016-summit-tickets-23006196152)
+
+![https://twitter.com/leungmarcus/status/748749881230045184](https://pbs.twimg.com/media/CmQYASEUIAAlBAC.jpg)
+
+### [2015 Meetings](http://metasub.org/meetings/2015-meetings/)
+第1回 MetaSUB 会議、2015年6月20日、The New York Genome Center (NYGC：ニューヨーク ゲノム センター）
+
+- [#MetaSUB15 hashtag on Twitter](https://twitter.com/hashtag/MetaSUB15?src=hash)
+- 2015-07-17 [将来は、細菌だらけの地下鉄で健康的に通勤できるかも](http://www.lifehacker.jp/2015/07/150717_subway_germs.html)
+- 2015-06-23 [Scientists Are Studying Subway Germs To Keep Us Healthier | Popular Science](http://www.popsci.com/scientists-are-studying-subway-germs-keep-us-healthier)
+- 2015-06-22 [Urban microbes come out of the shadows : Nature News & Comment](http://www.nature.com/news/urban-microbes-come-out-of-the-shadows-1.17818)
+- 2015-04-23 [metasub | microBEnet: the microbiology of the Built Environment network.](http://microbe.net/tag/metasub/)
+- 2015-04-23 [MetaSUB: First International Summit of Metagenomics & Metadesign of Subways and Urban Biomes | microBEnet: the microbiology of the Built Environment network.](http://microbe.net/2015/04/23/metasub-first-international-summit-of-metagenomics-metadesign-of-subways-and-urban-biomes/)
+
 ### CAMDA
 [Critical Assessment of Massive Data Analysis](http://camda.info)
 
@@ -105,39 +143,6 @@ presents hundreds of novel city microbiome profiles. Construct urban microbiome 
 - [CAMDA 2017 Conference - CAMDA 2017](http://camda2017.bioinf.jku.at/doku.php)
 - [The CAMDA Contest Challenges - CAMDA 2017](http://camda2017.bioinf.jku.at/doku.php/contest_dataset)
 - The [MetaSUB Inter-City Challenge](http://camda2017.bioinf.jku.at/doku.php/contest_dataset#metasub_inter-city_challenge) presents the urban microbiomes of three cities. Compare organism fingerprints from public places across cities. Investigate organism sequences and biodiversity vs location.
-
-----------
-### 2017 Meetings
-3rd Annual MetaSUB Summit on July 18-20, 2017, in Stockholm, Sweden
-
-第3回 MetaSUB 会議、2017年7月18日〜20日、スウェーデンのストックホルム
-
-- [2017 Conference - MetaSUB](http://metasub.org/meetings-2017/)
-- [2017 Conference Agenda](http://metasub.org/2017-conference-agenda/)
-
-![https://twitter.com/mason_lab/status/887590927409315841](https://pbs.twimg.com/media/DFFbO1FXcAAqUTJ.jpg)
-
-----------
-### [2016 Meetings](http://metasub.org/meetings/2016-meetings/)
-
-第2回 MetaSUB 会議、2016年7月1日〜2日、中国上海市[復旦大学](https://ja.wikipedia.org/wiki/復旦大学)
-
-- Aug 10, 2016 [Christopher Mason, MetaSUB Consortium - Shanghai, China - YouTube](https://www.youtube.com/watch?v=9fpYvTy_a8k)
-- May 13, 2016 [Abstracts for MetaSUB 2016 Meeting in Shanghai, China – microBEnet: the microbiology of the Built Environment network](http://www.microbe.net/2016/05/13/abstracts-for-metasub-2016-meeting-in-shanghai-china/)
-- [Metagenomics & Metadesign of Subways & Urban Biomes (MetaSUB) 2016 Summit Tickets, Fri, Jul 1, 2016 at 8:00 AM | Eventbrite](https://www.eventbrite.com/e/metagenomics-metadesign-of-subways-urban-biomes-metasub-2016-summit-tickets-23006196152)
-
-![https://twitter.com/leungmarcus/status/748749881230045184](https://pbs.twimg.com/media/CmQYASEUIAAlBAC.jpg)
-
-----------
-### [2015 Meetings](http://metasub.org/meetings/2015-meetings/)
-第1回 MetaSUB 会議、2015年6月20日、The New York Genome Center (NYGC：ニューヨーク ゲノム センター）
-
-- [#MetaSUB15 hashtag on Twitter](https://twitter.com/hashtag/MetaSUB15?src=hash)
-- 2015-07-17 [将来は、細菌だらけの地下鉄で健康的に通勤できるかも](http://www.lifehacker.jp/2015/07/150717_subway_germs.html)
-- 2015-06-23 [Scientists Are Studying Subway Germs To Keep Us Healthier | Popular Science](http://www.popsci.com/scientists-are-studying-subway-germs-keep-us-healthier)
-- 2015-06-22 [Urban microbes come out of the shadows : Nature News & Comment](http://www.nature.com/news/urban-microbes-come-out-of-the-shadows-1.17818)
-- 2015-04-23 [metasub | microBEnet: the microbiology of the Built Environment network.](http://microbe.net/tag/metasub/)
-- 2015-04-23 [MetaSUB: First International Summit of Metagenomics & Metadesign of Subways and Urban Biomes | microBEnet: the microbiology of the Built Environment network.](http://microbe.net/2015/04/23/metasub-first-international-summit-of-metagenomics-metadesign-of-subways-and-urban-biomes/)
 
 ----------
 ## Boston Subway Microbiome
@@ -205,31 +210,6 @@ presents hundreds of novel city microbiome profiles. Construct urban microbiome 
 
 ![https://twitter.com/metasub/status/745237893153722369](https://pbs.twimg.com/media/Cled6GCWEAQySfM.jpg)
 
-----------
-
-### [Olympiome](http://metasub.org/the-olympiome-project/)
-微生物群集に及ぼすオリンピックの影響
-
-![(https://twitter.com/search?q=olympiome)](https://pbs.twimg.com/media/CiMCSRuWkAABQTk.jpg)
-![https://www.genomeweb.com/sequencing/brazilian-researchers-profile-microbiome-rio-during-after-olympic-games](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRk9ezOAWZ-aWYjJ0UjbDhybWC_8hEE7WA4qG_Hf0ozC9dfOJNM)
-
-- 22/08/2016 ブラジルのニュース動画 [Cientistas aproveitam Olimpíada para pesquisar vírus e bactérias](http://g1.globo.com/jornal-nacional/noticia/2016/08/cientistas-aproveitam-olimpiada-para-pesquisar-virus-e-bacterias.html)
-- Aug 16, 2016 [Brazilian Researchers Profile Microbiome of Rio Before, During, After Olympic Games | GenomeWeb](https://www.genomeweb.com/sequencing/brazilian-researchers-profile-microbiome-rio-during-after-olympic-games)
-- June 21, 2016 [Global Microbiome Initiative Explores Subways for Drug-Resistance Markers | GEN](http://www.genengnews.com/gen-news-highlights/global-microbiome-initiative-explores-subways-for-drug-resistance-markers/81252856)
- - MetaSUB researchers will also look at metagenomic impacts of the Olympics in Rio de Janeiro in August, in what the consortium says is a “natural experiment” illustrating a global human migration event. Researchers will carry out sampling of RNA and DNA before, during, and after the Olympics, including a search for RNA viruses such as influenza and Zika.
-- Jun 21, 2016 [Qiagen, CosmosID Join International Urban Microbiome Project | GenomeWeb](https://www.genomeweb.com/informatics/qiagen-cosmosid-join-international-urban-microbiome-project)
- - Researchers will also measure the environmental response to the mass movement of people during the 2016 Olympics to be held in Rio de Janeiro. They will collect samples before, during, and after the games and will assess the samples for the presence of viruses such as influenza and Zika.
-- JUN 21, 2016 [CosmosID and MetaSUB Consortium Announce Global Collaboration for Studying Anti-Microbial](http://www.prnewswire.com/news-releases/cosmosid-and-metasub-consortium-announce-global-collaboration-for-studying-anti-microbial-resistance-and-urban-metagenomics-across-54-cities-300287559.html)
- - The 2016 Olympics in Rio de Janeiro will also feature a measurement of the city's metagenome response to the "natural experiment" of a global human migration event, when an estimated 1 million people attend the Olympics. Sampling will occur before, during, and after the 2016 Olympics, and collections for RNA and DNA will be prepared to look also for the presence of any RNA viruses (e.g. Influenza and Zika).
-- 31/05/2016 [MetaSUB: Creating a World-Wide 'DNA Map' of Microbiomes](http://www.chxout.com/blog/environmental-genetics/metasub-creating-a-world-wide-dna-map-of-microbiom)
- - A related project will focus on the impact of the 2016 Olympics on the microbiomes of Rio de Janeiro, Brazil. An estimated 500,000 people from around the globe will descend on Rio de Janeiro in August and travel on the transport systems. Scientists will be especially interested to study the profile of RNA viruses such as influenza and Zika at this time.
-- 3 June 2016 [MetaSUB International Consortium. Microbiome. 2016 Jun 3;4(1):24. The Metagenomics and Metadesign of the Subways and Urban Biomes (MetaSUB) International Consortium inaugural meeting report.](http://www.ncbi.nlm.nih.gov/pubmed/27255532)
- - Establishing a coordinated, global data collection is slated to begin on June 21, 2016, to match and parallel the Global Ocean Sampling Day (OSD) [46, 47]. \*snip\* Notably, this time frame overlaps both the Brazilian and Japanese Olympics, generating the profile of a city’s “olympiome,” representing a first-ever sampling of cities before, during, and after a global human migration event.
-- August 8, 2016 [Antibiotic Resistance Reaches Brazil](http://mobile.the-scientist.com/article/46743/antibiotic-resistance-reaches-brazil)
- - Scientists detect a colistin-resistance gene in a clinical sample.
-- 2016.07.06 [CNN.co.jp : リオの海に「スーパー耐性菌」、五輪会場付近や観光ビーチでも - (1/2)](http://www.cnn.co.jp/showbiz/35085425.html)
-- July 5, 2016 [Rio Olympic Games: 'Super bacteria' discovered in Rio's waters as Olympics near - CNN.com](http://edition.cnn.com/2016/07/05/americas/rio-de-janeiro-super-bacteria/)
-- 2015-07-06 [2020年東京五輪、訪日外客数2000万人！？](http://o2o-marketinglab.jp/post/123328430840/2020%E5%B9%B4%E3%81%AB%E3%81%AF2000%E4%B8%87%E4%BA%BAee-tab%E3%82%A4%E3%83%BC%E3%82%BF%E3%83%96%E3%83%97%E3%83%A9%E3%82%B9limocast%E3%81%A7%E8%A6%B3%E5%85%89%E5%AE%A2%E3%82%92%E5%91%BC%E3%81%B3)
 
 ----------
 
@@ -436,6 +416,18 @@ http://www.tel.co.jp/museum/magazine/015/interview02/03.html
 
 
 ----------
+
+
+
+https://twitter.com/oraryotas/status/877501636083539968
+Ora Ryotas on Twitter: "How should we describe this surface? #gcsd17 #metasub… "
+8:21 AM - 21 Jun 2017
+
+![](https://pbs.twimg.com/media/DC2DDu3UAAQSvtW.jpg)
+
+
+
+
 
 
 
