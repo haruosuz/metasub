@@ -91,14 +91,14 @@ Christopher Mason on Twitter: "We’re looking for @UCLA undergraduate and gradu
 
 ----------
 ## Map
-サンプル収集マップ
+**サンプル収集マップ**
 
 - [2017 Sample Collection Map](http://metasub.org/2017-sample-map/)
 - [2016 Sample Collection Map](http://metasub.org/interactive-map/)
 
 ----------
 ## [Methods](http://metasub.org/methods/)
-方法
+**方法**
 
 次世代シークエンシング next-generation sequencing (NGS) の技術的進歩は、微生物の迅速でグローバルな研究を実現し、生物の機能ダイナミクスの全体像を我々に提供する。
 
@@ -115,7 +115,7 @@ Christopher Mason on Twitter: "We’re looking for @UCLA undergraduate and gradu
 
 ----------
 ## [Meetings](http://metasub.org/meetings/)
-会議
+**会議**
 
 ----------
 
