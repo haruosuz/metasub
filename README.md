@@ -48,12 +48,15 @@ https://twitter.com/metasub/status/989649608459534336
 MetaSUB Research on Twitter: "@mason_lab speaking at an information session on MetaSUB Global City Sampling Day 2018. Get your swabs ready! #gCSD18 #swabventure @WCMC_CTSC… https://t.co/4zRZA6eZ4S"
 7:37 PM - 26 Apr 2018
 
-- 2017-06-21 [Global City Sampling Day 2017 @ Oracle - connpass](https://connpass.com/event/57285/)
+#### gCSD2017
+2017/06/21(水) [Global City Sampling Day 2017 @ Oracle - connpass](https://connpass.com/event/57285/)
+クラウド上のデータを分析して市民科学者になろう！
 
 ![](https://connpass-tokyo.s3.amazonaws.com/thumbs/aa/3b/aa3bad9248c5e6aa25980ce4f7837076.png)
 
 - 2017-06-19 [Global City Sampling Day Tutorial MetaSUB 2017 - YouTube](https://www.youtube.com/watch?v=boIK-ezDuuI)
 
+#### gCSD2016
 ![](http://images.med.cornell.edu/body/dean/2016/06_21_16metasub3sm.jpg)
 ![](http://images.med.cornell.edu/body/dean/2016/06_21_16metasub2sm.jpg)
 ![](http://images.med.cornell.edu/body/dean/2016/06_21_16metasub1sm.jpg)
@@ -63,7 +66,8 @@ MetaSUB Research on Twitter: "@mason_lab speaking at an information session on M
 - June 21, 2016 [Mapping the subway’s microbiome | Scienmag: Latest Science and Health News](https://scienmag.com/mapping-the-subways-microbiome/)
 - June 22, 2016 ['Global City Sampling Day' launches Weill antimicrobial study | Cornell Chronicle](http://news.cornell.edu/stories/2016/06/global-city-sampling-day-launches-weill-antimicrobial-study)
 - JUNE 21, 2016 ['Global City Sampling Day' to Launch Weill Cornell Medicine-Led Study of Antimicrobial Resistance Across 54 International Cities | Newsroom | Weill Cornell Medicine](http://news.weill.cornell.edu/news/2016/06/global-city-sampling-day-to-launch-weill-cornell-medicine-led-study-of-antimicrobial-resistance-acro-1)
-- [グローバル・オーシャン・サンプリング・エクスペディション](https://ja.wikipedia.org/wiki/グローバル・オーシャン・サンプリング・エクスペディション)
+
+[グローバル・オーシャン・サンプリング・エクスペディション](https://ja.wikipedia.org/wiki/グローバル・オーシャン・サンプリング・エクスペディション)
 
 ----------
 
