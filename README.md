@@ -128,9 +128,9 @@ Christopher Mason on Twitter: "We’re looking for @UCLA undergraduate and gradu
 
 ### [2018 Meetings](http://metasub.org/2018-conference/)
 
-4th Annual MetaSUB Summit in Rio de Janiero, Brazil on August 13-16, 2018!
+The 4th Annual MetaSUB Conference will be held in Praia do Forte on August 13-16, 2018
 
-第4回 MetaSUB 会議、2018年8月13日〜16日、ブラジルのリオデジャネイロ
+第4回 MetaSUB 会議、2018年8月13日〜16日、ブラジル
 
 ![](https://pbs.twimg.com/card_img/987069716299767808/1m6u79mA?format=jpg&name=600x314)
 
