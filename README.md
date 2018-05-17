@@ -134,6 +134,9 @@ The 4th Annual MetaSUB Conference will be held in Praia do Forte on August 13-16
 
 ![](https://pbs.twimg.com/card_img/987069716299767808/1m6u79mA?format=jpg&name=600x314)
 
+https://twitter.com/mason_lab/status/996251788616568832
+Christopher Mason on Twitter: "4th Annual MetaSUB Conference (Aug. 14-15) and Call for Abstracts https://t.co/IjggMOEC0y via @phylogenomics"
+
 https://twitter.com/mason_lab/status/984531118203564033
 Christopher Mason on Twitter: "Join us in Brazil, August 14-15, at the 4th Annual Metagenomics & Metadesign of Subways & Urban Biomes Summit. https://t.co/2oTaWbgclK @metasub !"
 
