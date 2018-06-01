@@ -1,5 +1,5 @@
 Haruo Suzuki (haruo[at]g-language[dot]org)   
-Last Update: 2018-05-06
+Last Update: 2018-06-01
 
 ----------
 
@@ -84,9 +84,6 @@ MetaSUB国際コンソーシアムは、世界中の都市の分子プロファ�
 
 ### [StuckOnU](http://metasub.org/stuckonu/)
 **携帯電話の微生物群集DNAを調査**
-
-https://twitter.com/mason_lab/status/986274309680267264
-Christopher Mason on Twitter: "We’re looking for @UCLA undergraduate and graduate student volunteers to help with our StuckOnU metagenomics experiment at the @MilkenInstitute Conference. Sign up here: https://t.co/8cZdWWP9K4 for more information contact eba2001@med.cornell.edu @metasub… https://t.co/xFQ4vNBYEI"
 
 ![https://twitter.com/hashtag/StuckonU](https://pbs.twimg.com/media/C16yKj4UAAAxO5H.png)
 
@@ -204,14 +201,16 @@ presents hundreds of novel city microbiome profiles. Construct urban microbiome 
 - The [MetaSUB Inter-City Challenge](http://camda2017.bioinf.jku.at/doku.php/contest_dataset#metasub_inter-city_challenge) presents the urban microbiomes of three cities. Compare organism fingerprints from public places across cities. Investigate organism sequences and biodiversity vs location.
 
 ----------
+## Twitter
 
+https://twitter.com/metasub
 
-https://www.ncbi.nlm.nih.gov/pubmed/27255532
-Microbiome. 2016 Jun 3;4(1):24. doi: 10.1186/s40168-016-0168-z.
-The Metagenomics and Metadesign of the Subways and Urban Biomes (MetaSUB) International Consortium inaugural meeting report.
-MetaSUB International Consortium.
+https://twitter.com/mason_lab/status/986274309680267264
+Christopher Mason on Twitter: "We’re looking for @UCLA undergraduate and graduate student volunteers to help with our StuckOnU metagenomics experiment at the @MilkenInstitute Conference. Sign up here: https://t.co/8cZdWWP9K4 for more information contact eba2001@med.cornell.edu @metasub… https://t.co/xFQ4vNBYEI"
 
-----------
+https://twitter.com/metasub/status/989649608459534336
+MetaSUB Research on Twitter: "@mason_lab speaking at an information session on MetaSUB Global City Sampling Day 2018. Get your swabs ready! #gCSD18 #swabventure @WCMC_CTSC… https://t.co/4zRZA6eZ4S"
+7:37 PM - 26 Apr 2018
 
 https://twitter.com/oraryotas/status/877501636083539968
 Ora Ryotas on Twitter: "How should we describe this surface? #gcsd17 #metasub… "
@@ -219,9 +218,6 @@ Ora Ryotas on Twitter: "How should we describe this surface? #gcsd17 #metasub…
 
 ![](https://pbs.twimg.com/media/DC2DDu3UAAQSvtW.jpg)
 
-[Weill Cornell Medicine | MetaSUB: Discover and Map the Genomes Around Us](https://crowdfunding.cornell.edu/project/3636)
+----------
 
-https://twitter.com/metasub/status/989649608459534336
-MetaSUB Research on Twitter: "@mason_lab speaking at an information session on MetaSUB Global City Sampling Day 2018. Get your swabs ready! #gCSD18 #swabventure @WCMC_CTSC… https://t.co/4zRZA6eZ4S"
-7:37 PM - 26 Apr 2018
 
