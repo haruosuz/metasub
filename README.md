@@ -51,7 +51,7 @@ MetaSUB国際コンソーシアムは、世界中の都市の分子プロファ�
 
 #### gCSD2018
 
-- https://twitter.com/hashtag/metasub
+- https://twitter.com/hashtag/MetaSUB
 - https://twitter.com/hashtag/gCSD18
 - 2018/06/21(Thu) 18:30 〜 19:45 [Global City Sampling Day 2018 - connpass](https://connpass.com/event/88032/)
 都市環境のゲノムを収集して市民科学者になろう！
@@ -202,6 +202,53 @@ presents hundreds of novel city microbiome profiles. Construct urban microbiome 
 ## Twitter
 
 https://twitter.com/metasub
+
+https://twitter.com/drxwnedinthesky/status/1010783384564482048
+まりの))) on Twitter: "Full of Egao #gCSD18 #fullofhell #tokyo… "
+3:15 AM - 24 Jun 2018
+
+https://twitter.com/itotakat/status/1010436919677710336
+itotaka on Twitter: "Happy swabbing :) #MetaSUB #gCSD18 #YCAM #YCAMBioResearch… "
+4:18 AM - 23 Jun 2018
+
+https://twitter.com/tsudakazutoshi/status/1010348764941377536
+Kazutoshi Tsuda, PhD on Twitter: "#MetaSUB #gCSD18 #YCAM #Yamaguchi #Japan… "
+10:28 PM - 22 Jun 2018 from Yamaguchi-shi, Yamaguchi
+
+https://twitter.com/BotchanLab/status/1010130466882514947
+坊ちゃんLab on Twitter: "We collected microorganism which are samples of Metasub project. These samples will be DNA sequenced, and used to investigate microorganism in cities. #metasub #gCSD18 #cityscalemetagenomics #urbanmicrobiome… https://t.co/LGeuAIcUd3"
+8:00 AM - 22 Jun 2018
+
+https://twitter.com/Comp_Music_Lab/status/1010036068589056000
+CompMusic Lab on Twitter: "One of our researchers is taking part in the #gCSD18 to study microbial activity in live music houses in Japan. Stay tuned for developments!… https://t.co/cwNceZjDRW"
+1:45 AM - 22 Jun 2018
+
+https://twitter.com/RumSuzuki/status/1009813093667360770
+湯本タマ on Twitter: "Today I got a sample from a "hand bath" in front of Beppu station, Oita Japan. There are numerous hot springs in this city but hand baths are not so common. I'll also take a sample from a " foot bath", which is more common, for comparison :-) #MetaSUB #gCSD18… https://t.co/eoJIylArgd"
+10:59 AM - 21 Jun 2018
+
+https://twitter.com/oraryotas/status/1009844647919681537
+Ora Ryotas on Twitter: "#metasub… "
+1:05 PM - 21 Jun 2018
+
+https://twitter.com/oraryotas/status/1009843829837402112
+Ora Ryotas on Twitter: "#metasub… "
+1:01 PM - 21 Jun 2018
+
+https://twitter.com/oraryotas/status/1009843397970890752
+1:00 PM - 21 Jun 2018
+
+https://twitter.com/maato/status/1009736455969595393
+maato on Twitter: "Japan now at Oracle japan #metasub… "
+5:55 AM - 21 Jun 2018
+
+https://twitter.com/maato/status/1009759865932111872
+maato on Twitter: "#metaSUB Japan sampling at Oracle Japan… "
+7:28 AM - 21 Jun 2018
+
+https://twitter.com/t0rakeina/status/1009630027015696384
+こんの けいな / Keina Konno on Twitter: "Looking for microbes in our work enviroment 🔍 #ycam #ycambioresearch #metasub #gCSD18… "
+10:52 PM - 20 Jun 2018
 
 https://twitter.com/mason_lab/status/986274309680267264
 Christopher Mason on Twitter: "We’re looking for @UCLA undergraduate and graduate student volunteers to help with our StuckOnU metagenomics experiment at the @MilkenInstitute Conference. Sign up here: https://t.co/8cZdWWP9K4 for more information contact eba2001@med.cornell.edu @metasub… https://t.co/xFQ4vNBYEI"
