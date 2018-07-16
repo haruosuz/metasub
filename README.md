@@ -177,28 +177,6 @@ The 4th Annual MetaSUB Conference will be held in Praia do Forte on August 13-16
 - 2015-04-23 [MetaSUB: First International Summit of Metagenomics & Metadesign of Subways and Urban Biomes | microBEnet: the microbiology of the Built Environment network.](http://microbe.net/2015/04/23/metasub-first-international-summit-of-metagenomics-metadesign-of-subways-and-urban-biomes/)
 
 ----------
-
-### CAMDA
-[Critical Assessment of Massive Data Analysis](http://camda.info)
-
-[CAMDA 2018 (@CAMDA_conf) | Twitter](https://twitter.com/CAMDA_conf)
-
-![](http://camda2018.bioinf.jku.at/lib/tpl/mnml-blog/user/logo.png)
-
-- [CAMDA 2018 Conference](http://camda2018.bioinf.jku.at/doku.php)
-- [The CAMDA Contest Challenges](http://camda2018.bioinf.jku.at/doku.php/contest_dataset)
-- The [MetaSUB Forensics Challenge](http://camda2018.bioinf.jku.at/doku.php/contest_dataset#metasub_forensics_challenge)
-presents hundreds of novel city microbiome profiles. Construct urban microbiome fingerprints and identify the geographical origin of mystery samples.
-
-![](http://camda2017.bioinf.jku.at/lib/tpl/mnml-blog/user/logo.png)
-
-[CAMDA Challenge 2017 - MetaSUB](http://metasub.org/camda-challenge-2017/)
-
-- [CAMDA 2017 Conference - CAMDA 2017](http://camda2017.bioinf.jku.at/doku.php)
-- [The CAMDA Contest Challenges - CAMDA 2017](http://camda2017.bioinf.jku.at/doku.php/contest_dataset)
-- The [MetaSUB Inter-City Challenge](http://camda2017.bioinf.jku.at/doku.php/contest_dataset#metasub_inter-city_challenge) presents the urban microbiomes of three cities. Compare organism fingerprints from public places across cities. Investigate organism sequences and biodiversity vs location.
-
-----------
 ## Twitter
 
 https://twitter.com/metasub
