@@ -5,6 +5,8 @@
 - [Updates](#updates)
 - [2018](#2018)
 - [2017](#2017)
+- [CAMDA](#camda)
+- 2016-10-13 [Innovative City Forum](#icf)
 - 2016 [Boston Subway Microbiome](#boston-subway-microbiome)
 - 2015 [New York Subway Microbiome](#new-york-subway-microbiome)
 
@@ -32,6 +34,28 @@
 ----------
 
 ## 2017
+
+----------
+
+### CAMDA
+[Critical Assessment of Massive Data Analysis](http://camda.info)
+
+[CAMDA 2018 (@CAMDA_conf) | Twitter](https://twitter.com/CAMDA_conf)
+
+![](http://camda2018.bioinf.jku.at/lib/tpl/mnml-blog/user/logo.png)
+
+- [CAMDA 2018 Conference](http://camda2018.bioinf.jku.at/doku.php)
+- [The CAMDA Contest Challenges](http://camda2018.bioinf.jku.at/doku.php/contest_dataset)
+- The [MetaSUB Forensics Challenge](http://camda2018.bioinf.jku.at/doku.php/contest_dataset#metasub_forensics_challenge)
+presents hundreds of novel city microbiome profiles. Construct urban microbiome fingerprints and identify the geographical origin of mystery samples.
+
+![](http://camda2017.bioinf.jku.at/lib/tpl/mnml-blog/user/logo.png)
+
+[CAMDA Challenge 2017 - MetaSUB](http://metasub.org/camda-challenge-2017/)
+
+- [CAMDA 2017 Conference - CAMDA 2017](http://camda2017.bioinf.jku.at/doku.php)
+- [The CAMDA Contest Challenges - CAMDA 2017](http://camda2017.bioinf.jku.at/doku.php/contest_dataset)
+- The [MetaSUB Inter-City Challenge](http://camda2017.bioinf.jku.at/doku.php/contest_dataset#metasub_inter-city_challenge) presents the urban microbiomes of three cities. Compare organism fingerprints from public places across cities. Investigate organism sequences and biodiversity vs location.
 
 ----------
 
@@ -85,7 +109,7 @@
   - 2015-02-13 [ニューヨークの地下鉄にペスト菌のDNAがいるかも？という報告の喧々諤々](http://blog.goo.ne.jp/tabibito12/e/6bf479f45aec31d08d35eccb1bfbe717)
   - 2015-02-10 [There’s No Plague on the NYC Subway. No Platypuses Either.](http://on.natgeo.com/1zdQTe0) A Blog by Ed Yong.
   - 2015-02-07 [ＮＹ地下鉄にペスト菌や炭疽菌＝ごく微量、健康に脅威なし－米調査](http://www.jiji.com/jc/zc?k=201502/2015020700220)
-  - 2015-02-06 [ビッグデータとバクテリア―NY地下鉄のDNAマップ作成 - WSJ](http://jp.wsj.com/articles/SB12052756172436844285404580444870276852224)
+  - 2015-02-06 [ビッグデータとバクテリア―NY地下鉄のDNAマップ作成 - WSJ](https://jp.wsj.com/articles/SB12052756172436844285404580444870276852224)
   - 2015-02-05 [Metagenomic Study Offers Glimpse of NYC Subway System Microbes](https://www.genomeweb.com/genetic-research/metagenomic-study-offers-glimpse-nyc-subway-system-microbes)
   - [都市微生物叢研究PathoMap｜2015年2月号｜News & Hot Paper Digest｜羊土社：実験医学online](https://www.yodosha.co.jp/jikkenigaku/nhpd/9784758101363/c5.html)
 
