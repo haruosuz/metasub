@@ -230,9 +230,14 @@ https://twitter.com/maato/status/1009759865932111872
 maato on Twitter: "#metaSUB Japan sampling at Oracle Japan… "
 7:28 AM - 21 Jun 2018
 
+![](https://pbs.twimg.com/media/DgNjPoBUcAAWRsG.jpg)
+
 https://twitter.com/t0rakeina/status/1009630027015696384
 こんの けいな / Keina Konno on Twitter: "Looking for microbes in our work enviroment 🔍 #ycam #ycambioresearch #metasub #gCSD18… "
 10:52 PM - 20 Jun 2018
+
+https://twitter.com/copypasteusa/status/1004388800988995586
+copypasteusa on Twitter: "Global City Sampling Day 2018 @ 2-5-8 Kitaaoyama, Minato-ku, Tokyo, Japan https://t.co/AuqdhiQBRB @mason_lab @metasub @Metasub_India @MetaSUB_Oslo @metasub_paris @Metasub_Zurich #gCSD18 #MetaSUB #CityScaleMetagenomics"
 
 https://twitter.com/mason_lab/status/986274309680267264
 Christopher Mason on Twitter: "We’re looking for @UCLA undergraduate and graduate student volunteers to help with our StuckOnU metagenomics experiment at the @MilkenInstitute Conference. Sign up here: https://t.co/8cZdWWP9K4 for more information contact eba2001@med.cornell.edu @metasub… https://t.co/xFQ4vNBYEI"
@@ -241,11 +246,33 @@ https://twitter.com/metasub/status/989649608459534336
 MetaSUB Research on Twitter: "@mason_lab speaking at an information session on MetaSUB Global City Sampling Day 2018. Get your swabs ready! #gCSD18 #swabventure @WCMC_CTSC… https://t.co/4zRZA6eZ4S"
 7:37 PM - 26 Apr 2018
 
+https://twitter.com/oraryotas/status/918453499574157312
+Ora Ryotas on Twitter: "dinner! #metasub… "
+
+![](https://pbs.twimg.com/media/DL8AlqgVwAAW0wI.jpg)
+
+https://twitter.com/oraryotas/status/912281624472985600
+Ora Ryotas on Twitter: "10/12 18:30-19:45 外苑前直結の Oracle Cafe にて Dr. Christopher Mason の講演会を開催します。ぜひご参加ください！ https://t.co/99FbOdv55Q"
+
+https://twitter.com/JunUetake/status/877601111657463809
+Jun Uetake on Twitter: "metasub（世界の地下鉄でメタゲノムを調べる研究）＠日本のサンプリングも着実に進んでいるみたいですね。スカイツリーの結果（高いから長距離輸送の影響強い）とは随分違ってくると思うけど、家のホコリ（お茶、納豆菌多い）とどのくらい似ているのだろうか？気になります。… https://t.co/QvWvb2Vu1a"
+2:56 PM - 21 Jun 2017
+
 https://twitter.com/oraryotas/status/877501636083539968
 Ora Ryotas on Twitter: "How should we describe this surface? #gcsd17 #metasub… "
 8:21 AM - 21 Jun 2017
 
 ![](https://pbs.twimg.com/media/DC2DDu3UAAQSvtW.jpg)
+
+https://twitter.com/mason_lab/status/875804031649796098
+Christopher Mason on Twitter: "@Metasub_Zurich @MetaSUB_Sweden @metasub @metasub_paris Global City Sampling Day #gCSD17 is starting: @Daniela_Bezdan rocks the planet!… https://t.co/5PhY5HyZo6"
+3:55 PM - 16 Jun 2017 from Manhattan, NY
+
+![](https://pbs.twimg.com/media/DCd7HkCUIAA_KfN.jpg)
+
+https://twitter.com/oraryotas/status/873473445891158016
+Ora Ryotas on Twitter: "6月21日（水）の「Global City Sampling Day」には世界中で同時に環境 DNA がサンプリングされます。これに合わせて Oracle でもセミナーを開催致します！ https://t.co/rFg8k8ANRX"
+5:34 AM - 10 Jun 2017
 
 ----------
 
