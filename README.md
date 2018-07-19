@@ -230,8 +230,6 @@ https://twitter.com/maato/status/1009759865932111872
 maato on Twitter: "#metaSUB Japan sampling at Oracle Japan… "
 7:28 AM - 21 Jun 2018
 
-![](https://pbs.twimg.com/media/DgNjPoBUcAAWRsG.jpg)
-
 https://twitter.com/t0rakeina/status/1009630027015696384
 こんの けいな / Keina Konno on Twitter: "Looking for microbes in our work enviroment 🔍 #ycam #ycambioresearch #metasub #gCSD18… "
 10:52 PM - 20 Jun 2018
@@ -245,11 +243,6 @@ Christopher Mason on Twitter: "We’re looking for @UCLA undergraduate and gradu
 https://twitter.com/metasub/status/989649608459534336
 MetaSUB Research on Twitter: "@mason_lab speaking at an information session on MetaSUB Global City Sampling Day 2018. Get your swabs ready! #gCSD18 #swabventure @WCMC_CTSC… https://t.co/4zRZA6eZ4S"
 7:37 PM - 26 Apr 2018
-
-https://twitter.com/oraryotas/status/918453499574157312
-Ora Ryotas on Twitter: "dinner! #metasub… "
-
-![](https://pbs.twimg.com/media/DL8AlqgVwAAW0wI.jpg)
 
 https://twitter.com/oraryotas/status/912281624472985600
 Ora Ryotas on Twitter: "10/12 18:30-19:45 外苑前直結の Oracle Cafe にて Dr. Christopher Mason の講演会を開催します。ぜひご参加ください！ https://t.co/99FbOdv55Q"
