@@ -182,8 +182,13 @@ https://twitter.com/hashtag/MetaSUB
 
 https://twitter.com/metasub
 
+https://twitter.com/oraryotas/status/1015975711998263296
+Ora Ryotas on Twitter: "Sampling at Oracle Japan was in a major newspaper! #metasub https://t.co/cigZQO10Bp"
+11:07 AM - 8 Jul 2018
+
 https://twitter.com/asahi_kankyo/status/1011899463152164865
 朝日新聞環境取材チーム on Twitter: "私たちが暮らす都市には、どんな微生物が生息しているのか。綿棒を使った都市の微生物調査が始まっているそうです。 （ｅｃｏ活プラス）都市の微生物、世界中で採集　綿棒使い、街の環境考える参考に：朝日新聞デジタル https://t.co/zlwanhR1Qg #環境 #自然 #エコ"
+5:10 AM - 27 Jun 2018
 
 ![](https://pbs.twimg.com/card_img/1031913070736465920/P3gmm2TG?format=jpg&name=600x314)
 
