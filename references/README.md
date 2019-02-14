@@ -461,6 +461,10 @@ The report states that 88% of stations were cleaned fewer than eight times a yea
 
 
 
+https://twitter.com/Yodosha_EM/status/567945623116210176
+羊土社 実験医学 on Twitter: "【 #実験医学NHPD 】都市微生物叢研究PathoMap（鈴木治夫先生）→ https://t.co/PQUy4SSB2E"
+
+
 
 ----------
 
