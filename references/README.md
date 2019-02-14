@@ -112,6 +112,7 @@ presents hundreds of novel city microbiome profiles. Construct urban microbiome 
   - 2015-02-06 [ビッグデータとバクテリア―NY地下鉄のDNAマップ作成 - WSJ](https://jp.wsj.com/articles/SB12052756172436844285404580444870276852224)
   - 2015-02-05 [Metagenomic Study Offers Glimpse of NYC Subway System Microbes](https://www.genomeweb.com/genetic-research/metagenomic-study-offers-glimpse-nyc-subway-system-microbes)
   - [都市微生物叢研究PathoMap｜2015年2月号｜News & Hot Paper Digest｜羊土社：実験医学online](https://www.yodosha.co.jp/jikkenigaku/nhpd/9784758101363/c5.html)
+PathoMap (http://www.pathomap.org/) は，コーネル医科大学（Weill Cornell Medical College）のChristopher Mason博士とEbrahim Afshinnekoo氏によって進められている市民参加型のプロジェクトである（写真）．このアイデアは2010年，プロジェクト主任研究者のMason博士が保育園に娘を迎えに行ったときにはじまった．
 
 ![](https://www.yodosha.co.jp/jikkenigaku/nhpd/9784758101363/images/9784758101363_nhpd_pho.png)
 
