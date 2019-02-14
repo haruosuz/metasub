@@ -201,6 +201,12 @@ Cell Syst. 2015 Jul 29;1(1):72-87. Epub 2015 Mar 3.
 Geospatial Resolution of Human and Bacterial Diversity with City-Scale Metagenomics.
 Afshinnekoo et al.
 
+https://www.yodosha.co.jp/jikkenigaku/nhpd/9784758101363/c5.html
+都市微生物叢研究PathoMap｜2015年2月号｜
+PathoMap（http://www.pathomap.org/）は，コーネル医科大学（Weill Cornell Medical College）のChristopher Mason博士とEbrahim Afshinnekoo氏によって進められている市民参加型のプロジェクトである（写真）．このアイデアは2010年，プロジェクト主任研究者のMason博士が保育園に娘を迎えに行ったときにはじまった．
+
+![](https://www.yodosha.co.jp/jikkenigaku/nhpd/9784758101363/images/9784758101363_nhpd_pho.png)
+
 ----------
 ## twitter
 
