@@ -1,5 +1,5 @@
 Haruo Suzuki (haruo[at]g-language[dot]org)   
-Last Update: 2019-01-01
+Last Update: 2019-04
 
 ----------
 
@@ -275,6 +275,16 @@ MetaSUB Research on Twitter: "@mason_lab speaking at an information session on M
 
 https://twitter.com/oraryotas/status/912281624472985600
 Ora Ryotas on Twitter: "10/12 18:30-19:45 外苑前直結の Oracle Cafe にて Dr. Christopher Mason の講演会を開催します。ぜひご参加ください！ https://t.co/99FbOdv55Q"
+
+
+
+https://twitter.com/jgalipon/status/877830319767928832
+Josephine Galipon on Twitter: "ワークショップ後の飲み会でも食事前後にその居酒屋で微生物をひたすらサンプリングしました。#くれぐれも営業妨害ではありません笑 #metasub… "
+6:07 AM - 22 Jun 2017
+
+https://twitter.com/jgalipon/status/877829555297304576
+Josephine Galipon on Twitter: "昨晩は日本オラクル本社にて，微生物ゲノム情報の世界地図を作っているMetaSUB関連で発表の議会をいただき，会場内でみんなで微生物のサンプリングも行った。#metasub… "
+6:04 AM - 22 Jun 2017
 
 https://twitter.com/JunUetake/status/877601111657463809
 Jun Uetake on Twitter: "metasub（世界の地下鉄でメタゲノムを調べる研究）＠日本のサンプリングも着実に進んでいるみたいですね。スカイツリーの結果（高いから長距離輸送の影響強い）とは随分違ってくると思うけど、家のホコリ（お茶、納豆菌多い）とどのくらい似ているのだろうか？気になります。… https://t.co/QvWvb2Vu1a"
