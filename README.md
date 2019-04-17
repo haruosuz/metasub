@@ -263,25 +263,29 @@ https://twitter.com/t0rakeina/status/1009630027015696384
 こんの けいな / Keina Konno on Twitter: "Looking for microbes in our work enviroment 🔍 #ycam #ycambioresearch #metasub #gCSD18… "
 10:52 PM - 20 Jun 2018
 
+https://twitter.com/Oracle_Japan/status/1007080238562643968
+Oracle Japan/日本オラクル on Twitter: "【セミナー情報】6/21(木)18：30から「Global City Sampling Day 2018」を開催します。このセミナーでは、微生物とは何か？それを世界中で収集するプロジェクトとは？など最新の科学をわかりやすく解説します。お申し込みはこちら→ https://t.co/W6t3WrRF5q"
+10:00 PM - 13 Jun 2018
+
 https://twitter.com/copypasteusa/status/1004388800988995586
 copypasteusa on Twitter: "Global City Sampling Day 2018 @ 2-5-8 Kitaaoyama, Minato-ku, Tokyo, Japan https://t.co/AuqdhiQBRB @mason_lab @metasub @Metasub_India @MetaSUB_Oslo @metasub_paris @Metasub_Zurich #gCSD18 #MetaSUB #CityScaleMetagenomics"
+11:45 AM - 6 Jun 2018
 
 https://twitter.com/mason_lab/status/986274309680267264
 Christopher Mason on Twitter: "We’re looking for @UCLA undergraduate and graduate student volunteers to help with our StuckOnU metagenomics experiment at the @MilkenInstitute Conference. Sign up here: https://t.co/8cZdWWP9K4 for more information contact eba2001@med.cornell.edu @metasub… https://t.co/xFQ4vNBYEI"
+12:04 PM - 17 Apr 2018 from Boston, MA
 
 https://twitter.com/metasub/status/989649608459534336
 MetaSUB Research on Twitter: "@mason_lab speaking at an information session on MetaSUB Global City Sampling Day 2018. Get your swabs ready! #gCSD18 #swabventure @WCMC_CTSC… https://t.co/4zRZA6eZ4S"
 7:37 PM - 26 Apr 2018
 
-
 https://twitter.com/s__morrison/status/954603374292422656
 Shaunna M. Morrison on Twitter: "@mason_lab @metasub sampling at Shinagawa station… "
 1:35 AM - 20 Jan 2018 from JR 品川駅
 
-
 https://twitter.com/oraryotas/status/912281624472985600
 Ora Ryotas on Twitter: "10/12 18:30-19:45 外苑前直結の Oracle Cafe にて Dr. Christopher Mason の講演会を開催します。ぜひご参加ください！ https://t.co/99FbOdv55Q"
-
+7:44 AM - 25 Sep 2017
 
 https://twitter.com/jgalipon/status/877830319767928832
 Josephine Galipon on Twitter: "ワークショップ後の飲み会でも食事前後にその居酒屋で微生物をひたすらサンプリングしました。#くれぐれも営業妨害ではありません笑 #metasub… "
