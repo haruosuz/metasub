@@ -273,9 +273,14 @@ https://twitter.com/metasub/status/989649608459534336
 MetaSUB Research on Twitter: "@mason_lab speaking at an information session on MetaSUB Global City Sampling Day 2018. Get your swabs ready! #gCSD18 #swabventure @WCMC_CTSC… https://t.co/4zRZA6eZ4S"
 7:37 PM - 26 Apr 2018
 
+
+https://twitter.com/s__morrison/status/954603374292422656
+Shaunna M. Morrison on Twitter: "@mason_lab @metasub sampling at Shinagawa station… "
+1:35 AM - 20 Jan 2018 from JR 品川駅
+
+
 https://twitter.com/oraryotas/status/912281624472985600
 Ora Ryotas on Twitter: "10/12 18:30-19:45 外苑前直結の Oracle Cafe にて Dr. Christopher Mason の講演会を開催します。ぜひご参加ください！ https://t.co/99FbOdv55Q"
-
 
 
 https://twitter.com/jgalipon/status/877830319767928832
