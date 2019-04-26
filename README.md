@@ -263,12 +263,6 @@ https://twitter.com/maato/status/1009759865932111872
 maato on Twitter: "#metaSUB Japan sampling at Oracle Japan… "
 7:28 AM - 21 Jun 2018
 
-https://twitter.com/MetaSUB_Oslo/status/1009768128103010304
-MetaSUB_Oslo on Twitter: "Air sampling and swabbing on gCSD18 in Oslo have finished! Air sampling will continue tomorrow, Monday and Wednesday.… https://t.co/mwGwKk4hF8"
-8:00 AM - 21 Jun 2018
-
-![](https://pbs.twimg.com/media/DgNqvfrXkAAvf_Y.jpg)
-
 https://twitter.com/t0rakeina/status/1009630027015696384
 こんの けいな / Keina Konno on Twitter: "Looking for microbes in our work enviroment 🔍 #ycam #ycambioresearch #metasub #gCSD18… "
 10:52 PM - 20 Jun 2018
@@ -300,13 +294,6 @@ Ora Ryotas on Twitter: "10/12 18:30-19:45 外苑前直結の Oracle Cafe にて 
 https://twitter.com/acetrigger_99/status/878966144568139776
 Kohei Ito on Twitter: "Global city sampling day 2017, we collected 18 samples from Shibuya in Japan!!! .@metasub @mason_lab #metasub #gCSD17… https://t.co/z3zhB1I6VF"
 9:20 AM - 25 Jun 2017
-
-https://twitter.com/mason_lab/status/878055963726536704
-Christopher Mason on Twitter: "Air sampling a city's air: before and after. 30min. 300RPM. Whoa. #metasub.… "
-9:03 PM - 22 Jun 2017
-
-![](https://pbs.twimg.com/media/DC97PTiXYAEa6Dr.jpg)
-![](https://pbs.twimg.com/media/DC97PTlW0AA9TWU.jpg)
 
 https://twitter.com/jgalipon/status/877830319767928832
 Josephine Galipon on Twitter: "ワークショップ後の飲み会でも食事前後にその居酒屋で微生物をひたすらサンプリングしました。#くれぐれも営業妨害ではありません笑 #metasub… "
