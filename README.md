@@ -240,10 +240,6 @@ https://twitter.com/Comp_Music_Lab/status/1010036068589056000
 CompMusic Lab on Twitter: "One of our researchers is taking part in the #gCSD18 to study microbial activity in live music houses in Japan. Stay tuned for developments!… https://t.co/cwNceZjDRW"
 1:45 AM - 22 Jun 2018
 
-https://twitter.com/RumSuzuki/status/1009813093667360770
-湯本タマ on Twitter: "Today I got a sample from a "hand bath" in front of Beppu station, Oita Japan. There are numerous hot springs in this city but hand baths are not so common. I'll also take a sample from a " foot bath", which is more common, for comparison :-) #MetaSUB #gCSD18… https://t.co/eoJIylArgd"
-10:59 AM - 21 Jun 2018
-
 https://twitter.com/oraryotas/status/1009844647919681537
 Ora Ryotas on Twitter: "#metasub… "
 1:05 PM - 21 Jun 2018
