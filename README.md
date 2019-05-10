@@ -208,6 +208,10 @@ https://twitter.com/hashtag/MetaSUB
 
 https://twitter.com/metasub
 
+https://twitter.com/jgalipon/status/1125007572753235968
+Josephine Galipon on Twitter: "去年ゴビ砂漠で採取したサンプルの解析と、東京オリンピック前後の全世界の交通機関微生物調査 #metasub 国際コンソーシアムの企画参加、一石二鳥です！… "
+8:01 AM - 5 May 2019
+
 https://twitter.com/oraryotas/status/1015975711998263296
 Ora Ryotas on Twitter: "Sampling at Oracle Japan was in a major newspaper! #metasub https://t.co/cigZQO10Bp"
 11:07 AM - 8 Jul 2018
