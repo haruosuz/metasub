@@ -5,22 +5,18 @@ Last Update: 2019-05
 
 # [MetaSUB](http://metasub.org)
 **MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes**  
-
-[MetaSUB紹介ビデオ](https://vimeo.com/171773795)
-
-**都市の微生物群集のマッピング**
+**都市の微生物**
+[紹介ビデオ](https://vimeo.com/171773795)
 
 MetaSUB国際コンソーシアムは、世界中の都市の分子プロファイルを構築し、都市のデザイン・機能・健康への影響を改善することを目指している。公共交通機関は、毎日多くの人々が密接に相互作用する空間であるが、これらの表面上の微生物群集の変化（また、これらの表面との相互作用が都市と個人の健康に影響を及ぼす可能性）についてはほとんど知られていない。
 
 ----------
 
-## Table of Contents
 - [About](#about)
 - [Map](#map)
 - [Projects](#projects)
   - [Global City Sampling Day (CSD)](#csd)
   - [Olympiome](#olympiome)
-  - [StuckOnU](#stuckonu)
 - [Methods](#methods)
 - [Meetings](#meetings)
 
@@ -109,18 +105,6 @@ Christopher Mason on Twitter: "Brazilian Researchers Profile Microbiome of Rio B
 12:46 PM - 16 Aug 2016
 
 ----------
-
-### [StuckOnU](http://metasub.org/stuckonu/)
-**携帯電話の微生物群集DNAを調査**
-
-![https://twitter.com/hashtag/StuckonU](http://metasub.org/wp-content/uploads/2017/01/stuckOnU2_print_95-624x365.png)
-
-- [StuckOnU JPM Jan 2017](http://metasub.org/stuckonu2017/)
-- [StuckOnU ABRF 2017 - MetaSUB](http://metasub.org/stuckonu-abrf-2017/) ABRF San Diego Mar 24th-29th 2017
-- 2017-03-28 https://twitter.com/mason_lab/status/846879838577176576 Christopher Mason on Twitter: "#ABRF2017 slides from the #StuckOnU presentation about the metagenomics of the conference https://t.co/3MPfrkktZj"
-- 2017-01-11 https://twitter.com/mason_lab/status/819314001158885378 Christopher Mason on Twitter: "A 36-hour, 96-person #JPM17 metagenome: collect, extract, prep, sequence, analysis, and paper: https://t.co/F2YacBrFYE #StuckonU @illumina"
-
-----------
 ## [Methods](http://metasub.org/methods/)
 **方法**
 
@@ -155,8 +139,6 @@ The 4th Annual MetaSUB Conference will be held in Praia do Forte on August 13-16
 
 - May 14, 2018 [4th Annual MetaSUB Conference (Aug. 14-15) and Call for Abstracts](https://www.microbe.net/2018/05/14/4th-annual-metasub-conference-aug-14-15-and-call-for-abstracts/)
 
-![](http://metasub.org/wp-content/uploads/2018/04/Screen-Shot-2018-04-12-at-3.10.47-PM.png)
-
 ----------
 
 ### 2017 Meetings
@@ -167,8 +149,6 @@ The 4th Annual MetaSUB Conference will be held in Praia do Forte on August 13-16
 - [2017 Conference - MetaSUB](http://metasub.org/meetings-2017/)
 - [2017 Conference Agenda](http://metasub.org/2017-conference-agenda/)
 
-![https://twitter.com/mason_lab/status/887590927409315841](https://pbs.twimg.com/media/DFFbO1FXcAAqUTJ.jpg)
-
 ----------
 
 ### [2016 Meetings](http://metasub.org/meetings/2016-meetings/)
@@ -178,8 +158,6 @@ The 4th Annual MetaSUB Conference will be held in Praia do Forte on August 13-16
 - Aug 10, 2016 [Christopher Mason, MetaSUB Consortium - Shanghai, China - YouTube](https://www.youtube.com/watch?v=9fpYvTy_a8k)
 - May 13, 2016 [Abstracts for MetaSUB 2016 Meeting in Shanghai, China – microBEnet: the microbiology of the Built Environment network](http://www.microbe.net/2016/05/13/abstracts-for-metasub-2016-meeting-in-shanghai-china/)
 - [Metagenomics & Metadesign of Subways & Urban Biomes (MetaSUB) 2016 Summit Tickets, Fri, Jul 1, 2016 at 8:00 AM | Eventbrite](https://www.eventbrite.com/e/metagenomics-metadesign-of-subways-urban-biomes-metasub-2016-summit-tickets-23006196152)
-
-![https://twitter.com/leungmarcus/status/748749881230045184](https://pbs.twimg.com/media/CmQYASEUIAAlBAC.jpg)
 
 ----------
 
