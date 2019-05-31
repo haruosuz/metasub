@@ -260,14 +260,6 @@ Global City Sampling Day 2018 @ 2-5-8 Kitaaoyama, Minato-ku, Tokyo, Japan https:
 @mason_lab @metasub @Metasub_India @MetaSUB_Oslo @metasub_paris @Metasub_Zurich #gCSD18 #MetaSUB #CityScaleMetagenomics
 11:45 AM - 6 Jun 2018
 
-https://twitter.com/mason_lab/status/986274309680267264
-Christopher Mason on Twitter: "We’re looking for @UCLA undergraduate and graduate student volunteers to help with our StuckOnU metagenomics experiment at the @MilkenInstitute Conference. Sign up here: https://t.co/8cZdWWP9K4 for more information contact eba2001@med.cornell.edu @metasub… https://t.co/xFQ4vNBYEI"
-12:04 PM - 17 Apr 2018 from Boston, MA
-
-https://twitter.com/metasub/status/989649608459534336
-MetaSUB Research on Twitter: "@mason_lab speaking at an information session on MetaSUB Global City Sampling Day 2018. Get your swabs ready! #gCSD18 #swabventure @WCMC_CTSC… https://t.co/4zRZA6eZ4S"
-7:37 PM - 26 Apr 2018
-
 https://twitter.com/s__morrison/status/954603374292422656
 Shaunna M. Morrison on Twitter: "@mason_lab @metasub sampling at Shinagawa station… "
 1:35 AM - 20 Jan 2018 from JR 品川駅
@@ -288,10 +280,6 @@ https://twitter.com/jgalipon/status/877829555297304576
 Josephine Galipon on Twitter: "昨晩は日本オラクル本社にて，微生物ゲノム情報の世界地図を作っているMetaSUB関連で発表の議会をいただき，会場内でみんなで微生物のサンプリングも行った。#metasub… "
 6:04 AM - 22 Jun 2017
 
-https://twitter.com/JunUetake/status/877601111657463809
-Jun Uetake on Twitter: "metasub（世界の地下鉄でメタゲノムを調べる研究）＠日本のサンプリングも着実に進んでいるみたいですね。スカイツリーの結果（高いから長距離輸送の影響強い）とは随分違ってくると思うけど、家のホコリ（お茶、納豆菌多い）とどのくらい似ているのだろうか？気になります。… https://t.co/QvWvb2Vu1a"
-2:56 PM - 21 Jun 2017
-
 https://twitter.com/oraryotas/status/877501636083539968
 Ora Ryotas on Twitter: "How should we describe this surface? #gcsd17 #metasub… "
 8:21 AM - 21 Jun 2017
@@ -310,13 +298,6 @@ https://twitter.com/maato/status/862246472212815872
 maato on Twitter: "人の動きで、微生物を撒き散らし、微生物をもってかえる 東京オリンピックで #metasub"
 6:02 AM - 10 May 2017
 
-https://twitter.com/copypasteusa/status/810084735514972161
-copypasteusa on Twitter: "オリンピックと微生物 The Olympiome Project – MetaSUB https://t.co/ie8xRmMVLy… "
-6:30 AM - 17 Dec 2016
-
-https://twitter.com/Yodosha_EM/status/567945623116210176
-羊土社 実験医学 on Twitter: "【 #実験医学NHPD 】都市微生物叢研究PathoMap（鈴木治夫先生）→ https://t.co/PQUy4SSB2E"
-2:16 AM - 18 Feb 2015
 
 ----------
 
