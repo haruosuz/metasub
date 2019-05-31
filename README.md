@@ -224,10 +224,6 @@ https://twitter.com/BotchanLab/status/1010130466882514947
 坊ちゃんLab on Twitter: "We collected microorganism which are samples of Metasub project. These samples will be DNA sequenced, and used to investigate microorganism in cities. #metasub #gCSD18 #cityscalemetagenomics #urbanmicrobiome… https://t.co/LGeuAIcUd3"
 8:00 AM - 22 Jun 2018
 
-https://twitter.com/Comp_Music_Lab/status/1010036068589056000
-CompMusic Lab on Twitter: "One of our researchers is taking part in the #gCSD18 to study microbial activity in live music houses in Japan. Stay tuned for developments!… https://t.co/cwNceZjDRW"
-1:45 AM - 22 Jun 2018
-
 https://twitter.com/oraryotas/status/1009844647919681537
 Ora Ryotas on Twitter: "#metasub… "
 1:05 PM - 21 Jun 2018
