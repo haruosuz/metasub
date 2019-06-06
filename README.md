@@ -1,16 +1,14 @@
 Haruo Suzuki (haruo[at]g-language[dot]org)   
-Last Update: 2019-05
+Last Update: 2019-06
 
 ----------
 
 # [MetaSUB](http://metasub.org)
 **MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes**  
 **都市の微生物**
-[紹介ビデオ](https://vimeo.com/171773795)
+紹介ビデオ [MetaSUB Introductory Video](https://vimeo.com/171773795)](https://vimeo.com/171773795)
 
 MetaSUB国際コンソーシアムは、世界中の都市の分子プロファイルを構築し、都市のデザイン・機能・健康への影響を改善することを目指している。公共交通機関は、毎日多くの人々が密接に相互作用する空間であるが、これらの表面上の微生物群集の変化（また、これらの表面との相互作用が都市と個人の健康に影響を及ぼす可能性）についてはほとんど知られていない。
-
-----------
 
 [About](#about)
 | [Map](#map)
@@ -197,6 +195,8 @@ Afshinnekoo et al.
 
 ----------
 ## Video
+[MetaSUB Introductory Video](https://vimeo.com/171773795)
+
 
 以下の動画 (1:57:22) で9分程度 (12:00-20:40) MetaSUBプロジェクトについて紹介されています。
 - https://www.youtube.com/watch?v=0FSiRhkZKp8 【ICF2017】バイオテクノロジーセッション
@@ -212,6 +212,7 @@ Afshinnekoo et al.
 20:40- International Space Station
 ```
 
+- 2015-11-09 【ICF2015】[クリストファー・メイソン - 「スマートシティを司る“２番目の脳”」](https://youtu.be/3egxzBzynvY) | [Christopher Mason - Second Brain for the Smart City](https://youtu.be/ZK5ORqWqnps)
 - 2015-10-02 [「微生物によって建築のデザイン・プロセスを変えたい」ジェシカ・グリーン（微生物学者） « WIRED.jp](http://wired.jp/2015/10/02/innovative-city-forum-2015-4/)
 - 2015-09-18 [「バイオは自分には関係ないと思っていませんか」林千晶（MITメディアラボ所長補佐）：ICF 2015の見どころを語る｜WIRED.jp](http://wired.jp/2015/09/18/innovative-city-forum-2015-2/)
 ニューヨークの地下鉄で微生物を採取して製作した「[微生物マップ](http://www.pathomap.org/map/)」。
@@ -220,7 +221,6 @@ Afshinnekoo et al.
 Pathomap Project（Weill Cornell Medical College）
 NY地下鉄の細菌マップ
 。ニューヨークの地下鉄の車両内とすべての駅で、綿棒を使って微生物のサンプルを集めて、ラボでゲノム解析を行った。ほぼすべての駅でピザのモッツァレラチーズの細菌が見つかったが、多くの人が恐れているような、身体に害を及ぼす細菌はほとんど見つからなかったという。
-- 2015-11-09 【ICF2015】[クリストファー・メイソン - 「スマートシティを司る“２番目の脳”」](https://youtu.be/3egxzBzynvY) | [Christopher Mason - Second Brain for the Smart City](https://youtu.be/ZK5ORqWqnps)
 
 建築環境の研究例として、以下の動画（5:18）では、自然換気に比べ、機械式の換気は、微生物の多様性を低くし、潜在的な病原菌と遭遇する可能性を高くすることが述べられています。
 - https://www.ted.com/talks/jessica_green_are_we_filtering_the_wrong_microbes?language=ja Jessica Green: ジェシカ・グリーン「微生物を正しく取り除くために」
