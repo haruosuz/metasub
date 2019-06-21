@@ -54,8 +54,6 @@ hashtag on Twitter
 https://twitter.com/mason_lab/status/1141897496978808832
 Global city sampling day 2019 #gCSD19 has started: >100 cities! As the Earth rotates, more samples will appear on the horizon. Good luck all metagenome sampling teams! @MetaSUB_Sweden @metasub_paris @metasub @Metasub_Zurich @Metasub_India @MetaSUB_Oslo http://metasub.org/2019-sample-map/
 
-![](https://pbs.twimg.com/media/D9jVtrOUEAA109B.jpg)
-
 - 2019/06/21(金) [オラクル市民科学講座「微生物 DNA とは？」 - connpass](https://metasub.connpass.com/event/130988/)
 地球規模の DNA データベース構築の取り組みに迫る！
 ```
