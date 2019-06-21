@@ -51,6 +51,11 @@ hashtag on Twitter
 [#MetaSUB](https://twitter.com/hashtag/metasub?f=tweets&vertical=default&src=hash)
 [#gCSD19](https://twitter.com/hashtag/gcsd19?f=tweets&vertical=default)
 
+https://twitter.com/mason_lab/status/1141897496978808832
+Global city sampling day 2019 #gCSD19 has started: >100 cities! As the Earth rotates, more samples will appear on the horizon. Good luck all metagenome sampling teams! @MetaSUB_Sweden @metasub_paris @metasub @Metasub_Zurich @Metasub_India @MetaSUB_Oslo http://metasub.org/2019-sample-map/
+
+![](https://pbs.twimg.com/media/D9jVtrOUEAA109B.jpg)
+
 - 2019/06/21(金) [オラクル市民科学講座「微生物 DNA とは？」 - connpass](https://metasub.connpass.com/event/130988/)
 地球規模の DNA データベース構築の取り組みに迫る！
 ```
@@ -228,6 +233,18 @@ NY地下鉄の細菌マップ
 ----------
 ## Twitter
 https://twitter.com/metasub
+
+https://twitter.com/mason_lab/status/1141897496978808832
+Christopher Mason on Twitter: "Global city sampling day 2019 #gCSD19 has started: >100 cities! As the Earth rotates, more samples will appear on the horizon. Good luck all metagenome sampling teams! @MetaSUB_Sweden @metasub_paris @metasub @Metasub_Zurich @Metasub_India @MetaSUB_Oslo https://t.co/fBztlsFEsz… https://t.co/IrwtwlPKyO"
+10:35 PM - 20 Jun 2019 from Beijing, People's Republic of China
+
+https://twitter.com/oS6vQ9WKeV8fUKF/status/1141572390121439232
+齋藤明広 on Twitter: "#MetaSUB sampling at Aino-station, Fukuroi, Shizuoka, JAPAN.… "
+1:04 AM - 20 Jun 2019
+
+https://twitter.com/yano_hirokazu/status/1141231465042083840
+Hirokazu Yano on Twitter: "#MetaSUB #gCSD19 Annual sampling of “dusts” in Subway. This may tell us interesting things about stability of microbial community and people’s movement.… https://t.co/ImDwxQk7BQ"
+2:29 AM - 19 Jun 2019
 
 https://twitter.com/youyuh48/status/1140855003512365056
 youyuh48 on Twitter: "Just finished swabbing at the bus stop! #MetaSUB #gCSD19… "
