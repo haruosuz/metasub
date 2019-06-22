@@ -54,7 +54,7 @@ hashtag on Twitter
 [#MetaSUB2019](https://twitter.com/hashtag/metasub2019?f=tweets&vertical=default)
 [#gCSD2019](https://twitter.com/hashtag/gcsd2019?f=tweets&vertical=default)
 
-[サンプル・マップ](http://metasub.org/2019-sample-map/)
+今年のサンプル・マップ [2019 Sample Map](http://metasub.org/2019-sample-map/)
 
 - 2019/06/21(金) [オラクル市民科学講座「微生物 DNA とは？」 - connpass](https://metasub.connpass.com/event/130988/)
 地球規模の DNA データベース構築の取り組みに迫る！
