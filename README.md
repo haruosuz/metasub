@@ -54,6 +54,10 @@ hashtag on Twitter
 [#MetaSUB2019](https://twitter.com/hashtag/metasub2019?f=tweets&vertical=default)
 [#gCSD2019](https://twitter.com/hashtag/gcsd2019?f=tweets&vertical=default)
 
+https://twitter.com/mason_lab/status/1141897496978808832
+Christopher Mason on Twitter: "Global city sampling day 2019 #gCSD19 has started: >100 cities! As the Earth rotates, more samples will appear on the horizon. Good luck all metagenome sampling teams! @MetaSUB_Sweden @metasub_paris @metasub @Metasub_Zurich @Metasub_India @MetaSUB_Oslo https://t.co/fBztlsFEsz… https://t.co/IrwtwlPKyO"
+10:35 PM - 20 Jun 2019 from Beijing, People's Republic of China
+
 - 2019/06/21(金) [オラクル市民科学講座「微生物 DNA とは？」 - connpass](https://metasub.connpass.com/event/130988/)
 地球規模の DNA データベース構築の取り組みに迫る！
   - [講演内容ツイート](https://twitter.com/search?f=tweets&vertical=default&q=%23metasub%20AND%20%28maato%20OR%20raweel%29&src=typd)
@@ -93,9 +97,8 @@ Twitterのハッシュタグ
 ----------
 
 ### [Olympiome](http://metasub.org/the-olympiome-project/)
-大規模な人と物の移動イベントが都市の微生物群集に及ぼす影響
 
-![https://www.genomeweb.com/sequencing/brazilian-researchers-profile-microbiome-rio-during-after-olympic-games](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRk9ezOAWZ-aWYjJ0UjbDhybWC_8hEE7WA4qG_Hf0ozC9dfOJNM)
+大規模な人と物の移動イベントとして、ラグビーワールドカップ2019（2019年9月20日から11月2日）、2020年東京オリンピック（2020年7月24日から8月9日）が、都市の微生物群集（薬剤耐性遺伝子プール）に及ぼす影響を評価する。
 
 - Aug 23, 2016 [Investigação Científica nas Olimpíadas - YouTube](https://www.youtube.com/watch?v=0Bd4aYyMj_I)
 - 22/08/2016 [Cientistas aproveitam Olimpíada para pesquisar vírus e bactérias](http://g1.globo.com/jornal-nacional/noticia/2016/08/cientistas-aproveitam-olimpiada-para-pesquisar-virus-e-bacterias.html)
@@ -226,10 +229,6 @@ https://twitter.com/metasub
 https://twitter.com/BotchanLab/status/1142394339475148800
 Botchan Lab Tokyo〈坊ちゃんラボ〉 on Twitter: "昨日ですが、駅でメタサブのサンプリングを行いました！ メタサブとは？→ https://t.co/IwPI1Fvs8s その後オラクルにて市民科学カフェ「微生物DNAとは？」に参加してきました！ #gCSD2019 #CitySamplingDay2019 #MetaSUB #metagenomics #sampling #igem @metasub @copypasteusa @yokonaga405… https://t.co/zecdcokhaO"
 7:30 AM - 22 Jun 2019
-
-https://twitter.com/mason_lab/status/1141897496978808832
-Christopher Mason on Twitter: "Global city sampling day 2019 #gCSD19 has started: >100 cities! As the Earth rotates, more samples will appear on the horizon. Good luck all metagenome sampling teams! @MetaSUB_Sweden @metasub_paris @metasub @Metasub_Zurich @Metasub_India @MetaSUB_Oslo https://t.co/fBztlsFEsz… https://t.co/IrwtwlPKyO"
-10:35 PM - 20 Jun 2019 from Beijing, People's Republic of China
 
 https://twitter.com/oS6vQ9WKeV8fUKF/status/1141572390121439232
 齋藤明広 on Twitter: "#MetaSUB sampling at Aino-station, Fukuroi, Shizuoka, JAPAN.… "
