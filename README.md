@@ -54,14 +54,14 @@ hashtag on Twitter
 [#MetaSUB2019](https://twitter.com/hashtag/metasub2019?f=tweets&vertical=default)
 [#gCSD2019](https://twitter.com/hashtag/gcsd2019?f=tweets&vertical=default)
 
-今年のサンプル・マップ [2019 Sample Map](http://metasub.org/2019-sample-map/)
-
 - 2019/06/21(金) [オラクル市民科学講座「微生物 DNA とは？」 - connpass](https://metasub.connpass.com/event/130988/)
 地球規模の DNA データベース構築の取り組みに迫る！
   - [講演内容ツイート](https://twitter.com/search?f=tweets&vertical=default&q=%23metasub%20AND%20%28maato%20OR%20raweel%29&src=typd)
 
 #### gCSD2018
-- https://twitter.com/hashtag/gCSD18
+hashtag on Twitter
+[#gCSD18](https://twitter.com/hashtag/gcsd18?f=tweets&vertical=default)
+
 - 2018/06/21(木) [Global City Sampling Day 2018 - connpass](https://connpass.com/event/88032/)
 都市環境のゲノムを収集して市民科学者になろう！
 - 2018年6月26日 [（ｅｃｏ活プラス）都市の微生物、世界中で採集　綿棒使い、街の環境考える参考に：朝日新聞デジタル](https://www.asahi.com/articles/DA3S13558057.html)
@@ -75,7 +75,9 @@ hashtag on Twitter
 綿棒でこすった後、先端を保管容器に入れて分析にまわす＝いずれも東京都港区北青山２丁目の日本オラクルで
 
 #### gCSD2017
-- https://twitter.com/hashtag/gCSD17
+hashtag on Twitter
+[#gCSD17](https://twitter.com/hashtag/gCSD17)
+
 - 2017/06/21(水) [Global City Sampling Day 2017 @ Oracle - connpass](https://connpass.com/event/57285/)
 クラウド上のデータを分析して市民科学者になろう！
 - June 21, 2017 at 5:53 pm [How Much Bacteria Is On Subway Surfaces? Study Finds Out « CBS Baltimore](http://baltimore.cbslocal.com/2017/06/21/bacteria-at-subway-stations/)
