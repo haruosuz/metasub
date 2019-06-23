@@ -98,7 +98,7 @@ Twitterのハッシュタグ
 
 ### [Olympiome](http://metasub.org/the-olympiome-project/)
 
-大規模な人と物の移動イベントとして、ラグビーワールドカップ2019（2019年9月20日から11月2日）、2020年東京オリンピック（2020年7月24日から8月9日）が、都市の微生物群集（薬剤耐性遺伝子プール）に及ぼす影響を評価する。
+大規模な人と物の移動イベント（2020年東京オリンピック）が、都市の微生物群集に及ぼす影響を評価
 
 - Aug 23, 2016 [Investigação Científica nas Olimpíadas - YouTube](https://www.youtube.com/watch?v=0Bd4aYyMj_I)
 - 22/08/2016 [Cientistas aproveitam Olimpíada para pesquisar vírus e bactérias](http://g1.globo.com/jornal-nacional/noticia/2016/08/cientistas-aproveitam-olimpiada-para-pesquisar-virus-e-bacterias.html)
