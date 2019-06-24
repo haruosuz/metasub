@@ -56,14 +56,6 @@ Twitterのハッシュタグ
 [#MetaSUB2019](https://twitter.com/hashtag/metasub2019?f=tweets&vertical=default)
 [#gCSD2019](https://twitter.com/hashtag/gcsd2019?f=tweets&vertical=default)
 
-https://twitter.com/mason_lab/status/1141897496978808832
-Christopher Mason on Twitter: "Global city sampling day 2019 #gCSD19 has started: >100 cities! As the Earth rotates, more samples will appear on the horizon. Good luck all metagenome sampling teams! @MetaSUB_Sweden @metasub_paris @metasub @Metasub_Zurich @Metasub_India @MetaSUB_Oslo https://t.co/fBztlsFEsz… https://t.co/IrwtwlPKyO"
-10:35 PM - 20 Jun 2019 from Beijing, People's Republic of China
-
-https://twitter.com/metasub/status/1141835926118838272
-MetaSUB Research on Twitter: "It's that time of year again! We are kicking off the first day of summer with swabventures all around the world! Stay updated with Global City Sampling Day 2019 with our collection map: https://t.co/yJgPqttE8c … #gCSD19 #happyswabbing"
-6:31 PM - 20 Jun 2019
-
 - 2019/06/21(金) [オラクル市民科学講座「微生物 DNA とは？」 - connpass](https://metasub.connpass.com/event/130988/)
 地球規模の DNA データベース構築の取り組みに迫る！
   - [講演内容ツイート](https://twitter.com/search?f=tweets&vertical=default&q=%23metasub%20AND%20%28maato%20OR%20raweel%29&src=typd)
@@ -239,6 +231,14 @@ https://twitter.com/Yh_Taguchi/status/1142991182340845568
 https://twitter.com/BotchanLab/status/1142394339475148800
 Botchan Lab Tokyo〈坊ちゃんラボ〉 on Twitter: "昨日ですが、駅でメタサブのサンプリングを行いました！ メタサブとは？→ https://t.co/IwPI1Fvs8s その後オラクルにて市民科学カフェ「微生物DNAとは？」に参加してきました！ #gCSD2019 #CitySamplingDay2019 #MetaSUB #metagenomics #sampling #igem @metasub @copypasteusa @yokonaga405… https://t.co/zecdcokhaO"
 7:30 AM - 22 Jun 2019
+
+https://twitter.com/mason_lab/status/1141897496978808832
+Christopher Mason on Twitter: "Global city sampling day 2019 #gCSD19 has started: >100 cities! As the Earth rotates, more samples will appear on the horizon. Good luck all metagenome sampling teams! @MetaSUB_Sweden @metasub_paris @metasub @Metasub_Zurich @Metasub_India @MetaSUB_Oslo https://t.co/fBztlsFEsz… https://t.co/IrwtwlPKyO"
+10:35 PM - 20 Jun 2019 from Beijing, People's Republic of China
+
+https://twitter.com/metasub/status/1141835926118838272
+MetaSUB Research on Twitter: "It's that time of year again! We are kicking off the first day of summer with swabventures all around the world! Stay updated with Global City Sampling Day 2019 with our collection map: https://t.co/yJgPqttE8c … #gCSD19 #happyswabbing"
+6:31 PM - 20 Jun 2019
 
 https://twitter.com/oS6vQ9WKeV8fUKF/status/1141572390121439232
 齋藤明広 on Twitter: "#MetaSUB sampling at Aino-station, Fukuroi, Shizuoka, JAPAN.… "
