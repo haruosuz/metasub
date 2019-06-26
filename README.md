@@ -1,5 +1,5 @@
 Haruo Suzuki (haruo[at]g-language[dot]org)   
-Last Update: 2019-06
+Last Update: 2019-06-21
 
 ----------
 
@@ -223,6 +223,10 @@ NY地下鉄の細菌マップ
 ----------
 ## Twitter
 https://twitter.com/metasub
+
+https://twitter.com/kazumasa_yamada/status/1143299888647532544
+Kazumasa Yamada on Twitter: "2019 Global City Sampling Day on Friday, June 21st. 24 samples taken by Fukui Prefectural University Students in Obama, Japan. https://t.co/5FkJxbEUzu https://t.co/HiUfkwIHUN #MetaSUB #gCSD2019 #metagenomics… https://t.co/WCef69qoQL"
+7:28 PM - 24 Jun 2019
 
 https://twitter.com/Yh_Taguchi/status/1142991182340845568
 田口善弘 on Twitter: "#gcsd Sampled with undergrad at Korakuen Station 卒研生と後楽園駅でサンプリング。… "
