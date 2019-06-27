@@ -140,7 +140,7 @@ The 5th Annual MetaSUB Conference will be held in Istanbul on August 29-31, 2019
 ### [2018 Meetings](http://metasub.org/2018-conference/)
 第4回 MetaSUB 会議、2018年8月13日〜16日、ブラジル
 
-### [2017 Conference - MetaSUB](http://metasub.org/meetings-2017/)
+### [2017 Meetings](http://metasub.org/meetings-2017/)
 第3回 MetaSUB 会議、2017年7月18日〜20日、スウェーデンのストックホルム
 
 ### [2016 Meetings](http://metasub.org/meetings/2016-meetings/)
@@ -175,7 +175,6 @@ Afshinnekoo et al.
 ## Video
 [MetaSUB Introductory Video](https://vimeo.com/171773795)
 
-
 以下の動画 (1:57:22) で9分程度 (12:00-20:40) MetaSUBプロジェクトについて紹介されています。
 - https://www.youtube.com/watch?v=0FSiRhkZKp8 【ICF2017】バイオテクノロジーセッション
 - https://www.youtube.com/watch?v=rOPJt8pvYlM 【ICF2017】Biotechnology Session
@@ -191,7 +190,6 @@ Afshinnekoo et al.
 ```
 
 - 2015-11-09 【ICF2015】[クリストファー・メイソン - 「スマートシティを司る“２番目の脳”」](https://youtu.be/3egxzBzynvY) | [Christopher Mason - Second Brain for the Smart City](https://youtu.be/ZK5ORqWqnps)
-- 2015-10-02 [「微生物によって建築のデザイン・プロセスを変えたい」ジェシカ・グリーン（微生物学者） « WIRED.jp](http://wired.jp/2015/10/02/innovative-city-forum-2015-4/)
 - 2015-09-18 [「バイオは自分には関係ないと思っていませんか」林千晶（MITメディアラボ所長補佐）：ICF 2015の見どころを語る｜WIRED.jp](http://wired.jp/2015/09/18/innovative-city-forum-2015-2/)
 ニューヨークの地下鉄で微生物を採取して製作した「[微生物マップ](http://www.pathomap.org/map/)」。
 - [「微生物から新しいデザインがはじまる」デイヴィッド・ベンジャミン✕ジェシカ・グリーン✕林千晶：Redesigning Tokyo 対話4「Biology」 « WIRED.jp](https://wired.jp/special/2016/biology/)
@@ -199,9 +197,6 @@ Afshinnekoo et al.
 Pathomap Project（Weill Cornell Medical College）
 NY地下鉄の細菌マップ
 。ニューヨークの地下鉄の車両内とすべての駅で、綿棒を使って微生物のサンプルを集めて、ラボでゲノム解析を行った。ほぼすべての駅でピザのモッツァレラチーズの細菌が見つかったが、多くの人が恐れているような、身体に害を及ぼす細菌はほとんど見つからなかったという。
-
-建築環境の研究例として、以下の動画（5:18）では、自然換気に比べ、機械式の換気は、微生物の多様性を低くし、潜在的な病原菌と遭遇する可能性を高くすることが述べられています。
-- https://www.ted.com/talks/jessica_green_are_we_filtering_the_wrong_microbes?language=ja Jessica Green: ジェシカ・グリーン「微生物を正しく取り除くために」
 
 ----------
 ## Twitter
