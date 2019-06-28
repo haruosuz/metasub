@@ -201,6 +201,14 @@ NY地下鉄の細菌マップ
 ## Twitter
 https://twitter.com/metasub
 
+https://twitter.com/Yh_Taguchi/status/1144437216732573696
+田口善弘 on Twitter: "#GCSD2019 #METASub 水道橋駅でスワブ。… "
+10:47 PM - 27 Jun 2019
+
+https://twitter.com/Yh_Taguchi/status/1144089426529640448
+田口善弘 on Twitter: "四ッ谷駅でスワブ。 #GCSD2019 #METASUB2019… "
+11:45 PM - 26 Jun 2019 from Chiyoda-ku, Tokyo
+
 https://twitter.com/kazumasa_yamada/status/1143299888647532544
 Kazumasa Yamada on Twitter: "2019 Global City Sampling Day on Friday, June 21st. 24 samples taken by Fukui Prefectural University Students in Obama, Japan. https://t.co/5FkJxbEUzu https://t.co/HiUfkwIHUN #MetaSUB #gCSD2019 #metagenomics… https://t.co/WCef69qoQL"
 7:28 PM - 24 Jun 2019
