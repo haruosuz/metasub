@@ -201,6 +201,10 @@ NY地下鉄の細菌マップ
 ## Twitter
 https://twitter.com/metasub
 
+https://twitter.com/weadci/status/1144621037796986880
+パシフィック・ムリ on Twitter: "#MetaSUB #gCSD19 at Kuji Station… "
+10:58 AM - 28 Jun 2019
+
 https://twitter.com/Yh_Taguchi/status/1144437216732573696
 田口善弘 on Twitter: "#GCSD2019 #METASub 水道橋駅でスワブ。… "
 10:47 PM - 27 Jun 2019
