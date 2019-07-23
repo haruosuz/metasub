@@ -8,9 +8,9 @@ Last Update: 2019-06-21
 | [Projects](#projects)
 | [Methods](#methods)
 | [Meetings](#meetings)
-| [Publication](#publication)
-| [Video](#video)
-| [Twitter](#twitter)
+| [publication](#publication)
+| [video](#video)
+| [twitter](#twitter)
 
 # [MetaSUB](http://metasub.org)
 **MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes**  
@@ -198,9 +198,14 @@ NY地下鉄の細菌マップ
 。ニューヨークの地下鉄の車両内とすべての駅で、綿棒を使って微生物のサンプルを集めて、ラボでゲノム解析を行った。ほぼすべての駅でピザのモッツァレラチーズの細菌が見つかったが、多くの人が恐れているような、身体に害を及ぼす細菌はほとんど見つからなかったという。
 
 ----------
-## [twitter](https://twitter.com/metasub)
+## twitter
+https://twitter.com/metasub
 
-[日本語のツイート](https://twitter.com/search?f=tweets&vertical=default&q=%23metasub%20lang%3Aja)
+[ハッシュタグ #MetaSUB 日本語のツイート](https://twitter.com/search?f=tweets&vertical=default&q=%23metasub%20lang%3Aja)
+
+https://twitter.com/jgalipon/status/1150331777820450818
+Josephine Galipon on Twitter: "1st "Microbiome Soldiers" educational event with the collab. of @MetaSUB × Tsuruoka Minami High School × Keio IAB × @bsc_milkin. Swabbed 44 samples in Tsuruoka and students grew their own bacteria. They will study the more interesting ones as part of their school activities :D https://t.co/NkxrUTwk2r"
+6:10 PM · Jul 14, 2019
 
 https://twitter.com/PetadimensionL/status/1145709516958269440
 Petadimension Lab on Twitter: "Although uploading pictures of sampling were not allowed, we have finished sampling in Sapporo. We would like to thank the Sapporo Municipal Subway for the courtesy of their kind support. #metasub #gCSD2019"
