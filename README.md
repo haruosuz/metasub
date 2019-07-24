@@ -70,8 +70,6 @@ Christopher Mason on Twitter: "Brazilian Researchers Profile Microbiome of Rio B
 3. 新規な生合成遺伝子クラスター(BCG)の同定
 
 #### gCSD2019
-サンプル収集マップ [2019 Sample Map](http://metasub.org/2019-sample-map/)
-
 Twitterのハッシュタグ
 [#MetaSUB](https://twitter.com/hashtag/metasub?f=tweets&vertical=default&src=hash)
 [#gCSD19](https://twitter.com/hashtag/gcsd19?f=tweets&vertical=default)
@@ -80,7 +78,6 @@ Twitterのハッシュタグ
 
 - 2019/06/21(金) [オラクル市民科学講座「微生物 DNA とは？」 - connpass](https://metasub.connpass.com/event/130988/)
 地球規模の DNA データベース構築の取り組みに迫る！
-  - [講演内容ツイート](https://twitter.com/search?f=tweets&vertical=default&q=%23metasub%20AND%20%28maato%20OR%20raweel%29&src=typd)
 
 #### gCSD2018
 Twitterのハッシュタグ
