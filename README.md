@@ -128,10 +128,7 @@ Twitterのハッシュタグ
 **会議**
 
 ### [2019 Meetings](http://metasub.org/2019-conference/)
-第5回 MetaSUB 会議、8月29〜31日、トルコのイスタンブール
-- http://metasub.org/registration-form/
-The 5th Annual MetaSUB Conference will be held in Istanbul on August 29-31, 2019
-- http://metasub.org/call-for-abstracts/
+第5回 MetaSUB 会議、2019年8月29〜31日、トルコのイスタンブール
 
 ### [2018 Meetings](http://metasub.org/2018-conference/)
 第4回 MetaSUB 会議、2018年8月13日〜16日、ブラジル
