@@ -127,7 +127,7 @@ Twitterのハッシュタグ
 ## [Meetings](http://metasub.org/meetings/)
 **会議**
 
-### 2019 Meetings
+### [2019 Meetings](http://metasub.org/2019-conference/)
 第5回 MetaSUB 会議、8月29〜31日、トルコのイスタンブール
 - http://metasub.org/registration-form/
 The 5th Annual MetaSUB Conference will be held in Istanbul on August 29-31, 2019
@@ -163,7 +163,7 @@ https://www.biorxiv.org/content/10.1101/724526v1
 
 論文の責任著者 Christopher Mason のツイートです。
 https://twitter.com/mason_lab/status/1158704680383524866
-2015-2017年に世界58都市（仙台、東京、山口を含む）で採取された3,741サンプルのメタゲノム、4,424の微生物、10,928の新しいウイルス種、採取都市の予測精度は91.4％。
+2015-2017年に世界58都市で採取された3,741サンプルのメタゲノム、4,424の微生物、10,928の新しいウイルス種、採取都市の予測精度は91.4％。
 
 論文の筆頭著者 David Danko のツイートです。
 https://twitter.com/dcdanko/status/1158706320352120835
