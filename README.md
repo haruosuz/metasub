@@ -129,6 +129,8 @@ Twitterのハッシュタグ
 
 ### [2019 Meetings](http://metasub.org/2019-conference/)
 第5回 MetaSUB 会議、2019年8月29〜31日、トルコのイスタンブール
+- Twitterのハッシュタグ
+[#MetaSUB19](https://twitter.com/hashtag/MetaSUB19?f=live)
 
 ### [2018 Meetings](http://metasub.org/2018-conference/)
 第4回 MetaSUB 会議、2018年8月13日〜16日、ブラジル
@@ -143,7 +145,8 @@ Twitterのハッシュタグ
 ### [2015 Meetings](http://metasub.org/meetings/2015-meetings/)
 第1回 MetaSUB 会議、2015年6月20日、The New York Genome Center (NYGC：ニューヨーク ゲノム センター）
 
-- https://twitter.com/hashtag/MetaSUB15
+- Twitterのハッシュタグ
+[#MetaSUB15](https://twitter.com/hashtag/MetaSUB15)
 - 2015-07-17 [将来は、細菌だらけの地下鉄で健康的に通勤できるかも](https://www.lifehacker.jp/2015/07/150717_subway_germs.html)
 MetaSUBでは、研究の要点と概要の説明を中心に話が進みました。清掃員が毎日数回は掃除する、衛生的にきれいな東京の地下鉄では、十分なDNA情報を集めることは難しいかもしれませんが、ニューヨークの地下鉄ではその心配はなく、数週間でDNA情報を集めることを目標にしました。
 この研究の目的は、微生物の生態系を中心に、都市デザインの価値観を変えることです。
