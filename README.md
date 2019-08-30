@@ -131,6 +131,7 @@ Twitterのハッシュタグ
 第5回 MetaSUB 会議、2019年8月29〜31日、トルコのイスタンブール
 - Twitterのハッシュタグ
 [#MetaSUB19](https://twitter.com/hashtag/MetaSUB19?f=live)
+- [2019 Meeting Agenda - MetaSUB](http://metasub.org/2019-meeting-agenda/)
 
 ### [2018 Meetings](http://metasub.org/2018-conference/)
 第4回 MetaSUB 会議、2018年8月13日〜16日、ブラジル
