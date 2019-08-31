@@ -1,5 +1,5 @@
 Haruo Suzuki (haruo[at]g-language[dot]org)   
-Last Update: 2019-06-21
+Last Update: 2019-08-31
 
 ----------
 
@@ -129,9 +129,10 @@ Twitterのハッシュタグ
 
 ### [2019 Meetings](http://metasub.org/2019-conference/)
 第5回 MetaSUB 会議、2019年8月29〜31日、トルコのイスタンブール
+- [2019 Meeting Agenda - MetaSUB](http://metasub.org/2019-meeting-agenda/)
 - Twitterのハッシュタグ
 [#MetaSUB19](https://twitter.com/hashtag/MetaSUB19?f=live)
-- [2019 Meeting Agenda - MetaSUB](http://metasub.org/2019-meeting-agenda/)
+[#MetaSUB2019](https://twitter.com/hashtag/MetaSUB2019?f=live)
 
 ### [2018 Meetings](http://metasub.org/2018-conference/)
 第4回 MetaSUB 会議、2018年8月13日〜16日、ブラジル
