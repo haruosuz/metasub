@@ -254,14 +254,6 @@ https://twitter.com/BotchanLab/status/1142394339475148800
 Botchan Lab Tokyo〈坊ちゃんラボ〉 on Twitter: "昨日ですが、駅でメタサブのサンプリングを行いました！ メタサブとは？→ https://t.co/IwPI1Fvs8s その後オラクルにて市民科学カフェ「微生物DNAとは？」に参加してきました！ #gCSD2019 #CitySamplingDay2019 #MetaSUB #metagenomics #sampling #igem @metasub @copypasteusa @yokonaga405… https://t.co/zecdcokhaO"
 7:30 AM - 22 Jun 2019
 
-https://twitter.com/mason_lab/status/1141897496978808832
-Christopher Mason on Twitter: "Global city sampling day 2019 #gCSD19 has started: >100 cities! As the Earth rotates, more samples will appear on the horizon. Good luck all metagenome sampling teams! @MetaSUB_Sweden @metasub_paris @metasub @Metasub_Zurich @Metasub_India @MetaSUB_Oslo https://t.co/fBztlsFEsz… https://t.co/IrwtwlPKyO"
-10:35 PM - 20 Jun 2019 from Beijing, People's Republic of China
-
-https://twitter.com/metasub/status/1141835926118838272
-MetaSUB Research on Twitter: "It's that time of year again! We are kicking off the first day of summer with swabventures all around the world! Stay updated with Global City Sampling Day 2019 with our collection map: https://t.co/yJgPqttE8c … #gCSD19 #happyswabbing"
-6:31 PM - 20 Jun 2019
-
 https://twitter.com/oS6vQ9WKeV8fUKF/status/1141572390121439232
 齋藤明広 on Twitter: "#MetaSUB sampling at Aino-station, Fukuroi, Shizuoka, JAPAN.… "
 1:04 AM - 20 Jun 2019
@@ -367,7 +359,6 @@ https://twitter.com/jgalipon/status/877829555297304576
 Josephine Galipon on Twitter: "昨晩は日本オラクル本社にて，微生物ゲノム情報の世界地図を作っているMetaSUB関連で発表の議会をいただき，会場内でみんなで微生物のサンプリングも行った。#metasub… "
 6:04 AM - 22 Jun 2017
 
-
 https://twitter.com/oraryotas/status/877518027083862016
 Ora Ryotas on Twitter: "Will send this to NY, now! #metasub #gcsd17 https://t.co/FLhL9wTRvH"
 10:26 PM · Jun 21, 2017
@@ -375,10 +366,6 @@ Ora Ryotas on Twitter: "Will send this to NY, now! #metasub #gcsd17 https://t.co
 https://twitter.com/oraryotas/status/877501636083539968
 Ora Ryotas on Twitter: "How should we describe this surface? #gcsd17 #metasub… "
 8:21 AM - 21 Jun 2017
-
-https://twitter.com/mason_lab/status/875804031649796098
-Christopher Mason on Twitter: "@Metasub_Zurich @MetaSUB_Sweden @metasub @metasub_paris Global City Sampling Day #gCSD17 is starting: @Daniela_Bezdan rocks the planet!… https://t.co/5PhY5HyZo6"
-3:55 PM - 16 Jun 2017 from Manhattan, NY
 
 https://twitter.com/oraryotas/status/873473445891158016
 Ora Ryotas on Twitter: "6月21日（水）の「Global City Sampling Day」には世界中で同時に環境 DNA がサンプリングされます。これに合わせて Oracle でもセミナーを開催致します！ https://t.co/rFg8k8ANRX"
