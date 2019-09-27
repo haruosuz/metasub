@@ -367,6 +367,11 @@ https://twitter.com/jgalipon/status/877829555297304576
 Josephine Galipon on Twitter: "昨晩は日本オラクル本社にて，微生物ゲノム情報の世界地図を作っているMetaSUB関連で発表の議会をいただき，会場内でみんなで微生物のサンプリングも行った。#metasub… "
 6:04 AM - 22 Jun 2017
 
+
+https://twitter.com/oraryotas/status/877518027083862016
+Ora Ryotas on Twitter: "Will send this to NY, now! #metasub #gcsd17 https://t.co/FLhL9wTRvH"
+10:26 PM · Jun 21, 2017
+
 https://twitter.com/oraryotas/status/877501636083539968
 Ora Ryotas on Twitter: "How should we describe this surface? #gcsd17 #metasub… "
 8:21 AM - 21 Jun 2017
