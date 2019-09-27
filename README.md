@@ -1,5 +1,5 @@
 Haruo Suzuki (haruo[at]g-language[dot]org)   
-Last Update: 2019-08-31
+Last Update: 2019-09
 
 ----------
 
@@ -211,11 +211,16 @@ Pathomap Project（Weill Cornell Medical College）
 NY地下鉄の細菌マップ
 。ニューヨークの地下鉄の車両内とすべての駅で、綿棒を使って微生物のサンプルを集めて、ラボでゲノム解析を行った。ほぼすべての駅でピザのモッツァレラチーズの細菌が見つかったが、多くの人が恐れているような、身体に害を及ぼす細菌はほとんど見つからなかったという。
 
+
 ----------
 ## twitter
 https://twitter.com/metasub
 
 [ハッシュタグ #MetaSUB 日本語のツイート](https://twitter.com/search?f=tweets&vertical=default&q=%23metasub%20lang%3Aja)
+
+https://twitter.com/xtechdesign/status/1170869715448680448
+クロステックデザインコース on Twitter: "白石先生が行なったGlobal City Sampling Day活動記録映像がMetaSUBの公式twitterにて掲載されました！ 尚、このプロジェクトにはクロステック1年生の室山さんも参加しています。 ぜひご覧ください。 https://t.co/Sy4YdltJaZ https://t.co/OtP5AEADmz" / Twitter
+10:21 AM · Sep 9, 2019
 
 https://twitter.com/jgalipon/status/1150331777820450818
 Josephine Galipon on Twitter: "1st "Microbiome Soldiers" educational event with the collab. of @MetaSUB × Tsuruoka Minami High School × Keio IAB × @bsc_milkin. Swabbed 44 samples in Tsuruoka and students grew their own bacteria. They will study the more interesting ones as part of their school activities :D https://t.co/NkxrUTwk2r"
@@ -353,10 +358,6 @@ Shaunna M. Morrison on Twitter: "@mason_lab @metasub sampling at Shinagawa stati
 https://twitter.com/oraryotas/status/912281624472985600
 Ora Ryotas on Twitter: "10/12 18:30-19:45 外苑前直結の Oracle Cafe にて Dr. Christopher Mason の講演会を開催します。ぜひご参加ください！ https://t.co/99FbOdv55Q"
 7:44 AM - 25 Sep 2017
-
-https://twitter.com/acetrigger_99/status/878966144568139776
-Kohei Ito on Twitter: "Global city sampling day 2017, we collected 18 samples from Shibuya in Japan!!! .@metasub @mason_lab #metasub #gCSD17… https://t.co/z3zhB1I6VF"
-9:20 AM - 25 Jun 2017
 
 https://twitter.com/jgalipon/status/877830319767928832
 Josephine Galipon on Twitter: "ワークショップ後の飲み会でも食事前後にその居酒屋で微生物をひたすらサンプリングしました。#くれぐれも営業妨害ではありません笑 #metasub… "
