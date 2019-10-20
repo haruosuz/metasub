@@ -238,6 +238,10 @@ https://twitter.com/Yh_Taguchi/status/1144437216732573696
 田口善弘 on Twitter: "#GCSD2019 #METASub 水道橋駅でスワブ。… "
 10:47 PM - 27 Jun 2019
 
+https://twitter.com/xtechdesign/status/1144139516514451462
+クロステックデザインコース on Twitter: "MetaSUB国際コンソーシアムでは都市の生物群集を調査するため毎年「Global city sampling day」が行われております。 クロステックからも白石先生が参加され、京都各所でサンプルを採取いたしました。 https://t.co/L8vblkDbcG #metaSUB #gCSD2019 https://t.co/vMUfebxkCx" / Twitter
+4:04 PM · Jun 27, 2019
+
 https://twitter.com/Yh_Taguchi/status/1144089426529640448
 田口善弘 on Twitter: "四ッ谷駅でスワブ。 #GCSD2019 #METASUB2019… "
 11:45 PM - 26 Jun 2019 from Chiyoda-ku, Tokyo
