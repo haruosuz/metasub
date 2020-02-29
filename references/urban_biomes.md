@@ -10,16 +10,14 @@ Last Update: 2020-02
 
 - [featuring](#featuring)
 - [updates](#updates)
-- [urban microbiome](#urban-microbiome) 都市のマイクロバイオーム
-
-----------
-
-https://github.com/haruosuz/metasub
-MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes
-都市の微生物
+- [unclassified](#unclassified)
+- [MetaSUB](#metasub)
 
 ----------
 ## featuring
+
+urban microbiome
+都市の微生物群集（マイクロバイオーム）
 
 ----------
 ## updates
@@ -110,11 +108,9 @@ Urban microbiomes and urban ecology: how do microbes in the built environment af
 King GM1.
 MINIREVIEW
 
-
 ----------
 
-## urban microbiome
-都市の微生物群集（マイクロバイオーム）
+## unclassified
 
 都市のマイクロバイオーム：都市の隠れた足跡の発見
 https://www.frontiersin.org/research-topics/8134
@@ -198,7 +194,61 @@ https://twitter.com/endBooks/status/385905594026033153
 ”アステカ、マヤ、インカ…天然痘の死者はここで１万、あそこで１０万など都市あるいは部族全体が消滅し、文化や言語も失われてしまうほどだった。サントドミンゴ島では人口百万が五百人にまで減ったという。” http://j.mp/KEpF6M  『病原微生物の氾濫』アーノ・カーレン
 7:13 PM - 3 Oct 2013
 
+----------
+## MetaSUB
 
+
+https://github.com/haruosuz/metasub
+MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes
+都市の微生物
+
+https://www.biorxiv.org/content/10.1101/724526v3
+"Global Genetic Cartography of Urban Metagenomes and Anti-Microbial Resistance"
+
+https://www.ncbi.nlm.nih.gov/pubmed/32071708
+Comput Struct Biotechnol J. 2020 Feb 1;18:314-322. doi: 10.1016/j.csbj.2020.01.007. eCollection 2020.
+Co-occurrence patterns of bacteria within microbiome of Moscow subway.
+Klimenko NS1,2, Tyakht AV1,2, Toshchakov SV3, Shevchenko MA4, Korzhenkov AA3, Afshinnekoo E5,6,7, Mason CE5,6,7,8, Alexeev DG1,9,10,11.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7016200/
+The study was conducted as a part of The Metagenomics and Metadesign of the Subways and Urban Biomes (MetaSUB) project.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31856911
+Microbiome. 2019 Dec 19;7(1):160. doi: 10.1186/s40168-019-0772-9.
+The subway microbiome: seasonal dynamics and direct comparison of air and surface bacterial communities.
+Gohli J1, Bøifot KO2,3, Moen LV2, Pastuszek P4, Skogan G2, Udekwu KI5, Dybwad M2,3.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6924074/
+Notably, the MetaSUB project [10] has produced a microbiome and antimicrobial resistance atlas from mass transit surface samples spanning 58 cities across the world [11]. 
+
+https://www.ncbi.nlm.nih.gov/pubmed/30819245
+Microbiome. 2019 Feb 28;7(1):35. doi: 10.1186/s40168-019-0648-z.
+Urban metagenomics uncover antibiotic resistance reservoirs in coastal beach and sewage waters.
+Fresia P1,2,3, Antelo V1,3, Salazar C1,3, Giménez M1,3,4, D'Alessandro B5, Afshinnekoo E6,7,8, Mason C6,7,9,8, Gonnet GH3,10,11, Iraola G12,13,14,15.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6396544/
+Indeed, the very recent implementation of this methodology to explore the microbial diversity in the urban environment is providing a completely new layer of information to be integrated in the management of cities, potentially assisting decisions that range from urban design to public health [5, 6].
+
+https://www.ncbi.nlm.nih.gov/pubmed/28978331
+Microbiome. 2017 Oct 4;5(1):132. doi: 10.1186/s40168-017-0349-4.
+Communicating the promise, risks, and ethics of large-scale, open space microbiome and metagenome research.
+Shamarina D1, Stoyantcheva I1, Mason CE2,3,4, Bibby K5, Elhaik E6.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5628477/
+The recent launch of global microbiome surveys, such as the Earth Microbiome Project and MetaSUB (Metagenomics and Metadesign of Subways and Urban Biomes) project, has raised ethical, financial, feasibility, and sustainability concerns as to the public’s level of understanding and potential reaction to the findings, which, done improperly, risk negative implications for ongoing and future investigations, but done correctly, can facilitate a new vision of “smart cities.”
+
+
+https://www.ncbi.nlm.nih.gov/pubmed/27255532
+Microbiome. 2016 Jun 3;4(1):24. doi: 10.1186/s40168-016-0168-z.
+The Metagenomics and Metadesign of the Subways and Urban Biomes (MetaSUB) International Consortium inaugural meeting report.
+MetaSUB International Consortium.
+
+https://www.ncbi.nlm.nih.gov/pubmed/26594662
+Cell Syst. 2015 Jul 29;1(1):72-87. Epub 2015 Mar 3.
+Geospatial Resolution of Human and Bacterial Diversity with City-Scale Metagenomics.
+Afshinnekoo et al.
 
 
 ----------
+
+
+----------
+
+
+
