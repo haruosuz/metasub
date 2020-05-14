@@ -26,6 +26,12 @@ https://twitter.com/search?q=bacteria%20urbanization
 
 ### 2019
 
+2019年6月18日
+https://www.natureasia.com/ja-jp/nm/pr-highlights/12984
+農場の埃に含まれる微生物が都会の子どもの喘息を減少させる
+Farm dust microbes linked with reduced asthma in city children
+都会環境に住む子どもを、農家と似た微生物相を持つハウスダストに曝露してやると、喘息発症が減る可能性があることが分かった。
+
 https://twitter.com/search?q=Home%20chemical%20and%20microbial%20transitions%20across%20urbanization%20%7C%20Nature%20Microbiology&src=typed_query
 
 McCall_2019_urbanization
@@ -70,6 +76,8 @@ Microbiome. 2019 Feb 28;7(1):35. doi: 10.1186/s40168-019-0648-z.
 Urban metagenomics uncover antibiotic resistance reservoirs in coastal beach and sewage waters.
 Fresia P1,2,3, Antelo V1,3, Salazar C1,3, Giménez M1,3,4, D'Alessandro B5, Afshinnekoo E6,7,8, Mason C6,7,9,8, Gonnet GH3,10,11, Iraola G12,13,14,15.
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6396544/
+RESULTS:
+We shotgun-sequenced 20 coastal areas from the city of Montevideo (capital of Uruguay) including beach and sewage water samples to characterize bacterial communities and their virulence and antibiotic resistance repertories. 
 
 ### 2018
 
@@ -89,7 +97,27 @@ https://shorebird.hatenablog.com/entry/20180509/1525863616
 第20章　ダーウィンとともにデザインする
 この章も日本の話題から始まっている．六本木ヒルズにある屋上庭園を好意的に紹介し，このようなビルの周囲に緑を有機的に取り込む動きを解説する．アクロス福岡，シンガポールのCDLツリーハウス，ミラノのヴォスコ・ヴェルティカーレ，マンハッタンのローライン地下庭園プロジェクト，ベルリンのヒルデガルテンなどの取り組みを挙げ，このような都市計画や建築計画におけるグリーンムーブメントの様々な利点を説明する．しかしスヒルトハウゼンはこれまでのこのような動きは都市環境における進化を考慮していないと指摘し，このような計画のダーウィニアンガイドラインを提唱している．
 
+
+香港
+https://www.ncbi.nlm.nih.gov/pubmed/30067975
+Cell Rep. 2018 Jul 31;24(5):1190-1202.e5. doi: 10.1016/j.celrep.2018.06.109.
+The Environmental Exposures and Inner- and Intercity Traffic Flows of the Metro System May Contribute to the Skin Microbiome and Resistome.
+Kang K1, Ni Y1, Li J1, Imamovic L2, Sarkar C3, Kobler MD4, Heshiki Y1, Zheng T1, Kumari S3, Wong JCY5, Archna A5, Wong CWM5, Dingle C6, Denizen S7, Baker DM5, Sommer MOA2, Webster CJ3, Panagiotou G8.
+https://www.sciencedirect.com/science/article/pii/S2211124718310519?via%3Dihub
+
+https://github.com/haruosuz/microbe/blob/master/references/README.MoBE.md#hong-kong-subway
+
 ### 2017
+
+### 2016
+
+ボストン
+https://www.ncbi.nlm.nih.gov/pubmed/27822528
+mSystems. 2016 Jun 28;1(3). pii: e00018-16. eCollection 2016 May-Jun.
+Urban Transit System Microbial Communities Differ by Surface Type and Interaction with Humans and the Environment.
+Hsu T1, Joice R2, Vallarino J2, Abu-Ali G2, Hartmann EM3, Shafquat A2, DuLong C2, Baranowski C2, Gevers D4, Green JL3, Morgan XC1, Spengler JD2, Huttenhower C1.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5069760/
+
 
 ### 2015
 
@@ -202,8 +230,40 @@ https://github.com/haruosuz/metasub
 MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes
 都市の微生物
 
+April 01, 2020.
+here is the paper from Niranjan Nagarajan.
+https://www.biorxiv.org/content/10.1101/644740v2
+Cartography of opportunistic pathogens and antibiotic resistance genes in a tertiary hospital environment
+MetaSUB Consortium
+
+救急車のメタゲノム
+https://www.ncbi.nlm.nih.gov/pubmed/28938903
+Microbiome. 2017 Sep 22;5(1):125. doi: 10.1186/s40168-017-0339-6.
+Metagenomic characterization of ambulances across the USA.
+O'Hara NB1, Reed HJ2, Afshinnekoo E2,3,4, Harvin D5, Caplan N5, Rosen G6, Frye B7, Woloszynek S6, Ounit R8, Levy S9, Butler E2, Mason CE10,11,12.
+
 https://www.biorxiv.org/content/10.1101/724526v3
 "Global Genetic Cartography of Urban Metagenomes and Anti-Microbial Resistance"
+
+論文の責任著者 Christopher Mason や 筆頭著者 David Danko のツイートで要約が述べられています。
+https://twitter.com/mason_lab/status/1158704680383524866
+https://twitter.com/dcdanko/status/1158706320352120835
+- 2015-2017年に58都市で採取された3,741サンプルのメタゲノム、4,424の微生物、10,928の新しいウイルス種、採取都市の予測精度は91.4％。
+- 都市の微生物叢は、地理的に類似している。サンプルを採取地で区別できるが、サンプル間で共通の（core）微生物が存在。
+- 都市の微生物叢は、人間の皮膚や土壌の微生物叢とは明らかに似ていない。1万以上の新しいウイルスゲノムを同定。
+- 薬剤耐性（AMR）の世界的なマップが大幅に拡張された。AMRを配列データのみから予測するのが難しいことに注意。
+- 最後に、このデータにアクセスするための多くのツールと方法を紹介。
+
+
+8:48 PM · Aug 6, 2019
+https://twitter.com/dcdanko/status/1158706320352120835
+David Danko on Twitter: "We present a dataset of nearly 4,000 metagenomic samples from cities around the world. Tremendous effort from hundreds of people in @MetaSUB to make this preprint possible. Special thanks to @Daniela_Bezdan, @mason_lab, and too many to count! https://t.co/no7aksgDbv" / Twitter
+
+8:41 PM · Aug 6, 2019
+https://twitter.com/mason_lab/status/1158704680383524866
+Chris Mason on Twitter: "“Global Genetic Cartography of Urban Metagenomes and Anti-Microbial Resistance.” 635 authors, 58 cities, 3,741 samples, 4,424 microbes, 10,928 novel viral species, 91.4% accuracy for predicting city-of-origin. https://t.co/XXwAmBxq49. Big @metasub data release &amp; @biorxivpreprint" / Twitter
+
+
 
 https://www.ncbi.nlm.nih.gov/pubmed/32071708
 Comput Struct Biotechnol J. 2020 Feb 1;18:314-322. doi: 10.1016/j.csbj.2020.01.007. eCollection 2020.
@@ -233,7 +293,6 @@ Shamarina D1, Stoyantcheva I1, Mason CE2,3,4, Bibby K5, Elhaik E6.
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5628477/
 The recent launch of global microbiome surveys, such as the Earth Microbiome Project and MetaSUB (Metagenomics and Metadesign of Subways and Urban Biomes) project, has raised ethical, financial, feasibility, and sustainability concerns as to the public’s level of understanding and potential reaction to the findings, which, done improperly, risk negative implications for ongoing and future investigations, but done correctly, can facilitate a new vision of “smart cities.”
 
-
 https://www.ncbi.nlm.nih.gov/pubmed/27255532
 Microbiome. 2016 Jun 3;4(1):24. doi: 10.1186/s40168-016-0168-z.
 The Metagenomics and Metadesign of the Subways and Urban Biomes (MetaSUB) International Consortium inaugural meeting report.
@@ -243,10 +302,9 @@ https://www.ncbi.nlm.nih.gov/pubmed/26594662
 Cell Syst. 2015 Jul 29;1(1):72-87. Epub 2015 Mar 3.
 Geospatial Resolution of Human and Bacterial Diversity with City-Scale Metagenomics.
 Afshinnekoo et al.
-
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4651444/
 
 ----------
-
 
 ----------
 
