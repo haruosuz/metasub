@@ -52,7 +52,7 @@ http://metasub.org/media-2/
 ### [CSD](http://metasub.org/global-city-sampling-day/)
 **Global City Sampling Day (gCSD)**  
 グローバル シティ サンプリング デー
- (6月21日 世界同時サンプリング) 
+ (夏至 世界同時サンプリング) 
 の目的
 
 1. メタゲノムの地理空間情報（遺伝子地図）の作成
