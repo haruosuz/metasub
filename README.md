@@ -92,6 +92,18 @@ Twitterのハッシュタグ
 - June 22, 2016 ['Global City Sampling Day' launches Weill antimicrobial study | Cornell Chronicle](http://news.cornell.edu/stories/2016/06/global-city-sampling-day-launches-weill-antimicrobial-study)
 - JUNE 21, 2016 ['Global City Sampling Day' to Launch Weill Cornell Medicine-Led Study of Antimicrobial Resistance Across 54 International Cities | Newsroom | Weill Cornell Medicine](http://news.weill.cornell.edu/news/2016/06/global-city-sampling-day-to-launch-weill-cornell-medicine-led-study-of-antimicrobial-resistance-acro-1)
 
+### [Olympiome](http://metasub.org/the-olympiome-project/)
+**オリンピオーム**
+
+国際的なマスギャザリング・イベント（オリンピック・パラリンピック、ワールドカップなど）前後の都市マイクロバイオームの変動
+
+- Aug 23, 2016 [Investigação Científica nas Olimpíadas - YouTube](https://www.youtube.com/watch?v=0Bd4aYyMj_I)
+- 22/08/2016 [Cientistas aproveitam Olimpíada para pesquisar vírus e bactérias](http://g1.globo.com/jornal-nacional/noticia/2016/08/cientistas-aproveitam-olimpiada-para-pesquisar-virus-e-bacterias.html)
+
+https://twitter.com/mason_lab/status/765635784556875777
+Christopher Mason on Twitter: "Brazilian Researchers Profile Microbiome of Rio Before, During, After Olympic Games https://t.co/LOOfyINmXi Go #MetaSUB!"
+12:46 PM - 16 Aug 2016
+
 ### [MetaSEW](http://metasub.org/the-metasew-project/)
 **Metagenomics of the SEWage system**
 下水のメタゲノム解析
@@ -106,18 +118,6 @@ Goals:
 - To create and expand microbial maps of medical environments with detailed and accurate metadata tracking location, points of growth, and diversity.
 - To track the emergence and spread of Anti Microbial Resistance gene markers (AMRs) in the environment where they are most likely to occur (Hospitals and medical environments with large antibiotic exposure)
 - Present data which can be used to make recommendations about improving safety within hospitals and reducing hospital acquired infections (HAIs)
-
-### [Olympiome](http://metasub.org/the-olympiome-project/)
-**オリンピオーム**
-
-人の大規模な移動イベント（オリンピック）に伴う都市の微生物群集の変化
-
-- Aug 23, 2016 [Investigação Científica nas Olimpíadas - YouTube](https://www.youtube.com/watch?v=0Bd4aYyMj_I)
-- 22/08/2016 [Cientistas aproveitam Olimpíada para pesquisar vírus e bactérias](http://g1.globo.com/jornal-nacional/noticia/2016/08/cientistas-aproveitam-olimpiada-para-pesquisar-virus-e-bacterias.html)
-
-https://twitter.com/mason_lab/status/765635784556875777
-Christopher Mason on Twitter: "Brazilian Researchers Profile Microbiome of Rio Before, During, After Olympic Games https://t.co/LOOfyINmXi Go #MetaSUB!"
-12:46 PM - 16 Aug 2016
 
 ----------
 ## [Methods](http://metasub.org/methods/)
