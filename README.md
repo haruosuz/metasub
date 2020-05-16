@@ -59,6 +59,9 @@ http://metasub.org/media-2/
 2. 抗菌剤耐性(AMR)マーカーの同定と追跡
 3. 新規な生合成遺伝子クラスター(BCG)の同定
 
+#### gCSD2020
+- 2020年6月22日(月)
+
 #### gCSD2019
 Twitterのハッシュタグ
 [#MetaSUB](https://twitter.com/hashtag/metasub?f=tweets&vertical=default&src=hash)
