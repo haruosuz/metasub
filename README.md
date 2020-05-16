@@ -92,7 +92,7 @@ Twitterのハッシュタグ
 - June 22, 2016 ['Global City Sampling Day' launches Weill antimicrobial study | Cornell Chronicle](http://news.cornell.edu/stories/2016/06/global-city-sampling-day-launches-weill-antimicrobial-study)
 - JUNE 21, 2016 ['Global City Sampling Day' to Launch Weill Cornell Medicine-Led Study of Antimicrobial Resistance Across 54 International Cities | Newsroom | Weill Cornell Medicine](http://news.weill.cornell.edu/news/2016/06/global-city-sampling-day-to-launch-weill-cornell-medicine-led-study-of-antimicrobial-resistance-acro-1)
 
-### [MetaSEW](http://metasub.org/the-metasew-project/
+### [MetaSEW](http://metasub.org/the-metasew-project/)
 **Metagenomics of the SEWage system**
 下水のメタゲノム解析
 
