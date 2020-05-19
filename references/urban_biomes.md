@@ -26,11 +26,6 @@ https://twitter.com/search?q=bacteria%20urbanization
 
 ### 2019
 
-2019年6月18日
-https://www.natureasia.com/ja-jp/nm/pr-highlights/12984
-農場の埃に含まれる微生物が都会の子どもの喘息を減少させる
-Farm dust microbes linked with reduced asthma in city children
-都会環境に住む子どもを、農家と似た微生物相を持つハウスダストに曝露してやると、喘息発症が減る可能性があることが分かった。
 
 https://twitter.com/search?q=Home%20chemical%20and%20microbial%20transitions%20across%20urbanization%20%7C%20Nature%20Microbiology&src=typed_query
 
@@ -41,6 +36,43 @@ Home chemical and microbial transitions across urbanization.
 McCall LI1,2, Callewaert C3,4, Zhu Q3, Song SJ3,5, Bouslimani A6,7, Minich JJ8, Ernst M6,7, Ruiz-Calderon JF9, Cavallin H10, Pereira HS11, Novoselac A12, Hernandez J13, Rios R14, Branch OH15,16, Blaser MJ17, Paulino LC18, Dorrestein PC19,20,21,22, Knight R23,24,25,26, Dominguez-Bello MG27,28.
 https://www.nature.com/articles/s41564-019-0593-4
 Home chemical and microbial transitions across urbanization | Nature Microbiology
+
+
+
+2019年6月18日
+https://www.natureasia.com/ja-jp/nm/pr-highlights/12984
+農場の埃に含まれる微生物が都会の子どもの喘息を減少させる
+Farm dust microbes linked with reduced asthma in city children
+都会環境に住む子どもを、農家と似た微生物相を持つハウスダストに曝露してやると、喘息発症が減る可能性があることが分かった。
+
+
+都市化傾度に沿った河川細菌群集の変化
+24 May 2019
+https://onlinelibrary.wiley.com/doi/pdf/10.1111/1462-2920.14694
+In search of microbial indicator taxa: shifts in stream bacterial communities along an urbanization gradient
+
+https://twitter.com/leungmarcus/status/1125925446187606022
+New work from @andyhois @yeipijotape @gilbertjacka and colleagues published @MicrobiomeJ
+https://www.ncbi.nlm.nih.gov/pubmed/31046835
+Microbiome. 2019 May 2;7(1):70. doi: 10.1186/s40168-019-0686-6.
+Longitudinal homogenization of the microbiome between both occupants and the built environment in a cohort of United States Air Force Cadets.
+Sharma A1, Richardson M1, Cralle L1, Stamper CE2, Maestre JP3, Stearns-Yoder KA4,5,6, Postolache TT5,6,7,8, Bates KL6,9, Kinney KA3, Brenner LA4,5,6,10, Lowry CA2,4,5,6,11,12, Gilbert JA1, Hoisington AJ13,14,15.
+
+
+Front. Ecol. Evol., 11 March 2019 | https://doi.org/10.3389/fevo.2019.00043
+Spatiotemporal Controls on the Urban Aerobiome
+Gwynne Á. Mhuireach1,2*, Clarisse M. Betancourt-Román2,3, Jessica L. Green2 and Bart R. Johnson1,4
+
+
+臨床現場の表面に存在する微生物を他の人工環境と比較。メタゲノミクス解析、ゲノムとプラスミドの再構築。閉じ込めと清掃の増加は、微生物多様性の喪失と、グラム陽性菌（ActinobacteriaとFirmicutes）からグラム陰性菌（Proteobacteria）への移行と関連。微生物多様性の喪失が耐性の増加と相関。
+https://twitter.com/susanprescott88/status/1101464494151294977
+Susan Prescott MDPhD on Twitter: "New paper on #microbiome of the built environment concludes "Our results highlight that the loss of microbial diversity correlates with an increase in resistance...it is time to reconsider our behavior in the built environment" https://t.co/cax1A5oPJQ"
+7:49 AM - 1 Mar 2019
+https://www.ncbi.nlm.nih.gov/pubmed/30814504
+Nat Commun. 2019 Feb 27;10(1):968. doi: 10.1038/s41467-019-08864-0.
+Man-made microbial resistances in built environments.
+Mahnert A1, Moissl-Eichinger C2,3, Zojer M4, Bogumil D5, Mizrahi I5, Rattei T4, Martinez JL6, Berg G7,3.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6393488/
 
 
 https://twitter.com/ForbesScience/status/1100783871237464064
@@ -242,8 +274,8 @@ Microbiome. 2017 Sep 22;5(1):125. doi: 10.1186/s40168-017-0339-6.
 Metagenomic characterization of ambulances across the USA.
 O'Hara NB1, Reed HJ2, Afshinnekoo E2,3,4, Harvin D5, Caplan N5, Rosen G6, Frye B7, Woloszynek S6, Ounit R8, Levy S9, Butler E2, Mason CE10,11,12.
 
-https://www.biorxiv.org/content/10.1101/724526v3
-"Global Genetic Cartography of Urban Metagenomes and Anti-Microbial Resistance"
+https://www.biorxiv.org/content/10.1101/724526v4
+Global Genetic Cartography of Urban Metagenomes and Anti-Microbial Resistance | bioRxiv
 
 論文の責任著者 Christopher Mason や 筆頭著者 David Danko のツイートで要約が述べられています。
 https://twitter.com/mason_lab/status/1158704680383524866
@@ -271,6 +303,7 @@ Co-occurrence patterns of bacteria within microbiome of Moscow subway.
 Klimenko NS1,2, Tyakht AV1,2, Toshchakov SV3, Shevchenko MA4, Korzhenkov AA3, Afshinnekoo E5,6,7, Mason CE5,6,7,8, Alexeev DG1,9,10,11.
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7016200/
 The study was conducted as a part of The Metagenomics and Metadesign of the Subways and Urban Biomes (MetaSUB) project.
+Moscow subway (Russia) 
 
 https://www.ncbi.nlm.nih.gov/pubmed/31856911
 Microbiome. 2019 Dec 19;7(1):160. doi: 10.1186/s40168-019-0772-9.
