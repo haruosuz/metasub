@@ -1,5 +1,5 @@
 Haruo Suzuki (haruo[at]g-language[dot]org)   
-Last Update: 2020-05
+Last Update: 2020-06
 
 ----------
 
@@ -60,7 +60,9 @@ http://metasub.org/media-2/
 3. 新規な生合成遺伝子クラスター(BCG)の同定
 
 #### gCSD2020
-- 2020年6月22日(月)
+2020年6月22日(月)
+[#MetaSUB](https://twitter.com/hashtag/MetaSUB?f=live)
+[#gCSD2020](https://twitter.com/hashtag/gCSD2020?f=live)
 
 #### gCSD2019
 Twitterのハッシュタグ
