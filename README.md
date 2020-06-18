@@ -18,8 +18,6 @@ Last Update: 2020-06
 
 MetaSUB国際コンソーシアムは、世界中の都市の分子プロファイルを構築し、都市のデザイン・機能・健康への影響を改善することを目指している。公共交通機関は、毎日多くの人々が密接に相互作用する空間であるが、これらの表面上の微生物群集の変化（また、これらの表面との相互作用が都市と個人の健康に影響を及ぼす可能性）についてはほとんど知られていない。
 
-http://metasub.org/media-2/
-
 ----------
 ## [About](http://metasub.org/about-us/)
 人工環境（大量輸送システム）における微生物群集の世界規模の「DNAマップ」を作成するために国際コンソーシアムを設立した。
@@ -36,12 +34,12 @@ http://metasub.org/media-2/
 
 ----------
 ## Map
-**サンプル収集マップ**
 
+- [MetaSUB Map](http://metasub.org/map/)
 - [2019 Sample Map](http://metasub.org/2019-sample-map/)
 - [2018 Sample Map](http://metasub.org/2018-sample-map/)
-- [2017 Sample Collection Map](http://metasub.org/2017-sample-map/)
-- [2016 Sample Collection Map](http://metasub.org/interactive-map/)
+- [2017 Sample Map](http://metasub.org/2017-sample-map/)
+- [2016 Sample Map](http://metasub.org/2016-sample-map/)
 
 ![](https://connpass-tokyo.s3.amazonaws.com/thumbs/aa/3b/aa3bad9248c5e6aa25980ce4f7837076.png)
 
@@ -49,9 +47,7 @@ http://metasub.org/media-2/
 ## [Projects](http://metasub.org/projects/)
 **プロジェクト**
 
-微生物による感染症の増加要因には、抗菌薬耐性などの病原体要因に加え、都市化による人口の集中、交通機関の発達による人の国際的な移動などの社会的要因が関与している。感染症の国際化に対応するためには、感染症のアウトブレイク（パンデミック）が発生する前の状態を定期的に観測する国際協力体制の確立が必要となる。地下鉄やバスなどの都市交通システムは、都市に住む人々や旅行者が接触して微生物を交換する場である。これまでに、MetaSUB国際コンソーシアムでは、都市交通システムのマイクロバイオーム（微生物群集とその遺伝子の総体）を明らかにしてきた。しかし、人の国際的な移動に伴う都市マイクロバイオームの変動を調査した研究は前例がない。新型コロナウイルス（COVID-19）パンデミックにより、今年は国外からの来訪者が少ない（2020年4月の新規外国人入国数：1,256人）。人の国際的な移動が、2019年は通常、2020年は激減、2021年以降は回復となることが予想される。本研究では、異なる地点・時点の都市マイクロバイオームの変動を明らかにすることを目的とする。
-
-### [CSD](http://metasub.org/global-city-sampling-day/)
+### [CSD](http://metasub.org/projects/gcsd/)
 **Global City Sampling Day (gCSD)**  
 グローバル シティ サンプリング デー
  (夏至 世界同時サンプリング) 
