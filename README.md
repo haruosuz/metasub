@@ -225,6 +225,28 @@ https://twitter.com/metasub
 
 [ハッシュタグ #MetaSUB 日本語のツイート](https://twitter.com/search?f=tweets&vertical=default&q=%23metasub%20lang%3Aja)
 
+8:42 PM · Jun 25, 2020
+https://twitter.com/BotchanLab/status/1276118587439149057
+Botchan Lab. Tokyo 坊ちゃんラボ on Twitter: "MetaSUBに参加しました✨ 環境中の微生物をサンプリングしてます🦠🦠 秋にも実施予定なので、新入生の皆さんも良かったら一緒にやりましょう〜🕺 #MetaSUB #gCSD2020 https://t.co/6WOVpWeka8" / Twitter
+
+8:00 PM · Jun 25, 2020
+https://twitter.com/tsudakazutoshi/status/1276108046561718273
+Kazutoshi Tsuda on Twitter: "Yamaguchi Center for Arts and Media (Yamaguchi, Japan) participated in the Global City Sampling Day 2020 today! #gcsd2020 #metasub #ycam" / Twitter
+
+7:23 PM · Jun 22, 2020
+https://twitter.com/copypasteusa/status/1275011497312186369
+Haruo Suzuki on Twitter: "#MetaSUB #gCSD2020 @youyuh48 We sampled bus/subway stations in Tokyo https://t.co/f5uBhjKMJ9" / Twitter
+
+10:03 AM · Jun 22, 2020
+https://twitter.com/metasub/status/1274870626000535553
+MetaSUB Research on Twitter: "Here we go! We are excited to kick off Global City Sampling Day 2020. Thank you to all our swabbers and stay safe! Stay updated with out collections here: https://t.co/ogDLRTGMBK #gcsd2020 #swabventure #cityscalemetagenomics #metasub" / Twitter
+
+7:47 AM · Jun 13, 2020
+https://twitter.com/asierra93/status/1271574833931997184
+Maria Alejandra Sierra on Twitter: "It's almost that time of the year! Getting ready for #gCSD2020 #MetaSUB @mason_lab @krista_ryon https://t.co/OIAZYHJlXW" / Twitter
+
+
+
 https://twitter.com/xtechdesign/status/1170869715448680448
 クロステックデザインコース on Twitter: "白石先生が行なったGlobal City Sampling Day活動記録映像がMetaSUBの公式twitterにて掲載されました！ 尚、このプロジェクトにはクロステック1年生の室山さんも参加しています。 ぜひご覧ください。 https://t.co/Sy4YdltJaZ https://t.co/OtP5AEADmz" / Twitter
 10:21 AM · Sep 9, 2019
