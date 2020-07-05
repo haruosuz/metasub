@@ -225,6 +225,14 @@ https://twitter.com/metasub
 
 [ハッシュタグ #MetaSUB 日本語のツイート](https://twitter.com/search?f=tweets&vertical=default&q=%23metasub%20lang%3Aja)
 
+12:06 AM · Jul 4, 2020
+https://twitter.com/weadci/status/1279068959820509184
+パシフィック・ムリ on Twitter: "я на станции Мориока #gCSD2020 https://t.co/3BDF2Mo2PQ" / Twitter
+
+5:56 PM · Jun 29, 2020
+https://twitter.com/weadci/status/1277526270092271616
+パシフィック・ムリ on Twitter: "#gCSD2020 at Kawauchi Station in Iwate, Japanです https://t.co/kgL7VOqBmO" / Twitter
+
 8:42 PM · Jun 25, 2020
 https://twitter.com/BotchanLab/status/1276118587439149057
 Botchan Lab. Tokyo 坊ちゃんラボ on Twitter: "MetaSUBに参加しました✨ 環境中の微生物をサンプリングしてます🦠🦠 秋にも実施予定なので、新入生の皆さんも良かったら一緒にやりましょう〜🕺 #MetaSUB #gCSD2020 https://t.co/6WOVpWeka8" / Twitter
