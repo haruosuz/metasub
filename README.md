@@ -1,0 +1,456 @@
+Last Update: 2022-11-13
+
+----------
+
+[About](#about)
+| [Map](#map)
+| [Projects](#projects)
+| [Methods](#methods)
+| [Conferences](#conferences)
+| [publication](#publication)
+| [video](#video)
+| [news](#news)
+| [twitter](#twitter)
+
+# [MetaSUB](http://metasub.org)
+**MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes**  
+**都市の微生物群集**
+
+MetaSUB国際コンソーシアムは、世界中の都市の分子プロファイルを構築し、都市のデザイン・機能・健康への影響を改善することを目指している。公共交通機関は、毎日多くの人々が密接に相互作用する空間であるが、これらの表面上の微生物群集の変化（また、これらの表面との相互作用が都市と個人の健康に影響を及ぼす可能性）についてはほとんど知られていない。
+
+----------
+## [About](http://metasub.org/about-us/)
+人工環境（大量輸送システム）における微生物群集の世界規模の「DNAマップ」を作成するために国際コンソーシアムを設立した。
+
+----------
+## Map
+
+- [MetaSUB Map](http://metasub.org/map/)
+- [2022 Sample Map](https://pangeabio.io/staticd/metasub-map-2022-public-html/index.html)
+- [SAMPLE COLLECTION MAP 2016 – 2021](https://pangeabio.io/staticd/metasub-map-all-public-html/index.html)
+33407 Samples Taken Worldwide
+
+![](https://connpass-tokyo.s3.amazonaws.com/thumbs/aa/3b/aa3bad9248c5e6aa25980ce4f7837076.png)
+
+----------
+## [Projects](http://metasub.org/projects/)
+**プロジェクト**
+
+### [CSD](http://metasub.org/projects/gcsd/)
+**Global City Sampling Day (gCSD)**  
+グローバル シティ サンプリング デー
+ (夏至 世界同時サンプリング) 
+の目的
+
+1. メタゲノムの地理空間情報（遺伝子地図）の作成
+2. 抗菌剤耐性(AMR)マーカーの同定と追跡
+3. 新規な生合成遺伝子クラスター(BCG)の同定
+
+### METACoV: RNA/COVID-19 ENVIRONMENTAL SAMPLING
+新型コロナウイルス感染症（COVID-19）パンデミック前後の都市マイクロバイオームを調査
+
+### [Olympiome](http://metasub.org/the-olympiome-project/)
+**オリンピオーム**
+
+国際スポーツ大会（オリンピック・パラリンピック）前後の都市マイクロバイオームの変動
+
+### [MetaSEW](http://metasub.org/the-metasew-project/)
+**Metagenomics of the SEWage system**
+下水のメタゲノム解析
+
+### MetaAIR
+空気のメタゲノム解析
+
+### MetaMED
+病院のメタゲノム解析
+
+----------
+## [Methods](http://metasub.org/methods/)
+**方法**
+
+次世代シークエンシング next-generation sequencing (NGS) の技術的進歩は、微生物の迅速でグローバルな研究を実現し、生物の機能ダイナミクスの全体像を我々に提供する。
+
+### [Collection](http://metasub.org/methods/collection/)
+**サンプル収集**
+
+様々なサンプル収集キットを検証している。
+
+### [Sample Processing](http://metasub.org/methods/dna-extraction/)
+**サンプル処理**
+
+バッチ効果を減らすために、全てのサンプルを一括処理（DNA抽出、ライブラリ調製、シークエンシング）する。
+
+### [Bioinformatics Analysis](http://metasub.org/methods/bioinformatics-analysis/)
+**バイオインフォマティクス・データ解析**
+
+微生物群集解析に最適な方法（バイオインフォマティクス・ツール）を検証している。
+
+----------
+## [Conferences](http://metasub.org/conferences/)
+**会議**
+
+- http://metasub.org/2015-conference/
+  - 2015-06-22 Urban microbes come out of the shadows | Nature https://www.nature.com/articles/522399a
+
+----------
+## Publication
+出版物
+
+https://pubmed.ncbi.nlm.nih.gov/36299999/
+iScience
+. 2022 Oct 20;25(11):104993. doi: 10.1016/j.isci.2022.104993. eCollection 2022 Nov 18.
+A history of the MetaSUB consortium: Tracking urban microbes around the globe
+
+https://pubmed.ncbi.nlm.nih.gov/34039416/
+Microbiome
+. 2021 May 26;9(1):112. doi: 10.1186/s40168-021-01044-7.
+Characterization of the public transit air microbiome and resistome reveals geographical specificity
+
+2015～2017年の3年間で世界6大陸32カ国60都市から収集された4,728サンプルのメタゲノム解析
+https://pubmed.ncbi.nlm.nih.gov/34043940/
+Cell
+. 2021 May 22;S0092-8674(21)00585-7. doi: 10.1016/j.cell.2021.05.002. Online ahead of print.
+A global metagenomic map of urban microbiomes and antimicrobial resistance
+
+https://pubmed.ncbi.nlm.nih.gov/27255532/
+Microbiome
+. 2016 Jun 3;4(1):24. doi: 10.1186/s40168-016-0168-z.
+The Metagenomics and Metadesign of the Subways and Urban Biomes (MetaSUB) International Consortium inaugural meeting report
+MetaSUB International Consortium
+
+----------
+## Video
+
+MetaSUB Research
+https://www.youtube.com/channel/UCxjLXdSd6CqXM1kubIZtBYg
+
+2020/06/19 | 5:06 | MetaSUB Sampling Protocol
+https://www.youtube.com/watch?v=0m8PNcyu_Tw
+
+2019/07/11 | 3:05 | MetaSUB Introductory Video
+https://www.youtube.com/watch?v=dE6SLkDf67g
+
+2017/06/20 | 7:48 | Global City Sampling Day Tutorial MetaSUB 2017
+https://www.youtube.com/watch?v=boIK-ezDuuI
+
+2016/08/11 | 9:32 | Christopher Mason, MetaSUB Consortium - Shanghai, China
+https://www.youtube.com/watch?v=9fpYvTy_a8k
+
+2021-05-22 | 5:01 | A sampling protocol video overview is included in the Supplemental information.
+https://www.cell.com/cell/fulltext/S0092-8674(21)00585-7#app2
+Video S1. MetaSUB sampling protocol, related to STAR Methods and Table 1
+https://www.cell.com/cms/10.1016/j.cell.2021.05.002/attachment/9823c434-b384-40e1-b2b1-7b1bf3bddc49/mmc2.mp4
+
+2021/08/28 | 8:19 | 地下鉄に潜む細菌・微生物の正体を顕微鏡で調査 | WIRED.jp
+https://www.youtube.com/watch?v=O3KxH19SBMs
+
+2020/11/16 | 1:32 | Global City Sampling Day 2020 in Kyoto
+https://www.youtube.com/watch?v=Po7hVQgwTMo
+
+2019/09/06 | 2:56 | Global City Sampling Day 2019 in Kyoto
+https://www.youtube.com/watch?v=BkrbGADjc8Q
+
+----------
+## news
+
+https://www.ms-sist.jp/saitou-lab/metasub2022/
+MetaSUBに今年も参加しています！ | 齋藤研究室の活動 | 静岡理工科大学　物質生命科学科
+
+2021.09.13苫小牧民報
+http://www.hokkaido-nl.jp/article/23041
+微生物の世界的分布調査　北大研究林の植竹准教授ら苫小牧駅でサンプリング
+
+https://www.ms-sist.jp/saitou-lab/metasub2021/
+MetaSUB2021に参画しました！ | 齋藤研究室の活動 | 静岡理工科大学　物質生命科学科
+
+https://www.ms-sist.jp/saitou-lab/20191101/
+6月、10月、11月　MetaSUBサンプリング | 齋藤研究室の活動 | 静岡理工科大学　物質生命科学科
+
+2018年6月26日
+[（ｅｃｏ活プラス）都市の微生物、世界中で採集　綿棒使い、街の環境考える参考に：朝日新聞デジタル](https://www.asahi.com/articles/DA3S13558057.html)
+様々な人が行き交う都市空間には、いったいどんな微生物が生息しているのだろう。耐性菌はどれぐらい存在するのか。換気方法の違いで微生物の群生も異なるのか。こうした点がわかれば、街づくりやビル・地下街の環境デザインを考える際の参考になる。都市の微生物調査が始まっている。
+
+![](https://www.asahicom.jp/articles/images/AS20180626002878_commL.jpg)
+![](https://www.asahicom.jp/articles/images/AS20180626002882_commL.jpg)
+
+会議室の椅子を綿棒でこすり、微生物を採集する  
+綿棒でこすった後、先端を保管容器に入れて分析にまわす＝いずれも東京都港区北青山２丁目の日本オラクルで
+
+----------
+## twitter
+https://twitter.com/metasub
+
+Twitterのハッシュタグ
+https://twitter.com/hashtag/MetaSUB?src=hashtag_click
+
+6:42 PM · Jun 24, 2022
+https://twitter.com/MarBiotechFPU/status/1540269093735251968
+福井県立大学海洋生物工学研究室（海生工） Marine Biotechnology Lab, FPU on Twitter: "本学の学生が英語ハッシュタグで呟いていると思ったら、 Metagenomics and Metadesign of the Subways and Urban Biomes (MetaSUB)による「Global City Sampling Day」という生活環境のDNAを採取するイベントが今日、世界中で行われているんですね。 いいぞ、もっとやれ県大生！ #gCSD2022 #metasub" / Twitter
+
+1:25 PM · Jun 24, 2022
+https://twitter.com/kendaikyoumu/status/1540189320296173568
+石川県立大学 on Twitter: "都市環境に生息する微生物を世界で同時に採取する国際コンソーシアム #MetaSUB プロジェクトに、石川県立大学も参加しています。様々な人が行き交う公共空間には、どんな微生物が生息しているのだろう？ #gCSD2022 #石川県立大学 https://t.co/TCw6moA9xx" / Twitter
+
+4:38 PM · Jun 23, 2022
+https://twitter.com/copypasteusa/status/1539875606258585603
+Haruo Suzuki on Twitter: "#MetaSUB #MetaAIR #gCSD2022 air sampling (and negative control for surface sampling) in Tokyo https://t.co/9sdx3LKGER" / Twitter
+
+3:35 PM · Jun 23, 2022
+https://twitter.com/copypasteusa/status/1539859656918519808
+Haruo Suzuki on Twitter: "On the way to air sampling in Tokyo.. #MetaSUB #gCSD2022 #MetaAIR https://t.co/dyE2IMtKqM" / Twitter
+
+3:42 PM · Jun 22, 2022
+https://twitter.com/copypasteusa/status/1539499172440600576
+Haruo Suzuki on Twitter: "都市の微生物群集データに付随するメタデータ（サンプル採取日時・場所・表面の材質など）を示すサンプル地図 #MetaSUB 2022 Sample Map https://t.co/58V4LabUWE" / Twitter
+
+2:41 PM · Jun 21, 2022
+https://twitter.com/copypasteusa/status/1539121229352796163
+Haruo Suzuki on Twitter: "本日6月21日は Global City Sampling Day です。都市の微生物群集（生物多様性、薬剤耐性の世界的分布）を調査するために、70都市以上でサンプリングが実施されます。Twitterのハッシュタグは #MetaSUB #gCSD2022" / Twitter
+
+1:26 PM · Jun 21, 2022
+https://twitter.com/youyuh48/status/1539102473482571776
+youyuh48 on Twitter: "都市環境の微生物を綿棒でこすって解析する国際コンソーシアム #MetaSUB プロジェクトに、東京農業大学のバイオインフォマティクス研究室も参加しています。Global City Sampling Day 2022 #gCSD2022 に学内でもサンプリングをしました。 https://t.co/qr6Et7RX4p" / Twitter
+
+11:58 AM · May 29, 2022
+https://twitter.com/copypasteusa/status/1530745258354409473
+Haruo Suzuki on Twitter: "国際コンソーシアム #MetaSUB では、都市の微生物群集 #urbanmicrobiome を調査するために、2022年6月21日（火）Global City Sampling Day 2022 #gCSD2022 に世界同時サンプリングを実施します。人工環境（地下鉄の駅など）表面を3分間スワブ #swabventure します。" / Twitter
+
+4:58 PM · Jun 24, 2021
+https://twitter.com/tsudakazutoshi/status/1407971503463829505
+Kazutoshi Tsuda on Twitter: "my right hand :) @metasub #metasub #gcsd2021 https://t.co/VASYWctMTX" / Twitter
+
+8:42 AM · Jun 22, 2021
+https://twitter.com/copypasteusa/status/1407121812215894101
+Haruo Suzuki on Twitter: "#MetaSUB 2021 Sample Map 2021年サンプル地図 https://t.co/8zxaqMf288" / Twitter
+
+12:14 PM · Jun 21, 2021
+https://twitter.com/hondalab_2c613/status/1406812688005537795
+Ryo Honda on Twitter: "Joined #MetaSUB global City Sampling Day. 環境表面に付着しているバクテリアの世界同時サンプリングに参加しました。金沢大学のバス停でサンプリングしました。（ウイルス分析は行いません）@metasub https://t.co/2MH9EIoGne" / Twitter
+
+11:44 PM · Jun 21, 2021·
+https://twitter.com/weadci/status/1406986326168129541
+パシフィック・ムリ on Twitter: "#gCSD2021 at Morioka Station, alone #MetaSUB https://t.co/SOrYXrZQDi" / Twitter
+
+8:10 PM · Jun 21, 2021
+https://twitter.com/metasub/status/1406932571783630850
+MetaSUB Research on Twitter: "It's that time of year again...Global City Sampling Day 2021!! Stay updated with out collections here: https://t.co/vEoZq0Ibe0 Good luck and thank you to all the swab squads today! #gcsd2021 #swabventure #cityscalemetagenomics #metasub" / Twitter
+
+11:50 PM · May 29, 2021
+https://twitter.com/copypasteusa/status/1398652957076332549
+Haruo Suzuki on Twitter: "#MetaSUB 国際コンソーシアムでは、都市のマイクロバイオーム（微生物群集とその遺伝子の総体）を調査するために、2021年6月21日 (月) Global City Sampling Day #gCSD2021 に世界同時サンプリングを実施します。" / Twitter
+
+12:06 AM · Jul 4, 2020
+https://twitter.com/weadci/status/1279068959820509184
+パシフィック・ムリ on Twitter: "я на станции Мориока #gCSD2020 https://t.co/3BDF2Mo2PQ" / Twitter
+
+5:56 PM · Jun 29, 2020
+https://twitter.com/weadci/status/1277526270092271616
+パシフィック・ムリ on Twitter: "#gCSD2020 at Kawauchi Station in Iwate, Japanです https://t.co/kgL7VOqBmO" / Twitter
+
+8:42 PM · Jun 25, 2020
+https://twitter.com/BotchanLab/status/1276118587439149057
+Botchan Lab. Tokyo 坊ちゃんラボ on Twitter: "MetaSUBに参加しました✨ 環境中の微生物をサンプリングしてます🦠🦠 秋にも実施予定なので、新入生の皆さんも良かったら一緒にやりましょう〜🕺 #MetaSUB #gCSD2020 https://t.co/6WOVpWeka8" / Twitter
+
+8:00 PM · Jun 25, 2020
+https://twitter.com/tsudakazutoshi/status/1276108046561718273
+Kazutoshi Tsuda on Twitter: "Yamaguchi Center for Arts and Media (Yamaguchi, Japan) participated in the Global City Sampling Day 2020 today! #gcsd2020 #metasub #ycam" / Twitter
+
+7:23 PM · Jun 22, 2020
+https://twitter.com/copypasteusa/status/1275011497312186369
+Haruo Suzuki on Twitter: "#MetaSUB #gCSD2020 @youyuh48 We sampled bus/subway stations in Tokyo https://t.co/f5uBhjKMJ9" / Twitter
+
+10:03 AM · Jun 22, 2020
+https://twitter.com/metasub/status/1274870626000535553
+MetaSUB Research on Twitter: "Here we go! We are excited to kick off Global City Sampling Day 2020. Thank you to all our swabbers and stay safe! Stay updated with out collections here: https://t.co/ogDLRTGMBK #gcsd2020 #swabventure #cityscalemetagenomics #metasub" / Twitter
+
+11:00 AM · Jun 13, 2020
+https://twitter.com/copypasteusa/status/1271623385852698626
+Haruo Suzuki on Twitter: "#MetaSUB 国際コンソーシアムでは、都市の微生物群集を調査するために、2020年6月22日（月）Global City Sampling Day #gCSD2020 に世界同時サンプリングを実施します。 https://t.co/lN9Ym51gzy" / Twitter
+
+7:47 AM · Jun 13, 2020
+https://twitter.com/asierra93/status/1271574833931997184
+Maria Alejandra Sierra on Twitter: "It's almost that time of the year! Getting ready for #gCSD2020 #MetaSUB @mason_lab @krista_ryon https://t.co/OIAZYHJlXW" / Twitter
+
+
+
+
+
+https://twitter.com/xtechdesign/status/1170869715448680448
+クロステックデザインコース on Twitter: "白石先生が行なったGlobal City Sampling Day活動記録映像がMetaSUBの公式twitterにて掲載されました！ 尚、このプロジェクトにはクロステック1年生の室山さんも参加しています。 ぜひご覧ください。 https://t.co/Sy4YdltJaZ https://t.co/OtP5AEADmz" / Twitter
+10:21 AM · Sep 9, 2019
+
+https://twitter.com/jgalipon/status/1150331777820450818
+Josephine Galipon on Twitter: "1st "Microbiome Soldiers" educational event with the collab. of @MetaSUB × Tsuruoka Minami High School × Keio IAB × @bsc_milkin. Swabbed 44 samples in Tsuruoka and students grew their own bacteria. They will study the more interesting ones as part of their school activities :D https://t.co/NkxrUTwk2r"
+6:10 PM · Jul 14, 2019
+
+https://twitter.com/PetadimensionL/status/1145709516958269440
+Petadimension Lab on Twitter: "Although uploading pictures of sampling were not allowed, we have finished sampling in Sapporo. We would like to thank the Sapporo Municipal Subway for the courtesy of their kind support. #metasub #gCSD2019"
+11:03 AM - 1 Jul 2019
+
+https://twitter.com/weadci/status/1144621037796986880
+パシフィック・ムリ on Twitter: "#MetaSUB #gCSD19 at Kuji Station… "
+10:58 AM - 28 Jun 2019
+
+https://twitter.com/Yh_Taguchi/status/1144437216732573696
+田口善弘 on Twitter: "#GCSD2019 #METASub 水道橋駅でスワブ。… "
+10:47 PM - 27 Jun 2019
+
+https://twitter.com/xtechdesign/status/1144139516514451462
+クロステックデザインコース on Twitter: "MetaSUB国際コンソーシアムでは都市の生物群集を調査するため毎年「Global city sampling day」が行われております。 クロステックからも白石先生が参加され、京都各所でサンプルを採取いたしました。 https://t.co/L8vblkDbcG #metaSUB #gCSD2019 https://t.co/vMUfebxkCx" / Twitter
+4:04 PM · Jun 27, 2019
+
+https://twitter.com/Yh_Taguchi/status/1144089426529640448
+田口善弘 on Twitter: "四ッ谷駅でスワブ。 #GCSD2019 #METASUB2019… "
+11:45 PM - 26 Jun 2019 from Chiyoda-ku, Tokyo
+
+https://twitter.com/kazumasa_yamada/status/1143299888647532544
+Kazumasa Yamada on Twitter: "2019 Global City Sampling Day on Friday, June 21st. 24 samples taken by Fukui Prefectural University Students in Obama, Japan. https://t.co/5FkJxbEUzu https://t.co/HiUfkwIHUN #MetaSUB #gCSD2019 #metagenomics… https://t.co/WCef69qoQL"
+7:28 PM - 24 Jun 2019
+
+https://twitter.com/Yh_Taguchi/status/1142991182340845568
+田口善弘 on Twitter: "#gcsd Sampled with undergrad at Korakuen Station 卒研生と後楽園駅でサンプリング。… "
+11:01 PM - 23 Jun 2019 from 東京メトロ丸ノ内線後楽園駅
+
+https://twitter.com/BotchanLab/status/1142394339475148800
+Botchan Lab Tokyo〈坊ちゃんラボ〉 on Twitter: "昨日ですが、駅でメタサブのサンプリングを行いました！ メタサブとは？→ https://t.co/IwPI1Fvs8s その後オラクルにて市民科学カフェ「微生物DNAとは？」に参加してきました！ #gCSD2019 #CitySamplingDay2019 #MetaSUB #metagenomics #sampling #igem @metasub @copypasteusa @yokonaga405… https://t.co/zecdcokhaO"
+7:30 AM - 22 Jun 2019
+
+https://twitter.com/oS6vQ9WKeV8fUKF/status/1141572390121439232
+齋藤明広 on Twitter: "#MetaSUB sampling at Aino-station, Fukuroi, Shizuoka, JAPAN.… "
+1:04 AM - 20 Jun 2019
+
+https://twitter.com/yano_hirokazu/status/1141231465042083840
+Hirokazu Yano on Twitter: "#MetaSUB #gCSD19 Annual sampling of “dusts” in Subway. This may tell us interesting things about stability of microbial community and people’s movement.… https://t.co/ImDwxQk7BQ"
+2:29 AM - 19 Jun 2019
+
+https://twitter.com/youyuh48/status/1140855003512365056
+youyuh48 on Twitter: "Just finished swabbing at the bus stop! #MetaSUB #gCSD19… "
+1:33 AM - 18 Jun 2019
+
+https://twitter.com/kashiwashobo/status/1134254485524500485
+柏書房 on Twitter: "おはようございます。『世界は細菌にあふれ、人は細菌によって生かされる』（小社刊）第10章「微生物研究の未来」では、建物と都市のマイクロバイオームについて触れておりますが、6月21日（金）に微生物のDNAの世界同時サンプリングが開催されるそうです。"
+8:25 PM - 30 May 2019
+地下鉄の車両や駅構内、病院内、オフィスなど特定の環境ごとに生息するひとまとまりの微生物のDNAを調査するという研究が進展することで、自分の生活圏ごとにどんな微生物がいるのか、またそこに生息している微生物の状態がメディアを通して見えてくる日も、遠くはないのかもしれません。
+
+https://twitter.com/copypasteusa/status/1131566607753404416
+Haruo Suzuki on Twitter: "Global City Sampling Day 2019/06/21(Fri) https://t.co/Unno3Rfizx @metasub @Metasub_India @MetaSUB_Oslo @metasub_paris @Metasub_Zurich @MetaSUB_Sweden #MetaSUB #gCSD19 #CityScaleMetagenomics… https://t.co/64bW2M6D9v"
+10:24 AM - 23 May 2019
+
+https://twitter.com/oraryotas/status/1131360439181250562
+Ora Ryotas on Twitter: "今年も 6/21 は微生物 DNA を収集します！トークイベントを開催するのでぜひご参加を！#metasub https://t.co/uigFWOgIE0"
+8:45 PM - 22 May 2019
+
+https://twitter.com/jgalipon/status/1125007572753235968
+Josephine Galipon on Twitter: "去年ゴビ砂漠で採取したサンプルの解析と、東京オリンピック前後の全世界の交通機関微生物調査 #metasub 国際コンソーシアムの企画参加、一石二鳥です！… "
+8:01 AM - 5 May 2019
+
+https://twitter.com/oraryotas/status/1015975711998263296
+Ora Ryotas on Twitter: "Sampling at Oracle Japan was in a major newspaper! #metasub https://t.co/cigZQO10Bp"
+11:07 AM - 8 Jul 2018
+
+https://twitter.com/asahi_kankyo/status/1011899463152164865
+朝日新聞環境取材チーム on Twitter: "私たちが暮らす都市には、どんな微生物が生息しているのか。綿棒を使った都市の微生物調査が始まっているそうです。 （ｅｃｏ活プラス）都市の微生物、世界中で採集　綿棒使い、街の環境考える参考に：朝日新聞デジタル https://t.co/zlwanhR1Qg #環境 #自然 #エコ"
+5:10 AM - 27 Jun 2018
+
+https://twitter.com/drxwnedinthesky/status/1010783384564482048
+まりの))) on Twitter: "Full of Egao #gCSD18 #fullofhell #tokyo… "
+3:15 AM - 24 Jun 2018
+
+https://twitter.com/tsh_n12/status/1010560344010264576
+Nojima Toshiki on Twitter: "昨日のグローバルシティサンプリングデイ… "
+12:28 PM - 23 Jun 2018
+
+https://twitter.com/itotakat/status/1010436919677710336
+itotaka on Twitter: "Happy swabbing :) #MetaSUB #gCSD18 #YCAM #YCAMBioResearch… "
+4:18 AM - 23 Jun 2018
+
+https://twitter.com/tsudakazutoshi/status/1010348764941377536
+Kazutoshi Tsuda, PhD on Twitter: "#MetaSUB #gCSD18 #YCAM #Yamaguchi #Japan… "
+10:28 PM - 22 Jun 2018 from Yamaguchi-shi, Yamaguchi
+
+https://twitter.com/BotchanLab/status/1010130466882514947
+坊ちゃんLab on Twitter: "We collected microorganism which are samples of Metasub project. These samples will be DNA sequenced, and used to investigate microorganism in cities. #metasub #gCSD18 #cityscalemetagenomics #urbanmicrobiome… https://t.co/LGeuAIcUd3"
+8:00 AM - 22 Jun 2018
+
+https://twitter.com/oraryotas/status/1009844647919681537
+Ora Ryotas on Twitter: "#metasub… "
+1:05 PM - 21 Jun 2018
+
+https://twitter.com/oraryotas/status/1009843829837402112
+Ora Ryotas on Twitter: "#metasub… "
+1:01 PM - 21 Jun 2018
+
+https://twitter.com/oraryotas/status/1009843397970890752
+1:00 PM - 21 Jun 2018
+
+https://twitter.com/maato/status/1009736455969595393
+maato on Twitter: "Japan now at Oracle japan #metasub… "
+5:55 AM - 21 Jun 2018
+
+https://twitter.com/maato/status/1009759865932111872
+maato on Twitter: "#metaSUB Japan sampling at Oracle Japan… "
+7:28 AM - 21 Jun 2018
+
+https://twitter.com/t0rakeina/status/1009630027015696384
+こんの けいな / Keina Konno on Twitter: "Looking for microbes in our work enviroment 🔍 #ycam #ycambioresearch #metasub #gCSD18… "
+10:52 PM - 20 Jun 2018
+
+https://twitter.com/Oracle_Japan/status/1007080238562643968
+Oracle Japan/日本オラクル on Twitter: "【セミナー情報】6/21(木)18：30から「Global City Sampling Day 2018」を開催します。このセミナーでは、微生物とは何か？それを世界中で収集するプロジェクトとは？など最新の科学をわかりやすく解説します。お申し込みはこちら→ https://t.co/W6t3WrRF5q"
+10:00 PM - 13 Jun 2018
+
+https://twitter.com/copypasteusa/status/1004388800988995586
+Global City Sampling Day 2018 @ 2-5-8 Kitaaoyama, Minato-ku, Tokyo, Japan https://connpass.com/event/88032/ 
+@mason_lab @metasub @Metasub_India @MetaSUB_Oslo @metasub_paris @Metasub_Zurich #gCSD18 #MetaSUB #CityScaleMetagenomics
+11:45 AM - 6 Jun 2018
+
+https://twitter.com/s__morrison/status/954603374292422656
+Shaunna M. Morrison on Twitter: "@mason_lab @metasub sampling at Shinagawa station… "
+1:35 AM - 20 Jan 2018 from JR 品川駅
+
+https://twitter.com/oraryotas/status/912281624472985600
+Ora Ryotas on Twitter: "10/12 18:30-19:45 外苑前直結の Oracle Cafe にて Dr. Christopher Mason の講演会を開催します。ぜひご参加ください！ https://t.co/99FbOdv55Q"
+7:44 AM - 25 Sep 2017
+
+https://twitter.com/jgalipon/status/877830319767928832
+Josephine Galipon on Twitter: "ワークショップ後の飲み会でも食事前後にその居酒屋で微生物をひたすらサンプリングしました。#くれぐれも営業妨害ではありません笑 #metasub… "
+6:07 AM - 22 Jun 2017
+
+https://twitter.com/jgalipon/status/877829555297304576
+Josephine Galipon on Twitter: "昨晩は日本オラクル本社にて，微生物ゲノム情報の世界地図を作っているMetaSUB関連で発表の議会をいただき，会場内でみんなで微生物のサンプリングも行った。#metasub… "
+6:04 AM - 22 Jun 2017
+
+https://twitter.com/oraryotas/status/877518027083862016
+Ora Ryotas on Twitter: "Will send this to NY, now! #metasub #gcsd17 https://t.co/FLhL9wTRvH"
+10:26 PM · Jun 21, 2017
+
+https://twitter.com/oraryotas/status/877501636083539968
+Ora Ryotas on Twitter: "How should we describe this surface? #gcsd17 #metasub… "
+8:21 AM - 21 Jun 2017
+
+https://twitter.com/oraryotas/status/873473445891158016
+Ora Ryotas on Twitter: "6月21日（水）の「Global City Sampling Day」には世界中で同時に環境 DNA がサンプリングされます。これに合わせて Oracle でもセミナーを開催致します！ https://t.co/rFg8k8ANRX"
+5:34 AM - 10 Jun 2017
+
+https://twitter.com/maato/status/862246472212815872
+maato on Twitter: "人の動きで、微生物を撒き散らし、微生物をもってかえる 東京オリンピックで #metasub"
+6:02 AM - 10 May 2017
+
+https://twitter.com/yokonaga405/status/779503770686238720
+Yoko Nagai on Twitter: "MetaSub　https://t.co/cM7ytwQOEu 各都市でサンプリングを行って環境中の細菌叢を調べるプロジェクト。都市において微生物DNAが交換され拡散されていく過程を明らかにする。（NY市の地下鉄の細菌叢の研究成果が発表されていたけど、さらに世界規模で実施！）"
+10:12 PM - 23 Sep 2016
+
+
+----------
+
+[metasub | microBEnet: the microbiology of the Built Environment network.](http://microbe.net/tag/metasub/)
+
+
+
+
+----------
+
+
+
+
+
