@@ -183,6 +183,10 @@ https://twitter.com/metasub
 Twitterのハッシュタグ
 https://twitter.com/hashtag/MetaSUB?src=hashtag_click
 
+2023
+
+2022
+
 6:42 PM · Jun 24, 2022
 https://twitter.com/MarBiotechFPU/status/1540269093735251968
 福井県立大学海洋生物工学研究室（海生工） Marine Biotechnology Lab, FPU on Twitter: "本学の学生が英語ハッシュタグで呟いていると思ったら、 Metagenomics and Metadesign of the Subways and Urban Biomes (MetaSUB)による「Global City Sampling Day」という生活環境のDNAを採取するイベントが今日、世界中で行われているんですね。 いいぞ、もっとやれ県大生！ #gCSD2022 #metasub" / Twitter
@@ -215,6 +219,8 @@ youyuh48 on Twitter: "都市環境の微生物を綿棒でこすって解析す�
 https://twitter.com/copypasteusa/status/1530745258354409473
 Haruo Suzuki on Twitter: "国際コンソーシアム #MetaSUB では、都市の微生物群集 #urbanmicrobiome を調査するために、2022年6月21日（火）Global City Sampling Day 2022 #gCSD2022 に世界同時サンプリングを実施します。人工環境（地下鉄の駅など）表面を3分間スワブ #swabventure します。" / Twitter
 
+2021
+
 4:58 PM · Jun 24, 2021
 https://twitter.com/tsudakazutoshi/status/1407971503463829505
 Kazutoshi Tsuda on Twitter: "my right hand :) @metasub #metasub #gcsd2021 https://t.co/VASYWctMTX" / Twitter
@@ -238,6 +244,8 @@ MetaSUB Research on Twitter: "It's that time of year again...Global City Samplin
 11:50 PM · May 29, 2021
 https://twitter.com/copypasteusa/status/1398652957076332549
 Haruo Suzuki on Twitter: "#MetaSUB 国際コンソーシアムでは、都市のマイクロバイオーム（微生物群集とその遺伝子の総体）を調査するために、2021年6月21日 (月) Global City Sampling Day #gCSD2021 に世界同時サンプリングを実施します。" / Twitter
+
+2020
 
 12:06 AM · Jul 4, 2020
 https://twitter.com/weadci/status/1279068959820509184
@@ -267,21 +275,11 @@ MetaSUB Research on Twitter: "Here we go! We are excited to kick off Global City
 https://twitter.com/copypasteusa/status/1271623385852698626
 Haruo Suzuki on Twitter: "#MetaSUB 国際コンソーシアムでは、都市の微生物群集を調査するために、2020年6月22日（月）Global City Sampling Day #gCSD2020 に世界同時サンプリングを実施します。 https://t.co/lN9Ym51gzy" / Twitter
 
-7:47 AM · Jun 13, 2020
-https://twitter.com/asierra93/status/1271574833931997184
-Maria Alejandra Sierra on Twitter: "It's almost that time of the year! Getting ready for #gCSD2020 #MetaSUB @mason_lab @krista_ryon https://t.co/OIAZYHJlXW" / Twitter
-
-
-
-
+2019
 
 https://twitter.com/xtechdesign/status/1170869715448680448
 クロステックデザインコース on Twitter: "白石先生が行なったGlobal City Sampling Day活動記録映像がMetaSUBの公式twitterにて掲載されました！ 尚、このプロジェクトにはクロステック1年生の室山さんも参加しています。 ぜひご覧ください。 https://t.co/Sy4YdltJaZ https://t.co/OtP5AEADmz" / Twitter
 10:21 AM · Sep 9, 2019
-
-https://twitter.com/jgalipon/status/1150331777820450818
-Josephine Galipon on Twitter: "1st "Microbiome Soldiers" educational event with the collab. of @MetaSUB × Tsuruoka Minami High School × Keio IAB × @bsc_milkin. Swabbed 44 samples in Tsuruoka and students grew their own bacteria. They will study the more interesting ones as part of their school activities :D https://t.co/NkxrUTwk2r"
-6:10 PM · Jul 14, 2019
 
 https://twitter.com/PetadimensionL/status/1145709516958269440
 Petadimension Lab on Twitter: "Although uploading pictures of sampling were not allowed, we have finished sampling in Sapporo. We would like to thank the Sapporo Municipal Subway for the courtesy of their kind support. #metasub #gCSD2019"
@@ -440,17 +438,9 @@ https://twitter.com/yokonaga405/status/779503770686238720
 Yoko Nagai on Twitter: "MetaSub　https://t.co/cM7ytwQOEu 各都市でサンプリングを行って環境中の細菌叢を調べるプロジェクト。都市において微生物DNAが交換され拡散されていく過程を明らかにする。（NY市の地下鉄の細菌叢の研究成果が発表されていたけど、さらに世界規模で実施！）"
 10:12 PM - 23 Sep 2016
 
-
 ----------
 
 [metasub | microBEnet: the microbiology of the Built Environment network.](http://microbe.net/tag/metasub/)
 
-
-
-
 ----------
-
-
-
-
 
