@@ -156,9 +156,10 @@ https://www.youtube.com/watch?v=BkrbGADjc8Q
 https://www.ms-sist.jp/saitou-lab/metasub2022/
 MetaSUBに今年も参加しています！ | 齋藤研究室の活動 | 静岡理工科大学　物質生命科学科
 
-2021.09.13苫小牧民報
-http://www.hokkaido-nl.jp/article/23041
-微生物の世界的分布調査　北大研究林の植竹准教授ら苫小牧駅でサンプリング
+2021/9/13
+https://www.tomamin.co.jp/article/news/main/57794/
+微生物の世界的分布調査　北大研究林の植竹准教授ら苫小牧駅でサンプリング｜ニュース｜苫小牧民報電子版
+　微生物の世界的な分布を調べる研究の一環で、北海道大学苫小牧研究林の植竹淳准教授（４３）が１０日、ＪＲ苫小牧駅構内でサンプリング（試料採取）を行った。機械で空気中の微生物を採取後、同研究林の職員や学生と４人で駅構内の券売機やベンチ、床、手す…
 
 https://www.ms-sist.jp/saitou-lab/metasub2021/
 MetaSUB2021に参画しました！ | 齋藤研究室の活動 | 静岡理工科大学　物質生命科学科
@@ -184,6 +185,18 @@ Twitterのハッシュタグ
 https://twitter.com/hashtag/MetaSUB?src=hashtag_click
 
 2023
+
+5:16 PM · Jun 21, 2023
+https://twitter.com/copypasteusa/status/1671431848973705217
+Haruo Suzuki on Twitter: "都市のマイクロバイオーム #urbanmicrobiome を調査するために #MetaSUB 国際コンソーシアムの Global City Sampling Day #gCSD2023 が実施されます。 #swabventure 綿棒を使って人工環境（駅、バス停、学校の施設）表面の埃を採取し、微生物多様性や薬剤耐性遺伝子の世界的な分布を明らかにします。" / Twitter
+
+9:33 AM · Jun 21, 2023
+https://twitter.com/metasub/status/1671315433398456320
+MetaSUB Research on Twitter: "First sample of #gcsd2023! In Kanazawa, Japan Keep the samples coming 🌏 https://t.co/2yvHF3cZOx" / Twitter
+
+5:28 AM · Jun 21, 2023
+https://twitter.com/metasub/status/1671253722649997312
+MetaSUB Research on Twitter: "MetaSUB’s Global City Sampling Day is tomorrow! We looking forward to seeing everyone out there sampling. @Metasub_NYC @Metasub_Zurich @MetaSUB_Oslo @MetaSUB_BA #gcsd2023 #metasub #urbanmicrobiome #swabventure https://t.co/CcXeevfTiQ" / Twitter
 
 2022
 
@@ -220,6 +233,10 @@ https://twitter.com/copypasteusa/status/1530745258354409473
 Haruo Suzuki on Twitter: "国際コンソーシアム #MetaSUB では、都市の微生物群集 #urbanmicrobiome を調査するために、2022年6月21日（火）Global City Sampling Day 2022 #gCSD2022 に世界同時サンプリングを実施します。人工環境（地下鉄の駅など）表面を3分間スワブ #swabventure します。" / Twitter
 
 2021
+
+4:12 PM · Sep 13, 2021
+https://twitter.com/junuetake/status/1437313179919388673
+Jun Uetake on Twitter: "微生物の世界的分布調査　北大研究林の植竹准教授ら苫小牧駅でサンプリング(苫小牧民報) #Yahooニュース https://t.co/dEEU3ku5vm" / Twitter
 
 4:58 PM · Jun 24, 2021
 https://twitter.com/tsudakazutoshi/status/1407971503463829505
@@ -350,6 +367,8 @@ https://twitter.com/asahi_kankyo/status/1011899463152164865
 朝日新聞環境取材チーム on Twitter: "私たちが暮らす都市には、どんな微生物が生息しているのか。綿棒を使った都市の微生物調査が始まっているそうです。 （ｅｃｏ活プラス）都市の微生物、世界中で採集　綿棒使い、街の環境考える参考に：朝日新聞デジタル https://t.co/zlwanhR1Qg #環境 #自然 #エコ"
 5:10 AM - 27 Jun 2018
 
+2018
+
 https://twitter.com/drxwnedinthesky/status/1010783384564482048
 まりの))) on Twitter: "Full of Egao #gCSD18 #fullofhell #tokyo… "
 3:15 AM - 24 Jun 2018
@@ -406,6 +425,8 @@ https://twitter.com/s__morrison/status/954603374292422656
 Shaunna M. Morrison on Twitter: "@mason_lab @metasub sampling at Shinagawa station… "
 1:35 AM - 20 Jan 2018 from JR 品川駅
 
+2017
+
 https://twitter.com/oraryotas/status/912281624472985600
 Ora Ryotas on Twitter: "10/12 18:30-19:45 外苑前直結の Oracle Cafe にて Dr. Christopher Mason の講演会を開催します。ぜひご参加ください！ https://t.co/99FbOdv55Q"
 7:44 AM - 25 Sep 2017
@@ -434,9 +455,17 @@ https://twitter.com/maato/status/862246472212815872
 maato on Twitter: "人の動きで、微生物を撒き散らし、微生物をもってかえる 東京オリンピックで #metasub"
 6:02 AM - 10 May 2017
 
+2016
+
 https://twitter.com/yokonaga405/status/779503770686238720
 Yoko Nagai on Twitter: "MetaSub　https://t.co/cM7ytwQOEu 各都市でサンプリングを行って環境中の細菌叢を調べるプロジェクト。都市において微生物DNAが交換され拡散されていく過程を明らかにする。（NY市の地下鉄の細菌叢の研究成果が発表されていたけど、さらに世界規模で実施！）"
 10:12 PM - 23 Sep 2016
+
+2015
+
+4:16 PM · Feb 18, 2015
+https://twitter.com/Yodosha_EM/status/567945623116210176
+羊土社 実験医学 on Twitter: "【 #実験医学NHPD 】都市微生物叢研究PathoMap（鈴木治夫先生）→ https://t.co/PQUy4SSB2E"
 
 ----------
 
