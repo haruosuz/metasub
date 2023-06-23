@@ -186,6 +186,18 @@ https://twitter.com/hashtag/MetaSUB?src=hashtag_click
 
 2023
 
+7:08 PM · Jun 22, 2023
+https://twitter.com/copypasteusa/status/1671822522730545152
+Haruo Suzuki on Twitter: "Air and surface sampling conducted in Shinagawa, Tokyo, Japan for #MetaSUB #MetaAIR #gCSD2023 https://t.co/8RA1ZopbK8" / Twitter
+
+12:46 PM · Jun 22, 2023
+https://twitter.com/youyuh48/status/1671726448519053315
+youyuh48 on Twitter: "国際コンソーシアム #MetaSUB では、都市の微生物群集 #urbanmicrobiome を調査するために、Global City Sampling Day 2023 #gCSD2023 に世界同時サンプリングを実施しています。人工環境（地下鉄の駅など）で空気のサンプリングをしたり、表面をスワブで擦ったりして微生物を採取しています！ https://t.co/nx7fBLt0YV" / Twitter
+
+7:21 PM · Jun 21, 2023
+https://twitter.com/hondalab_2c613/status/1671463429885034496
+Ryo Honda on Twitter: "今年もMETASUB世界都市同時サンプリングデーに参加しましたー🌍いろんな人が触るところにどんな微生物がいるかを毎年世界中で調べています。 #gCSD2023 @metasub https://t.co/V10P3Iq0Os https://t.co/vcdc6100X4" / Twitter
+
 5:16 PM · Jun 21, 2023
 https://twitter.com/copypasteusa/status/1671431848973705217
 Haruo Suzuki on Twitter: "都市のマイクロバイオーム #urbanmicrobiome を調査するために #MetaSUB 国際コンソーシアムの Global City Sampling Day #gCSD2023 が実施されます。 #swabventure 綿棒を使って人工環境（駅、バス停、学校の施設）表面の埃を採取し、微生物多様性や薬剤耐性遺伝子の世界的な分布を明らかにします。" / Twitter
