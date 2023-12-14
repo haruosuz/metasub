@@ -120,6 +120,7 @@ MetaSUB International Consortium
 
 ----------
 ## Video
+動画
 
 MetaSUB Research
 https://www.youtube.com/channel/UCxjLXdSd6CqXM1kubIZtBYg
@@ -151,21 +152,29 @@ https://www.youtube.com/watch?v=Po7hVQgwTMo
 https://www.youtube.com/watch?v=BkrbGADjc8Q
 
 ----------
-## news
+## article
+記事
 
-https://www.ms-sist.jp/saitou-lab/metasub2022/
-MetaSUBに今年も参加しています！ | 齋藤研究室の活動 | 静岡理工科大学　物質生命科学科
+2023.06.30
+https://chobe.hiroshima-u.ac.jp/metasubサンプリングを行いました/
+CHOBE 未来共生建造環境センター
+MetaSUBサンプリングを行いました
+東広島市の協力で実施しております。
+
+https://www.sist.ac.jp/academics/technology/tech03/saito/activity.html
+2023年6月21日	今年もMetaSUBに参加しました！
+https://www.sist.ac.jp/academics/technology/tech03/saito/metasub2023.html
+2022年7月5日	MetaSUBに今年も参加しています！
+https://www.sist.ac.jp/academics/technology/tech03/saito/20220705.html
+2021年6月24日	MetaSUB2021に参画しました！
 
 2021/9/13
 https://www.tomamin.co.jp/article/news/main/57794/
 微生物の世界的分布調査　北大研究林の植竹准教授ら苫小牧駅でサンプリング｜ニュース｜苫小牧民報電子版
 　微生物の世界的な分布を調べる研究の一環で、北海道大学苫小牧研究林の植竹淳准教授（４３）が１０日、ＪＲ苫小牧駅構内でサンプリング（試料採取）を行った。機械で空気中の微生物を採取後、同研究林の職員や学生と４人で駅構内の券売機やベンチ、床、手す…
 
-https://www.ms-sist.jp/saitou-lab/metasub2021/
-MetaSUB2021に参画しました！ | 齋藤研究室の活動 | 静岡理工科大学　物質生命科学科
-
-https://www.ms-sist.jp/saitou-lab/20191101/
-6月、10月、11月　MetaSUBサンプリング | 齋藤研究室の活動 | 静岡理工科大学　物質生命科学科
+https://gigazine.net/news/20210601-cities-unique-microbial-fingerprints/
+都市には固有の微生物パターンが存在する、指紋のように微生物から都市を特定することも可能 - GIGAZINE
 
 2018年6月26日
 [（ｅｃｏ活プラス）都市の微生物、世界中で採集　綿棒使い、街の環境考える参考に：朝日新聞デジタル](https://www.asahi.com/articles/DA3S13558057.html)
