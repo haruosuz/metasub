@@ -152,8 +152,8 @@ https://www.youtube.com/watch?v=Po7hVQgwTMo
 https://www.youtube.com/watch?v=BkrbGADjc8Q
 
 ----------
-## article
-記事
+## news
+ニュース 記事
 
 2023.06.30
 https://chobe.hiroshima-u.ac.jp/metasubサンプリングを行いました/
