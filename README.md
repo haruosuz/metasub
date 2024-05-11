@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+Last Update: 2022-11-13
+>>>>>>> d2d899dbf82de1599e64c379e3626fce0dbedc82
 
 ----------
 
@@ -88,9 +92,12 @@ MetaSUB国際コンソーシアムは、世界中の都市の分子プロファ�
 ## [Conferences](http://metasub.org/conferences/)
 **会議**
 
+<<<<<<< HEAD
 8th Annual MetaSUB International Conference will be August 12-15, 2024 in Tokyo, Japan.
 http://metasub.org/2024-conference/
 
+=======
+>>>>>>> d2d899dbf82de1599e64c379e3626fce0dbedc82
 - http://metasub.org/2015-conference/
   - 2015-06-22 Urban microbes come out of the shadows | Nature https://www.nature.com/articles/522399a
 
@@ -170,12 +177,15 @@ https://www.sist.ac.jp/academics/technology/tech03/saito/metasub2023.html
 https://www.sist.ac.jp/academics/technology/tech03/saito/20220705.html
 2021年6月24日	MetaSUB2021に参画しました！
 
+<<<<<<< HEAD
 2021-10
 https://www.keio.ac.jp/ja/about/learn-more/publications/juku/312.html
 [塾] 2021 AUTUMN（No.312）：[慶應義塾]
 FRONTIER	都市のマイクロバイオーム　環境情報学部准教授　鈴木治夫
 https://www.keio.ac.jp/ja/about/assets/juku/312/312-10.pdf
 
+=======
+>>>>>>> d2d899dbf82de1599e64c379e3626fce0dbedc82
 2021/9/13
 https://www.tomamin.co.jp/article/news/main/57794/
 微生物の世界的分布調査　北大研究林の植竹准教授ら苫小牧駅でサンプリング｜ニュース｜苫小牧民報電子版
@@ -184,10 +194,15 @@ https://www.tomamin.co.jp/article/news/main/57794/
 https://gigazine.net/news/20210601-cities-unique-microbial-fingerprints/
 都市には固有の微生物パターンが存在する、指紋のように微生物から都市を特定することも可能 - GIGAZINE
 
+<<<<<<< HEAD
 2018-06-27
 https://twitter.com/asahi_kankyo/status/1011899463152164865
 朝日新聞環境取材チーム on X: "私たちが暮らす都市には、どんな微生物が生息しているのか。綿棒を使った都市の微生物調査が始まっているそうです。 （ｅｃｏ活プラス）都市の微生物、世界中で採集　綿棒使い、街の環境考える参考に：朝日新聞デジタル https://t.co/zlwanhR1Qg #環境 #自然 #エコ" / X
 
+=======
+2018年6月26日
+[（ｅｃｏ活プラス）都市の微生物、世界中で採集　綿棒使い、街の環境考える参考に：朝日新聞デジタル](https://www.asahi.com/articles/DA3S13558057.html)
+>>>>>>> d2d899dbf82de1599e64c379e3626fce0dbedc82
 様々な人が行き交う都市空間には、いったいどんな微生物が生息しているのだろう。耐性菌はどれぐらい存在するのか。換気方法の違いで微生物の群生も異なるのか。こうした点がわかれば、街づくりやビル・地下街の環境デザインを考える際の参考になる。都市の微生物調査が始まっている。
 
 ![](https://www.asahicom.jp/articles/images/AS20180626002878_commL.jpg)
@@ -394,6 +409,13 @@ https://twitter.com/oraryotas/status/1015975711998263296
 Ora Ryotas on Twitter: "Sampling at Oracle Japan was in a major newspaper! #metasub https://t.co/cigZQO10Bp"
 11:07 AM - 8 Jul 2018
 
+<<<<<<< HEAD
+=======
+https://twitter.com/asahi_kankyo/status/1011899463152164865
+朝日新聞環境取材チーム on Twitter: "私たちが暮らす都市には、どんな微生物が生息しているのか。綿棒を使った都市の微生物調査が始まっているそうです。 （ｅｃｏ活プラス）都市の微生物、世界中で採集　綿棒使い、街の環境考える参考に：朝日新聞デジタル https://t.co/zlwanhR1Qg #環境 #自然 #エコ"
+5:10 AM - 27 Jun 2018
+
+>>>>>>> d2d899dbf82de1599e64c379e3626fce0dbedc82
 2018
 
 https://twitter.com/drxwnedinthesky/status/1010783384564482048
