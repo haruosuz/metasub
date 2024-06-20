@@ -211,10 +211,6 @@ Twitterのハッシュタグ
 https://x.com/metasub/status/1803770333289214158
 MetaSUB Research on X: "It’s starting soon! Get ready for another year of city-sampling with Global City Sampling Day 2024 (gCSD2024) 🌏 #gCSD2024 #metasub #swabventure #urbanmicrobiome #cityscalemetagenomics @Metasub_Zurich @Metasub_NYC @Metasub_India @MetaSUB_Oslo" / X
 
-5:16 PM · Jun 19, 2024
-https://x.com/scholar_288321/status/1803341031494262840
-長浜バイオ大学 自然科学研究会(NiBiSc lab) on X: "6/21はGlobal City Sampling Day (gCSD)です！ 全世界同時的に都市のマイクロバイオームを調査します。当団体も含め科学部ネットワークから10団体ほどが参加します。 長浜バイオ大学にも採集キットが届きました。 #gCSD2024 https://t.co/LMw3zBOFaP" / X
-
 5:01 PM · Jun 20, 2024
 https://x.com/a1025LK/status/1803699782013329804
 pingu on X: "明日、名城大学天白キャンパス周辺でメタサブ(metasub) やります🐧🦠🚉 世界中の都市の様々な場所の微生物を調査して、その種類や分布を都市計画や遺伝研究に活かす国際的なイベントです🐧🦠🚉 @metasub #gCSD2024 #metasub #metasub2024" / X
@@ -222,6 +218,14 @@ pingu on X: "明日、名城大学天白キャンパス周辺でメタサブ(met
 6:26 AM · Jun 20, 2024
 https://x.com/protect_23/status/1803539773832962370
 名城大学　環境保護活動交流団体　Ambiente on X: "明日はGlobal City Sampling Dayです❗️ MetaSUBに参加している団体や個人が全国一斉に都市の微生物を採取します🦠 私たちも大学や地下鉄から微生物を採取します🚇🏫 採取された微生物はデータ化され、都市計画や遺伝についての研究に活かされます✨ @metasub #gCSD2024 #metasub #metasub2024" / X
+
+5:16 PM · Jun 19, 2024
+https://x.com/scholar_288321/status/1803341031494262840
+長浜バイオ大学 自然科学研究会(NiBiSc lab) on X: "6/21はGlobal City Sampling Day (gCSD)です！ 全世界同時的に都市のマイクロバイオームを調査します。当団体も含め科学部ネットワークから10団体ほどが参加します。 長浜バイオ大学にも採集キットが届きました。 #gCSD2024 https://t.co/LMw3zBOFaP" / X
+
+6:59 AM · Jun 18, 2024
+https://x.com/mason_lab/status/1802823305180910035
+Chris Mason on X: "Getting ready for global city sampling day 2024! #gCSD24 @Metasub_NYC @krista_ryon @WCMC_CTSC https://t.co/zJ2P9oKBy2" / X
 
 2023
 
