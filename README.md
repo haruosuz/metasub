@@ -201,7 +201,7 @@ https://twitter.com/asahi_kankyo/status/1011899463152164865
 https://twitter.com/metasub
 
 Twitterのハッシュタグ  
-[#MetaSUB](https://twitter.com/hashtag/MetaSUB?src=hashtag_click)
+[#MetaSUB](https://x.com/hashtag/MetaSUB?src=hashtag_click&f=live)
 
 2024
 
