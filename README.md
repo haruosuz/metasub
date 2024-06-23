@@ -207,6 +207,70 @@ Twitterのハッシュタグ
 
 [#gCSD2024](https://x.com/hashtag/gCSD2024?src=hashtag_click&f=live)
 
+2:29 PM · Jun 23, 2024
+https://x.com/copypasteusa/status/1804748569846390825
+Haruo Suzuki on X: "#MetaSUB #gCSD2024 バッチ効果を最小限に抑えるために、標準化されたプロトコルとサンプリングキット（スワブと保存試薬を含むチューブ）を使用します。 https://t.co/3UluGCacw1 @Funakoshi_CoLtd https://t.co/MDUbCNEAxI @ThermoFisherJP https://t.co/bIwiNtdEhh" / X
+
+6:24 PM · Jun 22, 2024
+https://x.com/scholar_288321/status/1804445448524185621
+長浜バイオ大学 自然科学研究会(NiBiSc lab) on X: "ビワマス水槽の前で #gCSD2024 https://t.co/H4ZUBBvVuu" / X
+
+6:11 PM · Jun 22, 2024
+https://x.com/scholar_288321/status/1804442171875135538
+長浜バイオ大学 自然科学研究会(NiBiSc lab) on X: "最後は 小さなびわ湖水族館でサンプリングです！ #gCSD2024 https://t.co/F0ofHPFtLD" / X
+
+5:32 PM · Jun 22, 2024
+https://x.com/scholar_288321/status/1804432193038749847
+長浜バイオ大学 自然科学研究会(NiBiSc lab) on X: "えきまちテラスでサンプリング中です！ #gCSD2024 https://t.co/BBWbFHL6cB" / X
+
+5:05 PM · Jun 22, 2024
+https://x.com/scholar_288321/status/1804425475575759345
+長浜バイオ大学 自然科学研究会(NiBiSc lab) on X: "黒壁ガラス館でサンプリング中です！ #gCSD2024 https://t.co/LqkuwUmj5v" / X
+
+4:32 PM · Jun 22, 2024
+https://x.com/scholar_288321/status/1804417095217598812
+長浜バイオ大学 自然科学研究会(NiBiSc lab) on X: "海洋堂フィギュアミュージアムでサンプリング中です！ #gCSD2024 https://t.co/gTIWJ36ayY" / X
+
+4:13 PM · Jun 22, 2024
+https://x.com/scholar_288321/status/1804412366786039974
+長浜バイオ大学 自然科学研究会(NiBiSc lab) on X: "曳山博物館でサンプリング中です！ #gCSD2024 https://t.co/9pFviUPiIA" / X
+
+11:25 PM · Jun 21, 2024
+https://x.com/RyudaiRobot/status/1804158775387132148
+琉球大学Robotサークル on X: "本日、琉球大学Robotサークルは 世界同時サンプリングに参加しました！ Today is just "Global City Sampling Day" that is collect microbe day. The University of the Ryukyu Robot Club participated in that event. #MetaSUB2024 #CSD2024 https://t.co/2PNmjdpLzf" / X
+
+4:57 PM · Jun 21, 2024
+https://x.com/protect_23/status/1804061097613496624
+名城大学　環境保護活動交流団体　Ambiente on X: "本日はGlobal City Sampling Dayです🤗 微生物を採取する日🦠 私たちは名城大学(天白キャンパス)と大学最寄りの塩釜口駅と微生物を採取しました🏫🚇 私たちは初参加で楽しみながらできました✨ 調査結果が楽しみです😌 @metasub #gCSD2024 #metasub #MetaSUB #metasub2024 https://t.co/0JoWWv3MQ2" / X
+
+4:57 PM · Jun 21, 2024
+https://x.com/protect_23/status/1804061057125880319
+名城大学　環境保護活動交流団体　Ambiente on X: "Today is just "Global City Sampling Day"🤗 that is collect microbe day 🦠 We collected microbe from our university and station.🏫🚇 It was our first time participating and we had fun ✨ We're looking forward to the survey results. 😌 @metasub #gCSD2024 #MetaSUB #metasub2024 https://t.co/rnfCYePLpI" / X
+
+11:17 AM · Jun 21, 2024
+https://x.com/UetakeLab/status/1803975593979187281
+北大・植竹研 on X: "苫小牧駅でタッチパネル等の表面から遺伝子の採集してきました！ 世界各地の駅で本日一斉に行われるMetaSUB #metasub の世界同時サンプリング #gCSD2024 の一環です。 #metasub2024 https://t.co/sHoUQlPxGN" / X
+
+12:14 AM · Jun 22, 2024
+https://x.com/copypasteusa/status/1804170945428631974
+Haruo Suzuki on X: "#MetaSUB #gCSD2024 Samples were collected in Fujisawa City, Kanagawa Prefecture, Japan. #慶應 #sfc #七夕祭 https://t.co/Vbr7UtNXHr" / X
+
+8:07 PM · Jun 21, 2024
+https://x.com/copypasteusa/status/1804108983105376662
+Haruo Suzuki on X: "人工環境の表面を綿棒で3分間こすり、サンプルを採取します。 #swabventure #cityscalemetagenomics #metagenomics メタゲノム解析により、微生物多様性や薬剤耐性 #AMR 遺伝子の世界的な分布を明らかにします。" / X
+
+8:07 PM · Jun 21, 2024
+https://x.com/copypasteusa/status/1804108899949384146
+Haruo Suzuki on X: "#MetaSUB 国際コンソーシアムでは、都市のマイクロバイオーム #urbanmicrobiome を調査するため、2016年より毎年6月21日（夏至）に世界同時サンプリングを実施してきました。 2024年6月21日（金）は Global City Sampling Day 2024 #gCSD2024 です。" / X
+
+9:17 PM · Jun 21, 2024
+https://x.com/metasub/status/1804126376225575338
+MetaSUB Research on X: "Have you heard of @kobotoolbox? We’ve been using this open-source survey software to collect data during field sampling since 2018! By using this software, we can keep the data we collect standardized and stored all in one place 🌏 #gcsd2024 #metasub #metadata https://t.co/LWJi61v6uZ" / X
+
+10:33 AM · Jun 21, 2024
+https://x.com/metasub/status/1803964427173027973
+MetaSUB Research on X: "It’s Global City Sampling Day 2024! We’d like to thank @ZymoResearch for their continued support of this study as well as @isohelix for our swabs and @thermofisher for our tubes. #gcsd2024 #urbanmicrobiome #metagenomics https://t.co/zUOfBXQ6bn" / X
+
 9:42 PM · Jun 20, 2024
 https://x.com/metasub/status/1803770333289214158
 MetaSUB Research on X: "It’s starting soon! Get ready for another year of city-sampling with Global City Sampling Day 2024 (gCSD2024) 🌏 #gCSD2024 #metasub #swabventure #urbanmicrobiome #cityscalemetagenomics @Metasub_Zurich @Metasub_NYC @Metasub_India @MetaSUB_Oslo" / X
