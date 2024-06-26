@@ -207,6 +207,14 @@ Twitterのハッシュタグ
 
 [#gCSD2024](https://x.com/hashtag/gCSD2024?src=hashtag_click&f=live)
 
+7:21 PM · Jun 26, 2024
+https://x.com/copypasteusa/status/1805909306870735218
+Haruo Suzuki on X: "#MetaSUB #MetaAIR #gCSD2024 @youyuh48 Air and surface sampling conducted in Setagaya, Tokyo, Japan. https://t.co/Sk3E0Z8Iyd" / X
+
+11:59 AM · Jun 26, 2024
+https://x.com/copypasteusa/status/1805797945197084699
+Haruo Suzuki on X: "#MetaSUB #gCSD2024 サンプルのメタデータ収集に KoBoToolbox を使用します。 https://t.co/iL90gLKjgA" / X
+
 2:29 PM · Jun 23, 2024
 https://x.com/copypasteusa/status/1804748569846390825
 Haruo Suzuki on X: "#MetaSUB #gCSD2024 バッチ効果を最小限に抑えるために、標準化されたプロトコルとサンプリングキット（スワブと保存試薬を含むチューブ）を使用します。 https://t.co/3UluGCacw1 @Funakoshi_CoLtd https://t.co/MDUbCNEAxI @ThermoFisherJP https://t.co/bIwiNtdEhh" / X
@@ -262,6 +270,14 @@ Haruo Suzuki on X: "人工環境の表面を綿棒で3分間こすり、サン�
 8:07 PM · Jun 21, 2024
 https://x.com/copypasteusa/status/1804108899949384146
 Haruo Suzuki on X: "#MetaSUB 国際コンソーシアムでは、都市のマイクロバイオーム #urbanmicrobiome を調査するため、2016年より毎年6月21日（夏至）に世界同時サンプリングを実施してきました。 2024年6月21日（金）は Global City Sampling Day 2024 #gCSD2024 です。" / X
+
+2:03 AM · Jun 22, 2024
+https://x.com/BiotiaNYC/status/1804198395004764456
+Biotia on X: "Happy #GlobalCitySamplingDay!🔬🌎 Samples are being collected from subways, buses &amp; more to map the microbiomes of our cities. Follow the action on the @GeoSeeq interactive map &amp; see how we interact with the microbial world! #MetaSUB #GeoSeeq https://t.co/wQ7xRCroi2" / X
+
+9:00 PM · Jun 21, 2024
+https://x.com/metasub/status/1804122247742824819
+MetaSUB Research on X: "This year to track our international sampling, we’re using @GeoSeeq! Thanks to the team at @BiotiaNYC we are able to see our samples being taken in real time. Check it out here: https://t.co/5neniSC6Ta https://t.co/AvWVhColwj" / X
 
 9:17 PM · Jun 21, 2024
 https://x.com/metasub/status/1804126376225575338
