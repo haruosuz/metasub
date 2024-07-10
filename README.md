@@ -157,6 +157,10 @@ https://www.youtube.com/watch?v=BkrbGADjc8Q
 ## news
 ニュース 記事
 
+2024.07.02
+https://mge.hiroshima-u.ac.jp/進行中のプロジェクトの紹介/
+お金に付着した微生物を調査するプロジェクトを進めています。
+
 2023.06.30
 https://chobe.hiroshima-u.ac.jp/metasubサンプリングを行いました/
 CHOBE 未来共生建造環境センター
@@ -164,6 +168,8 @@ MetaSUBサンプリングを行いました
 東広島市の協力で実施しております。
 
 https://www.sist.ac.jp/academics/technology/tech03/saito/activity.html
+2024年6月25日	
+今年もMetaSUBのサンプリングに参画しました！ MetaSUBのグローバルシティサンプリングデーには遅れましたが、「環境微生物学」を履修する学生有志6名と齋藤研の研究室のメンバーで、毎年同様、愛野駅前と本学のバス停付近で、サンプリングしました。サンプルは国内取りMetaSUB2024.jpgまとめの鈴木治夫先生（慶応大学）のもとに送られ、一部は国内で、残りはアメリカで解析される予定です。#MetaSUB #gCSD2024
 2023年6月21日	今年もMetaSUBに参加しました！
 https://www.sist.ac.jp/academics/technology/tech03/saito/metasub2023.html
 2022年7月5日	MetaSUBに今年も参加しています！
@@ -206,6 +212,22 @@ Twitterのハッシュタグ
 2024
 
 [#gCSD2024](https://x.com/hashtag/gCSD2024?src=hashtag_click&f=live)
+
+3:22 PM · Jul 8, 2024
+https://x.com/protect_23/status/1810197747049574642
+名城大学　環境保護活動交流団体　Ambiente on X: "2024年6月21日 MetaSUB ( Global City Sampling Day) 私たちは、人工環境に生息する微生物のサンプリングを行い、そのデータを収集するMetaSUBという研究に参加しました🧪 私たちの集めたデータが都市計画や公衆衛生の改善に繋がることが嬉しいです🏙✨ @metasub #gCSD2024 #MetaSUB #metasub2024 https://t.co/wfA7O9aOLg" / X
+
+6:21 PM · Jul 5, 2024
+https://x.com/KGseibutsu/status/1809155702977622414
+関西学院大学生物サークル on X: "6/21のGlobal City Sampling Day(#gCSD2024 )には遅れてしまいましたが、本日(7/5)校内のサンプリングを行いました🏫 今回が初めての参加であり、万全にサンプリングが行えているか心配ですが、採集したサンプルが研究の一助となれば幸いです✨️ #MetaSUB #gCSD2024 https://t.co/ECPR4RHHsu" / X
+
+4:16 PM · Jun 28, 2024
+https://x.com/iGEMgifu/status/1806587457124679687
+iGEM Gifu on X: "科学部ネットワークの活動の一環でgCSD2024 (世界同時サンプリング)に参加しました🌏 私たちは岐阜大学でサンプリングを行いました！ 岐阜大学でどんな微生物が見つかるのか楽しみです😊 #gCSD2024 #Metasab #世界同時サンプリング @scholar_288321 @metasub https://t.co/k8UOBRaKE6" / X
+
+4:23 PM · Jun 28, 2024
+https://x.com/copypasteusa/status/1806589148368945540
+Haruo Suzuki on X: "#MetaSUB #MetaAIR #gCSD2024 Air and surface sampling conducted in Shinagawa, Tokyo, Japan. https://t.co/NNKrD1d6cl" / X
 
 7:21 PM · Jun 26, 2024
 https://x.com/copypasteusa/status/1805909306870735218
