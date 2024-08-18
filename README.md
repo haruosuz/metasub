@@ -211,7 +211,25 @@ Twitterのハッシュタグ
 
 2024
 
+[#MetaSUB24](https://x.com/hashtag/MetaSUB24?f=live)
+
+9:58 AM · Aug 14, 2024
+https://x.com/copypasteusa/status/1823524672597803141
+Haruo Suzuki on X: "#MetaSUB24 第8回 #MetaSUB 国際会議 2日目 YouTubeライブ中継" / X
+
+11:45 PM · Aug 13, 2024
+https://x.com/copypasteusa/status/1823370171844804917
+Haruo Suzuki on X: "世界中の都市マイクロバイオーム（微生物）研究者が一堂に会する #MetaSUB 会議。ハッシュタグは #MetaSUB24 です。" / X
+
+10:54 PM · Jul 27, 2024
+https://x.com/copypasteusa/status/1817196964842197132
+Haruo Suzuki on X: "#MetaSUB 国際コンソーシアムでは、2016年リオデジャネイロオリンピック、2020年東京オリンピック・パラリンピックに続き、2024年パリオリンピック中の都市マイクロバイオームの変化を研究する #Olympiome プロジェクトを進めています。 https://t.co/DJ4qubzWw9" / X
+
 [#gCSD2024](https://x.com/hashtag/gCSD2024?src=hashtag_click&f=live)
+
+7:55 PM · Jul 10, 2024
+https://x.com/scholar_288321/status/1810991323723485361
+長浜バイオ大学 自然科学研究会(NiBiSc lab) on X: "6/22に長浜でgCSDサンプリングを実施しました！ 曳山博物館 海洋堂フィギュアミュージアム 黒壁ガラス館 さざなみタウン にご協力をいただき、サンプリングを実施しました。ありがとうございました。 今後サンプルを解析することにより、都市間の微生物群衆の違いを比較できます。 https://t.co/wtXL3a6rQK" / X
 
 3:22 PM · Jul 8, 2024
 https://x.com/protect_23/status/1810197747049574642
