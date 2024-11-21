@@ -144,8 +144,8 @@ https://www.cell.com/cell/fulltext/S0092-8674(21)00585-7#app2
 Video S1. MetaSUB sampling protocol, related to STAR Methods and Table 1
 https://www.cell.com/cms/10.1016/j.cell.2021.05.002/attachment/9823c434-b384-40e1-b2b1-7b1bf3bddc49/mmc2.mp4
 
-2021/08/28 | 8:19 | 地下鉄に潜む細菌・微生物の正体を顕微鏡で調査 | WIRED.jp
-https://www.youtube.com/watch?v=O3KxH19SBMs
+2021/07/27 | 8:19 | What Doctors Learned from Swabbing Subways in Different Countries | WIRED
+https://www.youtube.com/watch?v=euz5QpzNgXk
 
 2020/11/16 | 1:32 | Global City Sampling Day 2020 in Kyoto
 https://www.youtube.com/watch?v=Po7hVQgwTMo
