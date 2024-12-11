@@ -127,7 +127,7 @@ MetaSUB International Consortium
 MetaSUB Research
 https://www.youtube.com/channel/UCxjLXdSd6CqXM1kubIZtBYg
 
-2020/06/19 | 5:06 | MetaSUB Sampling Protocol
+2020/06/19 | 5:05 | MetaSUB Sampling Protocol
 https://www.youtube.com/watch?v=0m8PNcyu_Tw
 
 2019/07/11 | 3:05 | MetaSUB Introductory Video
@@ -138,11 +138,6 @@ https://www.youtube.com/watch?v=boIK-ezDuuI
 
 2016/08/11 | 9:32 | Christopher Mason, MetaSUB Consortium - Shanghai, China
 https://www.youtube.com/watch?v=9fpYvTy_a8k
-
-2021-05-22 | 5:01 | A sampling protocol video overview is included in the Supplemental information.
-https://www.cell.com/cell/fulltext/S0092-8674(21)00585-7#app2
-Video S1. MetaSUB sampling protocol, related to STAR Methods and Table 1
-https://www.cell.com/cms/10.1016/j.cell.2021.05.002/attachment/9823c434-b384-40e1-b2b1-7b1bf3bddc49/mmc2.mp4
 
 2021/07/27 | 8:19 | What Doctors Learned from Swabbing Subways in Different Countries | WIRED
 https://www.youtube.com/watch?v=euz5QpzNgXk
