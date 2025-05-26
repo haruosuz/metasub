@@ -53,15 +53,8 @@ MetaSUB国際コンソーシアムは、世界中の都市の分子プロファ�
 
 国際スポーツ大会（オリンピック・パラリンピック）前後の都市マイクロバイオームの変動
 
-### [MetaSEW](http://metasub.org/the-metasew-project/)
-**Metagenomics of the SEWage system**
-下水のメタゲノム解析
-
 ### MetaAIR
 空気のメタゲノム解析
-
-### MetaMED
-病院のメタゲノム解析
 
 ----------
 ## [Methods](http://metasub.org/methods/)
@@ -162,13 +155,14 @@ CHOBE 未来共生建造環境センター
 MetaSUBサンプリングを行いました
 東広島市の協力で実施しております。
 
-https://www.sist.ac.jp/academics/technology/tech03/saito/activity.html
-2024年6月25日	
-今年もMetaSUBのサンプリングに参画しました！ MetaSUBのグローバルシティサンプリングデーには遅れましたが、「環境微生物学」を履修する学生有志6名と齋藤研の研究室のメンバーで、毎年同様、愛野駅前と本学のバス停付近で、サンプリングしました。サンプルは国内取りMetaSUB2024.jpgまとめの鈴木治夫先生（慶応大学）のもとに送られ、一部は国内で、残りはアメリカで解析される予定です。#MetaSUB #gCSD2024
+https://www.sist.ac.jp/technology/science/laboratory/activity/
+
+2024年6月25日	今年もMetaSUBのサンプリングに参画しました！ MetaSUBのグローバルシティサンプリングデーには遅れましたが、「環境微生物学」を履修する学生有志6名と齋藤研の研究室のメンバーで、毎年同様、愛野駅前と本学のバス停付近で、サンプリングしました。サンプルは国内取りまとめの鈴木治夫先生（慶応大学）のもとに送られ、一部は国内で、残りはアメリカで解析される予定です。#MetaSUB #gCSD2024
+
 2023年6月21日	今年もMetaSUBに参加しました！
-https://www.sist.ac.jp/academics/technology/tech03/saito/metasub2023.html
+
 2022年7月5日	MetaSUBに今年も参加しています！
-https://www.sist.ac.jp/academics/technology/tech03/saito/20220705.html
+
 2021年6月24日	MetaSUB2021に参画しました！
 
 2021-10
