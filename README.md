@@ -198,6 +198,22 @@ https://twitter.com/metasub
 Twitterのハッシュタグ  
 [#MetaSUB](https://x.com/hashtag/MetaSUB?src=hashtag_click&f=live)
 
+2025
+
+[#gCSD2025](https://x.com/hashtag/gCSD2025?src=hashtag_click&f=live)
+
+11:06 AM · Jun 22, 2025
+https://x.com/weadci/status/1936606749693534245
+パシフィック・ムリ on X: "今年も暑い #gcsd2025 https://t.co/CGrQgTfADT" / X
+
+7:13 PM · Jun 21, 2025
+https://x.com/hondalab_2c613/status/1936366907646689734
+Ryo Honda on X: "Today is #MetaSub Global City Sampling Day! We analyze bacterial communities and AMR on urban surface environments. 今年は学生さんだけでなく、かわいい助っ人たちも参加してくれました！#gCSD #Kanazawa https://t.co/7NK1k2dlln" / X
+
+2:58 PM · Jun 20, 2025
+https://x.com/copypasteusa/status/1935940268488093923
+Haruo Suzuki on X: "#MetaSUB 国際コンソーシアムでは、都市のマイクロバイオーム #urbanmicrobiome を調査するため、2016年より毎年6月21日（夏至） Global City Sampling Day (gCSD) にサンプリングを実施してきました。 https://t.co/DJ4qubAulH" / X
+
 2024
 
 [#MetaSUB24](https://x.com/hashtag/MetaSUB24?f=live)
