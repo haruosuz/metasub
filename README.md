@@ -171,11 +171,6 @@ https://www.keio.ac.jp/ja/about/learn-more/publications/juku/312.html
 FRONTIER	都市のマイクロバイオーム　環境情報学部准教授　鈴木治夫
 https://www.keio.ac.jp/ja/about/assets/juku/312/312-10.pdf
 
-2021/9/13
-https://www.tomamin.co.jp/article/news/main/57794/
-微生物の世界的分布調査　北大研究林の植竹准教授ら苫小牧駅でサンプリング｜ニュース｜苫小牧民報電子版
-　微生物の世界的な分布を調べる研究の一環で、北海道大学苫小牧研究林の植竹淳准教授（４３）が１０日、ＪＲ苫小牧駅構内でサンプリング（試料採取）を行った。機械で空気中の微生物を採取後、同研究林の職員や学生と４人で駅構内の券売機やベンチ、床、手す…
-
 https://gigazine.net/news/20210601-cities-unique-microbial-fingerprints/
 都市には固有の微生物パターンが存在する、指紋のように微生物から都市を特定することも可能 - GIGAZINE
 
