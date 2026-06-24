@@ -195,6 +195,10 @@ Twitterのハッシュタグ
 
 2025
 
+3:03 PM · Oct 29, 2025
+https://x.com/KGseibutsu/status/1983414367778734541
+関西学院大学生物サークル on X: "10/28(火）は、関学アカデミックコモンズプロジェクトのagriNOVAと合同で、Metasubさんが実施されている世界同時サンプリングの活動を行いました。 昨年に比べると今年は参加人数が多くなりました。サークルとしての活動が活発になるのは幸いです。 https://t.co/kFaNfV43iH" / X
+
 [#gCSD2025](https://x.com/hashtag/gCSD2025?src=hashtag_click&f=live)
 
 11:06 AM · Jun 22, 2025
