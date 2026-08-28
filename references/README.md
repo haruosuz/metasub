@@ -100,14 +100,16 @@ presents hundreds of novel city microbiome profiles. Construct urban microbiome 
   - [Cell Syst. 2015 Jul 29;1(1):6-7. Afshinekoo et al. "Modern Methods for Delineating Metagenomic Complexity."](https://www.ncbi.nlm.nih.gov/pubmed/27135684)
   - [Cell Syst. 2015 Jul 29;1(1):4-5. Ackelsberg et al. "Lack of Evidence for Plague or Anthrax on the New York City Subway."](https://www.ncbi.nlm.nih.gov/pubmed/27135683)
   - [Genome Biol. 2013;14(9):134. "Crowdfunding genomics and bioinformatics."](https://www.ncbi.nlm.nih.gov/pubmed/24079746) PathoMap: crowdfunding a citizen science microbiome
+
+
 - 関連記事
-  - 2015-07-31 [Plague or anthrax on the subway? Think again, says now-corrected study - Retraction Watch at Retraction Watch](http://retractionwatch.com/2015/07/31/plague-or-anthrax-on-the-subway-think-again-says-now-corrected-study/) Written by Ross Keith
+  - 2015-07-31 [Plague or anthrax on the subway? Think again, says now-corrected study - Retraction Watch at Retraction Watch](https://retractionwatch.com/2015/07/31/plague-or-anthrax-on-the-subway-think-again-says-now-corrected-study/) Written by Ross Keith
   - [Metagenomics: Urban microbiome : Nature Reviews Genetics : Nature Publishing Group](http://www.nature.com/nrg/journal/v16/n4/full/nrg3921.html)
   - 2015-04-12 [ニューヨークの地下鉄に1688種類の微生物DNAを確認、テロで使われる炭疽菌もいた | Medエッジ](http://archive.fo/67UAW)
   - 2015-02-17 [The long road from Data to Wisdom, and from DNA to Pathogen | microBEnet: the microbiology of the Built Environment network.](http://microbe.net/2015/02/17/the-long-road-from-data-to-wisdom-and-from-dna-to-pathogen) by Christopher Mason
   - 2015-02-11 [Metagenomics best hit analysis: caveat emptor · Loman Labs](http://nickloman.github.io/2015/02/11/metagenomics-best-hit-analysis-caveat-emptor/)
   - 2015-02-13 [ニューヨークの地下鉄にペスト菌のDNAがいるかも？という報告の喧々諤々](http://blog.goo.ne.jp/tabibito12/e/6bf479f45aec31d08d35eccb1bfbe717)
-  - 2015-02-10 [There’s No Plague on the NYC Subway. No Platypuses Either.](http://on.natgeo.com/1zdQTe0) A Blog by Ed Yong.
+  - 2015-02-10 [There’s No Plague on the NYC Subway. No Platypuses Either.](https://www.nationalgeographic.com/science/article/theres-no-plague-on-the-nyc-subway-no-platypuses-either) A Blog by Ed Yong.
   - 2015-02-07 [ＮＹ地下鉄にペスト菌や炭疽菌＝ごく微量、健康に脅威なし－米調査](http://www.jiji.com/jc/zc?k=201502/2015020700220)
   - 2015-02-06 [ビッグデータとバクテリア―NY地下鉄のDNAマップ作成 - WSJ](https://jp.wsj.com/articles/SB12052756172436844285404580444870276852224)
   - 2015-02-05 [Metagenomic Study Offers Glimpse of NYC Subway System Microbes](https://www.genomeweb.com/genetic-research/metagenomic-study-offers-glimpse-nyc-subway-system-microbes)
@@ -115,6 +117,10 @@ presents hundreds of novel city microbiome profiles. Construct urban microbiome 
 PathoMap (http://www.pathomap.org/) は，コーネル医科大学（Weill Cornell Medical College）のChristopher Mason博士とEbrahim Afshinnekoo氏によって進められている市民参加型のプロジェクトである（写真）．このアイデアは2010年，プロジェクト主任研究者のMason博士が保育園に娘を迎えに行ったときにはじまった．
 
 ![](https://www.yodosha.co.jp/jikkenigaku/nhpd/9784758101363/images/9784758101363_nhpd_pho.png)
+
+更新日: 2015年02月19日
+https://matome.naver.jp/odai/2142430578373057201
+米ニューヨーク　地下鉄に人と一致しないＤＮＡが大量存在 - NAVER まとめ
 
 - 動画・音声
   - Radio Podcast [The Microbe Map Creeping Everybody Out by FiveThirtyEight](https://soundcloud.com/fivethirtyeight/the-microbe-map-creeping-everybody-out)
@@ -152,11 +158,6 @@ https://www.ncbi.nlm.nih.gov/pubmed/28337071
 J Biomol Tech. 2017 Apr;28(1):8-18. doi: 10.7171/jbt.17-2801-006. Epub 2017 Mar 17.
 International Standards for Genomes, Transcriptomes, and Metagenomes.
 Mason CE1, Afshinnekoo E2, Tighe S3, Wu S4, Levy S5.
-
-https://www.ncbi.nlm.nih.gov/pubmed/25479039
-Int J Environ Res Public Health. 2014 Dec 3;11(12):12544-61. doi: 10.3390/ijerph111212544.
-Diversity of bacterial communities of fitness center surfaces in a U.S. metropolitan area.
-Mukherjee N1, Dowd SE2, Wise A3, Kedia S4, Vohra V5, Banerjee P6.
 
 
 ----------
@@ -276,6 +277,7 @@ http://www.tel.co.jp/museum/magazine/015/interview02/03.html
 - [Innovative City Forum - ICF | Facebook](https://www.facebook.com/ICF.TOKYO/)
 
 ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQip4H3i04zGIO9Mdqq95avDy83FkwIYNCqcr15ivdE7sOiV44GFQ)
+
 
 ### [ICF2016](http://icf.academyhills.com/2016/)
 - 2016-10-20 [プログラム](http://icf.academyhills.com/program/#session_special)
