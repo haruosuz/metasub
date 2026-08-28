@@ -91,6 +91,11 @@ http://metasub.org/2024-conference/
 ## Publication
 出版物
 
+https://pubmed.ncbi.nlm.nih.gov/42463489/
+Nat Commun
+. 2026 Jul 16;17(1):6397. doi: 10.1038/s41467-026-73605-z.
+Diversity and distinctive characteristics of the global RNA virome in urban and peri-urban environments
+
 https://pubmed.ncbi.nlm.nih.gov/36299999/
 iScience
 . 2022 Oct 20;25(11):104993. doi: 10.1016/j.isci.2022.104993. eCollection 2022 Nov 18.
@@ -643,8 +648,3 @@ https://twitter.com/Yodosha_EM/status/567945623116210176
 羊土社 実験医学 on Twitter: "【 #実験医学NHPD 】都市微生物叢研究PathoMap（鈴木治夫先生）→ https://t.co/PQUy4SSB2E"
 
 ----------
-
-[metasub | microBEnet: the microbiology of the Built Environment network.](http://microbe.net/tag/metasub/)
-
-----------
-
